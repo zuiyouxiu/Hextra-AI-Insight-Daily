@@ -1,0 +1,36 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Select the specific UL for the desktop sidebar
+        // The class 'max-md:hx-hidden' contains a colon, which needs to be escaped with a backslash in CSS selectors.
+        const desktopSidebarUl = document.querySelector('ul.hx-flex.hx-flex-col.hx-gap-1.max-md\\:hx-hidden');
+
+        if (desktopSidebarUl) {
+            // Select all <a> tags that are direct children of <li> tags,
+            // where those <li> tags are direct children of the desktopSidebarUl.
+            // This targets only the anchors of the first-level list items.
+            const firstLevelAnchors = desktopSidebarUl.querySelectorAll(':scope > li > a');
+
+            firstLevelAnchors.forEach(anchor => {
+                anchor.addEventListener('click', function(event) {
+                    // Prevent the default navigation action of the link
+                    event.preventDefault();
+                    console.log('Default navigation prevented for:', anchor.href);
+                    // You can add other actions here if needed,
+                    // for example, toggling a sub-menu, which might already be
+                    // handled by your existing CSS/JS for the 'open' class.
+                    // For demonstration, let's toggle a class on the parent LI
+                    // This part is optional and depends on how your menu expansion works
+                    const parentLi = anchor.closest('li');
+                    if (parentLi) {
+                        parentLi.classList.toggle('open'); // Example: toggle 'open' if it's not handled elsewhere
+                        console.log(parentLi.classList.contains('open') ? 'Opened' : 'Closed', 'submenu for:', anchor.textContent.trim());
+                    }
+                });
+            });
+
+            console.log(`Added click prevention to ${firstLevelAnchors.length} first-level <a> tags in the specified desktop UL.`);
+        } else {
+            console.warn('The specified desktop UL (ul.hx-flex.hx-flex-col.hx-gap-1.max-md:hx-hidden) was not found.');
+        }
+    });
+</script>
