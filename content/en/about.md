@@ -4,33 +4,30 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 👋 He Xi 2077 / justlovemaki
+#### 👋 Hexi 2077 / justlovemaki
 
-> Ten years of coding, fingers cold,
-> Frustrations building, stories untold.
-> But now, the rumble of AI's might,
-> I'll take to the cloud and join the fight.
+> Spent a decade coding, and my fingers are feeling the chill. All that pent-up frustration? Still bottled up. But then, I heard the buzz about AI, and it's like a storm's brewing. Now I'm ready to jump in and give it everything I've got.
 
 #### 🚀 My Code Philosophy
 
-> Tech serving the people!
+> Tech should serve the people.
 
-#### ✨ Featured Projects
+#### ✨ My Top Picks
 
-*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   AI image generation script based on Cloudflare Worker.
-*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   A content aggregation and generation platform powered by Cloudflare Workers. It curates the latest happenings in the AI world for you daily, including industry news, trending open-source projects, cutting-edge academic papers, and tech influencer social media takes.
-*   Check out my [GitHub](https://github.com/justlovemaki) for more project details.
+*   **[Open Source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   An AI image generation script built on Cloudflare Workers.
+*   **[Open Source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   A content aggregation and generation platform powered by Cloudflare Workers. It curates the latest happenings in the AI world for you daily, covering industry news, popular open-source projects, cutting-edge academic papers, and social media buzz from tech influencers.
+*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
 
-#### 🌱 Currently Exploring
+#### 🌱 What I'm Exploring Now
 
-Super into LLM applications and website SEO, and actively diving into learning and putting them into practice.
+Super interested in LLM applications and website SEO right now, and I'm actively diving into learning and getting my hands dirty with them.
 
-#### 📫 Hit Me Up
+#### 📫 Contact Me
 
 *   **Email:** [274166795@qq.com](mailto:274166795@qq.com)
 *   **GitHub:** [https://github.com/justlovemaki](https://github.com/justlovemaki)
 *   {{< cards >}}
-    {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Personal WeChat" subtitle="Hit me up for a chat!" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
+    {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Personal WeChat" subtitle="Feel free to add me for a chat!" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
     {{< /cards >}}
