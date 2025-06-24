@@ -5,7 +5,7 @@ name: Translate New and Specific FR Content
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 7 * * *' # 每天 UTC 时间 0 点运行 (北京时间15点)
+    - cron: '15 22 * * *' # 每天 UTC 时间 0 点运行 (北京时间6点15)
 
 permissions:
   contents: write
@@ -138,7 +138,7 @@ jobs:
           # --- Configure Gemini API ---
           try:
               genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-              model = genai.GenerativeModel('gemini-1.5-flash-latest')
+              model = genai.GenerativeModel('gemini-2.5-flash')
           except Exception as e:
               print(f"Error configuring Gemini API: {e}")
               sys.exit(1)
@@ -146,10 +146,12 @@ jobs:
           # --- Translation function ---
           def translate_text(text_to_translate):
               if not text_to_translate.strip(): return ""
-              prompt = f"""Task: Translate the following Chinese text to French.
+              prompt = f"""Task: Translate the following text into French.
 
               Instructions:
-              1.  Preserve all original Markdown formatting meticulously. This includes, but is not limited to:
+              1.  **Translation Style**: The translation must be colloquial, informal, and sound natural to a native speaker. Feel free to use modern slang (argot) where appropriate.
+              2.  **Completeness**: Translate the entire text. Do not omit any part of the original content.Including titles, code blocks, bold parts.
+              3.  **Formatting**: Preserve all original Markdown formatting meticulously. This includes, but is not limited to:
                   - Headings (e.g., #, ##, ###)
                   - Lists (ordered and unordered, e.g., 1., -, *)
                   - Code blocks (```lang ... ``` or indented)
@@ -159,18 +161,19 @@ jobs:
                   - Links ([text](url))
                   - Images (![alt](url))
                   - Blockquotes (> quote)
-                  - Horizontal rules (---, ***) - unless specifically instructed to remove them post-translation.
+                  - Horizontal rules (---, ***)
                   - Tables
                   - HTML tags if present in the original Markdown.
-              2.  Ensure line breaks and paragraph structure are maintained as in the original.
-              3.  Translate only the textual content. Do not translate code within code blocks or URLs.
-              4.  Return *only* the translated French text. Do not include any introductory phrases, explanations, or conversational remarks.
+              4.  **Structure**: Ensure line breaks and paragraph structure are maintained as in the original.
+              5.  **Content**:  Do not translate URLs, or file paths.
+              6.  **Output**: Return *only* the translated French text. Do not include any introductory phrases, explanations, or conversational remarks.
 
-              Chinese Text to Translate:
+              Text to Translate:
               ---
               {text_to_translate}
               ---
-              Translated French Text:"""
+              Translated French Text:
+              """
               try:
                   response = model.generate_content(prompt)
                   translated_content = ""
@@ -388,10 +391,15 @@ jobs:
         shell: python
 
       - name: Commit and push changes
-        if: steps.find_changed_files.outputs.continue == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore(i18n): Auto-translate EN content with FM updates"
-          file_pattern: "content/fr/"
-          commit_user_name: "GitHub Actions Bot"
-          commit_user_email: "actions@github.com"
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add content/fr/
+
+          if git diff --staged --quiet; then
+            echo "没有文件变更，无需提交。"
+          else
+            echo "检测到文件变更，正在提交..."
+            git commit -m "chore(i18n): Auto-translate EN content with FM updates"
+            git push
+          fi 

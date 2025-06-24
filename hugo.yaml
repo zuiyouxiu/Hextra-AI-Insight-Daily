@@ -74,8 +74,8 @@ params:
       width: 200
 
   footer:
-    displayCopyright: true
-    displayPoweredBy: false
+    displayCopyright: false
+    displayPoweredBy: true
 
   # blog:
   #   list:

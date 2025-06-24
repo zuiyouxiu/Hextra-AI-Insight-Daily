@@ -5,7 +5,7 @@ name: Translate New and Specific JA Content
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 23 * * *' # 每天 UTC 时间 0 点运行 (北京时间早上7点)
+    - cron: '20 22 * * *' # 每天 UTC 时间 0 点运行 (北京时间早上6点20)
 
 permissions:
   contents: write
@@ -139,7 +139,7 @@ jobs:
           # --- Configure Gemini API ---
           try:
               genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-              model = genai.GenerativeModel('gemini-1.5-flash-latest')
+              model = genai.GenerativeModel('gemini-2.5-flash')
           except Exception as e:
               print(f"Error configuring Gemini API: {e}")
               sys.exit(1)
@@ -147,31 +147,35 @@ jobs:
           # --- Translation function ---
           def translate_text(text_to_translate):
               if not text_to_translate.strip(): return ""
-              prompt = f"""Task: Translate the following Chinese text to Japanese.
+              prompt = f"""Task: Translate the following text to Japanese.
 
-              Instructions:
-              1.  Preserve all original Markdown formatting meticulously. This includes, but is not limited to:
-                  - Headings (e.g., #, ##, ###)
-                  - Lists (ordered and unordered, e.g., 1., -, *)
-                  - Code blocks (```lang ... ``` or indented)
-                  - Inline code (`code`)
-                  - Bold text (**text** or __text__)
-                  - Italic text (*text* or _text_)
-                  - Links ([text](url))
-                  - Images (![alt](url))
-                  - Blockquotes (> quote)
-                  - Horizontal rules (---, ***) - unless specifically instructed to remove them post-translation.
-                  - Tables
-                  - HTML tags if present in the original Markdown.
-              2.  Ensure line breaks and paragraph structure are maintained as in the original.
-              3.  Translate only the textual content. Do not translate code within code blocks or URLs.
-              4.  Return *only* the translated Japanese text. Do not include any introductory phrases, explanations, or conversational remarks.
+                Instructions:
+                1.  **Translation Style**: The primary goal is to produce a natural and fluent Japanese translation.
+                    -   **Tone**: Use a colloquial and popular tone (口語的で大衆的なスタイル).
+                    -   **Fluency**: The language must be smooth and natural (通順自然).
+                    -   **Slang**: Feel free to use appropriate and common slang to make the translation sound more authentic.
+                2.  **Completeness**: Translate the *entire* text. Do not omit or summarize any part of the original content.Including titles, code blocks, bold parts
+                3.  **Markdown Preservation**: Preserve all original Markdown formatting meticulously. This includes, but is not limited to:
+                    - Headings (e.g., #, ##, ###)
+                    - Lists (ordered and unordered, e.g., 1., -, *)
+                    - Code blocks (```lang ... ```)
+                    - Inline code (`code`)
+                    - Bold text (**text**) and Italic text (*text*)
+                    - Links ([text](url))
+                    - Blockquotes (> quote)
+                    - Tables
+                4.  **Content Integrity**:
+                    - Translate only the textual content.
+                    - Do not translate URLs, or file paths.
+                    - Maintain the original line breaks and paragraph structure.
+                5.  **Output Format**: Return *only* the translated Japanese text. Do not include any introductory phrases, explanations, or conversational remarks.
 
-              Chinese Text to Translate:
-              ---
-              {text_to_translate}
-              ---
-              Translated Japanese Text:"""
+                Text to Translate:
+                ---
+                {text_to_translate}
+                ---
+                Translated Japanese Text:
+              """
               try:
                   response = model.generate_content(prompt)
                   translated_content = ""
@@ -389,10 +393,15 @@ jobs:
         shell: python
 
       - name: Commit and push changes
-        if: steps.find_changed_files.outputs.continue == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore(i18n): Auto-translate EN content with FM updates"
-          file_pattern: "content/ja/"
-          commit_user_name: "GitHub Actions Bot"
-          commit_user_email: "actions@github.com"
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add content/ja/
+
+          if git diff --staged --quiet; then
+            echo "没有文件变更，无需提交。"
+          else
+            echo "检测到文件变更，正在提交..."
+            git commit -m "chore(i18n): Auto-translate EN content with FM updates"
+            git push
+          fi 
