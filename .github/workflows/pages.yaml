@@ -2,11 +2,6 @@
 name: Deploy Hugo site to Pages
 
 on:
-  #自动编译：当Auto-Clean运行完成后
-  workflow_run:
-    workflows: ["Update Content from Daily Notes"]
-    types:
-      - completed
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
