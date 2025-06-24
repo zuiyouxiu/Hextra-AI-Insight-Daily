@@ -1,11 +1,17 @@
 <script>
-    
+
+// 这是一个自定义脚本，用于处理特定的页面逻辑和功能
+var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,b){a.raw=b;return a};
+(function(){var a=window.location.href,b=window.location.pathname;"justlovemaki.github.io"===window.location.hostname&&b.startsWith("/Hextra-AI-Insight-Daily/")&&(b="https://ai.hubtoday.app/"+b.substring(40)+window.location.search+window.location.hash,console.log("Original URL: "+a),console.log("Redirecting to: "+b),window.location.replace(b))})();
+
+// Clarity Analytics Script
 (function(c,l,a,r,i,t,y){
     c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
     t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
     y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
 })(window, document, "clarity", "script", "s0drt9kmxf");    
 
+// 这是一个自定义脚本，用于处理侧边栏菜单的点击阻止逻辑
 document.addEventListener('DOMContentLoaded', function() {
 
     /**
@@ -67,14 +73,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 });
 
-/**
- * @name localizeTimeTags
- * @description 检测并转换页面上所有<time>标签的时间到用户本地时区。
- *              它会读取<time>标签的 `datetime` 属性（应为UTC时间），
- *              并将其内容更新为用户本地时区的时间字符串。
- */
-function localizeTimeTags() {
-    // 1. 获取所有 <time> 元素
+// 在页面加载完成后执行时间标签本地化
+document.addEventListener('DOMContentLoaded', function() {
+     // 1. 获取所有 <time> 元素
     const timeElements = document.querySelectorAll('time');
 
     // 2. 遍历每个元素
@@ -95,9 +96,6 @@ function localizeTimeTags() {
         // toLocaleString() 会自动处理时区偏移
         timeEl.textContent = dateObj.toLocaleString();
     });
-}
-
-// 确保在HTML文档加载完毕后运行此脚本
-document.addEventListener('DOMContentLoaded', localizeTimeTags);
+});
 
 </script>
