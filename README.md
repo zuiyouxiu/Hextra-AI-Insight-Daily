@@ -1,4 +1,4 @@
-# Hextra AI Insight Daily 每日 AI 新闻站（AI洞察日报前端） 🤖
+# Hextra AI Insight Daily AI洞察日报前端 🤖
 
 一个基于 [Hextra Starter Template](https://github.com/imfing/hextra-starter-template) 和 [CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily) 的全自动化 AI 新闻发布项目。
 
@@ -19,9 +19,10 @@
 *   ☁️ **零成本部署**：完美支持 GitHub Pages、Vercel、Netlify 等免费静态托管平台。
 *   🎨 **精美主题**：基于优雅、现代的 Hextra 主题，提供卓越的阅读体验。更有暗嘿模式，看新闻也能有点小刺激。
 *   🚀 **快速启动**：提供一键部署模板，几分钟内即可拥有自己的新闻站。
-
-[![默认主题](docs/images/light.png)]
-[![暗黑主题](docs/images/dark.png)]
+</br>
+![默认主题](docs/images/light.png)
+</br>
+![暗黑主题](docs/images/dark.png)
 
 ### 🚀 快速开始与部署
 
