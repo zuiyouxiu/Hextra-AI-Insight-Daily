@@ -182,3 +182,15 @@ body:is(html[class~="dark"] *) {
   border-bottom: 2px solid #ff9900;
   color: #ff9900;
 }
+
+strong:is(html[class~="dark"] *) {
+    background: #f90;
+    color: #000000;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+strong:focus:is(html[class~="dark"] *) {
+    background: #ffffff;
+    color: #000000;
+}
