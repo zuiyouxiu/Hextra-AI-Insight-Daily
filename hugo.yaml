@@ -42,23 +42,18 @@ menu:
     - identifier: documentation
       name: AI日报
       pageRef: /
-      weight: 2
+      weight: 1
     - identifier: contact      
       name: 关于我 ↗
       pageRef: /about
-      weight: 3
+      weight: 2
     - identifier: github   
       name: 同性交友
-      weight: 4
+      weight: 3
       url: "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily"
       params:
         icon: github
-    - identifier: x     
-      name: 推特
-      weight: 5
-      url: "https://x.com/justlikemaki"
-      params:
-        icon: x-twitter
+
 
 params:
   description: AI 洞察日报 是一个基于 Cloudflare Workers 驱动的内容聚合与生成平台。它每日为您精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论，并通过 Google Gemini 模型进行智能处理与摘要生成，最终自动发布到 GitHub Pages 生成 AI 日报
