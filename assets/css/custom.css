@@ -20,6 +20,10 @@
   word-break: break-word; /* 兼容旧浏览器 */
 }
 
+.content blockquote p a {
+    display: none;
+}
+
 /* 
  * --- 1. 定义核心色调 ---
  * Pornhub 标志性橙色: #ff9900

@@ -1,9 +1,9 @@
 <script>
-
+//自用请修改源域名和跳转域名
 // 这是一个自定义脚本，用于处理特定的页面逻辑和功能
 var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,b){a.raw=b;return a};
 (function(){var a=window.location.href,b=window.location.pathname;"justlovemaki.github.io"===window.location.hostname&&b.startsWith("/Hextra-AI-Insight-Daily/")&&(b="https://ai.hubtoday.app/"+b.substring(40)+window.location.search+window.location.hash,console.log("Original URL: "+a),console.log("Redirecting to: "+b),window.location.replace(b))})();
-
+//自用请修改Clarity代码s0drt9kmxf为你自己的
 // Clarity Analytics Script
 (function(c,l,a,r,i,t,y){
     c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -99,3 +99,133 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 </script>
+
+
+{{ "<!-- ENTERING partial seo-schema.html -->" | safeHTML }}
+
+{{/* --- Publisher Block --- */}}
+{{- $publisher := "" -}}
+{{- with .Site.Params.publisher -}}
+  {{- $p := . -}}
+  {{- $type := .type | default "Organization" -}}
+  {{- $name := .name | default $.Site.Title -}}
+
+  {{- $publisherData := dict "@type" $type "name" $name -}}
+  {{- if eq $type "Organization" -}}
+    {{- with .logo -}}
+      {{- $logoData := dict "@type" "ImageObject" "url" ( . | absURL ) -}}
+      {{- $publisherData = merge $publisherData (dict "logo" $logoData) -}}
+    {{- end -}}
+  {{- else if eq $type "Person" -}}
+    {{- with .url -}}
+      {{- $publisherData = merge $publisherData (dict "url" ( . | absURL )) -}}
+    {{- end -}}
+    {{- with .sameAs -}}
+      {{- $publisherData = merge $publisherData (dict "sameAs" .) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $publisher = $publisherData -}}
+{{- end -}}
+
+
+{{/* --- Author Block --- */}}
+{{- $author := "" -}}
+{{/* 1. Check for single author in page Front Matter */}}
+{{- $author_id := .Params.author -}}
+{{- if and $author_id (index .Site.Data.authors $author_id) -}}
+  {{- $authorData := index .Site.Data.authors $author_id -}}
+  {{- $author = dict "@type" "Person" "name" $authorData.name -}}
+  {{- with $authorData.website -}}
+    {{- $author = merge $author (dict "url" ( . | absURL )) -}}
+  {{- end -}}
+{{/* 2. Fallback to global author in hugo.yaml `params` */}}
+{{- else if .Site.Params.author -}}
+  {{- $author = dict "@type" "Person" "name" .Site.Params.author.name -}}
+  {{- with .Site.Params.author.website -}}
+    {{- $author = merge $author (dict "url" ( . | absURL )) -}}
+  {{- end -}}
+{{/* 3. Fallback to global author in hugo.yaml `author` */}}
+{{- else if .Site.Author.name -}}
+  {{- $author = dict "@type" "Person" "name" .Site.Author.name -}}
+  {{- with .Site.Author.website -}}
+    {{- $author = merge $author (dict "url" ( . | absURL )) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if .IsHome -}}
+  {{/* --- WebSite Schema --- */}}
+  {{- $schema := dict "@context" "https://schema.org" "@type" "WebSite" -}}
+  {{- $schema = merge $schema (dict "url" .Site.BaseURL "name" .Site.Title) -}}
+  {{- with .Site.Params.description -}}
+    {{- $schema = merge $schema (dict "description" .) -}}
+  {{- end -}}
+  {{- with $publisher -}}
+    {{- $schema = merge $schema (dict "publisher" .) -}}
+  {{- end -}}
+<script type="application/ld+json">
+{{ $schema }}
+</script>
+
+{{- else if .IsPage -}}
+  {{/* --- Article/TechArticle Schema --- */}}
+  {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+  {{- $schema := dict "@context" "https://schema.org" "@type" "TechArticle" -}}
+  {{- $schema = merge $schema (dict
+      "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+      "headline" .Title
+      "url" .Permalink
+      "wordCount" .WordCount
+    ) -}}
+
+  {{- $description := .Description | default .Summary -}}
+  {{- with $description -}}
+    {{- $schema = merge $schema (dict "description" .) -}}
+  {{- end -}}
+
+  {{- $image := "" -}}
+  {{- if .Params.image.url -}}
+    {{- $image = .Params.image -}}
+  {{- else if .Site.Params.image.url -}}
+    {{- $image = .Site.Params.image -}}
+  {{- end -}}
+  {{- with $image -}}
+    {{- if ge .width 696 -}}
+      {{- $imageData := dict "@type" "ImageObject" "url" ( .url | absURL ) "width" .width "height" .height -}}
+      {{- $schema = merge $schema (dict "image" $imageData) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- with .Type -}}
+    {{- $schema = merge $schema (dict "genre" .) -}}
+  {{- end -}}
+  {{- with .Params.tags -}}
+    {{- $schema = merge $schema (dict "keywords" (delimit . ", ")) -}}
+  {{- end -}}
+
+  {{- $published := .PublishDate | default .Date -}}
+  {{- if not $published.IsZero -}}
+    {{- $schema = merge $schema (dict "datePublished" ($published.Format $iso8601)) -}}
+  {{- end -}}
+  {{- with .Lastmod -}}
+    {{- if not .IsZero -}}
+      {{- $schema = merge $schema (dict "dateModified" (.Format $iso8601)) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- with .Site.Copyright -}}
+    {{- $schema = merge $schema (dict "license" .) -}}
+  {{- end -}}
+
+  {{- with $publisher -}}
+    {{- $schema = merge $schema (dict "publisher" .) -}}
+  {{- end -}}
+  {{- with $author -}}
+    {{- $schema = merge $schema (dict "author" .) -}}
+  {{- end -}}
+
+<script type="application/ld+json">
+{{ $schema }}
+</script>
+
+{{- end }}
+{{ "<!-- LEAVING partial seo-schema.html -->" | safeHTML }}
