@@ -2,7 +2,7 @@
 title: Today's Daily
 breadcrumbs: false
 next: /2025-06/2025-06-26
-description: "出门问问发布AI硬件TicNote，ElevenLabs推语音生成V3。 AI安全公司XBOW漏洞检测超人，大模型高考成绩达985水平。 微软与OpenAI谈判陷僵局。AI应用将趋向轻量化，强调上下文工程。"
+description: "每日精选AI行业要闻、开源热点、学术前沿及大V观点。AI资讯；AI日报；AI知识库；AI教程；AI资讯日报；AI工具；AI Daily News 。出门问问发布AI硬件TicNote，ElevenLabs推语音生成V3。 AI安全公司XBOW漏洞检测超人，大模型高考成绩达985水平。 微软与OpenAI"
 cascade:
   type: docs
 ---
