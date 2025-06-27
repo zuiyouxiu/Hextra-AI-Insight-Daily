@@ -5,7 +5,7 @@ name: Translate New and Specific FR Content
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 22 * * *' # 每天 UTC 时间 0 点运行 (北京时间6点15)
+    - cron: '20 22 * * *' # 每天 UTC 时间 0 点运行 (北京时间6点15)
 
 permissions:
   contents: write

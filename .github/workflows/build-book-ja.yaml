@@ -5,7 +5,7 @@ name: Translate New and Specific JA Content
 on:
   workflow_dispatch:
   schedule:
-    - cron: '20 22 * * *' # 每天 UTC 时间 0 点运行 (北京时间早上6点20)
+    - cron: '30 22 * * *' # 每天 UTC 时间 0 点运行 (北京时间早上6点20)
 
 permissions:
   contents: write
