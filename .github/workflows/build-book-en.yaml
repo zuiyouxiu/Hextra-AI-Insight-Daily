@@ -304,7 +304,8 @@ jobs:
                           if date_file_match:
                               year, month, day = date_file_match.groups() # Capture year, month, and day
                               print(f"  - Applying 'MM-DD-Daily' title rule for date file: {base_fn}")
-                              parsed_fm['title'] = f"{month}-{day}-Daily" # Use month and day
+                              parsed_fm['title'] = f"{month}-{day}-Daily AI Daily" # Use month and day
+                              parsed_fm['linkTitle'] = f"{month}-{day}-Daily"
                           
                           # NEW: Update 'next' field for _index.md
                           if base_fn == "_index.md":

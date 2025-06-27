@@ -1,6 +1,32 @@
-/* 
-  给这个hugo模板代码生成css，要全局水平居中，不要设置最大宽度限制
-*/
+h1:first-of-type {
+  display: none;
+}
+
+.content :where(img):not(:where([class~=not-prose],[class~=not-prose] *)) {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: .375rem;
+  max-width: 100%;
+  min-width: 100%;
+}
+
+video {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: .375rem;
+  max-width: 100%;
+  min-width: 100%;
+}
+
+br {
+    display: block;
+    content: "";
+    margin-top: 20px;
+}
 
 footer .hx-max-w-screen-xl{
   max-width: 100%;

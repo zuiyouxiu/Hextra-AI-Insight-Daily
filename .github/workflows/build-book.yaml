@@ -178,8 +178,8 @@ jobs:
 
 
               (
-                printf -- "---\ntitle: %s-%s-日刊\nweight: %d\nbreadcrumbs: false\ncomments: true\ndescription: \"%s\"\n---\n\n" \
-                  "$MONTH" "$DAY" "$weight" "$local_description"
+                printf -- "---\nlinkTitle: %s-%s-日刊\ntitle: %s-%s-日刊-AI日报\nweight: %d\nbreadcrumbs: false\ncomments: true\ndescription: \"%s\"\n---\n\n" \
+                  "$MONTH" "$DAY" "$MONTH" "$DAY" "$weight" "$local_description"
                 cat "$source_file"
               ) > "$TARGET_FILE"
               echo "已归档到 $TARGET_FILE (或已更新)"
@@ -239,7 +239,7 @@ jobs:
           echo "--- 步骤 4: 更新主索引页面 (content/cn/_index.md) ---"
           TARGET_INDEX="$TARGET_CONTENT_DIR/_index.md"
           
-          FRONTMATTER="---\ntitle: Today's Daily\nbreadcrumbs: false\n"
+          FRONTMATTER="---\nlinkTitle: Today's Daily\ntitle: Today's Daily-AI日报\nbreadcrumbs: false\n"
           # The 'next' link should point to the second latest note, which is now an archived page.
           if [ -n "$SECOND_LATEST_NOTE" ] && [ "$LATEST_NOTE" != "$SECOND_LATEST_NOTE" ]; then # Ensure there IS a second latest note
             FILENAME_SECOND_LATEST=$(basename "$SECOND_LATEST_NOTE" .md)
