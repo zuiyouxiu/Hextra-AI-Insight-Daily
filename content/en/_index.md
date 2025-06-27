@@ -1,74 +1,104 @@
 ---
-title: Today's Daily
+linkTitle: Today's Daily
+title: Today's Daily-AI日报
 breadcrumbs: false
-next: /en/2025-06/2025-06-26
-description: Mobvoi's founder and CEO, Li Zhifei, just unveiled their brand-new AI
-  hardware product, the TicNote 💡✨, in Beijing. This gadget is only 3mm thin and magnetically
-  attaches to your phone. It's powered by Shadow AI tech, based on large language
-  models like DeepSeek-R1, bringing super useful AI trans...
+next: /en/2025-06/2025-06-27
+description: Daily selection of AI industry news, open source hot spots, academic
+  frontiers and big V opinions. AI information; AI daily; AI knowledge base; AI tutorials;
+  AI information daily; AI tools;OpenAI just announced it's acquiring Crossing Minds,
+  a company specializing in AI recommendation systems for e-commerce, and their team
+  has joined OpenAI. This move aims to supercharge OpenAI's capabilities in key areas
+  like personalized recommendations, retrieval-augmented generation (RAG), and ...
 cascade:
   type: docs
 ---
-# AI Insights Daily 2025/6/27
+## AI Insights Daily 2025/6/28
 
-> `AI Daily` | `Updated 8 AM Daily` | `Aggregating Data Across the Web` | `Cutting-Edge Science Exploration` | `Industry Voices Uncensored` | `Open Source Innovation Powerhouse` | `AI & the Future of Humanity` | [Visit Web Version ↗️](https://ai.hubtoday.app/)
+> `AI Daily` | `Daily 8 AM Update` | `Aggregated Data from Across the Web` | `Exploring Cutting-Edge Science` | `Industry Insights & Opinions` | `Open-Source Innovation` | `AI & Our Future` | [Check out the web version↗️](https://ai.hubtoday.app/)
 
-#### **AI News Bites**
+### **AI Content Summary**
 
 ```
-Mobvoi drops AI hardware TicNote, ElevenLabs rolls out Voice Design v3.
-AI security firm XBOW crushes vulnerability detection, large models ace Gaokao at 985-level.
-Microsoft and OpenAI talks hit a wall. AI apps are set to get leaner, with a focus on context engineering.
+Lots of AI product updates are buzzing around: OpenAI snapped up Crossing Minds to boost personalized recommendations and AGI applications, while Hengbot unveiled its smart robot dog.
+Google, meanwhile, dropped its Gemma 3n model and the Doppl virtual try-on app. Suno bought WavTool to amp up its music editing features, especially with copyright lawsuits looming.
+On the research front, AI studies are shedding light on a "grokking" phenomenon in large model pre-training. Plus, tons of insights are being shared on building AI agents and optimizing code review assistants.
 ```
 
-#### **AI Product & Feature Drops**
-1.  Mobvoi's founder and CEO, Li Zhifei, just unveiled their brand-new **AI hardware product**, the **TicNote** 💡✨, in Beijing. This gadget is only 3mm thin and magnetically attaches to your phone. It's powered by **Shadow AI** tech, based on large language models like **DeepSeek-R1**, bringing super useful AI **transcription** and **summarization** features to the table. Li Zhifei also spilled the beans that the company plans to steer clear of direct competition with tech giants. Instead, they'll be rolling out more smart hardware equipped with **Shadow AI** to find their unique market niche, emphasizing that combining **hardware and software** is the way to go for the company, for real!
-    <br/> ![出门问问TicNote](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202304171730169988_2.jpg) <br/>
-2.  **ElevenLabs** 🎙️🎶 just dropped their next-gen voice generation magic, **Voice Design v3** 🚀. This tool is super impressive! Users just plug in text prompts and can whip up **high-quality**, super expressive **custom voices**. Plus, it supports over 70 languages and hundreds of local accents – how cool is that?! You get super fine-tuned control over the voice's personality and rhythm. It's live for all users now, truly a treasure trove for creative and commercial uses! Go check it out online: ['ElevenLabs Voice Design'](https://elevenlabs.io/voice-design).
-    <br/> ![Voice Design v3界面](https://assets-v2.circle.so/vijiutr3y6vtx0je0jj3ck76slvc) <br/>
-    <br/> ![Voice Design v3功能](https://assets-v2.circle.so/ju51ik2e8hzybvd29eehyf5n1rdj) <br/>
-    <br/> ![Voice Design v3支持语言](https://assets-v2.circle.so/pv2uwy79y1zs7okoh09dymer4vpw) <br/>
+### **AI Product & Feature Updates**
 
-#### **Cutting-Edge AI Research**
-1.  **MMSearch-R1** 🔬🔍 is a groundbreaking **end-to-end reinforcement learning framework** that lets **Large Multimodal Models (LMMs)** 🧠 do multi-round searches in real internet environments, all on demand. It cleverly brings together image and text search tools to nail efficient problem-solving! This model seriously shines in **knowledge-intensive** and **information-seeking VQA tasks**. Not only does it outperform **Retrieval-Augmented Generation (RAG)** baseline models of the same size, but it can even match the performance of larger RAG models while cutting search calls by over 30%. Pretty wild, right?! ✨ ['Paper Link'](https://arxiv.org/abs/2506.20670)
+1.  **OpenAI** just announced it's acquiring **Crossing Minds**, a company specializing in AI recommendation systems for e-commerce, and their team has joined OpenAI. This move aims to supercharge OpenAI's capabilities in key areas like **personalized recommendations**, **retrieval-augmented generation (RAG)**, and **real-time user modeling**, speeding up the rollout of **Artificial General Intelligence (AGI)** in real-world applications. This strategic acquisition will also help OpenAI beef up its personalized modeling and e-commerce recommendation systems, expand **ChatGPT**'s commercial use cases, and advance post-training user fine-tuning and behavior understanding systems. 🚀✨ ['More details'](https://www.crossingminds.com/)
+    <br/> ![OpenAI收购Crossing Minds](https://assets-v2.circle.so/k2bihhhpptnld7s9yjhy5rcklimh) <br/>
 
-#### **AI Industry Outlook & Social Impact**
-1.  **AI security firm** **XBOW** 🛡️💥, armed with its self-developed AI tool, "**XBOW**," has officially made history! It's the first time an AI has outranked human researchers, hitting the #1 spot on the U.S. leaderboard of the globally renowned **vulnerability bounty platform**, **HackerOne**! This is a landmark breakthrough for AI in **vulnerability detection** 👏. This **fully automated penetration testing system** has already submitted nearly 1,060 vulnerabilities on HackerOne and just snagged a $75 million Series B funding round 💰. This totally hints that AI is about to completely reshape the **cybersecurity** landscape, speeding up how we find and fix bugs.
-    <br/> ![XBOW漏洞检测界面](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0626/6388654490605766348022671.png) <br/>
-    <br/> ![XBOW排名](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0626/6388654491737208217775020.png) <br/>
-2.  So, ByteDance's Seed team recently put five major **large models**, including **Doubao Seed 1.6-Thinking** and **Gemini 2.5 Pro**, to the test 🎓✨. They absolutely crushed it in the 2025 **Shandong Gaokao** (national college entrance exam) full-subject, closed-book assessment. Doubao snagged first place in liberal arts (683 points), while Gemini took the crown for science (655 points). Overall, their scores are good enough to aim for top-tier universities like Tsinghua and Peking, and at least guarantee a spot at a 985-level university! In just one year, these large models boosted their Gaokao scores by over a hundred points, showing off their powerful **textual understanding**, **multimodal comprehension**, and **reasoning abilities** 🚀. This proves the Gaokao is no longer a challenge for testing their "intelligence." Moving forward, they should dive deeper into areas like **scientific research** and **artistic creation**. The potential is just insane! 🎨 ['More Details'](https://www.jiqizhixin.com/articles/2025-06-26-12)
-    <br/> ![大模型高考成绩](https://image.jiqizhixin.com/uploads/editor/93a8c682-cd72-4b9e-b193-2de6000ed32e/640.png) <br/>
-    <br/> ![大模型高考分数分布](https://image.jiqizhixin.com/uploads/editor/8c33110c-0bd7-40f4-ae05-e011ef458218/640.png) <br/>
+2.  **Hengbot** just dropped its new **Sirius robot dog**, which isn't just nimble enough to dance and play soccer, but also packs **OpenAI**'s **large language model**, letting it have voice conversations and even develop a unique personality. This versatile smart dog is now up for pre-order on their official website for $1299, with a full launch expected this fall. It's looking like it could be the next big thing for homes. 🐶🤖🎉
+    <br/> ![Hengbot Sirius机器狗](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0627/6388664055657490519988244.png) <br/>
 
-#### **Top Open Source Projects**
-1.  **edit** 📝⭐ is an **open-source project** from Microsoft, aiming to meet common **editing** needs, and it's already racked up **10,606** stars. This project is all about providing basic editing features. Check out more details here: ['Project Link'](https://github.com/microsoft/edit).
-2.  **base-ui** 🧩💻⭐ is an **open-source project** with **3,623** stars, meticulously crafted by the creators behind Radix, Floating UI, and Material UI. This project offers **unstyled UI components**, designed to help developers more efficiently build **accessible web applications** and flexible **design systems**. Check out more details here: ['Project Link'](https://github.com/mui/base-ui).
-3.  **gitleaks** 🔒💡⭐ is a super popular **open-source security tool**, boasting **20,704** stars! Its core function is to automatically **detect** and **find** potential **sensitive information** (like API keys, passwords, etc.) in code repositories, effectively dodging security risks from leaks. Check out more details here: ['Project Link'](https://github.com/gitleaks/gitleaks).
+3.  AI music company **Suno** announced it's acquiring **WavTool**, a browser-based AI digital audio workstation, aiming to boost its song creation and production editing capabilities. This move comes right as Suno is facing multiple **music copyright lawsuits**. 🤔While the acquisition terms weren't disclosed, most of WavTool's team has moved over to Suno. The company's move might be an attempt to shift public attention away from the legal battles and signal confidence to investors, especially after Suno previously secured $125 million in funding. 🎶⚖️
+    <br/> ![Suno收购WavTool](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202005281122130015_60.jpg) <br/>
 
-#### **Social Media Buzz**
-1.  Simon's Daydream shared a high-quality article pointing out that **AI Agents** 🤖🤝 have evolved into the **multi-agent collaboration stage**. The article highlights development trends like more **encapsulated models**, enhanced features, increased flexibility, and standardized protocols, ultimately leading to **multi-agent collaboration**. The article deep-dives into the **three-stage evolution** of **AI Agents**, **MCP** and **A2A protocols**, underscoring humanity's **core role** in **multi-agent systems**, and even offers a guide to building complex Agent systems through **Golang engineering practices** 💡. ['More Details'](https://m.okjike.com/originalPosts/685d58d062739eeda3b9d838)
-    <br/> ![AI Agent协作图](https://cdnv2.ruguoapp.com/Fu9_NrDOl23BPTkVMqCuo11qNhYQv3.jpg) <br/>
-    <br/> ![多Agent系统](https://cdnv2.ruguoapp.com/Fkej5CodNU5eYZ0QvY6GUlRbLWSZv3.jpg) <br/>
-    <br/> ![AI Agent发展](https://cdnv2.ruguoapp.com/FllJQZ_kio0pQNa11CUfnPvOhWbOv3.jpg) <br/>
-2.  Blogger Simon's Daydream gushed about **OmniGen2** 🎨✨, an **open-source multimodal generative model**. This bad boy boasts "Any-to-Any" full-workflow capabilities like **text-to-image generation**, **image editing**, **image understanding**, and **multi-image blending**, and get this – it even runs on low-VRAM devices! The blogger was blown away 🤯 that it hit about 70% of **GPT-4o**'s "talk-to-edit-image" level in such a short time. Seriously, the future looks bright for this one! ['More Details'](https://m.okjike.com/originalPosts/685d56339c2e39aa22e64bbb)
-    <br/> ![OmniGen2模型演示](https://cdnv2.ruguoapp.com/ltYbExXHHBX6-IiH6poCRt4V6YHWv3.png) <br/>
-    <br/> ![OmniGen2图片生成](https://cdnv2.ruguoapp.com/ljDKpsINlzylflPcueaB7KC5dTqSv3.png) <br/>
-    <br/> ![OmniGen2界面](https://cdnv2.ruguoapp.com/ls34LcFxuRD1Baz2eGvajo2pvO52v3.jpg) <br/>
-3.  Blogger **Tu Siji Da Laoye** excitedly unveiled **Xiaomi AI Glasses** 🕶️💡! These glasses are seriously a combo of tech and style, packing **first-person camera**, **open-ear headphones**, and **on-the-go AI access** all into one. Even better, they support handy stuff like **encyclopedia Q&A** and **QR code payments**. There's even an **electrochromic special edition** starting at 1999 yuan, which is just super cool 💸! ['More Details'](https://m.okjike.com/originalPosts/685d40dbadecea032f68a102)
-    <br/> ![小米AI眼镜产品图](https://cdnv2.ruguoapp.com/FiYt7G4BWf7RKS6v7g6lhoD0c0CUv3.jpg) <br/>
-    <br/> ![小米AI眼镜功能](https://cdnv2.ruguoapp.com/Fp8KaIdLbsz62uQfat1l48cKg77Kv3.jpg) <br/>
-    <br/> ![小米AI眼镜特写](https://cdnv2.ruguoapp.com/FikgmCpcfMiwXeahMtlwT5OC9oaJv3.jpg) <br/>
-4.  Blogger Xiaohu reported that **Microsoft** ⚔️ hinted it's ditching talks with **OpenAI** about OpenAI transitioning into a for-profit company and going public. The backstory is that the two couldn't agree on terms 🤔. **OpenAI** wanted to terminate Microsoft's existing rights to model **intellectual property** and its 20% **revenue share**, but their new offer didn't get the green light from **Microsoft**. Word on the street is, this could even push **OpenAI** to pull the "nuclear option"💥 of accusing them of **anti-competitive behavior**. ['More Details'](https://x.com/imxiaohu/status/1938130680636182595)
-    <br/> ![微软与OpenAI](https://pbs.twimg.com/media/GuVB3L_X0AA1A0L?format=jpg&name=orig) <br/>
-    <br/> ![微软与OpenAI](https://pbs.twimg.com/media/GuVB3L9XwAADR9U?format=jpg&name=orig) <br/>
-5.  Meng Shao shared Andrej Karpathy's sharp take, where he pointed out that in AI applications, we should totally emphasize "**context engineering**" 🧠💡 rather than just plain old "**prompt engineering**." That's because "context engineering" involves carefully designing **information windows**, optimizing **information volume**, and **content structure** – way more complex than just typing a few prompts! ✨ Plus, Karpathy debunked the myth that AI apps are just "**ChatGPT wrappers**." He stressed that actual development covers a whole bunch of complex steps like breaking down problems, choosing models, managing UIs, and beefing up security. Seriously, it's no joke! 💪 ['More Details'](https://x.com/shao__meng/status/1938120617494253712)
-6.  Blogger wwwgoubuli predicts that AI is gonna usher in an era of "**fact-generating lightweight applications**" 🔮🚀. Users will truly get to "speak things into existence," instantly creating and trashing all sorts of apps, while the marketing and promotion value of traditional big software will drop significantly. He thinks this is all thanks to widespread **high-speed inference tech** and breakthrough experiences from models like **Google Gemini**. He foresees AI becoming **infrastructure** like utilities (water, electricity, gas), but many apps themselves will become intangible and priceless, possibly even leading to a monopoly on the "**magic world entrance**" 🌌. ['More Details'](https://x.com/wwwgoubuli/status/1938082798973096160)
+4.  **Google Labs** has rolled out a brand new virtual try-on app called **Doppl**, letting users **dynamically try on any outfit** by uploading photos or screenshots to explore and express their personal style. The app is currently live on iOS and Android platforms in the US. Unlike previous static, brand-limited virtual try-ons, this app generates animated videos, giving users a much clearer view of how clothes look on them and helping with styling decisions. 👗🤳✨
+    <br/> ![谷歌Doppl虚拟试衣](https://assets-v2.circle.so/4tjlf3vvqk77u07immaxg452so6a) <br/>
+
+5.  **Google** has relaunched and beefed up its "**Ask Photos**" search tool, powered by **Gemini AI**, aiming to speed up and improve how users find photos. 📸🔍This feature now gives instant results for simple queries while processing complex ones in the background, and it's gradually rolling out to more US users. 👍
+    <br/> ![谷歌Ask Photos更新](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0627/6388662236368236647884395.png) <br/>
+
+6.  Google officially launched its next-gen **open-source lightweight multimodal large model**, **Gemma 3n**, optimized specifically for **mobile and edge devices**, aiming to deliver **native multimodal** capabilities almost on par with cloud models. 💡📱It's the most advanced version of the Gemma series to date, supporting image, audio, video, and text input and text output. It's also shown outstanding performance in **lmarena.ai** tests, with significant boosts especially in math, programming, and reasoning. 🤯 ['More details'](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
+    <br/> ![谷歌Gemma 3n模型](https://assets-v2.circle.so/48ph1ou3at97bcecx9v4exbkgh69) <br/>
+    <br/> ![Gemma 3n模型测试](https://assets-v2.circle.so/bx2ljlkm93rf3zulfs5ucia3m3fo) <br/>
+
+### **Cutting-Edge AI Research**
+
+1.  A new study has for the first time confirmed that **large language models** (LLMs) also experience a phenomenon called "**grokking**" during **pre-training**, where a model's **generalization performance** keeps improving even after training loss converges, shedding light on the transformation from **memorization to generalization**. 🤯🔍Researchers have developed two novel and efficient **metrics** that can accurately predict **large foundation models**' **generalization improvements** without needing downstream task fine-tuning or testing, offering practical monitoring tools for LLM pre-training. 🧠 ['Paper link'](https://arxiv.org/abs/2506.21551)
+
+2.  MADrive is a **memory-augmented** **driving scene modeling** framework that goes beyond the limitations of existing **3D Gaussian Splatting** techniques. By retrieving and integrating similar **3D vehicle assets** from a large external memory bank, it achieves **photorealistic synthesis** for significantly altered or entirely new **autonomous driving environments**. 🚗💨This innovation drastically boosts the flexibility and realism of scene reconstruction, providing stronger support for **autonomous driving** simulations. 🌐 ['Paper link'](https://arxiv.org/abs/2506.21520)
+
+### **Top Open-Source Projects**
+
+1.  Black Forest Labs has **open-sourced** its **FLUX.1Kontext [dev]** image editing model, which boasts **context-aware image editing** capabilities, letting it precisely modify existing images based on text instructions while keeping the style consistent. Its performance is said to rival **GPT-4o**, and it even runs on consumer-grade hardware. 🎨✨This model aims to lower the barrier for professional image editing and push innovation in the open-source community. 🚀 ['Project link'](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev)
+    <br/> ![FLUX.1Kontext图像编辑](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0627/6388661124441853705469566.png) <br/>
+
+2.  **ottomator-agents** is an **open-source AI agent** project hosted on the oTTomator Live Agent Studio platform, which has racked up **2,336** stars. It offers flexible AI agent solutions for developers to build various smart applications. 🌟💻 ['Project link'](https://github.com/coleam00/ottomator-agents)
+
+3.  **rl-swarm** is a fully **open-source** framework focused on creating **RL training swarms** over the internet, with **824** stars. 🌐🧠This project aims to simplify large-scale **reinforcement learning** training processes, providing a distributed solution for research and development. ['Project link'](https://github.com/gensyn-ai/rl-swarm)
+
+4.  **microui** is a tiny immediate mode UI library boasting **4,351** stars, dedicated to providing simple and efficient user interface solutions. ⚙️📏 ['Project link'](https://github.com/rxi/microui)
+
+5.  **jsoncrack.com** is an innovative and **open-source** visualization app that converts various data formats like JSON, YAML, XML, and CSV into interactive charts, currently with **38,496** stars. 📊✨ ['Project link'](https://github.com/AykutSarac/jsoncrack.com)
+
+6.  **Best-websites-a-programmer-should-visit** is a highly popular **curated collection of useful websites for programmers**, boasting a whopping **69,196** stars, aiming to provide developers with abundant learning and tool resources. 📚🤓 ['Project link'](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+### **Social Media Shares**
+
+1.  Jiayuan dropped some deep insights on **how to build a Coding Agent**, pointing out the similar underlying **architectures** of popular products like **Gemini CLI**, **Claude Code**, and **Cursor Agent**. 🧑‍💻💡He recommended an older video share that breaks down the **construction** of **Coding Agents** from a macro perspective, offering valuable learning resources for interested developers.
+    <video src="https://www.bilibili.com/video/BV1ZWNtzMEw7" controls="controls" width="100%"></video>
+    <br/> ![Coding Agent构建分享](https://pbs.twimg.com/media/GucYQlXagAApa22?format=jpg&name=orig) <br/>
+    ['More details'](https://x.com/tisoga/status/1938545123404783617)
+
+2.  Xiao Qiu Hen Xing shared a best practice guide for "**Vibe Coding**," an **AI programming** approach that combines **Cursor** terminal with **Claude Code**. 🚀✨The guide details how to use Claude Code to generate technical solutions, then have Cursor review, adjust, and implement the code, ultimately completing the code review process.
+    ['More details'](https://m.okjike.com/originalPosts/685e6a8d1e38b2a5382ec568)
+
+3.  Li Dengdeng shared their real-world experience wearing **Xiaomi AI Glasses**, noting that they look **stylish** with an "assertive" vibe. However, the camera function has issues like **lens glare**, **low pixels**, **no image stabilization**, and **insufficient light intake**, leading to less-than-ideal photo quality – almost like "candid shots." 👓📸😅
+    <br/> ![小米AI眼镜体验](https://cdnv2.ruguoapp.com/FnwSbRO8V-0qQd--BwSMvqm4JYVev3.jpg) <br/>
+    <br/> ![小米AI眼镜佩戴](https://cdnv2.ruguoapp.com/FvxUKr5Zn8Cdd_UHFbVaGd_-N63bv3.jpg) <br/>
+    ['More details'](https://m.okjike.com/originalPosts/685e414ff432421164e9aeda)
+
+4.  Wang Xuan Leo pointed out a key detail from the **Xiaomi launch event**: the **Xiaomi SU7**'s **intelligent driving** system uses **NVIDIA Thor series chips**. 🚗⚡️The author believes that compared to other brands using multiple Orin chips, and considering the price, **Mr. Lei's** decision shows great cost-effectiveness and cutting-edge tech. 👍
+    <br/> ![小米SU7智能驾驶](https://cdnv2.ruguoapp.com/Fq778kq_DuRq8S25Pj1eTqBe43_3v3.png) <br/>
+    ['More details'](https://m.okjike.com/originalPosts/685df372d82bae994a83ab09)
+
+5.  Karl's AI Wats shared an experimental "**free-for-all**" involving **command-line programming AI agents**. 🤖💥Six contestants (including **claude-code**, **gemini**, etc.) were tasked with **finding and eliminating other processes** to be the last one standing, showcasing the fun side of AI battles. 🎮
+    <video src="https://video.twimg.com/amplify_video/1937950266814332928/vid/avc1/2318x2160/VzFtKuuOOjZzPh0.mp4?tag=21" controls="controls" width="100%"></video>
+    ['More details'](https://x.com/aiwarts/status/1938331396373967094)
+
+6.  Baoyu shared an article by Paul Sangle-Ferriere, co-founder of Cubic, revealing how they managed to cut down the false positive rate of their **AI code review assistant** by 51% – making it quieter and more precise – by forcing AI to give **reasoning logs**, streamlining their **toolset**, and using **dedicated micro-agents**. 🛠️💡These insights offer significant takeaways for designing effective **AI agents**. 🎯 ['More details'](https://baoyu.io/translations/learnings-from-building-ai-agents)
+    <br/> ![AI代码审查助手优化](https://baoyu.io/uploads/2025-06-26/1750961084743.png) <br/>
+
+7.  ChatV shared a unique **AI conversation hack**: after having a deep chat with an AI, they ask the AI to recap and summarize its own **thinking patterns** (described in 10 everyday sentences) and offer **tips for better AI conversations** (also in 10 everyday sentences). 🤔💬This method doesn't just help users **understand themselves**, it also **optimizes future AI interactions**. ✨ ['More details'](https://m.okjike.com/originalPosts/685d84ac2b50c68918c64ea9)
 
 ---
 
-#### **Listen to the Audio Version**
+## **Listen to the Audio Version of AI Daily**
 
-| 🎙️ **XiaoYuzhou** | 📹 **Douyin** |
+| 🎙️ **Laisheng Tavern** | 📹 **Laisheng Info Hub** |
 | --- | --- |
-| [Laisheng Little Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [Laisheng Intel Station](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)| 
+| [Laisheng Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Laisheng Info Hub](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
 | ![小酒馆](https://s1.imagehub.cc/images/2025/06/24/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://s1.imagehub.cc/images/2025/06/24/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
