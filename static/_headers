@@ -1,0 +1,7 @@
+# 允许索引所有内容，但禁止使用 Google 的 AI (Google-Extended)
+/*
+  X-Robots-Tag: googlebot: index, nofollow, google-extended: none
+
+# 阻止搜索引擎索引图片，但允许在搜索结果中显示（如果它们被其他页面引用）
+/images/*
+  X-Robots-Tag: noimageindex

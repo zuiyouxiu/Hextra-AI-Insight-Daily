@@ -1,3 +1,67 @@
+/* 
+  给这个hugo模板代码生成css，要全局水平居中，不要设置最大宽度限制
+*/
+
+footer .hx-max-w-screen-xl{
+  max-width: 100%;
+}
+
+/* 1. 页脚主包装器 (footer-wrapper) */
+.footer-wrapper {
+  /* 使用 Flexbox 来轻松实现居中 */
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  align-items: center;     /* 垂直居中（如果需要固定高度的话）*/
+  padding: 1.5rem 0.5rem;  /* 上下和左右的内边距，提供呼吸空间 */
+  width: 100%;             /* 确保它占据全部可用宽度 */
+}
+
+/* 2. 内容容器 (footer-container) */
+.footer-container {
+  /* text-align 用于居中容器内的文本和内联块元素 */
+  text-align: center;
+}
+
+/* 3. 链接列表 (footer-links) */
+.footer-links {
+  list-style: none; /* 移除列表默认的圆点 */
+  padding: 0;       /* 移除列表默认的内边距 */
+  margin: 0;        /* 移除列表默认的外边距 */
+  display: flex;    /* 使用 Flexbox 来排列链接 */
+  flex-wrap: wrap;  /* 允许链接在小屏幕上换行 */
+  justify-content: center; /* 确保所有链接作为一个整体居中 */
+  gap: 1.5rem;      /* 在链接之间创建一致的间距 */
+  margin-bottom: 1.5rem; /* 在链接列表和版权信息之间添加一些垂直间距 */
+}
+
+/* 4. 链接项 (li) - 在这个设计中不需要单独样式 */
+.footer-links li {
+  /* 因为使用了 Flexbox 和 gap，所以不再需要 margin */
+}
+
+/* 5. 版权信息 (footer-copyright) */
+.footer-copyright {
+  font-size: 0.9em; /* 让版权文字比链接稍微小一点 */
+  opacity: 0.8;     /* 让版权信息稍微不那么突出 */
+}
+
+/* 6. 所有链接的通用样式 (a) */
+.footer-links a,
+.footer-copyright a {
+  color: inherit; /* 继承父元素 .footer-wrapper 的颜色 */
+  text-decoration: none; /* 去掉链接的下划线 */
+  transition: color 0.3s ease, text-decoration 0.3s ease; /* 为悬停效果添加平滑过渡 */
+}
+
+/* 7. 链接的悬停效果 (hover) */
+.footer-links a:hover,
+.footer-copyright a:hover {
+  color: #d8d8d8; /* 鼠标悬停时变为纯白色，更加醒目 */
+  text-decoration: underline; /* 悬停时添加下划线，明确表示这是一个可点击的链接 */
+}
+
+
+
 /**
  * Hextra 主题 - Pornhub 黑暗模式风格
  * 将此文件放置在 /assets/css/custom.css

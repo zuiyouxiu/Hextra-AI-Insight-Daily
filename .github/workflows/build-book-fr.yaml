@@ -24,8 +24,10 @@ jobs:
         run: |
           mkdir -p content/fr
           echo "Force copying specific files..."
-          cp -vf content/cn/_index.md content/fr/_index.md || echo "Warning: content/cn/_index.md not found."
           cp -vf content/cn/about.md content/fr/about.md || echo "Warning: content/cn/about.md not found."
+          cp -vf content/cn/contact.md content/fr/contact.md || echo "Warning: content/cn/contact.md not found."
+          cp -vf content/cn/privacy-policy.md content/fr/privacy-policy.md || echo "Warning: content/cn/privacy-policy.md not found."
+          cp -vf content/cn/terms-of-service.md content/fr/terms-of-service.md || echo "Warning: content/cn/terms-of-service.md not found."
 
           echo "正在处理任意深度子目录下的 _index.md (不使用 nullglob)..."
           find content/cn/ -type f -name "_index.md" -print0 | while IFS= read -r -d $'\0' src_file; do
@@ -71,6 +73,15 @@ jobs:
           if [ -f "$en_dir/about.md" ]; then
             echo "$en_dir/about.md" >> "$temp_list_file"
           fi
+          if [ -f "$en_dir/contact.md" ]; then
+            echo "$en_dir/contact.md" >> "$temp_list_file"
+          fi
+          if [ -f "$en_dir/privacy-policy.md" ]; then
+            echo "$en_dir/privacy-policy.md" >> "$temp_list_file"
+          fi
+          if [ -f "$en_dir/terms-of-service.md" ]; then
+            echo "$en_dir/terms-of-service.md" >> "$temp_list_file"
+          fi          
           if [ -s "$rsync_created_files" ]; then
             while IFS= read -r file_path; do
               echo "$en_dir/$file_path" >> "$temp_list_file"

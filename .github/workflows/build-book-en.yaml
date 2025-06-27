@@ -24,8 +24,10 @@ jobs:
         run: |
           mkdir -p content/en
           echo "Force copying specific files..."
-          cp -vf content/cn/_index.md content/en/_index.md || echo "Warning: content/cn/_index.md not found."
           cp -vf content/cn/about.md content/en/about.md || echo "Warning: content/cn/about.md not found."
+          cp -vf content/cn/contact.md content/en/contact.md || echo "Warning: content/cn/contact.md not found."
+          cp -vf content/cn/privacy-policy.md content/en/privacy-policy.md || echo "Warning: content/cn/privacy-policy.md not found."
+          cp -vf content/cn/terms-of-service.md content/en/terms-of-service.md || echo "Warning: content/cn/terms-of-service.md not found."
           
           echo "正在处理任意深度子目录下的 _index.md (不使用 nullglob)..."
           find content/cn/ -type f -name "_index.md" -print0 | while IFS= read -r -d $'\0' src_file; do
@@ -71,6 +73,15 @@ jobs:
           if [ -f "$en_dir/about.md" ]; then
             echo "$en_dir/about.md" >> "$temp_list_file"
           fi
+          if [ -f "$en_dir/contact.md" ]; then
+            echo "$en_dir/contact.md" >> "$temp_list_file"
+          fi
+          if [ -f "$en_dir/privacy-policy.md" ]; then
+            echo "$en_dir/privacy-policy.md" >> "$temp_list_file"
+          fi
+          if [ -f "$en_dir/terms-of-service.md" ]; then
+            echo "$en_dir/terms-of-service.md" >> "$temp_list_file"
+          fi          
           if [ -s "$rsync_created_files" ]; then
             while IFS= read -r file_path; do
               echo "$en_dir/$file_path" >> "$temp_list_file"
@@ -204,6 +215,28 @@ jobs:
                       print(f"Prompt Feedback: {e.response.prompt_feedback}")
                   return None
 
+          # --- NEW: Load default description from hugo.yaml ---
+          default_description_en = None
+          # Assuming hugo.yaml is in the script's working directory. Adjust path if necessary.
+          hugo_config_path = 'hugo.yaml'
+          try:
+              with open(hugo_config_path, 'r', encoding='utf-8') as f:
+                  hugo_config = yaml.safe_load(f)
+                  # Safely access the nested key
+                  if hugo_config and isinstance(hugo_config.get('params'), dict):
+                      default_description_en = hugo_config['params'].get('descriptionEn')
+          
+                  if default_description_en:
+                      print(f"Successfully loaded default description from {hugo_config_path}.")
+                  else:
+                      print(f"Warning: 'params.descriptionEn' key not found or is empty in {hugo_config_path}.")
+          except FileNotFoundError:
+              print(f"Warning: {hugo_config_path} not found. Cannot set default description for _index.md.")
+          except yaml.YAMLError as ye:
+              print(f"Warning: Error parsing {hugo_config_path}: {ye}. Cannot set default description.")
+          except Exception as e:
+              print(f"An unexpected error occurred while reading {hugo_config_path}: {e}")
+
           # --- Main processing loop ---
           with open('files_to_translate.txt', 'r', encoding='utf-8') as f:
               files_to_translate = [line.strip() for line in f if line.strip()]
@@ -310,7 +343,7 @@ jobs:
                                           new_description += "..."
                                       
                                       if new_description: # Only set description if plain_text_for_desc is not empty
-                                          parsed_fm['description'] = new_description
+                                          parsed_fm['description'] = default_description_en + new_description
                                           description_content_found = True
                                           log_description_preview = new_description[:50].replace('\n', ' ')
                                           print(f"    - Updated description from '1.' list item to: '{log_description_preview}...'")

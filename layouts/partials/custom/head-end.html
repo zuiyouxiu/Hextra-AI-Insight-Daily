@@ -1,16 +1,15 @@
+{{ if .IsTranslated }}
+  {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+  {{ end }}
+{{ end }}
+
 <script>
-//自用请修改源域名和跳转域名
+
 // 这是一个自定义脚本，用于处理特定的页面逻辑和功能
 var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,b){a.raw=b;return a};
 (function(){var a=window.location.href,b=window.location.pathname;"justlovemaki.github.io"===window.location.hostname&&b.startsWith("/Hextra-AI-Insight-Daily/")&&(b="https://ai.hubtoday.app/"+b.substring(40)+window.location.search+window.location.hash,console.log("Original URL: "+a),console.log("Redirecting to: "+b),window.location.replace(b))})();
-//自用请修改Clarity代码s0drt9kmxf为你自己的
-// Clarity Analytics Script
-(function(c,l,a,r,i,t,y){
-    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-})(window, document, "clarity", "script", "s0drt9kmxf");    
-
+ 
 // 这是一个自定义脚本，用于处理侧边栏菜单的点击阻止逻辑
 document.addEventListener('DOMContentLoaded', function() {
 
@@ -101,6 +100,19 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
+{{/* 只有在配置文件中设置了 clarityID 时，才输出这段脚本 */}}
+{{- if .Site.Params.clarityID -}}    
+<script type="text/javascript">
+// Clarity Analytics Script
+(function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+})(window, document, "clarity", "script", "{{- .Site.Params.clarityID | safeJS -}}");    
+</script>    
+{{- end -}}   
+
+
 {{ "<!-- ENTERING partial seo-schema.html -->" | safeHTML }}
 
 {{/* --- Publisher Block --- */}}
@@ -177,7 +189,9 @@ document.addEventListener('DOMContentLoaded', function() {
       "wordCount" .WordCount
     ) -}}
 
-  {{- $description := .Description | default .Summary -}}
+  {{- $docDesc := .Description | default "" -}}
+  {{- $siteParamDesc := .Site.Params.description | default "" -}}
+  {{- $description := or $docDesc $siteParamDesc -}}
   {{- with $description -}}
     {{- $schema = merge $schema (dict "description" .) -}}
   {{- end -}}

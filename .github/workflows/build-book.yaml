@@ -59,6 +59,25 @@ jobs:
           SOURCE_DIR="clone/daily"
           TARGET_CONTENT_DIR="content/cn"
 
+          # --- 新增: 读取默认 description ---
+          echo "--- 步骤 0: 读取默认描述信息 ---"
+          DEFAULT_DESCRIPTION=""
+          if [ -f "hugo.yaml" ]; then
+            # 使用 yq (预装在 runner 上) 安全地解析 YAML 文件
+            # 'yq e' 是 evaluate 的意思, '.params.description' 是路径, '-N' 移除 '---' 分隔符
+            # '|| true' 确保即使 yq 找不到键也不会让脚本失败
+            DEFAULT_DESCRIPTION=$(yq e '.params.description' -N hugo.yaml || true)
+            if [ -n "$DEFAULT_DESCRIPTION" ]; then
+              echo "从 hugo.yaml 中读取到默认 description: $DEFAULT_DESCRIPTION"
+            else
+              echo "警告: 在 hugo.yaml 中未找到 .params.description 或其值为空。"
+              DEFAULT_DESCRIPTION="查看详情" # 提供一个最终的备用值
+            fi
+          else
+            echo "警告: hugo.yaml 文件未找到，无法读取默认 description。"
+            DEFAULT_DESCRIPTION="查看详情" # 提供一个最终的备用值
+          fi
+
           # --- 1. 识别文件角色并立即提取所需信息 ---
           echo "--- 步骤 1: 识别文件并提取关键信息 ---"
           if [ ! -d "$SOURCE_DIR" ] || [ -z "$(ls -A $SOURCE_DIR)" ]; then
@@ -81,13 +100,14 @@ jobs:
           
           echo "正在为最新笔记提取 description..."
           if grep -q "AI内容摘要" "$LATEST_NOTE"; then
-              LATEST_DESCRIPTION=$(grep -A 5 "AI内容摘要" "$LATEST_NOTE" | sed -n '/AI内容摘要/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:150])')
+              LATEST_DESCRIPTION=$(grep -A 5 "AI内容摘要" "$LATEST_NOTE" | sed -n '/AI内容摘要/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:80])')
+              LATEST_DESCRIPTION="$DEFAULT_DESCRIPTION 。$LATEST_DESCRIPTION"
           elif grep -q "AI产品与功能更新" "$LATEST_NOTE"; then
-              LATEST_DESCRIPTION=$(grep -A 5 "AI产品与功能更新" "$LATEST_NOTE" | sed -n '/AI产品与功能更新/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:150])')
+              LATEST_DESCRIPTION=$(grep -A 5 "AI产品与功能更新" "$LATEST_NOTE" | sed -n '/AI产品与功能更新/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:80])')
+              LATEST_DESCRIPTION="$DEFAULT_DESCRIPTION 。$LATEST_DESCRIPTION"
           else
-              echo "警告: 最新笔记 '$LATEST_NOTE' 中未找到 'AI内容摘要' 或 'AI产品与功能更新'。将从文件开头提取描述。"
-              # Fallback: take first few lines, clean, and truncate
-              LATEST_DESCRIPTION=$(head -n 10 "$LATEST_NOTE" | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:150])')
+              echo "警告: 最新笔记 '$LATEST_NOTE' 中未找到摘要。将使用 hugo.yaml 中的默认 description。"
+              LATEST_DESCRIPTION="$DEFAULT_DESCRIPTION"
           fi
           # 转义描述中的双引号以确保 YAML 格式正确
           LATEST_DESCRIPTION=$(echo "$LATEST_DESCRIPTION" | sed 's/"/\\"/g')
@@ -144,12 +164,14 @@ jobs:
               
               local_description=""
               if grep -q "AI内容摘要" "$source_file"; then
-                local_description=$(grep -A 5 "AI内容摘要" "$source_file" | sed -n '/AI内容摘要/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:150])')
+                local_description=$(grep -A 5 "AI内容摘要" "$source_file" | sed -n '/AI内容摘要/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:80])')
+                local_description="$DEFAULT_DESCRIPTION 。$local_description"
               elif grep -q "AI产品与功能更新" "$source_file"; then
-                local_description=$(grep -A 5 "AI产品与功能更新" "$source_file" | sed -n '/AI产品与功能更新/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:150])')
+                local_description=$(grep -A 5 "AI产品与功能更新" "$source_file" | sed -n '/AI产品与功能更新/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:80])')
+                local_description="$DEFAULT_DESCRIPTION 。$local_description"
               else
-                echo "警告: 文件 '$source_file' 中未找到 'AI内容摘要' 或 'AI产品与功能更新'。将从文件开头提取描述。"
-                local_description=$(head -n 10 "$source_file" | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:150])')
+                echo "警告: 文件 '$source_file' 中未找到摘要。将使用 hugo.yaml 中的默认 description。"
+                local_description="$DEFAULT_DESCRIPTION"
               fi
               # Escape quotes for YAML frontmatter
               local_description=$(echo "$local_description" | python3 -c 'import sys; text = sys.stdin.read(); print(text.replace("\"", "\\\""))')
