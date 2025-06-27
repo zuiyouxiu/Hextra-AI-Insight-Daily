@@ -12,8 +12,8 @@ enableInlineShortcodes: true
 #   googleAnalytics:
 #     ID: G-MEASUREMENT_ID
 
-# outputs:
-#   home: [HTML, RSS]
+outputs:
+  home: [HTML, HEADERS]
 #   page: [HTML, RSS]
 #   section: [HTML, RSS]
 
