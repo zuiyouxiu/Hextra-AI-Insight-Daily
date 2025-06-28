@@ -8,6 +8,7 @@
   {{ end }}
 {{ end }}
 
+<script async src="//finicounter.eu.org/finicounter.js"></script>
 <script>
 
 // 这是一个自定义脚本，用于处理特定的页面逻辑和功能
@@ -103,6 +104,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 </script>
 
+{{- if .Site.Params.ahrefsKey -}}  
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="{{- .Site.Params.ahrefsKey | safeJS -}}" async></script>
+{{- end -}} 
 
 {{/* 只有在配置文件中设置了 clarityID 时，才输出这段脚本 */}}
 {{- if .Site.Params.clarityID -}}    
