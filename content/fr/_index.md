@@ -2,99 +2,87 @@
 linkTitle: Today's Daily
 title: Today's Daily-AI日报
 breadcrumbs: false
-next: /fr/2025-06/2025-06-27
-description: OpenAI a annoncé avoir acquis Crossing Minds, une boîte spécialisée dans
-  les systèmes de recommandation IA pour l'e-commerce. Leur équipe a déjà rejoint
-  OpenAI. L'objectif ? Booster les capacités d'OpenAI dans des domaines clés comme
-  la recommandation personnalisée, la génération augmentée de réc...
+next: /fr/2025-06/2025-06-28
+description: Alibaba Cloud a dévoilé le grand modèle multimodal unifié Qwen VLo. Il
+  peut, via des instructions en langage naturel, 🌟 comprendre, générer et éditer des
+  images 🎨, tout en gérant des tâches de perception et multilingues. Sa technologie
+  unique de "compréhension et rendu simultanés" assure la stabi...
 cascade:
   type: docs
 ---
-## Quotidien Insight IA 2025/6/28
+## Le Quotidien IA 2025/6/29
 
-> `IA Quotidien` | `Mise à jour 8h pétantes` | `Données agrégées du web` | `Recherche scientifique de pointe` | `Libre parole de l'industrie` | `Puissance de l'innovation open source` | `L'IA et l'avenir de l'humanité` | [Accédez à la version web↗️](https://ai.hubtoday.app/)
+> `Le Quotidien IA` | `Màj 8h du mat'` | `Données agrégées toutes sources` | `Recherche scientifique de pointe` | `Parole libre de l'industrie` | `La force de l'open source` | `L'IA et l'avenir de l'humanité` | [Accéder à la version web ↗️](https://ai.hubtoday.app/)
 
 
 
-### **Le Point sur l'IA**
+### **Résumé IA**
 
 ```
-Plusieurs boîtes d'IA mettent à jour leurs produits à tour de bras. OpenAI a racheté Crossing Minds pour booster la recommandation personnalisée et les applis AGI, tandis que Hengbot a sorti son chien robot intelligent.
-Google a, de son côté, lancé le modèle Gemma 3n et l'appli d'essayage virtuel Doppl. Suno a racheté WavTool pour améliorer ses fonctions d'édition musicale, face à des procès pour droits d'auteur.
-Une étude sur l'IA révèle un phénomène de "grokking" dans le pré-entraînement des grands modèles. En parallèle, le développement d'agents IA et l'optimisation des assistants de révision de code sont largement partagés.
+Alibaba Cloud lance le modèle multimodal Qwen VLo, l'assistant IA booste l'efficacité au travail.
+Avancées en IA génétique et interfaces cerveau-ordinateur, Tesla réalise des livraisons autonomes.
+API Gemini gratuite rétablie, l'IA accélère la transformation du monde.
 ```
 
 
 
-### **Mises à Jour Produits & Fonctionnalités IA**
+### Nouveautés produits et fonctionnalités IA
+1.  Alibaba Cloud a dévoilé le grand modèle multimodal unifié **Qwen VLo**. Il peut, via des instructions en langage naturel, 🌟 comprendre, générer et éditer des images 🎨, tout en gérant des tâches de perception et multilingues. Sa technologie unique de "**compréhension et rendu simultanés**" assure la stabilité et la cohérence des détails de l'image. Actuellement en pré-version, essayez-le via Qwen Chat. Plus de détails : ['https://qwenlm.github.io/zh/blog/qwen-vlo/'](https://qwenlm.github.io/zh/blog/qwen-vlo/)
+    <br/> [![图片](https://assets-v2.circle.so/smpfv7qb8k4hqlzrvypt3dadpsh2)](https://assets-v2.circle.so/smpfv7qb8h4hqlzrvypt3dadpsh2) <br/>
+    <br/> [![图片](https://assets-v2.circle.so/l3mf78vo9ym09p7oyykpcvkxrnsy)](https://assets-v2.circle.so/l3mf78vo9ym09p7oyykpcvkxrnsy) <br/>
 
-1.  **OpenAI** a annoncé avoir acquis **Crossing Minds**, une boîte spécialisée dans les systèmes de recommandation IA pour l'e-commerce. Leur équipe a déjà rejoint OpenAI. L'objectif ? Booster les capacités d'OpenAI dans des domaines clés comme la **recommandation personnalisée**, la **génération augmentée de récupération (RAG)** et la **modélisation utilisateur en temps réel**, afin d'accélérer le déploiement de l'**intelligence artificielle générale (AGI)** dans des applications concrètes. Cette acquisition stratégique permettra aussi à OpenAI de renforcer ses systèmes de modélisation personnalisée et de recommandation e-commerce, d'étendre les scénarios de commercialisation de **ChatGPT** et de faire avancer l'optimisation utilisateur et la compréhension comportementale post-entraînement.🚀✨ ['Plus de détails'](https://www.crossingminds.com/)
-    <br/> ![OpenAI收购Crossing Minds](https://assets-v2.circle.so/k2bihhhpptnld7s9yjhy5rcklimh) <br/>
+2.  **Roy Lee**, qui avait été viré de Harvard et Columbia pour tricherie, sa startup **Cluely**, après avoir levé des dizaines de millions de dollars, a osé lancer un **assistant de bureau IA** qui prétend "révolutionner neuf secteurs" ! 😱 Cet outil de fou peut **analyser l'écran et l'audio en temps réel**, et fournir une **aide intelligente** dans divers scénarios : réunions, ventes, service client, études, entretiens, etc., chamboulant ainsi totalement les méthodes de travail traditionnelles 🚀.['Plus de détails'](https://www.jiqizhixin.com/articles/2025-06-28-6)
+    <br/> [![图片](https://image.jiqizhixin.com/uploads/editor/a0f1917e-864b-4637-b58b-db3f023bba89/1751106831951.png)](https://image.jiqizhixin.com/uploads/editor/a0f1917e-864b-4637-b58b-db3f023bba89/1751106831951.png) <br/>
 
-2.  La société **Hengbot** vient de lancer son tout dernier **chien robot Sirius**. Non content d'être agile pour danser ou jouer au foot, il intègre aussi le **grand modèle de langage** d'**OpenAI**, ce qui lui permet de dialoguer vocalement et de développer une personnalité unique. Ce chien robot intelligent et multifonction est déjà en prévente sur leur site officiel à 1299 dollars, et devrait être officiellement dispo cet automne, avec le potentiel de devenir le nouveau chouchou des foyers.🐶🤖🎉
-    <br/> ![Hengbot Sirius机器狗](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0627/6388664055657490519988244.png) <br/>
+### Recherche de Pointe en IA
+1.  Google DeepMind a dévoilé **AlphaGenome** 🧬🔬, un modèle d' "**IA de compréhension génétique**" révolutionnaire qui peut prédire avec précision l'impact des variations dans les **régions non codantes** de l'ADN sur la régulation génique, aidant ainsi la recherche sur les mécanismes des maladies et la biologie synthétique. Il surpasse de loin les technologies existantes pour le traitement des **séquences d'ADN** ultra-longues et la prédiction des caractéristiques de régulation. Son API est déjà disponible pour la recherche scientifique non commerciale. Lien vers l'article : ['https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/'](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
+    <br/> [![图片](https://assets-v2.circle.so/k10qs8x4lxf6x4905802yz2cq8eb)](https://assets-v2.circle.so/k10qs8x4lxf6x4905802yz2cq8eb) <br/>
+    <br/> [![图片](https://assets-v2.circle.so/xo0mz5avlik88bsflzzrp6m3jrin)](https://assets-v2.circle.so/xo0mz5avlik88bsflzzrp6m3jrin) <br/>
 
-3.  **Suno**, la boîte de musique IA, a annoncé l'acquisition de **WavTool**, un studio audio numérique IA basé sur navigateur, dans le but de booster ses capacités d'édition de composition et production musicale. Cette manœuvre arrive pile au moment où Suno fait face à plusieurs **procès pour droits d'auteur**. 🤔 Bien que les termes de l'acquisition n'aient pas été divulgués, la plupart des employés de WavTool ont déjà rejoint l'équipe Suno. Cette action pourrait viser à détourner l'attention du public des litiges et à rassurer les investisseurs sur la confiance dans leur développement, Suno ayant déjà levé 125 millions de dollars.🎶⚖️
-    <br/> ![Suno收购WavTool](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202005281122130015_60.jpg) <br/>
+2.  🚀 Une étude de pointe menée par des équipes de l'Université Northeastern (USA), de l'Université chinoise de Hong Kong et d'Adobe Research, entre autres, a lancé **DraftAttention**, une **méthode d'accélération pour les modèles de diffusion vidéo** ! Elle utilise un **mécanisme d'attention** dynamique clairsemé, **sans entraînement et "plug-and-play"**, qui résout parfaitement le goulot d'étranglement de la charge de calcul des **mécanismes d'attention**, réduisant considérablement les coûts et permettant une **accélération de l'inférence GPU de bout en bout allant jusqu'à 2x**, rendant la génération de vidéos de haute qualité plus efficace et plus pratique ✨.
+    <br/> [![图片](https://image.jiqizhixin.com/uploads/editor/337eefaa-ce93-46e1-a441-8938c38ec46f/640.png)](https://image.jiqizhixin.com/uploads/editor/337eefaa-ce93-46e1-a441-8938c38ec46f/640.png) <br/>
+    <br/> [![图片](https://image.jiqizhixin.com/uploads/editor/cdd9dea6-eb55-432b-9335-a9091f601d7c/640.png)](https://image.jiqizhixin.com/uploads/editor/cdd9dea6-eb55-432b-9335-a9091f601d7c/640.png) <br/>
+    ['https://arxiv.org/abs/2505.14708'](https://arxiv.org/abs/2505.14708)
 
-4.  **Google Labs** a lancé une toute nouvelle appli d'essayage virtuel baptisée **Doppl**. Les utilisateurs peuvent y **essayer dynamiquement n'importe quel vêtement** en uploadant une photo ou une capture d'écran, histoire d'explorer et d'exprimer leur style perso. L'appli est déjà dispo sur iOS et Android aux États-Unis. Contrairement aux essayages virtuels statiques et limités aux marques d'antan, celle-ci génère des vidéos animées, ce qui permet aux utilisateurs de visualiser plus directement le rendu du vêtement une fois porté, et ainsi de mieux choisir leurs tenues.👗🤳✨
-    <br/> ![谷歌Doppl虚拟试衣](https://assets-v2.circle.so/4tjlf3vvqk77u07immaxg452so6a) <br/>
+### Perspectives de l'Industrie IA et Impact Social
+1.  🚀 Lors de sa conférence, Neuralink, la boîte de Musk, a montré des avancées dingues avec son **implant d'interface cerveau-machine N1**, accélérant la **vitesse d'implantation des électrodes** à 1,5 seconde par électrode. Sept volontaires peuvent même déjà jouer à des jeux et contrôler des bras robotiques par la pensée ! 🌐 Il a aussi tracé une **feuille de route ambitieuse sur trois ans** : **guérir la cécité d'ici 2026** et, d'ici **2028, réaliser une intégration profonde de l'IA avec toute l'humanité**, via des **interfaces cérébrales complètes**, pour totalement transformer l'interaction humaine avec le monde numérique 🤯.
+    <br/> [![图片](https://wechat2rss.xlab.app/img-proxy/?k=0bf4978b&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_jpg%2FUicQ7HgWiaUb3hGr095QGmBoiceyxYcRV5cSWGJvu2zUZ5Tms6iciafzv309n9Ht2JhnxYAd9MqRJZznxWkpvW2TFgA%2F0%3Fwx_fmt%3Djpeg)](https://wechat2rss.xlab.app/img-proxy/?k=0bf4978b&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_jpg%2FUicQ7HgWiaUb3hGr095QGmBoiceyxYcRV5cSWGJvu2zUZ5Tms6iciafzv309n9Ht2JhnxYAd9MqRJZznxWkpvW2TFgA%2F0%3Fwx_fmt%3Djpeg) <br/>
+    <br/> [![图片](https://wechat2rss.xlab.app/img-proxy/?k=36c63c9c&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_gif%2FUicQ7HgWiaUb3hGr095QGmBoiceyxYcRV5caZ50QQsDR9dm0uFiaiaib4ldLvnjRUFVeZ7AeysgSJzmibrxa8yURqfeEQ%2F640%3Fwx_fmt%3Dgif)](https://wechat2rss.xlab.app/img-proxy/?k=36c63c9c&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_gif%2FUicQ7HgWiaUb3hGr095QGmBoiceyxYcRV5caZ50QQsDR9dm0uFiaiaib4ldLvnjRUFVeZ7AeysgSJzmibrxa8yURqfeEQ%2F640%3Fwx_fmt%3Dgif) <br/>
+    ['Plus de détails'](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652605172&idx=1&sn=af0348a245d7f79f539ea6839caf05b2)
 
-5.  **Google** a relancé et amélioré son outil de recherche "**Ask Photos**", propulsé par **Gemini AI**, dans le but de booster la vitesse et l'expérience de recherche de photos pour les utilisateurs. 📸🔍 Cette fonctionnalité donne désormais des résultats instantanés pour les requêtes simples, tout en gérant les requêtes complexes en arrière-plan, et se déploie progressivement auprès d'un plus grand nombre d'utilisateurs américains. 👍
-    <br/> ![谷歌Ask Photos更新](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0627/6388662236368236647884395.png) <br/>
+### Projets Open Source du Moment
+1.  🌟 **twenty** est un projet open source 🚀 qui a cartonné avec **29940** étoiles, visant à créer une alternative moderne à Salesforce, pilotée par la communauté, et à résoudre les nombreuses **limites** des **systèmes CRM** traditionnels. Projet : ['https://github.com/twentyhq/twenty'](https://github.com/twentyhq/twenty)
 
-6.  Google a officiellement lancé la nouvelle génération de son **grand modèle multimodale léger et open source**, **Gemma 3n**. Optimisé pour les **appareils mobiles et périphériques**, il vise à offrir des capacités **multimodales natives** presque équivalentes aux modèles cloud. 💡📱 C'est la version la plus avancée de la série Gemma à ce jour, prenant en charge les entrées image, audio, vidéo, texte et les sorties texte. Il a montré des performances exceptionnelles lors des tests **lmarena.ai**, avec des améliorations notables en maths, programmation et raisonnement. 🤯 ['Plus de détails'](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
-    <br/> ![谷歌Gemma 3n模型](https://assets-v2.circle.so/48ph1ou3at97bcecx9v4exbkgh69) <br/>
-    <br/> ![Gemma 3n模型测试](https://assets-v2.circle.so/bx2ljlkm93rf3zulfs5ucia3m3fo) <br/>
+2.  ✨ **Graphite**, avec ses **13636** étoiles, est un **éditeur vectoriel et matriciel 2D**🎨 innovant, qui fusionne astucieusement les calques traditionnels avec un **workflow procédural** non destructif et basé sur les nœuds, offrant aux utilisateurs des capacités d'édition d'image hyper puissantes ! Projet : ['https://github.com/GraphiteEditor/Graphite'](https://github.com/GraphiteEditor/Graphite)
 
-### **Recherche IA de Pointe**
+3.  📚 **BookLore**, une **application web** pratique 📖 qui a récolté **1708** étoiles, vise à aider les fans de livres à héberger, gérer et explorer facilement toutes sortes d'ouvrages. Elle prend en charge les formats PDF et e-book, et permet aussi d'enregistrer la progression de lecture, les métadonnées et de fournir des statistiques de lecture ! Projet : ['https://github.com/adityachandelgit/BookLore'](https://github.com/adityachandelgit/BookLore)
 
-1.  Une étude a confirmé pour la première fois l'existence du phénomène de "**grokking**" (prise de conscience soudaine) également dans le **pré-entraînement des grands modèles linguistiques** (LLM). Ce phénomène signifie que les **performances de généralisation** du modèle continuent de s'améliorer même après la convergence de la perte d'entraînement, révélant le processus de transformation de la **mémorisation à la généralisation**. 🤯🔍 Les chercheurs ont développé deux **métriques** nouvelles et efficaces qui, sans nécessiter de fine-tuning ou de test sur des tâches en aval, peuvent prédire avec précision l'**amélioration de la généralisation des grands modèles de base**. Cela offre des outils de surveillance pratiques pour le pré-entraînement des LLM. 🧠 ['Article complet'](https://arxiv.org/abs/2506.21551)
+4.  🎮🌟 **romm** est un **gestionnaire et lecteur de ROM** stylé et performant, qui a raflé **4893** étoiles ! Il supporte l'**auto-hébergement** et offre aux gamers une expérience hyper simple pour gérer et jouer leurs ROMs. Projet : ['https://github.com/rommapp/romm'](https://github.com/rommapp/romm)
 
-2.  MADrive est un framework de **modélisation de scènes de conduite** à **mémoire augmentée**. Il dépasse les limites des techniques existantes de **splatting gaussien 3D** en récupérant et intégrant des **actifs de véhicules 3D** similaires depuis une vaste bibliothèque de mémoire externe. Cela permet la **synthèse photoréaliste** d'environnements de **conduite autonome** significativement modifiés ou entièrement nouveaux. 🚗💨 Cette innovation booste considérablement la flexibilité et le réalisme de la reconstruction de scènes, offrant un support plus puissant pour la simulation de la **conduite autonome**. 🌐 ['Article complet'](https://arxiv.org/abs/2506.21520)
+5.  📈 **Serial-Studio** est une **pépite open source** ✨ avec **5655** étoiles, spécialisé dans la **visualisation des données des appareils embarqués**, permettant aux utilisateurs de comprendre intuitivement l'état de fonctionnement de leurs appareils. C'est carrément un outil de débogage magique !['https://github.com/Serial-Studio/Serial-Studio'](https://github.com/Serial-Studio/Serial-Studio)
 
-### **Les TOP Projets Open Source**
+6.  💼🚀 **midday** est un **outil de gestion complet** taillé sur mesure pour les **freelancers**, qui a décroché **8098** étoiles ! Ses fonctionnalités clés couvrent la **facturation**, le **suivi du temps**, le **rapprochement de fichiers**, le **stockage** et un **aperçu financier**. En plus, il offre même un **assistant IA dédié**, pour faciliter la vie des freelances.['https://github.com/midday-ai/midday'](https://github.com/midday-ai/midday)
 
-1.  Black Forest Labs a **lancé en open source** le modèle d'édition d'images **FLUX.1Kontext [dev]**. Grâce à ses capacités d'**édition d'image sensible au contexte**, ce modèle peut modifier précisément des images existantes selon des instructions textuelles tout en conservant la cohérence stylistique. Ses performances sont réputées comparables à celles de **GPT-4o**, et il tourne même sur du hardware grand public. 🎨✨ Ce modèle vise à abaisser le seuil de l'édition d'images pro et à stimuler l'innovation dans la communauté open source. 🚀 ['Lien du projet'](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev)
-    <br/> ![FLUX.1Kontext图像编辑](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0627/6388661124441853705469566.png) <br/>
+### Sur les Réseaux Sociaux
+1.  🎉 Le blogueur **Guizang (guizang.ai)** a balancé une super bonne nouvelle : Le **quota gratuit** de l'**API Gemini 2.5 Pro** est totalement **rétabli** ! 🥳 Ça veut dire qu'on peut continuer à profiter gratos de ce puissant modèle d'IA sans souci. Cette info a même été confirmée officiellement par Logan Kilpatrick de Google. C'est juste génial !
+    <br/> [![图片](https://pbs.twimg.com/media/GuhXQWqaoAIKkyy?format=jpg&name=orig)](https://pbs.twimg.com/media/GuhXQWqaoAIKkyy?format=jpg&name=orig) <br/>
+    ['Plus de détails'](https://x.com/op7418/status/1938895703608316011)
 
-2.  **ottomator-agents** est un projet d'**agent IA open source** hébergé sur la plateforme oTTomator Live Agent Studio. Il a déjà récolté **2336** étoiles et offre aux développeurs des solutions d'agents IA flexibles, utilisables pour construire toutes sortes d'applications intelligentes. 🌟💻 ['Lien du projet'](https://github.com/coleam00/ottomator-agents)
+2.  🎵 Guizang (guizang.ai) a annoncé que **Keling** a carrément lancé une capacité de **génération d'effets sonores vidéo** super cool ! 🤩 Et le truc de dingue, c'est que cette fonctionnalité est actuellement **offerte gratuitement** à tous les utilisateurs. C'est une porte ouverte sur un nouveau monde pour les créateurs de vidéos, les possibilités sont infinies ! Plus de détails : ['Plus de détails'](https://x.com/op7418/status/1938894186742485484).
+    <video src="https://video.twimg.com/amplify_video/1938607664184918016/vid/avc1/854x480/6mrlyY8S8V_qOBAL.mp4?tag=21" controls="controls" width="100%"></video>
 
-3.  **rl-swarm** est un framework entièrement **open source** qui se concentre sur la création de **clusters d'entraînement RL** via Internet. Il a déjà obtenu **824** étoiles. 🌐🧠 Ce projet vise à simplifier le processus d'entraînement à grande échelle du **reinforcement learning** et à offrir des solutions distribuées pour la recherche et le développement. ['Lien du projet'](https://github.com/gensyn-ai/rl-swarm)
+3.  🚗💨 Xiaohu a partagé avec enthousiasme une **percée majeure** de **Tesla** dans le domaine de la conduite autonome : ils ont réalisé pour la première fois une **livraison entièrement autonome de bout en bout**, de l'usine jusqu'à la maison du client ! 🎉 Une **Model Y** a roulé de manière autonome pendant 30 minutes au Texas et a été livrée avec succès. C'est tout simplement le coup d'envoi officiel de l'ère des **livraisons de véhicules entièrement autonomes** sur les routes publiques du monde entier ! Trop cool ! Plus de détails : ['Plus de détails'](https://x.com/imxiaohu/status/1938848110115201068).
+    <video src="https://video.twimg.com/amplify_video/1938847117344415748/vid/avc1/576x1024/RfOyZMDQDVPVsTLI.mp4" controls="controls" width="100%"></video>
 
-4.  **microui** est une micro-bibliothèque d'interface utilisateur en mode immédiat avec **4351** étoiles, dédiée à fournir des solutions d'interface utilisateur simples et efficaces. ⚙️📏 ['Lien du projet'](https://github.com/rxi/microui)
+4.  💡 wwwgoubuli a mis en avant les **bonnes pratiques de Vibe Coding** de Corey Chiu, soulignant que l'essentiel est d'**optimiser les étapes de développement**, plutôt que de se prendre la tête sur le choix du modèle spécifique. 🤔 Cette approche est super inspirante pour la collaboration entre l'humain et l'**IA**. Elle combine intelligemment **Cursor** et **Claude Code** pour construire un **flux de travail complet, efficace et fluide**, de l'idée au code 👍. Plus de détails : ['Plus de détails'](https://x.com/wwwgoubuli/status/1938794235106558301).
+    <br/> [![图片](https://pbs.twimg.com/media/GucQUv_agAAe-lI?format=jpg&name=orig)](https://pbs.twimg.com/media/GucQUv_agAAe-lI?format=jpg&name=orig) <br/>
 
-5.  **jsoncrack.com** est une appli de visualisation innovante et **open source** qui convertit divers formats de données comme JSON, YAML, XML, CSV en graphiques interactifs. Elle a déjà récolté **38496** étoiles. 📊✨ ['Lien du projet'](https://github.com/AykutSarac/jsoncrack.com)
+5.  ✍️ Mu Yao a posté un article où il ne tarit pas d'éloges sur le style d'écriture de **Gemini 2.5 Pro**, trouvant son expression "profonde, appropriée, vivante, riche et innovante". Ça met carrément une claque au "style beauf" de DeepSeek et à l'insipidité de GPT-4.5. 😮 Il va même jusqu'à dire que le niveau d'écriture de Gemini 2.5 Pro peut rivaliser avec ses propres meilleures productions, le faisant "désespérer" face à la puissance de l'IA 😂 ! Plus de détails : ['https://m.okjike.com/originalPosts/685f594d17aacc074df87b7c'](https://m.okjike.com/originalPosts/685f594d17aacc074df87b7c)
 
-6.  **Best-websites-a-programmer-should-visit** est une **collection de sites web pratiques pour les programmeurs** hyper populaire, avec pas moins de **69196** étoiles. Elle vise à offrir aux développeurs une tonne de ressources d'apprentissage et d'outils. 📚🤓 ['Lien du projet'](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+6.  🏆 NVIDIA AI Developer a récemment annoncé les trois projets gagnants de son Agent Toolkit Hackathon : **cuOptIQ** se concentre sur l'optimisation des trajets des chariots élévateurs d'usine, **OpenCodeReview** automatise l'analyse de sécurité du code et la détection des vulnérabilités, et **Holistic Travel Assistant** a carrément révolutionné la planification de voyages 🗺️ ! Ces projets démontrent pleinement le potentiel énorme de la connexion des **agents IA** grâce au toolkit NVIDIA Agent Intelligence. Plus de détails : ['https://x.com/NVIDIAAIDev/status/1938688505376297192'](https://x.com/NVIDIAAIDev/status/1938688505376297192)
+    <br/> [![图片](https://pbs.twimg.com/media/Go2JoEVWsAAOq8i?format=jpg&name=orig)](https://pbs.twimg.com/media/Go2JoEVWsAAOq8i?format=jpg&name=orig) <br/>
 
-### **Partages sur les Réseaux Sociaux**
-
-1.  Jiayuan a partagé des insights poussés sur **comment construire un Coding Agent**, soulignant que des produits populaires comme **Gemini CLI**, **Claude Code** et **Cursor Agent** partagent des **architectures** sous-jacentes similaires. 🧑‍💻💡 Il a recommandé une ancienne vidéo qui décompose en détail la manière de **construire** un **Coding Agent** d'un point de vue macro, offrant une ressource d'apprentissage précieuse aux développeurs intéressés.
-    <video src="https://www.bilibili.com/video/BV1ZWNtzMEw7" controls="controls" width="100%"></video>
-    <br/> ![Coding Agent构建分享](https://pbs.twimg.com/media/GucYQlXagAApa22?format=jpg&name=orig) <br/>
-    ['Plus de détails'](https://x.com/tisoga/status/1938545123404783617)
-
-2.  Xiao Qiu Hen Xing a partagé un ensemble de meilleures pratiques pour le "Vibe Coding" en **programmation IA**, combinant le terminal **Cursor** et **Claude Code**. 🚀✨ Cette approche détaille comment utiliser Claude Code pour générer des solutions techniques, les faire réviser et ajuster par Cursor, réaliser l'implémentation du code, et enfin, finaliser la révision du code.
-    ['Plus de détails'](https://m.okjike.com/originalPosts/685e6a8d1e38b2a5382ec568)
-
-3.  Li Dengdeng a partagé son expérience d'utilisation des **lunettes IA Xiaomi**. Il/Elle estime que leur look est **branché** et a un côté "agressif" ; par contre, la fonction photo présente des soucis : **reflets sur les verres**, **pixels faibles**, **pas de stabilisation** et **manque de lumière**, ce qui donne des clichés bof, voire carrément des "photos volées". 👓📸😅
-    <br/> ![小米AI眼镜体验](https://cdnv2.ruguoapp.com/FnwSbRO8V-0qQd--BwSMvqm4JYVev3.jpg) <br/>
-    <br/> ![小米AI眼镜佩戴](https://cdnv2.ruguoapp.com/FvxUKr5Zn8Cdd_UHFbVaGd_-N63bv3.jpg) <br/>
-    ['Plus de détails'](https://m.okjike.com/originalPosts/685e414ff432421164e9aeda)
-
-4.  Wang Xuan Leo a pointé un détail crucial de la **conférence de presse Xiaomi** : le système de **conduite intelligente** de la **Xiaomi SU7** utilise des **puces de la série Nvidia Thor**. 🚗⚡️ L'auteur estime que, comparé à d'autres marques qui utilisent plusieurs puces Orin avec leurs prix associés, cette décision de **M. Lei** montre un excellent rapport qualité-prix et une avancée technologique. 👍
-    <br/> ![小米SU7智能驾驶](https://cdnv2.ruguoapp.com/Fq778kq_DuRq8S25Pj1eTqBe43_3v3.png) <br/>
-    ['Plus de détails'](https://m.okjike.com/originalPosts/685df372d82bae994a83ab09)
-
-5.  AI Warts de Carl a partagé une expérience de "bataille royale" entre **agents IA de programmation en ligne de commande**. 🤖💥 Six participants (dont **claude-code**, **gemini**, etc.) devaient **trouver et éliminer les autres processus** pour être le dernier survivant, démontrant le côté fun des affrontements IA. 🎮
-    <video src="https://video.twimg.com/amplify_video/1937950266814332928/vid/avc1/2318x2160/VzFtKuuOO6jZzPh0.mp4?tag=21" controls="controls" width="100%"></video>
-    ['Plus de détails'](https://x.com/aiwarts/status/1938331396373967094)
-
-6.  Baoyu a partagé un article de Paul Sangle-Ferriere, co-fondateur de Cubic, qui révèle comment ils ont réussi à réduire de 51% le taux de faux positifs de leur **assistant de révision de code IA**. Ils y sont parvenus en forçant l'IA à fournir des **journaux de raisonnement**, en simplifiant leur **boîte à outils** et en utilisant des **micro-agents dédiés**, le rendant plus discret et précis. 🛠️💡 Ces retours d'expérience offrent des éclaircissements importants pour concevoir des **agents IA** efficaces. 🎯 ['Plus de détails'](https://baoyu.io/translations/learnings-from-building-ai-agents)
-    <br/> ![AI代码审查助手优化](https://baoyu.io/uploads/2025-06-26/1750961084743.png) <br/>
-
-7.  ChatV a partagé une **astuce de dialogue IA** unique : après une discussion approfondie avec une IA, il/elle lui demande de revoir et de résumer ses propres **caractéristiques de pensée** (décrites en 10 phrases simples) et de donner des **conseils pour mieux dialoguer avec l'IA** (en 10 phrases simples). 🤔💬 Cette méthode aide non seulement les utilisateurs à **mieux se comprendre**, mais aussi à **optimiser leurs futures interactions avec l'IA**. ✨ ['Plus de détails'](https://m.okjike.com/originalPosts/685d84ac2b50c68918c64ea9)
+7.  ⚠️ wwwgoubuli a soulevé un point crucial : il est peu judicieux de vouloir gérer toutes les règles avec des prompts textuels massifs et longs, car cela risque de provoquer des oublis d'instructions. 🤔 Selon lui, une meilleure stratégie consisterait à **stratifier**, à opter pour le **traitement multi-agents** en leur attribuant des rôles spécifiques, plutôt que de copier bêtement certains modèles (comme Claude) qui fourrent toutes les instructions d'un coup. C'est une vraie pépite de sagesse ! Plus de détails : ['https://x.com/wwwgoubuli/status/1938647120812356008'](https://x.com/wwwgoubuli/status/1938647120812356008)
 
 ---
 
@@ -102,5 +90,5 @@ Une étude sur l'IA révèle un phénomène de "grokking" dans le pré-entraîne
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Le petit bar d'une vie future](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [La station d'infos d'une vie future](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://s1.imagehub.cc/images/2025/06/24/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://s1.imagehub.cc/images/2025/06/24/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [来生情报站](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Le Petit Bar](https://s1.imagehub.cc/images/2025/06/24/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Le QG Info](https://s1.imagehub.cc/images/2025/06/24/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
