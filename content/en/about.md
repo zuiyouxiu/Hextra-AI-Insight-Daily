@@ -6,23 +6,21 @@ sidebar:
 ---
 #### 👋 He Xi 2077 / justlovemaki
 
-> Been coding for ten years, my fingers feel the chill,
-> Got this pent-up ambition, waiting to fulfill.
-> Suddenly, AI's making a huge stir, like thunder and wind,
-> I'm vowing to reach for the skies, and jump right in.
+> Ten years of coding, and honestly, my fingers were getting stiff and my spirits a bit low.
+> But then, AI burst onto the scene with a bang, and now I'm ready to go all-in and make some waves!
 
-#### 🚀 My Code Philosophy
+#### 🚀 My Coding Philosophy
 
-> Tech for the People
+> Tech for the people
 
 #### ✨ Featured Projects
 
-*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   An AI image generation script powered by Cloudflare Workers.
-*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   A content aggregation and generation platform driven by Cloudflare Workers. It daily curates the latest happenings in the AI field for you, including industry news, hot open-source projects, cutting-edge academic papers, and social media commentary from tech big shots.
-*   Check out my [GitHub](https://github.com/justlovemaki) for more project details.
+*   **[Open-source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   An AI image generation script built on Cloudflare Workers.
+*   **[Open-source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   A content aggregation and generation platform that runs on Cloudflare Workers. It's like your daily dose of AI goodness, hand-picking the latest in the AI world – from industry news and trending open-source projects to cutting-edge research papers and what tech bigwigs are saying on social media.
+*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
 
-#### 🌱 What I'm Exploring
+#### 🌱 Currently Exploring
 
-I'm really into LLM applications and website SEO, and I'm actively diving into learning and getting hands-on with them.
+> I'm super into LLM applications and website SEO right now, and I'm really diving deep into learning and putting things into practice.
