@@ -281,3 +281,7 @@ strong:is(html[class~="dark"] *) {
     color: #f90;
     padding: 3px;
 }
+
+.content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *) {
+    color: #f90;
+}
