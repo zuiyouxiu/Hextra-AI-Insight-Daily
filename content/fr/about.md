@@ -6,23 +6,21 @@ sidebar:
 ---
 #### 👋 何夕2077 / justlovemaki
 
-> Dix ans à coder, ça laisse les doigts froids,
-> Les galères s'amoncellent, sans que rien n'y fasse.
-> Soudain, l'IA déboule, c'est la folie,
-> Je jure de me jeter à fond dedans !
+> Dix ans à coder, les doigts gelés, le cafard au fond du cœur.
+> Puis d'un coup, l'IA qui déboule, j'me jure de me lancer à fond dans l'arène !
 
-#### 🚀 Ma philosophie du code
+#### 🚀 Ma philo du code
 
-> La technologie au service du peuple
+> La tech au service des gens.
 
 #### ✨ Mes projets phares
 
 *   **[Contribution open source/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   Script de génération d'images par IA basé sur Cloudflare Worker
+    *   Script de génération d'images IA basé sur Cloudflare Worker.
 *   **[Contribution open source/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   Plateforme d'agrégation et de génération de contenu propulsée par Cloudflare Workers. Elle sélectionne quotidiennement pour vous les dernières actualités dans le domaine de l'IA, y compris les nouvelles de l'industrie, les projets open source populaires, les articles de recherche de pointe et les publications sur les réseaux sociaux des grands influenceurs tech.
-*   Pour plus de détails sur mes projets, consultez mon [GitHub](https://github.com/justlovemaki).
+    *   Une plateforme d'agrégation et de génération de contenu, propulsée par Cloudflare Workers. Chaque jour, elle te déniche les dernières actus dans le domaine de l'IA, genre les news du secteur, les projets open source qui buzzent, les papiers académiques pointus et les tweets des gourous de la tech.
+*   Pour plus de détails sur mes projets, jette un œil à mon [GitHub](https://github.com/justlovemaki).
 
-#### 🌱 Mes explorations actuelles
+#### 🌱 Ce que j'explore en ce moment
 
-J'ai un intérêt marqué pour les applications LLM et le SEO de sites web, et je m'y plonge activement pour apprendre et pratiquer.
+Je suis à fond sur les applications LLM et le SEO web, et je me plonge activement dans l'apprentissage et la pratique.
