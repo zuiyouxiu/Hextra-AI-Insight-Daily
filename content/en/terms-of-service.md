@@ -10,44 +10,44 @@ sidebar:
 
 ---
 
-Welcome to our website (referred to as "**this Site**" or "**we**"). Please read these Terms of Service carefully before using our services. By accessing or using this Site, you agree to and accept these terms.
+Welcome to our website (hereinafter referred to as "the **Site**" or "**we**"). Please take a moment to read these Terms of Service carefully before using our services. By accessing or using the Site, you agree to be bound by these terms.
 
-## 1. Services Overview
-This Site provides users with paid subscription content and membership services, including but not limited to blog posts, exclusive resources, e-books, community interaction, and more. Some content is accessible only to subscribed users.
+## 1. About Our Services
+The Site provides users with paid subscription content and membership services, including but not limited to blog posts, exclusive resources, e-books, and community features. Some content is only available to subscribers.
 
-## 2. User Registration and Account
-- Users must provide a valid email address and set a password to register for an account.
-- Users are responsible for the security of their account and all activities conducted through it. Transferring or sharing accounts is **strictly prohibited**.
-- This Site reserves the right to **suspend or terminate** user accounts in case of a violation of these terms.
+## 2. User Registration and Accounts
+- To register for an account, you'll need to provide a valid email address and set a password.
+- You're responsible for the security of your account and all activity on it. **No sharing or transferring** your account, please!
+- We reserve the right to **suspend or terminate** your account if you violate these terms.
 
 ## 3. Paid Subscription Services
-- Subscription services are billed on a monthly/annual basis, with fees clearly displayed on the checkout page.
-- All payments are processed through third-party payment platforms (e.g., Stripe, PayPal). This Site does not store your payment information.
-- Subscriptions will **automatically renew** unless canceled before the end of the current billing cycle.
-- Unless legally required or otherwise stated in specific promotions, payments are **non-refundable** after purchase.
+- Subscriptions are billed monthly/annually, and the fees will be clearly shown on the checkout page.
+- All payments are processed through third-party platforms (like Stripe, PayPal). We don't store your payment info.
+- Your subscription will **automatically renew** unless you cancel before your current billing cycle ends.
+- All payments are **non-refundable**, unless required by law or stated otherwise in a specific promotion.
 
 ## 4. Content Usage and Intellectual Property
-- All original content is **copyrighted by this Site**. Unauthorized copying, reproduction, or commercial use is prohibited.
-- Users are granted only a **non-exclusive, non-transferable access right** for personal learning and reading.
-- For commercial use or extensive quoting, please contact this Site for authorization.
+- All original content is **copyrighted by us**. You can't copy, reproduce, or use it for commercial purposes without our permission.
+- You get a **non-exclusive, non-transferable right to access** the content for your personal learning and reading only.
+- If you want to use it for commercial purposes or cite it extensively, please get in touch with us for authorization.
 
 ## 5. User Conduct Guidelines
-- Users are **strictly prohibited** from uploading, posting, or distributing any content that is illegal, harassing, false, offensive, or infringes upon the rights of others.
-- It is **strictly prohibited** to use technical means for bulk downloading, scraping, or cracking of member content.
-- This Site reserves the right to remove inappropriate content and **ban violating users**.
+- **Don't** upload, post, or share any content that's illegal, harassing, false, offensive, or infringes on others' rights.
+- **No** bulk downloading, scraping, or cracking our member content using technical means.
+- We have the right to remove inappropriate content and **ban users who break the rules**.
 
 ## 6. Service Changes and Interruptions
-- We reserve the right to change, suspend, or terminate part or all of our services at any time without prior notice.
-- This Site **will not be liable for compensation** if content is temporarily inaccessible due to force majeure, server malfunction, or third-party service interruption.
+- We reserve the right to change, suspend, or stop any part or all of our services at any time, without prior notice.
+- If content is temporarily unavailable due to force majeure, server issues, or third-party service interruptions, we **won't be liable for compensation**.
 
 ## 7. Disclaimer
-- The information provided on this Site is for reference only and **does not constitute** any professional advice (e.g., financial, legal, medical, etc.).
-- This Site **will not be held liable** for any direct or indirect losses incurred by users due to the use of this Site's content or services.
+- The information we provide is for general reference only and **doesn't constitute** professional advice (like financial, legal, or medical advice).
+- We are **not responsible** for any direct or indirect losses you might incur from using our content or services.
 
 ## 8. Governing Law
-- These Terms of Service shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law principles.
-- Any dispute arising out of or related to these terms shall first be resolved by friendly negotiation between the parties; if negotiation fails, you agree to submit to the jurisdiction of the courts located in Santa Clara County, California.
+- These Terms of Service are governed by and construed in accordance with the laws of the State of California, USA, without regard to its conflict of law principles.
+- Any disputes arising out of or related to these terms should first be resolved through friendly negotiation. If that doesn't work out, you agree to submit to the exclusive jurisdiction of the courts located in Santa Clara County, California.
 
 ## 9. Contact Us
-- If you have any questions about these terms, please contact us via:
+- Got questions about these terms? Feel free to reach out to us:
 - 📧 **Email**: [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
