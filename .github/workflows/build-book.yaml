@@ -43,7 +43,8 @@ jobs:
             echo "使用的代理前缀: ${{ vars.IMAGE_PROXY_URL }}"
             find clone/daily -type f -name "*.md" -exec sed -i \
               -e 's|upload.chinaz.com|pic.chinaz.com|g' \
-              -e 's|https://pic.chinaz.com|${{ vars.IMAGE_PROXY_URL }}https://pic.chinaz.com|g' {} +
+              -e 's|https://pic.chinaz.com|${{ vars.IMAGE_PROXY_URL }}&|g' \
+              -e 's|https://tvax[12].sinaimg.cn|${{ vars.FOLO_IMAGE_PROXY_URL }}&|g' {} +
             echo "URL 替换完成。"
           else
             echo "警告: 仓库变量 IMAGE_PROXY_URL 未设置，跳过 URL 替换。"
