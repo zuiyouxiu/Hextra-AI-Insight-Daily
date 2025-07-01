@@ -6,21 +6,23 @@ sidebar:
 ---
 #### 👋 何夕2077 / justlovemaki
 
-> Dix ans à coder, les doigts gelés, le cafard au fond du cœur.
-> Puis d'un coup, l'IA qui déboule, j'me jure de me lancer à fond dans l'arène !
+> Dix ans de code, les doigts givrés,
+> Des trucs sur le cœur, pas encore sortis.
+> D'un coup, l'IA a tout chamboulé,
+> Je jure de tout déchirer dans le cloud.
 
 #### 🚀 Ma philo du code
 
-> La tech au service des gens.
+> La tech au service de tous
 
 #### ✨ Mes projets phares
 
 *   **[Contribution open source/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
     *   Script de génération d'images IA basé sur Cloudflare Worker.
 *   **[Contribution open source/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   Une plateforme d'agrégation et de génération de contenu, propulsée par Cloudflare Workers. Chaque jour, elle te déniche les dernières actus dans le domaine de l'IA, genre les news du secteur, les projets open source qui buzzent, les papiers académiques pointus et les tweets des gourous de la tech.
-*   Pour plus de détails sur mes projets, jette un œil à mon [GitHub](https://github.com/justlovemaki).
+    *   Plateforme de collecte et de génération de contenu propulsée par Cloudflare Workers. Elle agrège quotidiennement les dernières infos du monde de l'IA, incluant les news du secteur, les projets open source qui buzzent, les papiers de recherche de pointe et les commentaires des gros pontes de la tech sur les réseaux sociaux.
+*   Retrouve plus de détails sur mes projets sur mon [GitHub](https://github.com/justlovemaki).
 
-#### 🌱 Ce que j'explore en ce moment
+#### 🌱 Ce qui me branche en ce moment
 
-Je suis à fond sur les applications LLM et le SEO web, et je me plonge activement dans l'apprentissage et la pratique.
+Je suis super intéressé par les applis LLM et le SEO web, et je m'y mets à fond pour apprendre et mettre en pratique.
