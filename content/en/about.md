@@ -6,21 +6,23 @@ sidebar:
 ---
 #### 👋 Hexi 2077 / justlovemaki
 
-> Ten years of coding, my fingertips have gone cold; still a bunch of frustrations bottled up inside.
-> Suddenly, I hear the storm of AI brewing; gotta throw myself into it and give it my best shot.
+> A decade of code, my fingertips grown cool,
+> My chest still heavy with unvented angst.
+> But then, the AI storm roared into life,
+> Vowing to jump into the fray, aiming for the skies.
 
 #### 🚀 My Code Philosophy
 
-> Tech for the people
+> Tech for the People
 
-#### ✨ Featured Projects
+#### ✨ Featured Work
 
-*   **[Open Source Contribution: CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
     *   An AI image generation script powered by Cloudflare Workers.
-*   **[Open Source Contribution: CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   A content aggregation and generation platform driven by Cloudflare Workers. It curates the latest happenings in the AI space for you daily, including industry news, trending open-source projects, cutting-edge academic papers, and social media takes from big-name tech influencers.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   A content aggregation and generation platform driven by Cloudflare Workers. It curates daily updates on the latest in AI, bringing you industry news, trending open-source projects, cutting-edge research papers, and social media buzz from top tech influencers.
 *   Check out my [GitHub](https://github.com/justlovemaki) for more project details.
 
-#### 🌱 What I'm Currently Exploring
+#### 🌱 Currently Exploring
 
-I'm super into LLM applications and website SEO right now, and I'm diving deep into learning and putting it all into practice.
+I'm super keen on LLM applications and website SEO, and I'm actively diving into learning and hands-on practice.
