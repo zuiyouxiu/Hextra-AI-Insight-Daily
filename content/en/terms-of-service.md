@@ -10,44 +10,44 @@ sidebar:
 
 ---
 
-Welcome to our website (referred to as "**the Site**" or "**we**"). Please take a moment to read these Terms of Service carefully before using our services. By accessing or using the Site, you agree to and accept these terms.
+Welcome to this website (from now on, "**this Site**" or "**we**"). Before you dive into using our services, please take a moment to carefully read these Terms of Service. Your access or use of this Site means you agree to and accept these terms.
 
-## 1. Service Overview
-We offer paid subscription content and membership services to users, including but not limited to blog posts, exclusive resources, e-books, and community interaction. Heads up, some content is only available to subscribed users.
+## 1. What We Offer
+This Site gives users access to paid subscription content and membership services, including things like blog posts, exclusive resources, e-books, community interaction, and more. Some content is only for our subscribers.
 
-## 2. User Registration and Accounts
-- Users need to provide a valid email address and set a password to register an account.
-- Users are responsible for keeping their account secure and for all activity that happens on it. It's **strictly forbidden** to transfer or share your account.
-- We have the right to **suspend or terminate** an account if a user violates these terms.
+## 2. Signing Up & Your Account
+- You'll need to give us a valid email address and set up a password to create an account.
+- You're in charge of keeping your account safe and for everything that happens on it. And listen, **no** transferring or sharing your account!
+- If you don't play by the rules, we have the right to **pause or close** your account.
 
-## 3. Paid Subscription Services
-- Subscription services are billed monthly/annually, and the fees are clearly shown on the checkout page.
-- All payments are processed through third-party payment platforms (like Stripe, PayPal). We don't store your payment information.
-- Your subscription will **automatically renew** unless you cancel before the current billing cycle ends.
-- Unless required by law or stated otherwise in specific promotions, payments are **non-refundable**.
+## 3. Subscriptions & Payments
+- Our subscriptions are billed monthly or annually, and you'll see the exact cost clearly on the checkout page.
+- All payments go through third-party platforms (like Stripe, PayPal), and just so you know, we never store your payment info here.
+- Your subscription will **automatically renew** unless you cancel it before your current billing period wraps up.
+- Once you've paid, there are **no refunds**, unless the law absolutely says we have to, or if we've specifically mentioned it in a special promotion.
 
-## 4. Content Usage and Intellectual Property
-- All original content is **copyrighted by us**. You're not allowed to copy, reproduce, or use it for commercial purposes without our permission.
-- Users get **non-exclusive, non-transferable access** solely for personal learning and reading.
-- If you want to use content for commercial purposes or quote extensively, please reach out to us for permission.
+## 4. How You Can Use Our Content & Who Owns It
+- All original content is **our copyright**. Please don't copy, repost, or use it for commercial stuff without our permission.
+- You only get a **non-exclusive, non-transferable right to access** this content for your personal learning and reading. That's it.
+- If you're looking to use it commercially or quote large parts, just reach out to us for permission.
 
-## 5. User Conduct Guidelines
-- It's **forbidden** to upload, post, or spread any content that's illegal, harassing, false, offensive, or infringes on others' rights.
-- You're **not allowed** to use technical means to mass download, scrape, or hack into member content.
-- We have the right to remove inappropriate content and **ban users who break the rules**.
+## 5. What Not to Do
+- Seriously, **don't** upload, post, or share anything that's illegal, harassing, fake, offensive, or steps on other people's rights.
+- And **no** mass downloading, scraping, or trying to crack our member content using any tech tricks.
+- We can remove any content that's not cool and **ban users who don't play by the rules**.
 
-## 6. Service Changes and Interruptions
-- We reserve the right to change, suspend, or terminate part or all of our services at any time, without prior notice.
-- If content is temporarily unavailable due to force majeure, server failures, or third-party service interruptions, we are **not responsible for any compensation**.
+## 6. When Things Change or Go Down
+- Just so you know, we can change, pause, or even completely stop any part or all of our services anytime, without giving you a heads-up.
+- If you can't access content temporarily because of things totally out of our control – like server glitches or third-party service outages – we're **not on the hook for any compensation**.
 
-## 7. Disclaimer
-- The information provided on this site is for informational purposes only and **does not constitute** any professional advice (e.g., financial, legal, medical, etc.).
-- We are **not responsible** for any direct or indirect losses or damages users incur from using our content or services.
+## 7. Important Disclaimer
+- The info we put out on this Site is just for your general info. It's **not** professional advice (like financial, legal, or medical stuff), so please don't take it as such.
+- We're **not responsible for** any direct or indirect losses you might run into from using our content or services.
 
-## 8. Governing Law
-- These Terms of Service are governed by and construed in accordance with the laws of the State of California, USA, without regard to its conflict of law principles.
-- For any dispute arising out of or related to these terms, both parties should first try to resolve it amicably through negotiation. If negotiation doesn't work out, you agree to submit to the exclusive jurisdiction of the courts located in Santa Clara County, California.
+## 8. The Legal Stuff
+- These Terms of Service are governed by and interpreted according to the laws of California, USA, without considering any conflict of law principles.
+- Any disagreements that pop up because of or relate to these terms should first be sorted out through friendly talks between both parties. If those talks don't work out, you agree to take the dispute to the courts with jurisdiction in Santa Clara County, California.
 
-## 9. Contact Us
-- If you have any questions about these terms, please contact us using the following:
+## 9. Get In Touch
+- Got questions about these terms? Feel free to reach out to us here:
 - 📧 **Email**: [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
