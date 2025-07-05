@@ -2,108 +2,87 @@
 linkTitle: Today's Daily
 title: Today's Daily-AI日报
 breadcrumbs: false
-next: /ja/2025-07/2025-07-04
+next: /ja/2025-07/2025-07-05
 description: AI 業界のニュース、オープンソースのホットスポット、学術的フロンティア、ビッグ V の意見を毎日厳選。AI 情報、AI デイリー、AI
-  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;この度、WeChat Pay（微信支付）が革新的なMCP機能をリリースしたんだけど、これがもうAIアプリの商業化に"高速道路”を切り開いたみたいなもんなんだ！🚀
-  これ、AIがユーザーとやり取りしてる最中にそのまま決済できちゃうんだよね。支払いプロセスがめちゃくちゃ簡単になるし、コンバージョン率も爆上がりするだけじゃなくて、データループもうまく構築されてて、AIがリアルタイムでサービスを調整できるし、売上がそのままデータソースになるから、AIビジネスモデルの自己学習やシナリオ拡張も進むってワケ！まさに一石何鳥なんだって話！💡
+  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;Grok 4とGrok 4 Codeのベンチマークテスト結果がリークされたっぽいんだ！😲
+  Grok 4はHLE（人類最終試験）でなんと45%っていう驚きの成績を叩き出したし、GPQAやAIME '25なんかのテストでもバッチリ結果を出してて、他の多くのライバルを大きく上回るか、肩を並べるレベルなんだ。一部のネットユーザーは、HLEのハイスコアはテストのやり方に違いがあるんじゃないかって疑問視してるけど、もしこれらのデータが本当なら、Grok
+  4は間違いなくAI大規模モデル開発の大きな一歩になるはず！xAIの公式発表をワクワクしながら待とうぜ。🚀 もっと詳しく
 cascade:
   type: docs
 ---
-## AI洞察日報 2025/7/5
+## AI洞察デイリー 2025/7/6
 
-> `AI日報` | `朝8時更新` | `全ネットデータ集約` | `最先端科学の探求` | `業界の声自由発信` | `オープンソースの革新力` | `AIと人類の未来` | [ウェブ版はこちら↗️](https://ai.hubtoday.app/)
+> `AI 日報` | `朝8時更新` | `全ネットデータ集計` | `最先端科学探求` | `業界が自由に発信` | `オープンソースの革新力` | `AIと人類の未来` | [ウェブ版はこちら↗️](https://ai.hubtoday.app/)
 
 
 
-### **AIコンテンツ概要**
+### **AIコンテンツ要約**
 
 ```
-WeChat PayのMCP機能がAIの商業化を後押し、Metaが能動的なチャットボットをテスト中。
-新しいオープンソースAIモデルが性能を向上、電力会社がAIの電力消費による世界的な脅威を警告。
-ByteDance、MiniMaxが複数のAIツールをオープンソース化、AIコラボレーションの新しいモデルを模索。
+Grok 4モデルのテスト結果はすごく良い感じだし、MAS-GPTみたいなAI研究もどんどん進化してるんだ。
+だけど、AIモデルって関係ない情報に結構左右されやすいし、AIコンテンツの氾濫は学術とか社会の信頼を損ねてるんだよね。
+AIのせいでテック業界ではリストラの波が来たり、製品の価格設定でも揉めてるけど、コンテンツ制作とか業界の発展を大きく変えつつもあるんだ。
 ```
 
 
 
-### **AI製品と機能更新**
+### AI製品と機能の更新
 
-1.  この度、**WeChat Pay（微信支付）**が革新的な**MCP**機能をリリースしたんだけど、これがもうAIアプリの商業化に"高速道路”を切り開いたみたいなもんなんだ！🚀 これ、AIがユーザーとやり取りしてる最中にそのまま決済できちゃうんだよね。支払いプロセスがめちゃくちゃ簡単になるし、コンバージョン率も爆上がりするだけじゃなくて、データループもうまく構築されてて、AIがリアルタイムでサービスを調整できるし、売上がそのままデータソースになるから、AIビジネスモデルの**自己学習**やシナリオ拡張も進むってワケ！まさに一石何鳥なんだって話！💡
+1.  **Grok 4**と**Grok 4 Code**の**ベンチマークテスト**結果がリークされたっぽいんだ！😲 **Grok 4**は**HLE**（人類最終試験）でなんと**45%**っていう驚きの成績を叩き出したし、**GPQA**や**AIME '25**なんかのテストでもバッチリ結果を出してて、他の多くのライバルを大きく上回るか、肩を並べるレベルなんだ。一部のネットユーザーは、**HLE**のハイスコアはテストのやり方に違いがあるんじゃないかって疑問視してるけど、もしこれらのデータが本当なら、**Grok 4**は間違いなく**AI大規模モデル**開発の大きな一歩になるはず！xAIの公式発表をワクワクしながら待とうぜ。🚀 [もっと詳しく](https://www.jiqizhixin.com/articles/2025-07-05-3)
+    <br/> [![画像](https://image.jiqizhixin.com/uploads/editor/28bb00f0-9a42-4816-9367-d60a5e6c9a42/640.png "Grok 4ベンチマークテスト結果")](https://image.jiqizhixin.com/uploads/editor/28bb00f0-9a42-4816-9367-d60a5e6c9a42/640.png) <br/>
 
-    <br/> [![微信支付MCP功能界面](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724193250257666411626.png)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724193250257666411626.png) <br/>
-    <br/> [![微信支付MCP示例](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724194369235242609118.png)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724194369235242609118.png) <br/>
+### AI最先端研究
 
-2.  **Meta**が人気のアプリ、**Facebook Messenger**と**WhatsApp**で、"もっと積極的”な**チャットボット**🤖をこっそりテストしてるんだって！すごいのが、ユーザーの好みを覚えてて、自分から"話しかけてくる”レベルなんだとか！🤔 これ、ユーザーとAIのコミュニケーションを深めて、かなりの収益をもたらす可能性はあるんだけど、みんなも忘れちゃいけないのが、潜在的な**セキュリティリスク**には十分注意しないといけないってことだよ！⚠️
+1.  上海交通大学とかの機関が共同で**MAS-GPT**プロジェクトを発表したんだ。複雑な**マルチエージェントシステム**（MAS）構築の悩みを解決するためにね。これは**生成型MAS設計パラダイム**を採用してて、Queryを一句入力するだけで、MASのPythonコード一式を自動で生成してくれるから、MASの構築が**ChatGPT**とチャットするみたいに簡単になるんだ！🤩 いろんな実験で、**MAS-GPT**はより高い**精度**、より強い**汎用性**、より低い**コスト**、そして抜群の**互換性**を見せてくれたんだって。これは**AGI**第5段階への歩みを加速させてくれるかもね。🚀 [論文アドレス](https://arxiv.org/abs/2503.03686) [コードリンク](https://github.com/MASWorks/MAS-GPT) [モデルリンク](https://huggingface.co/MASWorks/MAS-GPT-32B)
+    <br/> [![画像](https://image.jiqizhixin.com/uploads/editor/af3aba3c-10ef-4003-a315-9486df072759/640.png "MAS-GPTプロジェクトの利点比較")](https://image.jiqizhixin.com/uploads/editor/af3aba3c-10ef-4003-a315-9486df072759/640.png) <br/>
 
-    <br/> [![Meta聊天机器人示意图](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202311151629243344_7.jpg)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202311151629243344_7.jpg) <br/>
+2.  最新の研究でね、**大規模モデル**の数学の問題文に「猫が寝てる」😴みたいな、一見**関係ない情報**を混ぜたら、なんと、その**推論能力**が著しく邪魔されることが分かったんだ。**DeepSeek-R1**とか**OpenAI o1**みたいなモデルのエラー率が倍以上に跳ね上がっちゃうし、**トークン消費量**もめっちゃ増えたんだって！😱 これってまさにLLMの**脆弱性**に警鐘を鳴らしてるようなもんだよね。今後のモデルの**頑健性**研究に新たな課題を突きつけてるんだ。🤔 [もっと詳しく](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247808013&idx=1&sn=272e54ef1f178a2887c268ce178c4c13)
+    <br/> [![画像](https://wechat2rss.xlab.app/img-proxy/?k=07946254&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FYicUhk5aAGtBO6nknzjDxTAraechstMDNXml8ZiceovYE4PuF7iczFMc0jLia4HduXDec5FMCDRoGvaqLia07IdANaw%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg "LLM頑健性研究の課題")](https://wechat2rss.xlab.app/img-proxy/?k=07946254&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FYicUhk5aAGtBO6nknzjDxTAraechstMDNXml8ZiceovYE4PuF7iczFMc0jLia4HduXDec5FMCDRoGvaqLia07IdANaw%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg) <br/>
 
-### **AI最先端研究**
+### AI業界展望と社会への影響
 
-1.  ドイツのAIコンサルティング会社TNGが、"やばすぎる”AIモデル「**DeepSeek R1T2 Chimera**🧪」を発表したんだ！これ、DeepSeek V3、R1、R1-0528っていう3つのモデルをめちゃくちゃ巧みに融合させて、イケてる"**専門家の組み合わせ（AoE）技術**”を採用してるから、なんと公式のR1より速くてパワフルなんだって！🔥 Hugging Faceで重みが公開されてるこの**オープンソースモデル**、速度、賢さ、そして出力効率の**最高のバランス**を見つけてくれるって期待されてるから、マジで楽しみだよね！🚀 詳細はこちらの['モデルアドレス'](https://huggingface.co/tngtech/DeepSeek-TNG-R1T2-Chimera)と['論文アドレス'](https://arxiv.org/pdf/2506.14794)をチェックしてみて！
+1.  AI技術のせいでインターネットが「巨大なゴミ捨て場」🗑️になっちゃってるんだ。AIが生成した大量の不気味な動画が**不気味の谷現象**を利用して**SNS**でバズりまくってるし、**学術分野**も質の低い、ひどい時には**フェイク論文**で溢れかえってて、**学術的な信頼性**や**科学的価値**を著しく損ねてるんだ。この現象は、人々の好奇心を満たすだけじゃなく、AIツールの低コスト特性のせいでさらにエスカレートしてるんだよね。AIを受け入れる一方で、その潜在的な負の影響にはもっと注意しなきゃいけないってことだね！🚨 [もっと詳しく](https://www.jiqizhixin.com/articles/2025-07-05-5)
+    <br/> [![画像](https://image.jiqizhixin.com/uploads/editor/fbf7e372-3a98-48aa-90b6-22231541d627/640.png "AI生成の不気味な動画が拡散")](https://image.jiqizhixin.com/uploads/editor/fbf7e372-3a98-48aa-90b6-22231541d627/640.png) <br/>
 
-    <br/> [![DeepSeek R1T2 Chimera模型示意](https://image.jiqizhixin.com/uploads/editor/edecbe11-2a5b-456d-beb4-3b34a819e6df/640.png)](https://image.jiqizhixin.com/uploads/editor/edecbe11-2a5b-456d-beb4-3b34a819e6df/640.png) <br/>
+2.  2025年上半期、世界の**テック業界**では**AI**による構造調整のせいで、すでに9万4000人がリストラされたんだ。そのうち**マイクロソフト**は最近9000人を解雇してる。さらに物議を醸してるのが、Xboxの幹部がリストラされた従業員にAIで感情をコントロールするよう提案したこと。もう、笑うしかないよね。😂 この**リストラの波**は、よくある経済危機じゃなくて、AIが一部の仕事を代替して、企業がAIへの投資を加速させた結果なんだ。ソフトウェアエンジニア、HR、カスタマーサービスなど、いろんな分野が影響を受けてるんだよ。💔 [もっと詳しく](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652607008&idx=1&sn=f4eaf35d3c648f6182f0049eeef9b758)
+    <br/> [![画像](https://wechat2rss.xlab.app/img-proxy/?k=921016bc&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_jpg%2FUicQ7HgWiaUb1JhEoiaiadtrnQDXXIgUphY98BANCmZ4etEgvVRhTHCriaQOficezGkRrVaj7JpNHoYXCQoibX8AMXaBg%2F0%3Fwx_fmt%3Djpeg "AIによるテック業界のリストラ")](https://wechat2rss.xlab.app/img-proxy/?k=921016bc&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_jpg%2FUicQ7HgWiaUb1JhEoiaiadtrnQDXXIgUphY98BANCmZ4etEgvVRhTHCriaQOficezGkRrVaj7JpNHoYXCQoibX8AMXaBg%2F0%3Fwx_fmt%3Djpeg) <br/>
 
-### **AI業界の展望と社会への影響**
+### オープンソースTOPプロジェクト
 
-1.  世界最大の変圧器メーカー、**日立エナジー**のCEOが"警報”⚠️を発したんだ。彼が警告するには、AIデータセンターのジェットコースターみたいな激しい電力需要の変動が、世界の電力供給の安定を脅かす可能性があるって！⚡️ 政府に、この変動を制限するための対策を急ぐように強く求めてるんだって。📈 国際エネルギー機関も、2030年までにデータセンターの電力消費量が倍増するって予測してるし！変圧器不足に対応して電力網を安定させるために、日立エナジーは60億ドルを投資して、生産能力を上げるために1万5千人の従業員を雇用する計画なんだって、いや〜プレッシャー半端ないね！😮‍💨
+1.  **rustfs** は星が931個付いてる**高性能分散オブジェクトストレージ**プロジェクトで、**MinIO**の優れた代替案になることを目指してるんだ。✨ [プロジェクトアドレス](https://github.com/rustfs/rustfs)
 
-    <br/> [![日立能源工厂内景](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202005281122367065_91.jpg)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202005281122367065_91.jpg) <br/>
+2.  星が15931個付いてる**ciencia-da-computacao**プロジェクトは、独学したい君のために、**包括的なコンピューターサイエンスの道筋**を提供してくれるんだ。🎓🚀 [プロジェクトアドレス](https://github.com/Universidade-Livre/ciencia-da-computacao)
 
-### **オープンソースTOPプロジェクト**
+3.  **toutatis** は星が2599個付いてる便利なツールで、**Instagram**アカウントから**メールアドレス**や**電話番号**みたいな重要な情報を抜き出せるんだ。🤫 [プロジェクトアドレス](https://github.com/megadose/toutatis)
 
-1.  今日、**ByteDance（字节跳动）**傘下のAIネイティブIDE「**Trae**」が、そのコアコンポーネントである**Trae-Agent**を正式に**オープンソース化**したんだ！これって、世界中の開発者にスマートプログラミングの"特大プレゼント”を贈ったみたいなもんだよね！✨ Trae-Agentは、**自然言語駆動**のプログラミングタスク自動化に対応してて、いろんなモデルと互換性があって強力な機能も統合されてるんだ。すでに月間アクティブユーザー数が100万人を超えてるし、60億行以上のコードの提供を支援してきたってことで、ByteDanceがAI駆動型開発ツールの普及を推進する上での重要なマイルストーンになるね！💻🚀
+4.  **Motia** は星が3464個付いてるオープンソースプロジェクトで、**API**、**イベント**、**AIエージェント**に統一された**バックエンドフレームワーク**を提供することを目指してて、バックエンド開発での統合の悩みを完璧に解決してくれるよ。🛠️✨ [プロジェクトアドレス](https://github.com/MotiaDev/motia)
 
-    <br/> [![Trae-Agent功能示意图](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724303010748337361109.png)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724303010748337361109.png) <br/>
+### ソーシャルメディアシェア
 
-2.  フランスのAIラボKyutaiが最近、**Kyutai TTS**テキスト読み上げモデルを**オープンソース化**したんだけど、このモデル、まさに"音声界の魔法使い”って感じなんだ！🗣️ 超低遅延で驚くほど高精度に、自然で滑らかな音声合成を実現してるから、まるで人が話してるみたいに聞こえるんだ！✨ しかも、**テキストストリーミング**にも対応してて、**単語の正確なタイムスタンプ**まで出力できちゃうから、多言語リアルタイム音声インタラクションや字幕生成みたいなシーンでめちゃくちゃ役立つんだって。ちょっと試してみたくない？['プロジェクトアドレス'](https://kyutai.org/next/tts)でチェックしてみてね！🔊
+1.  orange.aiは**TicNote**を使ってみた感想をシェアしてるんだけど、デザインは薄くて軽いんだけど、録音を忘れがちだから、使うのが結構複雑になっちゃうんだって。😟 彼は録音量に応じて文字起こし料金を徴収するっていう、この「**ハードウェア＋サブスク**」のビジネスモデルについて深く考えたんだって。これって非合理的だけど、うまいこと利益を出してるな、って思ってるらしい。💰🤔
+    <br/> [![画像](https://pbs.twimg.com/media/GvGRyrPaMAAJc1C?format=jpg&name=orig "TicNoteの薄型デザイン")](https://pbs.twimg.com/media/GvGRyrPaMAAJc1C?format=jpg&name=orig) <br/>
+    <br/> [![画像](https://pbs.twimg.com/media/GvGRyrNaAAArTyw?format=jpg&name=orig "TicNoteの録音機能")](https://pbs.twimg.com/media/GvGRyrNaAAArTyw?format=jpg&name=orig) <br/>
 
-    <video src="https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/video/2025/0704/6388722438752929547141244.mp4" controls="controls" width="100%"></video>
-    <br/> [![Kyutai TTS模型演示](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388722437104726386832655.png)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388722437104726386832655.png) <br/>
+2.  帰蔵(guizang.ai)が警告してるんだけど、**AI製品の価格設定**はマジで慎重にいかなきゃダメだって！📢 彼は**Cursor**がひっそりと**20ドル無制限枠**を**API使用量制限付き**に変えちゃったんだって。それでユーザー体験は一気に最低になっちゃうし、余計にお金がかかるから、Redditでは大量のユーザーが大炎上して返金要求が殺到したんだって！😡
+    <br/> [![画像](https://pbs.twimg.com/media/GvFUSp-WYAAPO8A?format=jpg&name=orig "Cursor製品の価格設定が物議を醸す")](https://pbs.twimg.com/media/GvFUSp-WYAAPO8A?format=jpg&name=orig) <br/>
 
-3.  上海のAIユニコーン企業MiniMaxが先日、世界初の**オープンソース大規模ハイブリッドアーキテクチャ推論モデル「MiniMax-M1」**を発表したんだけど、これ業界に"とんでもない爆弾”を投下したって感じだよ！🤯 特にその卓越した**長文処理能力**と驚くべき**低コストな開発効率**が、すっごい注目を集めてるんだ。このモデル、最大で**100万トークン**のコンテキスト入力能力があって、いろんな評価ランキングでもめっちゃ良いパフォーマンスを見せてるから、オープンソースAIモデルの進化の方向性を塗り替える可能性を秘めてるんだって、いやー、未来が楽しみすぎる！🦄💡
+3.  帰蔵(guizang.ai)は彼らのWeChatモーメンツで、**AIがコンテンツ制作に与える影響**と「**トラフィックの嗅覚**」をどう磨くかについて熱い議論が交わされたってシェアしてるよ。🔥彼はね、AIはコンテンツ制作を根本から変えてて（例えば**AIGC**で効率が爆上がりするし、**AI Agent**も制作をサポートしてくれる）、クリエイターたちは「**バズる企画作り**」とか**IP共創**っていう新しいモードに移行させられてるんだって。**トラフィックを獲得**するには、クリエイターたちは「たくさん見て、たくさん集めて、AIをうまく使う」ことで、**プラットフォームのアルゴリズム**やユーザーの美的感覚の変化を鋭く察知し、もっと高度に「**話題に乗っかる**」ことでコンテンツの影響力を高めなきゃいけないんだよ！📈
+    <br/> [![画像](https://pbs.twimg.com/media/GvFNd4jaAAAFXGg?format=jpg&name=orig "AIがコンテンツ制作に与える影響")](https://pbs.twimg.com/media/GvFNd4jaAAAFXGg?format=jpg&name=orig) <br/>
 
-    <br/> [![MiniMax-M1模型宣传图](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202501150943267809_0.jpg)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202501150943267809_0.jpg) <br/>
+4.  楷鵬Devがめっちゃ実用的な**オープンソースのリソース**をゴリ押ししてたよ――**『中国語技術文書執筆スタイルガイド』**！✍️ 彼はこのガイドが、小中学校の教育で抜け落ちてた**技術文書の書き方ルール**を完璧に補ってくれるって指摘してて、多くの技術者にとって貴重な実践的な指針を提供してくれて、みんながもっと規範的で読みやすい文書を書けるようになる手助けをしてくれるんだって。👍 [もっと詳しく](https://m.okjike.com/originalPosts/686890634618c88abfcc3761)
+    <br/> [![画像](https://cdnv2.ruguoapp.com/FvDm4UbL5sWjaNfVdh1NZw-I57kXv3.png "中国語技術文書スタイルガイド")](https://cdnv2.ruguoapp.com/FvDm4UbL5sWjaNfVdh1NZw-I57kXv3.png) <br/>
 
-4.  **AFFiNE**は**52479**スター⭐を獲得してて、**次世代のナレッジベース**って呼ばれてるんだ。これ、**計画、整理、作成**が全部ひとつになった"オールラウンダー”って感じだね！🛠️ **プライバシー優先、オープンソース、カスタマイズ可能で即使用可能**ってとこを強調してて、NotionとかMiroみたいな既存ツールを超えることを目指してるんだから、かなり野心家だよね！😏 ['プロジェクトアドレス'](https://github.com/toeverything/AFFiNE)
+5.  meng shaoがデジタルマーケティング起業家の**Jake Ward**による**SEOの未来トレンド**に関する深い洞察をシェアしてたよ。🔍 ChatGPTが大量のクエリを処理して、Googleが**AI駆動検索**に移行するにつれて、従来のSEOは完全に**ひっくり返され**て、もう「**LLM最適化**」の時代が密かに始まってるんだって！彼はAIが主導する検索環境で、**ブランド言及**を獲得したり、**ブランド資産**を築いたり、**権威ある情報源**になることでブランドやウェブサイトが際立つようにするためだって。そうしないと、取り残されちゃうリスクがあるらしいよ。⚠️ [もっと詳しく](https://x.com/shao__meng/status/1941297172986855492)
+    <br/> [![画像](https://pbs.twimg.com/media/GvDfeGHaAAER9UK?format=jpg&name=orig "SEOの未来トレンドとLLM最適化")](https://pbs.twimg.com/media/GvDfeGHaAAER9UK?format=jpg&name=orig) <br/>
 
-5.  **Ladybird**は**44641**スター⭐を獲得！これ、"一匹狼”的な**真の独立系ウェブブラウザ**🌐で、ユーザーに新鮮なブラウジング体験を提供することを目指してるんだって。試してみる価値ありだよ！ ['プロジェクトアドレス'](https://https://github.com/LadybirdBrowser/ladybird)
-
-6.  **Label Studio**は**22884**スター⭐を獲得してて、**多種多様なデータラベリング・アノテーションツール**だよ。その核となる機能は、**標準化された出力フォーマット**を提供すること。データ処理のプロセスをめちゃくちゃ簡素化してくれるから、データサイエンティストにとってはまさに福音だね！👍 ['プロジェクトアドレス'](https://github.com/HumanSignal/label-studio)
-
-7.  **Hyperswitch**は**21415**スター⭐を持つ**オープンソースの決済交換システム**で、**Rust**言語で書かれてるんだ。**高速、信頼性、そしてお手頃価格**の決済ソリューションを提供することを目指してるよ。💳 支払いプロセスを簡素化して最適化することで、ユーザー体験全体を向上させることに力を入れてて、まさに決済分野の"頼れるアシスタント”って感じ！⚡️ ['プロジェクトアドレス'](https://github.com/juspay/hyperswitch)
-
-### **SNSシェア**
-
-1.  楊毅（Yangyi）さんが"超使える”自動化システムをシェアしてくれたんだ！📈 彼、**n8n**、**Scrapeless**、**Claude AI**をめちゃくちゃ巧みに使ってて、毎日正確に**潜在顧客**を絞り込んで、高度にカスタマイズされた"**コールドメール**”📧を送ってるんだって。このシステム、メールの開封率を効果的に上げるだけじゃなくて、迷惑メールフォルダに入っちゃうのも防いでくれるから、B2Bビジネスに毎月数万ドルの収益をもたらす可能性があるんだとか！💰 彼が強調するのは、AIを組み合わせたこういうカスタマイズされたメール送信が、今のソフトウェア実践の最新トレンドだってこと。まさにメールマーケティングの未来だね！🎯
-
-    <video src="https://video.twimg.com/amplify_video/1941026341228253184/vid/avc1/3840x2084/_DjuFztwKBcYhGJk.mp4?tag=21" controls="controls" width="100%"></video>
-
-2.  歸藏(guizang.ai)さんが、**Diaブラウザ**の超面白い新機能「**履歴サマリー**」をシェアしてくれたよ！💡 ユーザーはAIに過去1週間の閲覧データを定期的に分析させることができて、なんとこっそり見てた動画の履歴まで"丸見え”になっちゃうんだ😲。これって、AIが個人データ分析の分野でどんどん深く、パーソナルな使われ方をしてる証拠だよね。AIがどんどん私たちのこと分かってきてるって感じ！🕵️‍♀️📚 ['詳細はこちら'](https://x.com/op7418/status/1940997705779892617)
-
-    <br/> [![Dia浏览器历史总结界面](https://pbs.twimg.com/media/Gu_PFqLWAAAv_vk?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu_PFqLWAAAv_vk?format=jpg&name=orig) <br/>
-    <br/> [![Dia浏览器AI分析结果](https://pbs.twimg.com/media/Gu_PGLnXEAAakqv?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu_PGLnXEAAakqv?format=jpg&name=orig) <br/>
-
-3.  wwwgoubuliさんが、**AIと深く協力する革新的な方法**をシェアしてくれたよ。彼はもうAIに直接答えを求めるんじゃなくて、まずは自分が口頭でうまく説明できなかったり、ごちゃごちゃしてる問題をAIに整理して、要点を抽出してもらうんだって。🤔 この"AIに問題を整理させる”やり方、その後のちゃんとした回答に質の高いコンテキストを提供できるだけじゃなくて、もっとすごいことに、整理してる途中でユーザー自身が疑問の答えを見つけ出しちゃうことすらあるんだって！これ、マジで賢すぎる！✨🤯 ['詳細はこちら'](https://x.com/wwwgoubuli/status/1940974712055910818)
-
-4.  Tom Huangさんが、**Refly AIクリエイティブキャンバス**の未来のワクワクするような発展について語ってくれたよ！🎨 彼が考えてるのは、もし将来的に**マルチモーダル生成能力**（画像生成、動画生成、音声生成とかね）🎵を統合して、**Gemini**みたいなマルチモーダル理解モデルと組み合わせることができたら、コンテンツ制作がすっごく豊かになって、もっと魅力的なストーリーを一緒に作れるようになるってことなんだ！🎬 これって、AIクリエイティブツールがマルチモーダル統合においてとてつもない可能性を秘めてるってことだよね、マジで未来が楽しみ！🌟 ['詳細はこちら'](https://x.com/tuturetom/status/1940943363898834947)
-
-    <br/> [![Refly AI创作画布概念图](https://pbs.twimg.com/media/Gu-dseWWgAAPzV7?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu-dseWWgAAPzV7?format=jpg&name=orig) <br/>
-    <br/> [![Refly AI多模态生成展望](https://pbs.twimg.com/media/Gu-dsdtboAAh1mT?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu-dsdtboAAh1mT?format=jpg&name=orig) <br/>
-
-5.  @wwwgoubuliさんが、王樹義さんの疑問に対して、今のAIコード分野にいる一部の"先生方”が大口を叩くことへの不満を、ピリッと辛口に表明したんだ。👨‍💻 彼が言うには、実際に**AIプログラミング**を大量に使ってる**上級プログラマー**は、こんな結論には全く至らないし、そもそも評価することすらしないって。この発言は、AIアシストプログラミングを理解する上での**実践経験**が超重要だってことを強調してて、まさに多くのプログラマーの心の声を代弁してるよね！💬🤔 ['詳細はこちら'](https://x.com/wwwgoubuli/status/1940942626473365908)
-
-    <br/> [![AI编程讨论截图](https://pbs.twimg.com/media/Gu7eq2Gb0AINVqL?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu7eq2Gb0AINVqL?format=jpg&name=orig) <br/>
-
-6.  宝玉さんが、**アンドリュー・ン**が語る**AI**を活用して効率的に**MVP**を開発する"とっておきのアイデア”をシェアしてくれたよ！💡 彼が指摘するのは、時間がない時は、迷わず**プロジェクトの範囲を大幅に縮小**して、短期間で完成できるようにすべきだってこと。そうすれば、プロジェクトを素早く立ち上げて、アイデアを検証し、タイムリーにフィードバックを得られるようになるんだ🚀。アンドリュー・ンは、自身が**仮想観客シミュレーター**を開発した時の経験を例に挙げて、この"**クイックスタート**”方式が、どうやって開発者が先延ばし癖を克服して、新しいスキルを素早く習得し、製品のイテレーションを加速するのに役立つのかを生き生きと語ってくれてるんだ。これ、起業家にとってはまさに福音だね！🏃‍♀️ ['詳細はこちら'](https://x.com/dotey/status/1940868768948760613)
-
-    <br/> [![吴恩达MVP开发理念](https://pbs.twimg.com/media/Gu7f0T8XYAAQCI9?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu7f0T8XYAAQCI9?format=jpg&name=orig) <br/>
-
-7.  宝玉さんが、dontbesilentの"分からないことは**AI**に聞け”っていうアドバイスに対して、多くの人がなかなか実践できない"肝”をズバリ言い当てたんだ。それは、**どうやって問題を明確に説明すればいいか分からない**ってこと！🤔 彼が強調するのは、AIとのやり取りにおいて、"**質問をすること**”の難しさって、"質問に答えること”よりもずっと大きいってことなんだ。これは、効果的な**AIインタラクション**における**質問力**の重要性を深く示してるね。💡 AIに大いに助けてもらうためには、まずは正しい質問の仕方を学ぶ必要があるってことだよね！💬 ['詳細はこちら'](https://x.com/dotey/status/1940845834373157125)
+6.  宝玉がPedro Tavaresの鋭い見解をシェアしてたよ。**ソフトウェア開発**の本当の**ボトルネック**って、実は**コードを書くこと**そのものじゃなくて、「人間的なコスト」、つまり**コードレビュー**とか**知識伝達**、**テスト**、**デバッグ**、**人間関係のコミュニケーション**なんだって！🤯 **大規模言語モデル**（LLM）はあっという間にコードを生成できるけど、それはコードを書く作業を、もっと複雑な**コードの理解、テスト、信頼**っていう作業に置き換えただけで、チームの効率における根深いボトルネックは全然解決できてないんだ。🤔 [もっと詳しく](https://x.com/dotey/status/1941247337625498002)
+    <br/> [![画像](https://pbs.twimg.com/media/GvCyKD3WsAAsaza?format=jpg&name=orig "ソフトウェア開発の真のボトルネック")](https://pbs.twimg.com/media/GvCyKD3WsAAsaza?format=jpg&name=orig) <br/>
 
 ---
 
-## **音声版AI日報を聴く**
+## **音声版AIデイリーを聴く**
 
-| 🎙️ **小宇宙** | 📹 **Douyin（抖音）** |
+| 🎙️ **シャオユージョウ** | 📹 **ドウイン** |
 | --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [来生情报站](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://s1.imagehub.cc/images/2025/06/24/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://s1.imagehub.cc/images/2025/06/24/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [来生小酒館](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [来生情報ステーション](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![小酒館](https://s1.imagehub.cc/images/2025/06/24/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情報ステーション](https://s1.imagehub.cc/images/2025/06/24/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
