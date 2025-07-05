@@ -2,109 +2,87 @@
 linkTitle: Today's Daily
 title: Today's Daily-AI日报
 breadcrumbs: false
-next: /fr/2025-07/2025-07-04
-description: Récemment, WeChat Pay a lancé sa fonction innovante MCP, et c'est carrément
-  comme ouvrir une "autoroute" pour la commercialisation des applications IA ! 🚀 Ça
-  permet à l'IA de finaliser le paiement direct pendant l'interaction avec l'utilisateur.
-  Non seulement ça simplifie grave le processus de pa...
+next: /fr/2025-07/2025-07-05
+description: Les résultats des benchmarks de Grok 4 et Grok 4 Code ont l'air d'avoir
+  fuité ! 😲 Grok 4 aurait décroché un score dingue de 45% au HLE (l'Examen Final Humain),
+  et cartonnerait aussi sur des tests comme GPQA et AIME '25, surpassant ou égalant
+  la plupart de ses concurrents. Même si des internautes ...
 cascade:
   type: docs
 ---
-## Flash Quotidien IA 2025/7/5
+## Flash Infos IA 06/07/2025
 
-> `Flash IA` | `Mis à jour à 8h du mat'` | `Agrégation de données du web` | `Exploration scientifique de pointe` | `Libre expression de l'industrie` | `Puissance de l'innovation open source` | `IA et avenir de l'humanité` | [Accéder à la version web ↗️](https://ai.hubtoday.app/)
+> `Quotidien IA` | `Mise à jour 8h du mat` | `Données du web agrégées` | `Exploration scientifique de pointe` | `L'industrie s'exprime` | `Force d'innovation open-source` | `IA et futur de l'humanité` | [Accéder à la version web ↗️](https://ai.hubtoday.app/)
 
 
 
-### **Récap' IA**
+### **Résumé de l'actu IA**
 
 ```
-La fonction MCP de WeChat Pay booste la commercialisation de l'IA, Meta teste des chatbots proactifs.
-Nouveaux modèles d'IA open source améliorent les performances, les entreprises d'électricité alertent sur la consommation d'énergie de l'IA, une menace mondiale.
-ByteDance et MiniMax publient plusieurs outils IA en open source, explorant de nouveaux modèles de collaboration IA.
+Les tests du modèle Grok 4 cartonnent, la recherche en IA comme MAS-GPT innove à fond.
+Par contre, les modèles d'IA sont facilement perturbés par des infos bidon ; la prolifération de contenus IA nuit à la crédibilité académique et sociale.
+L'IA provoque une vague de licenciements dans la tech et des polémiques sur les prix des produits, mais elle redessine aussi la création de contenu et le développement sectoriel.
 ```
 
 
 
-### **Mises à Jour Produits et Fonctionnalités IA**
+### Nouvelles features et produits IA
 
-1.  Récemment, **WeChat Pay** a lancé sa fonction innovante **MCP**, et c'est carrément comme ouvrir une "autoroute" pour la commercialisation des applications IA ! 🚀 Ça permet à l'IA de finaliser le paiement direct pendant l'interaction avec l'utilisateur. Non seulement ça simplifie grave le processus de paiement pour les utilisateurs et booste le taux de conversion, mais ça crée aussi une boucle de données super intelligente. L'IA peut ajuster ses services en temps réel et même transformer les revenus en sources de données, propulsant ainsi l'**auto-apprentissage** et l'expansion des scénarios de business IA. C'est vraiment faire d'une pierre plusieurs coups ! 💡
+1.  Les résultats des **benchmarks** de **Grok 4** et **Grok 4 Code** ont l'air d'avoir fuité ! 😲 **Grok 4** aurait décroché un score dingue de **45%** au **HLE** (l'Examen Final Humain), et cartonnerait aussi sur des tests comme **GPQA** et **AIME '25**, surpassant ou égalant la plupart de ses concurrents. Même si des internautes doutent de la validité de ce score élevé au **HLE** (genre, des différences de tests, quoi), si ces chiffres sont avérés, **Grok 4** marquerait sans aucun doute un pas de géant pour les **grands modèles d'IA** ! On n'a plus qu'à attendre la confirmation officielle de xAI. 🚀 [Plus de détails](https://www.jiqizhixin.com/articles/2025-07-05-3)
+    <br/> [![Image](https://image.jiqizhixin.com/uploads/editor/28bb00f0-9a42-4816-9367-d60a5e6c9a42/640.png "Résultats du benchmark Grok 4")](https://image.jiqizhixin.com/uploads/editor/28bb00f0-9a42-4816-9367-d60a5e6c9a42/640.png) <br/>
 
-    <br/> [![Interface de la fonction MCP de WeChat Pay](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724193250257666411626.png)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724193250257666411626.png) <br/>
-    <br/> [![Exemple de MCP WeChat Pay](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724194369235242609118.png)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724194369235242609118.png) <br/>
+### Recherche IA de pointe
 
-2.  **Meta** teste discrètement un **chatbot**🤖 "plus proactif" sur ses applis populaires **Facebook Messenger** et **WhatsApp**. Ces robots sont tellement forts qu'ils peuvent se souvenir de tes préférences et venir te "draguer" tout seuls ! 🤔 Même si cette initiative peut approfondir l'interaction entre les utilisateurs et l'IA et générer des revenus pas mal, n'oublie pas qu'il faut faire gaffe aux **risques de sécurité** potentiels ! ⚠️
+1.  L'Université Jiao Tong de Shanghai et d'autres institutions ont lancé le projet **MAS-GPT**, qui vise à résoudre le casse-tête de la construction de **systèmes multi-agents** (MAS) complexes. Il adopte un **paradigme de conception MAS génératif** : juste une seule requête suffit pour générer automatiquement le code Python complet d'un MAS, rendant sa construction aussi simple que de papoter avec **ChatGPT** ! 🤩 Dans de nombreuses expériences, **MAS-GPT** a montré une **précision** supérieure, une **généralisation** plus forte, des **coûts** réduits et une **compatibilité** au top, ce qui pourrait accélérer notre progression vers la cinquième phase de l'**AGI**. 🚀 [Adresse du papier](https://arxiv.org/abs/2503.03686) [Lien code](https://github.com/MASWorks/MAS-GPT) [Lien modèle](https://huggingface.co/MASWorks/MAS-GPT-32B)
+    <br/> [![Image](https://image.jiqizhixin.com/uploads/editor/af3aba3c-10ef-4003-a315-9486df072759/640.png "Comparaison des avantages du projet MAS-GPT")](https://image.jiqizhixin.com/uploads/editor/af3aba3c-10ef-4003-a315-9486df072759/640.png) <br/>
 
-    <br/> [![Schéma du chatbot Meta](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202311151629243344_7.jpg)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202311151629243344_7.jpg) <br/>
+2.  Une étude récente a montré qu'en ajoutant des "infos parasites" comme "le chat dort" 😴 dans les énoncés de problèmes mathématiques des **grands modèles**, on peut grave perturber leur **capacité de raisonnement**, faisant doubler voire plus le taux d'erreur de modèles comme **DeepSeek-R1** et **OpenAI o1**, en plus d'augmenter massivement la **consommation de tokens** ! 😱 C'est clairement une sonnette d'alarme sur la **fragilité** des LLM, et ça pose de nouveaux défis pour la recherche sur la **robustesse** des futurs modèles. 🤔 [Plus de détails](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247808013&idx=1&sn=272e54ef1f178a2887c268ce178c4c13)
+    <br/> [![Image](https://wechat2rss.xlab.app/img-proxy/?k=07946254&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FYicUhk5aAGtBO6nknzjDxTAraechstMDNXml8ZiceovYE4PuF7iczFMc0jLia4HduXDec5FMCDRoGvaqLia07IdANaw%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg "Défis de la recherche sur la robustesse des LLM")](https://wechat2rss.xlab.app/img-proxy/?k=07946254&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FYicUhk5aAGtBO6nknzjDxTAraechstMDNXml8ZiceovYE4PuF7iczFMc0jLia4HduXDec5FMCDRoGvaqLia07IdANaw%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg) <br/>
 
-### **Recherche de Pointe en IA**
+### IA : Tendances de l'industrie et impact sur la société
 
-1.  La boîte de conseil en IA allemande TNG a sorti un modèle d'IA "sauvage de chez sauvage" – **DeepSeek R1T2 Chimera** 🧪 ! En fusionnant astucieusement les trois grands modèles DeepSeek V3, R1 et R1-0528, et en utilisant une "super cool" **technique d'agrégation d'experts (AoE)**, il est carrément plus rapide et plus puissant que le R1 officiel ! 🔥 Ce **modèle open source** avec ses poids disponibles sur Hugging Face devrait trouver le **meilleur équilibre** entre vitesse, intelligence et efficacité de sortie. On l'attend avec impatience, c'est clair ! 🚀 Pour plus de détails, visitez ['l'adresse du modèle'](https://huggingface.co/tngtech/DeepSeek-TNG-R1T2-Chimera) et ['l'adresse du papier'](https://arxiv.org/pdf/2506.14794).
+1.  La technologie IA est en train de transformer Internet en une "méga-décharge" 🗑️ : des tonnes de vidéos cheloues générées par l'IA, exploitant l'**effet de la vallée dérangeante**, se propagent comme une traînée de poudre sur les **réseaux sociaux**. Le **milieu académique** est aussi inondé d'articles de basse qualité, voire de **fausses publications**, ce qui nuit gravement à la **crédibilité universitaire** et à la **valeur scientifique**. Ce phénomène ne fait pas que répondre à la soif de sensations fortes du public, il s'aggrave aussi à cause du faible coût des outils IA. Moralité : si on kiffe l'IA, faut quand même faire gaffe à ses effets secondaires potentiellement négatifs ! 🚨 [Plus de détails](https://www.jiqizhixin.com/articles/2025-07-05-5)
+    <br/> [![Image](https://image.jiqizhixin.com/uploads/editor/fbf7e372-3a98-48aa-90b6-22231541d627/640.png "Propagation de vidéos étranges générées par l'IA")](https://image.jiqizhixin.com/uploads/editor/fbf7e372-3a98-48aa-90b6-22231541d627/640.png) <br/>
 
-    <br/> [![Schéma du modèle DeepSeek R1T2 Chimera](https://image.jiqizhixin.com/uploads/editor/edecbe11-2a5b-456d-beb4-3b34a819e6df/640.png)](https://image.jiqizhixin.com/uploads/editor/edecbe11-2a5b-456d-beb4-3b34a819e6df/640.png) <br/>
+2.  Au premier semestre 2025, le **secteur de la tech** mondial a déjà viré 94 000 personnes à cause des ajustements structurels poussés par l'**IA**, dont 9 000 rien que chez **Microsoft** récemment. Plus controversé encore, un dirigeant Xbox a carrément suggéré aux employés virés d'utiliser l'IA pour gérer leurs émotions, c'est à mourir de rire... ou pas. 😂 Cette vague de **licenciements** n'est pas une crise économique classique, mais plutôt le résultat de l'IA qui remplace certains postes et pousse les entreprises à investir plus dans l'IA. Ingénieurs logiciels, RH, service client... personne n'a été épargné. 💔 [Plus de détails](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652607008&idx=1&sn=f4eaf35d3c648f6182f0049eeef9b758)
+    <br/> [![Image](https://wechat2rss.xlab.app/img-proxy/?k=921016bc&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_jpg%2FUicQ7HgWiaUb1JhEoiaiadtrnQDXXIgUphY98BANCmZ4etEgvVRhTHCriaQOficezGkRrVaj7JpNHoYXCQoibX8AMXaBg%2F0%3Fwx_fmt%3Djpeg "Licenciements dans la tech liés à l'IA")](https://wechat2rss.xlab.app/img-proxy/?k=921016bc&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_jpg%2FUicQ7HgWiaUb1JhEoiaiadtrnQDXXIgUphY98BANCmZ4etEgvVRhTHCriaQOficezGkRrVaj7JpNHoYXCQoibX8AMXaBg%2F0%3Fwx_fmt%3Djpeg) <br/>
 
-### **Perspectives de l'Industrie IA et Impact Social**
+### Le Top des projets Open Source
 
-1.  Le PDG de **Hitachi Energy**, le plus grand fabricant de transformateurs au monde, a lancé l'"alarme" ⚠️ ! Il a averti que la demande en électricité des centres de données IA, qui fluctue comme des montagnes russes, pourrait menacer la stabilité de l'approvisionnement électrique mondial ! ⚡️ Il a vivement appelé les gouvernements à prendre des mesures urgentes pour limiter cette fluctuation. 📈 L'Agence Internationale de l'Énergie prévoit aussi que la consommation électrique des centres de données va doubler d'ici 2030 ! Pour faire face à la pénurie de transformateurs et assurer la stabilité du réseau, Hitachi Energy prévoit d'investir 6 milliards de dollars et de recruter 15 000 employés pour augmenter sa capacité de production. C'est la pression à fond, quoi ! 😮‍💨
+1.  **rustfs** est un projet de **stockage d'objets distribué ultra-performant** avec 931 étoiles, qui vise à devenir une alternative de qualité à **MinIO**. ✨ [Adresse du projet](https://github.com/rustfs/rustfs)
 
-    <br/> [![Intérieur d'usine Hitachi Energy](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202005281122367065_91.jpg)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202005281122367065_91.jpg) <br/>
+2.  Avec 15931 étoiles, le projet **ciencia-da-computacao** t'offre un **chemin complet pour apprendre l'informatique en autodidacte**. 🎓🚀 [Adresse du projet](https://github.com/Universidade-Livre/ciencia-da-computacao)
 
-### **Projets Open Source TOP**
+3.  **toutatis** est un outil pratique avec 2599 étoiles, qui peut extraire des infos clés comme les **e-mails** et les **numéros de téléphone** des comptes **Instagram**. 🤫 [Adresse du projet](https://github.com/megadose/toutatis)
 
-1.  Aujourd'hui, **Trae-Agent**, le composant central de **Trae**, l'IDE natif IA de **ByteDance**, est officiellement passé en **open source** ! C'est carrément un "énorme cadeau" pour les développeurs du monde entier en matière de programmation intelligente ! ✨ Trae-Agent prend en charge l'automatisation des tâches de programmation **pilotée par le langage naturel**, est compatible avec divers modèles et intègre des fonctionnalités puissantes. Il a déjà attiré plus d'un million d'utilisateurs actifs mensuels et a contribué à la livraison de plus de 6 milliards de lignes de code. C'est un jalon super important pour ByteDance dans la promotion des outils de développement basés sur l'IA ! 💻🚀
+4.  **Motia** est un projet open-source avec 3464 étoiles, qui vise à fournir un **framework backend** unifié pour les **API**, les **événements** et les **agents IA**, résolvant parfaitement les galères d'intégration en développement backend. 🛠️✨ [Adresse du projet](https://github.com/MotiaDev/motia)
 
-    <br/> [![Schéma fonctionnel de Trae-Agent](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724303010748337361109.png)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388724303010748337361109.png) <br/>
+### Vus sur les Réseaux
 
-2.  Le labo d'IA français Kyutai a récemment **open sourcé** son modèle de synthèse vocale **Kyutai TTS** ! Ce modèle, c'est carrément le "magicien de la voix" ! 🗣️ Il réalise une synthèse vocale naturelle et fluide avec une latence super basse et une précision hallucinante, on dirait une vraie personne qui parle ! ✨ En plus, il prend en charge le **streaming de texte** et peut même donner des **horodatages exacts des mots**, offrant un support béton pour les interactions vocales multilingues en temps réel et la génération de sous-titres, entre autres. Envie de tester ? Fonce sur ['l'adresse du projet'](https://kyutai.org/next/tts) ! 🔊
+1.  orange.ai a partagé son avis sur l'expérience **TicNote**. Bien que super fin, l'appareil rend l'utilisation compliquée parce qu'on oublie facilement d'enregistrer. 😟 Il a réfléchi à fond à ce modèle économique "**matériel + abonnement**" qui facture la transcription au volume d'enregistrement, et il trouve ça à la fois abusif et incroyablement futé pour faire du fric. 💰🤔
+    <br/> [![Image](https://pbs.twimg.com/media/GvGRyrPaMAAJc1C?format=jpg&name=orig "Design fin de TicNote")](https://pbs.twimg.com/media/GvGRyrPaMAAJc1C?format=jpg&name=orig) <br/>
+    <br/> [![Image](https://pbs.twimg.com/media/GvGRyrNaAAArTyw?format=jpg&name=orig "Fonction d'enregistrement TicNote")](https://pbs.twimg.com/media/GvGRyrNaAAArTyw?format=jpg&name=orig) <br/>
 
-    <video src="https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/video/2025/0704/6388722438752929547141244.mp4" controls="controls" width="100%"></video>
-    <br/> [![Démo du modèle Kyutai TTS](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388722437104726386832655.png)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0704/6388722437104726386832655.png) <br/>
+2.  Guizang (guizang.ai) nous rappelle que le **pricing des produits IA**, c'est hyper délicat ! 📢 Il mentionne que **Cursor** a discrètement changé son **accès illimité à 20 dollars** en un **accès API limité**, ce qui a fait plonger l'expérience utilisateur direct au fond, en plus de coûter plus cher. Résultat : une tonne d'utilisateurs ont pété un câble sur Reddit et réclamé des remboursements en masse ! 😡
+    <br/> [![Image](https://pbs.twimg.com/media/GvFUSp-WYAAPO8A?format=jpg&name=orig "Polémique sur le prix du produit Cursor")](https://pbs.twimg.com/media/GvFUSp-WYAAPO8A?format=jpg&name=orig) <br/>
 
-3.  MiniMax, la licorne IA de Shanghai, a récemment dévoilé le premier **modèle d'inférence open source à architecture hybride à grande échelle, MiniMax-M1** ! Son arrivée a sans aucun doute lâché une "bombe" dans l'industrie ! 🤯 Ce qui a surtout attiré l'attention, c'est sa **capacité de traitement de texte long** exceptionnelle et son **efficacité de R&D à faible coût** carrément bluffante. Avec sa capacité d'entrée de contexte allant jusqu'à **1 million de tokens**, ce modèle a brillé dans plusieurs classements d'évaluation. Il pourrait bien redéfinir la direction du développement des modèles d'IA open source. L'avenir s'annonce prometteur, c'est clair ! 🦄💡
+3.  Guizang (guizang.ai) a partagé une discussion bien animée dans son cercle d'amis sur l'**impact de l'IA sur la création de contenu** et comment développer un "nez à trafic". 🔥 Il souligne que l'IA est en train de bousculer totalement la production de contenu (**AIGC** booste l'efficacité à mort, et les **agents IA** peuvent même aider à la prod), poussant les créateurs à se tourner vers de nouveaux modèles comme le "buzz" et la **co-création d'IP**. Pour **choper du trafic**, les créateurs doivent "regarder beaucoup, collecter pas mal, et bien utiliser l'IA" afin de capter super vite les changements dans les **algos des plateformes** et les goûts des utilisateurs, et ainsi "rider la vague" de manière plus sophistiquée et augmenter leur influence ! 📈
+    <br/> [![Image](https://pbs.twimg.com/media/GvFNd4jaAAAFXGg?format=jpg&name=orig "Impact de l'IA sur la création de contenu")](https://pbs.twimg.com/media/GvFNd4jaAAAFXGg?format=jpg&name=orig) <br/>
 
-    <br/> [![Image promotionnelle du modèle MiniMax-M1](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202501150943267809_0.jpg)](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202501150943267809_0.jpg) <br/>
+4.  Kaipeng Dev a chaudement recommandé une **ressource open-source** ultra-pratique : le **"Guide de style pour la rédaction de documents techniques en chinois"** ! ✍️ Il souligne que ce guide comble parfaitement le manque de **normes de rédaction de documents techniques** dans l'enseignement primaire et secondaire, offrant un guide pratique précieux aux pros de la tech pour rédiger des docs plus clairs et conformes. 👍 [Plus de détails](https://m.okjike.com/originalPosts/686890634618c88abfcc3761)
+    <br/> [![Image](https://cdnv2.ruguoapp.com/FvDm4UbL5sWjaNfVdh1NZw-I57kXv3.png "Guide de style pour les documents techniques en chinois")](https://cdnv2.ruguoapp.com/FvDm4UbL5sWjaNfVdh1NZw-I57kXv3.png) <br/>
 
-4.  **AFFiNE** cartonne avec **52479** étoiles ⭐ ! Il est présenté comme la **base de connaissances de nouvelle génération**, c'est carrément le "joueur polyvalent" qui regroupe **planification, organisation et création** ! 🛠️ Il met l'accent sur la **priorité à la vie privée, l'open source, la personnalisation et l'utilisation prête à l'emploi**. Son objectif ? Dépasser les outils existants comme Notion et Miro. Il est super ambitieux, le bougre ! 😏 ['Adresse du projet'](https://github.com/toeverything/AFFiNE)
+5.  Meng Shao a partagé les insights percutants de **Jake Ward**, entrepreneur en marketing digital, sur les **tendances futures du SEO**. 🔍 Avec ChatGPT qui gère des requêtes en masse et Google qui passe au **search dopé à l'IA**, le SEO traditionnel est en train de se faire **atomiser**, et l'ère de l' "**optimisation LLM**" est discrètement arrivée ! Il propose six stratégies clés pour aider les marques et les sites web à tirer leur épingle du jeu dans un environnement de recherche dominé par l'IA : gagner des **mentions de marque**, bâtir un **capital marque**, devenir une **source d'information faisant autorité**, etc. Sinon, attention au risque de se faire marginaliser ! ⚠️ [Plus de détails](https://x.com/shao__meng/status/1941297172986855492)
+    <br/> [![Image](https://pbs.twimg.com/media/GvDfeGHaAAER9UK?format=jpg&name=orig "Tendances SEO futures et optimisation LLM")](https://pbs.twimg.com/media/GvDfeGHaAAER9UK?format=jpg&name=orig) <br/>
 
-5.  **Ladybird** a décroché **44641** étoiles ⭐ ! C'est un **navigateur web vraiment indépendant** 🌐, "hors du commun", conçu pour offrir aux utilisateurs une expérience de navigation rafraîchissante. Ça vaut le coup de jeter un œil ! ['Adresse du projet'](https://https://github.com/LadybirdBrowser/ladybird)
-
-6.  **Label Studio** est fier de ses **22884** étoiles ⭐, c'est un **outil d'annotation et de labellisation de données multi-types**. Sa fonction principale ? Offrir un **format de sortie standardisé**, ce qui simplifie énormément le processus de traitement des données. Pour les data scientists, c'est carrément la bonne nouvelle du siècle ! 👍 ['Adresse du projet'](https://github.com/HumanSignal/label-studio)
-
-7.  **Hyperswitch** est un **système d'échange de paiements open source** avec **21415** étoiles ⭐. Codé en **Rust**, il vise à fournir des solutions de paiement **rapides, fiables et abordables**. 💳 Il s'engage à simplifier et optimiser le processus de paiement pour améliorer l'expérience utilisateur globale. C'est vraiment le "petit assistant sympa" du monde du paiement ! ⚡️ ['Adresse du projet'](https://github.com/juspay/hyperswitch)
-
-### **Partages sur les Réseaux Sociaux**
-
-1.  Yangyi a partagé un système d'automatisation "qui déchire grave" ! 📈 Il a astucieusement utilisé **n8n**, **Scrapeless** et **Claude AI** pour cibler précisément les **clients potentiels** chaque jour et leur envoyer des "**e-mails froids**" super personnalisés 📧. Ce système a non seulement boosté le taux d'ouverture des e-mails, mais a aussi évité qu'ils finissent dans les spams, et pourrait rapporter des dizaines de milliers de dollars de revenus mensuels aux entreprises B2B ! 💰 Il insiste sur le fait que l'envoi d'e-mails personnalisés combiné à l'IA est la dernière tendance en matière de pratiques logicielles. C'est carrément l'avenir du marketing par e-mail ! 🎯
-
-    <video src="https://video.twimg.com/amplify_video/1941026341228253184/vid/avc1/3840x2084/_DjuFztwKBcYhGJk.mp4?tag=21" controls="controls" width="100%"></video>
-
-2.  Guizang (guizang.ai) a partagé une nouvelle fonction super marrante de **Dia Browser** : le **Résumé de l'Historique** ! 💡 Les utilisateurs peuvent demander à l'IA d'analyser régulièrement les données de navigation de la semaine passée, et même tes vidéos vues en douce peuvent être "passées au crible" 😲. Ça montre carrément que l'application de l'IA à l'analyse des données personnelles devient de plus en plus poussée et personnalisée. On dirait que l'IA nous comprend de mieux en mieux ! 🕵️‍♀️📚 ['Plus de détails'](https://x.com/op7418/status/1940997705779892617)
-
-    <br/> [![Interface de résumé de l'historique du navigateur Dia](https://pbs.twimg.com/media/Gu_PFqLWAAAv_vk?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu_PFqLWAAAv_vk?format=jpg&name=orig) <br/>
-    <br/> [![Résultats d'analyse IA du navigateur Dia](https://pbs.twimg.com/media/Gu_PGLnXEAAakqv?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu_PGLnXEAAakqv?format=orig) <br/>
-
-3.  wwwgoubuli a partagé une **manière innovante de collaborer en profondeur avec l'IA** – il ne cherche plus directement des réponses auprès de l'IA, mais lui demande d'abord de l'aider à clarifier et affiner ses propres questions, souvent mal formulées ou confuses. 🤔 Ce mode "laisser l'IA organiser la question" offre non seulement un meilleur contexte pour les vraies réponses par la suite, mais, ce qui est encore plus fou, c'est que pendant le processus de clarification, l'utilisateur peut même trouver lui-même la réponse à sa propre interrogation ! C'est super ingénieux ! ✨🤯 ['Plus de détails'](https://x.com/wwwgoubuli/status/1940974712055910818)
-
-4.  Tom Huang a exposé les développements excitants à venir pour le **Refly AI Creative Canvas** ! 🎨 Il imagine qu'à l'avenir, si l'on pouvait fusionner les **capacités de génération multimodale** (comme la création d'images, de vidéos, d'audio) 🎵 et les combiner avec des modèles de compréhension multimodale comme **Gemini**, cela enrichirait énormément la création de contenu et permettrait de construire des histoires encore plus captivantes ! 🎬 Cela annonce sans aucun doute un potentiel énorme pour l'intégration multimodale dans les outils de création IA. L'avenir est prometteur ! 🌟 ['Plus de détails'](https://x.com/tuturetom/status/1940943363898834947)
-
-    <br/> [![Concept du Refly AI Creative Canvas](https://pbs.twimg.com/media/Gu-dseWWgAAPzV7?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu-dseWWgAAPzV7?format=jpg&name=orig) <br/>
-    <br/> [![Perspectives de génération multimodale de Refly AI](https://pbs.twimg.com/media/Gu-dsdtboAAh1mT?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu-dsdtboAAh1mT?format=jpg&name=orig) <br/>
-
-5.  En réponse à la question de Wang Shuyi, @wwwgoubuli a exprimé avec une pointe de sarcasme son mécontentement face à certains "professeurs" du domaine du code IA qui déblatèrent des bêtises. 👨‍💻 Selon lui, les **programmeurs seniors** qui utilisent vraiment l'**IA pour coder** à grande échelle n'arriveraient jamais à de telles conclusions, et ne daigneraient même pas les commenter. Cette déclaration souligne l'importance capitale de l'**expérience pratique** pour comprendre la programmation assistée par l'IA. Ça a vraiment touché la corde sensible de pas mal de développeurs ! 💬🤔 ['Plus de détails'](https://x.com/wwwgoubuli/status/1940942626473365908)
-
-    <br/> [![Capture d'écran de discussion sur la programmation IA](https://pbs.twimg.com/media/Gu7eq2Gb0AINVqL?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu7eq2Gb0AINVqL?format=jpg&name=orig) <br/>
-
-6.  Baoyu a partagé le "super tuyau" de **Andrew Ng** sur comment utiliser l'**IA** pour développer efficacement des **MVP** ! 💡 Il souligne que lorsque le temps est limité, il faut réduire le périmètre du projet sans hésiter, jusqu'à ce qu'il puisse être complété rapidement. Ça permet de lancer le projet vite fait, de valider des idées et d'obtenir des retours à temps. 🚀 Andrew Ng, avec l'exemple de son expérience de développement d'un **simulateur de public virtuel**, a démontré de manière vivante comment cette approche du "**démarrage rapide**" aide les développeurs à surmonter la procrastination, à maîtriser rapidement de nouvelles compétences et à accélérer l'itération des produits. C'est carrément une bénédiction pour les entrepreneurs ! 🏃‍♀️ ['Plus de détails'](https://x.com/dotey/status/1940868768948760613)
-
-    <br/> [![Concept de développement MVP par Andrew Ng](https://pbs.twimg.com/media/Gu7f0T8XYAAQCI9?format=jpg&name=orig)](https://pbs.twimg.com/media/Gu7f0T8XYAAQCI9?format=jpg&name=orig) <br/>
-
-7.  Baoyu, en réponse au conseil de dontbesilent de "demander à l'**IA** si on ne comprend pas", a mis le doigt sur le "nœud du problème" qui empêche beaucoup de gens de le mettre en pratique : **ne pas savoir comment formuler clairement une question** ! 🤔 Il souligne que, dans l'interaction avec l'IA, le défi de "**poser une question**" est souvent plus grand que celui de "répondre à une question". Cela révèle l'importance cruciale de la **capacité à poser des questions** pour une **interaction IA** efficace. 💡 On dirait que pour que l'IA nous aide vraiment, il faut d'abord apprendre à poser les bonnes questions ! 💬 ['Plus de détails'](https://x.com/dotey/status/1940845834373157125)
+6.  Baoyu a partagé le point de vue super pertinent de Pedro Tavares : le vrai **goulot d'étranglement** du **développement logiciel** n'a jamais été l'acte d'**écrire du code** lui-même, mais plutôt les "coûts humains" – comme la **revue de code**, le **partage des connaissances**, les **tests**, le **débogage** et la **communication interpersonnelle** ! 🤯 Même si les **grands modèles linguistiques** (LLM) peuvent générer du code à la vitesse de l'éclair, ils ne font que déporter la tâche de l'écriture du code vers la **compréhension, le test et la confiance dans le code**, qui sont plus complexes, sans jamais résoudre les goulots d'étranglement profonds de l'efficacité des équipes. 🤔 [Plus de détails](https://x.com/dotey/status/1941247337625498002)
+    <br/> [![Image](https://pbs.twimg.com/media/GvCyKD3WsAAsaza?format=jpg&name=orig "Le vrai goulot d'étranglement du développement logiciel")](https://pbs.twimg.com/media/GvCyKD3WsAAsaza?format=jpg&name=orig) <br/>
 
 ---
 
-## **Écoutez la version audio du Flash Quotidien IA**
+## **Écoute le Flash Infos IA en mode audio**
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [La taverne de la prochaine vie](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Le point info de la prochaine vie](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![La taverne](https://s1.imagehub.cc/images/2025/06/24/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Le point info](https://s1.imagehub.cc/images/2025/06/24/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Lai Sheng Xiao Jiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [Lai Sheng Qing Bao Zhan](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Xiao Jiuguan](https://s1.imagehub.cc/images/2025/06/24/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Qing Bao Zhan](https://s1.imagehub.cc/images/2025/06/24/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
