@@ -4,50 +4,50 @@ type: page
 sidebar:
   exclude: true
 ---
-# Conditions Générales d'Utilisation
+# Conditions d'utilisation
 
 *Date d'entrée en vigueur : 1er juin 2025*
 
 ---
 
-Bienvenue sur ce site web (ci-après « **le Site** » ou « **nous** »). Avant d'utiliser nos services, veuillez lire attentivement les conditions générales d'utilisation suivantes. Votre accès ou utilisation du Site implique votre acceptation de ces conditions.
+Bienvenue sur notre site web (ci-après dénommé le "**Site**" ou "**nous**"). Avant d'utiliser les services du Site, veuillez lire attentivement les conditions d'utilisation suivantes. Votre accès ou utilisation du Site signifie que vous acceptez les présentes conditions.
 
-## 1. Présentation du Service
-Le Site propose aux utilisateurs des contenus et services d'abonnement payants, incluant, sans s'y limiter, des articles de blog, des ressources exclusives, des e-books, des interactions communautaires, etc. Certains contenus sont uniquement accessibles aux abonnés.
+## 1. Présentation des services
+Le Site propose à ses utilisateurs du contenu payant sur abonnement et des services d'adhésion, incluant, sans s'y limiter, des articles de blog, des ressources exclusives, des e-books, des interactions communautaires, etc. Certains contenus sont accessibles uniquement aux abonnés.
 
-## 2. Inscription et Compte Utilisateur
-- Les utilisateurs doivent fournir une adresse e-mail valide et choisir un mot de passe pour créer un compte.
-- L'utilisateur est responsable de la sécurité de son compte et de toutes les activités qui y sont liées. Il est **formellement interdit** de céder ou de partager son compte.
-- Le Site se réserve le droit de **suspendre ou de résilier** un compte en cas de violation des présentes conditions par l'utilisateur.
+## 2. Inscription et compte utilisateur
+- Les utilisateurs doivent fournir une adresse e-mail valide et créer un mot de passe pour s'inscrire.
+- L'utilisateur est responsable de la sécurité de son compte et de toutes les activités qui y sont liées. Il est **interdit** de transférer ou de partager son compte.
+- Le Site se réserve le droit de **suspendre ou de résilier** un compte en cas de non-respect des présentes conditions.
 
-## 3. Services d'Abonnement Payants
-- Les services d'abonnement sont facturés mensuellement/annuellement, et les tarifs sont clairement indiqués sur la page de paiement.
-- Tous les paiements sont traités via des plateformes de paiement tierces (telles que Stripe, PayPal). Le Site ne stocke aucune de vos informations de paiement.
-- L'abonnement sera **automatiquement renouvelé**, sauf si vous l'annulez avant la fin de la période de facturation en cours.
-- Sauf si exigé par la loi ou spécifié autrement lors de promotions spécifiques, **aucun remboursement** ne sera effectué après paiement.
+## 3. Services d'abonnement payant
+- Les services d'abonnement sont facturés sur une base mensuelle/annuelle, les frais étant clairement indiqués sur la page de paiement.
+- Tous les paiements sont effectués via des plateformes de paiement tierces (comme Stripe, PayPal). Le Site ne stocke pas vos informations de paiement.
+- L'abonnement se renouvellera **automatiquement**, sauf si vous l'annulez avant la fin de la période de facturation en cours.
+- Sauf obligation légale ou indication contraire lors de promotions spécifiques, **aucun remboursement** ne sera effectué après paiement.
 
-## 4. Utilisation du Contenu et Propriété Intellectuelle
-- Tous les contenus originaux **appartiennent au Site**. Ils ne peuvent être copiés, reproduits ou utilisés à des fins commerciales sans autorisation.
-- L'utilisateur obtient uniquement un **droit d'accès non exclusif et non transférable**, à des fins d'apprentissage et de lecture personnelles.
-- Pour toute utilisation commerciale ou citation massive, veuillez contacter le Site pour obtenir une autorisation.
+## 4. Utilisation du contenu et propriété intellectuelle
+- Tout le contenu original est **la propriété intellectuelle du Site**. Il est interdit de le copier, de le reproduire ou de l'utiliser à des fins commerciales sans autorisation.
+- L'utilisateur n'obtient qu'un **droit d'accès non exclusif et non transférable**, pour un usage personnel d'étude et de lecture.
+- Pour un usage commercial ou des citations importantes, veuillez contacter le Site pour obtenir une autorisation.
 
-## 5. Code de Conduite de l'Utilisateur
-- Il est **interdit** de télécharger, publier ou diffuser des contenus illégaux, harcelants, faux, offensants ou portant atteinte aux droits d'autrui.
-- Il est **interdit** de télécharger en masse, d'extraire ou de pirater les contenus réservés aux membres par des moyens techniques.
-- Le Site se réserve le droit de supprimer les contenus inappropriés et de **bannir les utilisateurs en infraction**.
+## 5. Conduite de l'utilisateur
+- Il est **interdit** de télécharger, publier ou diffuser tout contenu illégal, harcelant, faux, offensant ou portant atteinte aux droits d'autrui.
+- Il est **interdit** de télécharger en masse, de 'scraper' ou de "cracker" le contenu réservé aux membres par des moyens techniques.
+- Le Site a le droit de supprimer tout contenu inapproprié et de **bannir les utilisateurs en infraction**.
 
-## 6. Modifications et Interruptions de Service
-- Nous nous réservons le droit de modifier, suspendre ou interrompre tout ou partie des services à tout moment et sans préavis.
-- En cas de force majeure, de panne de serveur ou d'interruption de service d'un tiers entraînant une indisponibilité temporaire du contenu, le Site **n'assumera aucune responsabilité** pour les dommages.
+## 6. Modifications et interruptions de service
+- Nous nous réservons le droit de modifier, suspendre ou interrompre tout ou partie des services à tout moment, sans préavis.
+- Le Site **ne pourra être tenu responsable** en cas d'indisponibilité temporaire du contenu due à un cas de force majeure, une panne de serveur ou une interruption de service d'un tiers.
 
-## 7. Clause de Non-responsabilité
-- Les informations fournies par le Site sont à titre informatif uniquement et **ne constituent en aucun cas** un conseil professionnel (financier, juridique, médical, etc.).
-- Le Site **décline toute responsabilité** pour tout dommage direct ou indirect résultant de l'utilisation par l'utilisateur du contenu ou des services du Site.
+## 7. Clause de non-responsabilité
+- Les informations fournies sur le Site sont uniquement à titre indicatif et **ne constituent pas** des conseils professionnels (financiers, juridiques, médicaux, etc.).
+- Le Site **n'est en aucun cas responsable** des pertes directes ou indirectes subies par l'utilisateur du fait de l'utilisation du contenu ou des services du Site.
 
-## 8. Droit Applicable
-- Les présentes conditions générales d'utilisation sont régies par les lois de l'État de Californie, États-Unis, et interprétées conformément à celles-ci, sans égard aux principes de conflit de lois.
-- Tout litige découlant des présentes conditions ou s'y rapportant sera d'abord résolu à l'amiable entre les parties. Si aucune résolution n'est trouvée, vous acceptez de vous soumettre à la compétence exclusive des tribunaux du comté de Santa Clara, Californie.
+## 8. Droit applicable
+- Les présentes conditions d'utilisation sont régies et interprétées conformément aux lois de l'État de Californie, États-Unis, sans tenir compte de ses principes de conflit de lois.
+- Tout litige découlant des présentes conditions ou s'y rapportant sera d'abord réglé à l'amiable entre les parties ; si aucune solution n'est trouvée, vous acceptez de soumettre le litige aux tribunaux compétents du comté de Santa Clara, Californie.
 
 ## 9. Contact
-- Pour toute question concernant ces conditions, veuillez nous contacter via :
+- Si vous avez des questions concernant ces conditions, veuillez nous contacter via :
 - 📧 **E-mail** : [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
