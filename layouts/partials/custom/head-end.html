@@ -104,6 +104,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 </script>
 
+{{- if .Site.Params.adsenseId -}}  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{- .Site.Params.adsenseId | safeJS -}}" crossorigin="anonymous"></script>
+{{- end -}} 
+
 {{- if .Site.Params.ahrefsKey -}}  
 <script src="https://analytics.ahrefs.com/analytics.js" data-key="{{- .Site.Params.ahrefsKey | safeJS -}}" async></script>
 {{- end -}} 
