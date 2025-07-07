@@ -6,23 +6,23 @@ sidebar:
 ---
 #### 👋 何夕2077 / justlovemaki
 
-> Dix ans de code, les doigts sont glacés,
-> La poisse s'accumule, ça sort pas.
-> Soudain, l'IA déboule tel un orage,
-> Promis, je me jette à fond dans la mêlée.
+> Dix ans de code, les doigts engourdis,
+> Le cœur lourd, les tracas mal enfouis.
+> Soudain, l'IA gronde, un vent nouveau,
+> Je jure de me lancer, de défier les cieux.
 
-#### 🚀 Ma philo du code
+#### 🚀 Ma philosophie du code
 
-> La tech au service de tous
+> La tech, ça doit servir les gens.
 
-#### ✨ Mes projets phares
+#### ✨ Projets phares
 
-*   **[Contrib open source / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   Un script de génération d'images IA qui tourne sur Cloudflare Worker.
-*   **[Contrib open source / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   Une plateforme d'agrégation et de génération de contenu propulsée par Cloudflare Workers. Chaque jour, elle vous déniche les dernières actus côté IA : les news du secteur, les projets open source qui buzzent, les papiers de recherche de pointe et les punchlines des influenceurs tech sur les réseaux sociaux.
-*   Plus de projets ? Jette un œil à mon [GitHub](https://github.com/justlovemaki).
+*   **[Contribution open source/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   Script de génération d'images IA basé sur Cloudflare Worker.
+*   **[Contribution open source/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   Plateforme d'agrégation et de génération de contenu, propulsée par Cloudflare Workers. Elle vous sélectionne chaque jour les dernières pépites de l'IA, avec les news du secteur, les projets open source qui buzzent, les papiers de recherche ultra pointus et les avis des gros influenceurs tech sur les réseaux sociaux.
+*   Pour plus de détails sur mes projets, jetez un œil à mon [GitHub](https://github.com/justlovemaki).
 
-#### 🌱 Mes pistes du moment
+#### 🌱 Ce que j'explore en ce moment
 
-Je suis à fond sur les applis LLM et le SEO de sites web, et je me plonge à fond dedans pour apprendre et pratiquer.
+Je suis à fond sur les applications LLM et le SEO web, et je suis en plein dedans, j'apprends et je pratique un max.
