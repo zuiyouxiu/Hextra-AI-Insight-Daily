@@ -6,21 +6,21 @@ sidebar:
 ---
 #### 👋 何夕2077 / justlovemaki
 
-> 十載コード書きまくって指先は冷え冷え。胸のモヤモヤも晴れないまま。
-> ふとAIがとんでもない勢いで動き出したと聞いて、誓ったね、この雲の向こうで一勝負ぶちかましてやるって！
+> 10年間コードを書いて指先が冷たくなり、胸のわだかまりも晴れないままだった。
+> すると突然、AIの嵐が巻き起こるのを聞き、雲の上に向かって一勝負しようと誓ったんだ。
 
-#### 🚀 俺のコード哲学
+#### 🚀 私のコード哲学
 
-> 技術はみんなのためにあるんだ！
+> 技術はみんなのためにあるんだ。
 
 #### ✨ 代表作
 
-*   **[OSS貢献/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   Cloudflare Workerを使ったAI画像生成スクリプト
-*   **[OSS貢献/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   Cloudflare Workersで動くコンテンツ集約・生成プラットフォーム。AI分野の最新動向を毎日厳選してお届け。業界ニュース、人気オープンソースプロジェクト、最先端の学術論文、テック系インフルエンサーのSNS発言なんかが含まれてるよ。
-*   他のプロジェクトの詳細は、俺の[GitHub](https://github.com/justlovemaki)を見てくれよな！
+*   **[オープンソース貢献/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   Cloudflare WorkerをベースにしたAI画像生成スクリプトだよ。
+*   **[オープンソース貢献/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   Cloudflare Workersで動くコンテンツ集約・生成プラットフォームだよ。AI分野の最新動向を毎日厳選して提供してるんだ。業界ニュース、人気のオープンソースプロジェクト、最先端の学術論文、テクノロジー系インフルエンサーのSNSでの発言なんかが含まれてるんだ。
+*   プロジェクトの詳細は私の [GitHub](https://github.com/justlovemaki) を見てね。
 
-#### 🌱 今、探索してること
+#### 🌱 現在、探求中
 
-LLMアプリケーションやWebサイトのSEOにめっちゃ興味があって、現在猛勉強中＆実践中だよ。
+LLM（大規模言語モデル）のアプリケーションやウェブサイトのSEOにめちゃくちゃ興味があって、今、積極的に勉強したり実践したりしてるんだ。
