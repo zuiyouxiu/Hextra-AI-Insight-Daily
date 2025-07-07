@@ -4,25 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 👋 何夕2077 / justlovemaki
+#### 👋 He Xi 2077 / justlovemaki
 
-> A decade of code, my fingers chilled and numb,
-> A knot in my chest, ambitions yet to come.
-> Then, suddenly, AI's winds and thunder stir,
-> I vow to seize the moment, and give it my all out there.
+> A decade of coding, fingers often chill;
+> My heart's been heavy, frustrations held still.
+> Suddenly, the winds of AI stir with might;
+> I'm vowing to brave the clouds and join the fight.
 
 #### 🚀 My Code Philosophy
 
-> Tech for the People
+> Tech for the people
 
 #### ✨ Featured Projects
 
-*   **[开源贡献/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+*   **[Open Source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
     *   An AI image generation script powered by Cloudflare Workers.
-*   **[开源贡献/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   It's a content aggregation and generation platform driven by Cloudflare Workers. Every day, it hand-picks the latest happenings in the AI world for you, covering industry news, trending open-source projects, cutting-edge academic papers, and social media insights from influential tech figures.
+*   **[Open Source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   A content aggregation and generation platform powered by Cloudflare Workers. It daily curates the latest happenings in the AI world for you, including industry news, hot open-source projects, cutting-edge research papers, and social media buzz from top tech influencers.
 *   For more project details, check out my [GitHub](https://github.com/justlovemaki).
 
-#### 🌱 What I'm Currently Exploring
+#### 🌱 Currently Exploring
 
-I'm super into LLM applications and website SEO, and I'm actively learning and putting things into practice.
+I'm super into LLM applications and website SEO, and I'm actively learning and getting hands-on with them.

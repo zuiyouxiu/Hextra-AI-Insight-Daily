@@ -2,71 +2,116 @@
 linkTitle: Today's Daily
 title: Today's Daily-AI日报
 breadcrumbs: false
-next: /en/2025-07/2025-07-06
-description: 'Daily selection of AI industry news, open source hot spots, academic
+next: /en/2025-07/2025-07-07
+description: Daily selection of AI industry news, open source hot spots, academic
   frontiers and big V opinions. AI information; AI daily; AI knowledge base; AI tutorials;
-  AI information daily; AI tools;Baidu pulled off a big move on June 30th: they officially
-  open-sourced the Wenxin Big Model 4.5 series 🎉, dropping a whopping 10 models and
-  their accompanying training and deployment toolchains all at once! This update is
-  nothing short of a massive power-up—especially with its multimodal understa...'
+  AI information daily; AI tools;The Natural Language Processing team at the Institute
+  of Computing Technology, Chinese Academy of Sciences, is seriously crushing it!
+  They've just dropped Stream-Omni, a text-vision-voice multimodal large model based
+  on the GPT-4o architecture ✨. This bad boy supports simultaneous multi-modal int...
 cascade:
   type: docs
 ---
-## AI Daily Scoop 2025/7/7
+## Daily AI Insights 2025/7/8
 
->  `AI Daily` | `Morning 8 AM Refresh` | `Web-wide Data Aggregation` | `Cutting-edge Science Exploration` | `Industry Voices Unfiltered` | `Open Source Innovation Power` | `AI and the Future of Humanity` | [Visit Web Version ↗️](https://ai.hubtoday.app/)
-
-
+> `AI Daily` | `Updated 8 AM Daily` | `All-Web Data Aggregation` | `Cutting-Edge Science Exploration` | `Industry Voices` | `Open-Source Innovation Power` | `AI & The Future of Humanity` | [Visit Web Version↗️](https://ai.hubtoday.app/)
 
 ### **AI Content Summary**
 
 ```
-Baidu open-sourced its Wenxin Big Model 4.5 series, boosting multimodal understanding and lowering deployment barriers to fuel the AI application ecosystem.
-Cutting-edge AI research includes the Causal-Copilot causal analysis tool and efficiency optimization techniques for large language models.
-AI-assisted medical diagnosis is seen as an engineer's capability amplifier, driving changes in software engineering paradigms.
+China unveils Stream-Omni multimodal model, Zhiyuan launches multi-form robots. OpenAI's GPT-5 arriving this summer.
+AI-powered smart speaker market sees strong rebound, Claude Code a hit with developers.
+AI stirs controversy in academic writing & content creation, sparking deep discussions on AGI's future & tool applications.
 ```
 
+### AI Product & Feature Updates
+1. The Natural Language Processing team at the Institute of Computing Technology, Chinese Academy of Sciences, is seriously crushing it! They've just dropped **Stream-Omni**, a **text-vision-voice multimodal large model** based on the **GPT-4o architecture** ✨. This bad boy supports simultaneous multi-modal interaction, offering an incredibly natural "see-and-listen" experience, and even boasts super efficient **modality alignment** 👍. While there's still room for improvement in humanization and voice diversity, this definitely lays a rock-solid foundation for future **multimodal intelligent interaction**!['View Paper'](https://arxiv.org/abs/2506.13642) ['Project Link'](https://github.com/ictnlp/Stream-Omni) ['Model Link'](https://huggingface.co/ICTNLP/stream-omni-8b)
+    <br/> ![Stream-Omni模型界面](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv3a7heejvjktb054mtwzz.png) <br/>
+    <br/> ![Stream-Omni多模态交互](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv3c6eefz9ame1nnbgn3ny.png) <br/>
 
+2. Zhiyuan Company also made a big splash recently, rolling out the **Nata Robot Lingxi X2-N**! 🤖 The real highlight of this **innovative robot** is its unique **wheel-leg dual-form switching design** 🤩, making it practically a real-life Transformer that can easily adapt to all sorts of environments and tricky terrains. In **leg mode**, it can navigate obstacles and carry loads with seriously impressive capabilities; switch to **wheel mode**, and it moves super fast and flexibly, staying steady as a rock even when pushed around. Go, Nata!
 
-### **AI Product & Feature Updates**
-1.  Baidu pulled off a big move on June 30th: they officially **open-sourced the Wenxin Big Model 4.5 series** 🎉, dropping a whopping 10 models and their accompanying training and deployment toolchains all at once! This update is nothing short of a massive power-up—especially with its **multimodal understanding capabilities**, which are absolutely crushing it when it comes to video processing 📹✨. What's even cooler is that thanks to its **Heterogeneous Mixture-of-Experts (MoE)** architecture and various optimization techniques, the deployment barrier has been significantly lowered; even beginners can get the hang of it easily! The goal of this open-sourcing effort is to streamline the entire process "from model download to application launch," using game-changing tools like ERNIEKit and FastDeploy 🚀 to skyrocket development and deployment efficiency, helping AI applications flourish everywhere and making the ecosystem even more vibrant! 💐
-    <br/> [![文心大模型架构](https://wechat2rss.bestblogs.dev/img-proxy/?k=8906c573&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FFFcNSoQ3KicufIbAE81NCf61zWzzwuY0fN5icJSWCawUAhCDoezImD9RvAVOSvibcdS2iagPOjwc8mP7dG88hiaia5VQ%2F640%3Fwx_fmt%3Dother%26from%3Dappmsg)](https://wechat2rss.bestblogs.dev/img-proxy/?k=8906c573&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FFFcNSoQ3KicufIbAE81NCf61zWzzwuY0fN5icJSWCawUAhCDoezImD9RvAVOSvibcdS2iagPOjwc8mP7dG88hiaia5VQ%2F640%3Fwx_fmt%3Dother%26from%3Dappmsg) <br/>
-    ['More Details'](https://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649095044&idx=1&sn=3ad0a5c613fb19b47723200f86960756)
+    <br/> ![哪吒机器人灵犀X2-N](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv3fcqfc89fch10favq01p.png) <br/>
+    <br/> ![机器人双形态切换](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv3js3eh18y248cffmf59t.png) <br/>
 
-### **Cutting-edge AI Research**
-1.  The Biwei Huang Lab at UC San Diego has rolled out **Causal-Copilot, an autonomous causal analysis agent**, which is practically a **smart guide** 🧙‍♂️ in the **causal analysis** field! It integrates over 20 advanced **causal analysis algorithms** and is specifically designed to tackle high-barrier challenges like **causal discovery** and **causal inference**. Get this: it even outperformed **GPT-4o** in tests! 😮 The system can **automate** method selection and parameter tuning, plus it offers **open-source code** and an **online experience** platform. Its aim is to speed up scientific discovery, helping researchers better understand causal mechanisms between things, making scientific research a total breeze! 🔬
-    ['Paper Link'](https://arxiv.org/abs/2504.13263) ['Open Source TOP Project'](https://github.com/Lancelot39/Causal-Copilot) ['More Details'](https://causalcopilot.com/)
-2.  The **Meta** research team has dropped another piece of **cutting-edge tech**! They've introduced a **rotation-invariant trilinear attention mechanism** (also known as a **2-simplicial Transformer**) 🔄 – think of it as a clever trick that helps you see clearly even when things are complex. This move aims to optimize the **Scaling Law** for **large language models**. It's like working with a super tight budget 📦, where you can still accurately grasp the **essence** of natural language with **limited token resources**! This is a total godsend for solving the **pre-training scaling bottleneck** caused by the scarcity of high-quality **tokens**, and it's especially great for making **large-scale models** shoot through the roof in efficiency 📈.
-    <br/> [![旋转不变型三线性注意力机制](https://image.jiqizhixin.com/uploads/editor/3fd1bd8f-a6aa-4f19-b4e2-de26dc7c60c0/640.png)](https://image.jiqizhixin.com/uploads/editor/3fd1bd8f-a6aa-4f19-b4e2-de26dc7c60c0/640.png) <br/>
-    ['Paper Link'](https://arxiv.org/pdf/2507.02754.pdf)
+3. **OpenAI** just confirmed that the much-hyped **GPT-5** is dropping this summer! 🤩 The goal is to perfectly merge the powerful **reasoning capabilities** of the existing **O-series models** with the **multimodal functionalities** of the **GPT series** into one unified version – talk about a dream team! This new model will massively boost overall performance, cutting down on the hassle of users switching between different models, and bringing a smoother, more efficient experience. The future's here, and we can't wait to see it! 🚀
 
-### **AI Industry Outlook & Social Impact**
-1.  A Reddit user shared an **epic feat**: **ChatGPT** actually helped them pinpoint a **gene mutation** that had puzzled doctors for a decade! 🧬 This instantly sparked a heated debate 🔥 about **AI-assisted healthcare** capabilities and showed us AI's massive potential in integrating huge amounts of information to help with **diagnosis of causes**. While **AI medical advice** can fill gaps in **healthcare resources**, the article specifically highlights its limitations: pay attention 👉 the final diagnosis and treatment still need to be confirmed and given the green light by **human doctors**! 👨‍⚕️👩‍⚕️
-    <br/> [![AI辅助医疗案例](https://image.jiqizhixin.com/uploads/editor/6cad55c1-6836-4cce-99c5-98bd89dae32e/640.png)](https://image.jiqizhixin.com/uploads/editor/6cad55c1-6836-4cce-99c5-98bd89dae32e/640.png) <br/>
-    ['More Details'](https://www.reddit.com/r/ChatGPT/comments/1lrmom4/chatgpt_solved_a_10_year_problem_no_doctors_could/)
-2.  During his talk at YC AI Startup School, Karpathy highly recommended Atharva's blog, which contains a core idea that's a total game-changer: **AI is an amplifier for engineers' capabilities**! 🚀 He emphasized that with a **solid programming foundation** and **precise prompts**, development speed and product quality can simply shoot up 📈. The article also dives deep, explaining that high-quality software engineering practices—like **good test coverage**, **thorough documentation**, and **continuous integration**—don't just help us humans; they also empower **AI coding tools** to unleash even greater superpower, ultimately **redefining the future of software engineering**! 🌐
-    ['More Details'](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652607139&idx=2&sn=6a5e318fc223bc04c4803a9c7d3b4713)
+    <br/> ![OpenAI标志](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv3mvkejsba4xb8evejbn9.jpg) <br/>
 
-### **TOP Open Source Projects**
-1.  ZLUDA, an open-source project with **11980 stars** ⭐, is an absolute **barrier-breaker** in the GPU world! It cleverly breaks the spell that **CUDA** was exclusively for NVIDIA GPUs, letting other brands' GPUs also experience that **insane computing power** 💪. This not only broadens hardware choices for high-performance computing but also opens up endless possibilities for developers! 🚀 ['Project Link'](https://github.com/vosen/ZLUDA)
-2.  Sniffnet, this **network traffic monitoring** gem with **26182 stars** 🌟, is an absolute must-have for any **network detective**! It's super intuitive and easy to use, letting you effortlessly figure out your **network activity** and clearly see all those "little secrets" 📱🔍 in the **network** world, helping you better **manage** your network. ['Project Link'](https://github.com/GyulyVGC/sniffnet)
-3.  Omni-tools, a **self-hosted web toolkit** boasting **4356 stars** ✨, is practically the **Swiss Army knife** of digital life! It bundles all sorts of **handy everyday tools** together, and what's even better, it promises **no ads and no tracking** 🛡️, letting you use them **quickly and conveniently** right in your browser. For those who crave a pure, undisturbed tool experience, this is definitely your **perfect match**! 💖 ['Project Link'](https://github.com/iib0011/omni-tools)
+4. Bilibili is going all-in on the video podcast world! 🎬 They're about to launch an **AI creation tool**, internally codenamed "**Project H**," and it's practically a godsend for creators, tailor-made just for them! 🚀 It'll automatically match video footage, hugely boosting creation efficiency. Just feed it your **script and audio**, and it can churn out a thousand words of content in under 6 minutes – that's lightning fast! Bilibili also plans to offer **traffic support** and free recording spaces. Looks like they're dead set on pushing audio content towards video, and creators are in for a treat!
 
-### **Social Media Shares**
-1.  User wwwgoubuli dropped a bombshell 🗣️ on social media, arguing that for companies to truly master **AI coding** and even explore the next generation of programming, the most crucial step is to "let go"—meaning **allow employees to freely use AI tools**, and what's more, **provide AI environments and tools for free, with costs covered by the company** 💰. In their view, even the most elaborate strategic planning pales in comparison to fostering a **fertile growth environment**, because that's what truly sparks thriving vitality and allows innovation to just organically pop up 🌱✨. ['More Details'](https://x.com/wwwgoubuli/status/1941825193175109721)
-2.  Guizang (guizang.ai) has pulled off a new trick recently! 😎 They shared the super cool effect of using **Xiaomi AI Glasses** for **first-person Douyin live streams**, even showcasing actual video footage shot during an evening bike ride in both **low light** and **bright light** 🎥. It's like literally wearing the future on their face! 👓✨ For more exciting content, quickly click ['More Details'](https://x.com/op7418/status/1941783013387555011) to check it out!
-    <video src="https://video.twimg.com/amplify_video/1941782629067493376/vid/avc1/1080x1920/XhhGLsIXTblCGCjP.mp4" controls="controls" width="100%"></video>
-    <video src="https://video.twimg.com/amplify_video/1941481028054622208/vid/avc1/1920x1080/sM_6FwA7Ub9amItU.mp4" controls="controls" width="100%"></video>
-3.  Elvis recently delivered an **awesome gift package** 🎁 to **AI developers**—version 1 of the **Context Engineering Detailed Guide**! This guide is no general talk; it dives deep into **multi-agent examples** and walks you through the key secrets 🗝️ of **context engineering** step-by-step. Want to become an AI development pro? This guide is definitely a must-read! 🧐 Hurry and click ['More Details'](https://x.com/omarsar0/status/1941566132001153082) to check it out!
-    <br/> [![上下文工程指南封面](https://pbs.twimg.com/media/GvHR4-7W4AAlfde?format=jpg&name=orig)](https://pbs.twimg.com/media/GvHR4-7W4AAlfde?format=jpg&name=orig) <br/>
-4.  Demis Hassabis liked 👍 and retweeted Min Choi's take, flat-out calling **Gemini 2.5** the **superstar** 🦸‍♂️ of today's AI world—the most **versatile AI model** out there! It not only handles **code** and **CLI** commands 💻 like a pro, but it can also easily manage **tables** 📊 and even flex its muscles in the **education** sector, nailing even India's "gaokao" **IIT-JEE exam**! Its capabilities are just insane! 🤩 Quickly click ['More Details'](https://x.com/demishassabis/status/1941701663800062214) to learn more!
-    <br/> [![Gemini 2.5模型能力](https://pbs.twimg.com/media/GvGa-2tXoAACmiv?format=jpg&name=orig)](https://pbs.twimg.com/media/GvGa-2tXoAACmiv?format=jpg&name=orig) <br/>
+5. Whoa, China's **smart speaker** market is making a strong comeback during the 2025 618 sales event! 📈 Online sales hit 802,000 units, a 7.5% year-over-year increase, and sales revenue jumped a whopping 15.2%! This is largely thanks to the widespread adoption of **large AI model** tech ✨. Smart speakers powered by large AI models now command almost 40% (36.8%) of the market share, showing that consumer demand for their enhanced interactive experience is just getting higher and higher!
+
+    <br/> ![智能音箱市场趋势图](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv3rjhf6drg71h0gte1v4n.png) <br/>
+    <br/> ![智能音箱销量数据](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv3wd5eqcrtp1mg2fvppcj.png) <br/>
+
+6. As a market leader, **Xiaomi**'s "Super Xiaoai" large model smart speaker Pro totally crushed it during 618, firmly clinching the top spot in single-product sales 🏆. Its outstanding performance in voice interaction and smart Q&A brought users a more human-like experience. 💪 Meanwhile, **Baidu** also dropped several new products powered by its "Wenxin Large Model" tech in May, with the Big King Pro and Smart Health Screen being particularly eye-catching, both becoming key players in their smart speaker lineup!
+
+7. Smart speakers powered by **large AI models** have basically made a quantum leap in **smart voice Q&A** and **interaction capabilities**, bringing a more human-like and smarter interactive experience! 💖 And that's exactly why consumers are more willing to shell out for these high-performance products. This trend suggests that after four years in the doldrums, the smart speaker market finally looks set for a **stable rebound**, and with the continuous advancements in **large AI model** tech, it's expected to keep up its **growth momentum** in the future! 🚀👍
+
+8. Anthropic's **Claude Code** has been out for just four short months, and it's already reeled in **115,000 developers**, handling a staggering **195 million lines of code** in a single week! 💡 It's projected to rake in an annual revenue of $130 million – talk about a new superstar in the coding world! 🌟 This tool integrates the powerful **Claude Opus 4** model, offering **comprehensive development environment** features, and excels at understanding project architecture and generating context-aware code suggestions, significantly boosting development efficiency. 🚀 Many developers have even switched over from Cursor, which clearly solidifies the huge potential of AI coding tools in boosting **productivity**! ['More Details'](https://www.jiqizhixin.com/articles/2025-07-07-11)
+
+### AI Frontier Research
+1. **MemOS** 🧠 is practically a **production-grade memory operating system** tailor-made for large language models! It aims to tackle the massive challenge of **long-term memory management** and **optimization** for LLMs. By unifying plaintext, activation states, and parameter memory, it achieves sustainable evolution and self-updating – how cool is that! 😎 This system has boosted average accuracy by over 38.97% compared to OpenAI's global memory on memory benchmarks, and even slashed Token costs by 60.95%! Especially in **temporal reasoning tasks**, it shows an impressive 159% improvement 📈, making it absolutely the **SOTA framework** in the **memory management field**! 🏆
+
+    <br/> ![MemOS架构图](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv3ygwez2ts93807gyy21j.png) <br/>
+    <br/> ![MemOS性能对比](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv401qexnv0stezykfeymx.png) <br/>
+    ['Project Link'](https://github.com/MemTensor/MemOS)
+
+### AI Industry Outlook & Social Impact
+1. A recent study in *Nature* magazine uncovered a thought-provoking phenomenon 🤔: In 2024, a staggering over 200,000 biomedical paper abstracts published on **PubMed** (roughly 14%) showed **characteristic terms** of **AI-generated text**! ⚠️ This proportion was even higher in non-English speaking countries and open-access journals with lower publication barriers. The research team is urging for **standardized AI** use in **academic writing** to ensure the rigor and fairness of scientific research, and plans to delve deeper into the actual impact this will have on academic literature.
+
+    <br/> ![科研论文摘要](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv41j7f9m8332p0wnkcbkm.jpg) <br/>
+
+2. The Independent Publishers Alliance is really up in arms lately 😠! They've filed an **antitrust complaint** with the European Commission, accusing **Google** of "abusing web content" with its new **AI summary** feature in search! This has got publishers, especially news publishers, tearing their hair out, as they've suffered serious losses in traffic, readership, and revenue. This whole thing has once again thrust the issue of how big tech companies use web content and data into the spotlight, and you bet its future developments will definitely spark a heated debate in the industry! ⚖️
+
+    <br/> ![欧盟委员会标志](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv44htf6fbzvghzfa5q3ag.png) <br/>
+
+3. Pixar's Chief Creative Officer, **Pete Docter**, recently vented on a podcast, calling current **AI tech** "boring" 🤔. But he stressed that in **animation creation**, **human creativity** is absolutely irreplaceable! He's still hopeful AI can help ease the workload for folks 🙏. His remarks have sparked widespread discussion in Hollywood about AI's impact, and it seems Docter is still pretty hopeful about **AI-assisted creation** in the future!
+
+    <br/> ![皮克斯标志](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv48haea1924k4ygc7mmef.jpg) <br/>
+
+### Top Open-Source Projects
+1. In early July 2025, the **Glass** open-source **AI desktop assistant** launched by the Pickle team shot to popularity 🔥! With its unique **invisible design**, lightning-fast **real-time information processing**, and **powerful context understanding**, it quickly became a new favorite for professionals, offering a smart new office experience. This tool can capture screen activity and audio, organizing scattered information into structured knowledge, making it perfect for meeting notes, study aids, and coding support. Plus, thanks to its **open-source nature**, it's already garnered 1.8k stars ⭐ on GitHub, with community activity through the roof – it's practically an efficiency godsend! 🚀
+
+    <br/> ![Glass AI桌面助手界面](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv4b54e1sbbvqfzf1e3qg0.png) <br/>
+
+2. Google kicked off July 2025 by rolling out the latest version of its **open-source command-line tool** – **Gemini CLI**! 🛠️ This update is packed with awesome features, not only bringing powerful **audio and video processing** capabilities and enhanced **Markdown functionality** but also adding new **privacy settings** and multiple compatibility optimizations. This version was a joint effort by 51 community contributors, aiming to provide developers with a more efficient and flexible work experience. Heard they're even exploring **local/offline model support** in the future – it's just getting better and better! 👍['Project Link'](https://github.com/google-gemini/gemini-cli)
+    <br/> ![Gemini CLI图标](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv4dvte2hapmy40hbgwt0r.png) <br/>
+
+3. **rustfs** ✨, a total gem of a project with **1629** stars, is a **high-performance distributed object storage** solution designed to replace MinIO, offering super-efficient data storage services! 💪['Project Link'](https://github.com/rustfs/rustfs)
+
+4. **youtube-music** 🎵, boasting a whopping **24676** stars, is a **desktop application** tailor-made for **YouTube Music** enthusiasts. It cleverly integrates **custom plugins** to bring you an even richer music experience! 🤩['Project Link'](https://github.com/th-ch/youtube-music)
+
+5. "**macos**" 🤯, an innovative project with **14844** stars, cleverly lets you run a full **macOS** system within **Docker containers**, offering incredible flexibility and convenience for developers and enthusiasts alike! 💻 It's practically a tech geek's dream come true! You can visit ['Project Link'](https://github.com/dockur/macos) to learn more.
+
+6. With its massive popularity boasting **48538** stars, **PocketBase** ✨ has practically revolutionized traditional backend models! It's a **single-file open-source real-time backend** that offers powerful features in a **minimalist** way, making backend development easier than ever before. 🚀 Curious to unravel its mysteries? Check it out: ['Project Link'](https://github.com/pocketbase/pocketbase).
+
+7. **openpilot** 🚗, a star project with **54556** cumulative stars, is practically magic for upgrading regular cars into smart vehicles! 🛡️ As an advanced **robot operating system**, it has successfully provided **driving assistance system** upgrades for over **300** supported car models, making your journeys safer and smarter. Dive deeper: ['Project Link'](https://github.com/commaai/openpilot).
+
+### Social Media Shares
+1. ginobefun shared **Andrej Karpathy's** three core methodologies on how to become an expert in any field 💡 – it's seriously mind-blowing! 🤔 He talked about being **project-driven**, learning on demand; teaching or summarizing **in your own words** to verify understanding; and **only comparing yourself to your past self** to maintain **intrinsic motivation**. This methodology is essentially a **highly efficient evolutionary algorithm** for building **adaptive reality models**, aiming for sustainable **exponential growth** through high-frequency, small-step iterative interactions and pure internal feedback – super inspiring! 🚀['More Details'](https://x.com/hongming731/status/1942199039572988243)
+
+2. Guizang (guizang.ai) shared a super cool feature: **Gemini CLI** can now actually read and recognize **video information**! 🎥 Combined with **FFmpeg**, it can even do simple **automatic video editing** – it's practically one of a thousand ways to "work efficiently without writing code"! 🤩 It also includes functions like bulk system setting modifications, document processing, media editing, and format conversion. Seriously, it's a lifesaver for anyone who likes to keep things simple! ['More Details'](https://x.com/op7418/status/1942115134861988111)
+
+    <br/> ![Gemini CLI视频剪辑示例](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv4nzgegrt8khpfrdetxvh.jpg) <br/>
+
+3. **Wang Mengke (Mengke)**, a content creator, shared her comparative test of using **OpenAI** and **Kimi** for **topic research** 🤔. She found that **Kimi** performs better when handling **local Chinese content**, able to cite **domestic real sources** and generate **structured reports**, while OpenAI's output tends to be more English-centric and generalized. She also summarized three practical tips to avoid **AI hallucinations**, emphasizing the importance of choosing the **right tools** and **verifying information** – super practical! ✅['More Details'](https://m.okjike.com/originalPosts/686b3a22003901b6354d826b)
+    <br/> ![AI幻觉避免技巧](https://cdnv2.ruguoapp.com/LPFqmIfBjaQ39Yos77GRVZg015Gq4X.jpg) <br/>
+
+4. Blogger "Baoyu" is cautious about the arrival of **AGI** 🧐, believing the main bottleneck lies in current large language models (**LLMs**) lacking human-like **continuous learning abilities**. They struggle to improve continuously through **experience and feedback**, which limits their capacity to fully replace **white-collar jobs**. 🔮 Despite his short-term caution, he's extremely bullish on AI's **long-term prospects**, predicting AI will handle **small business taxes** by 2028 and achieve **human-like continuous learning** by 2032. He points out that once the continuous learning problem is solved, it could rapidly give rise to **superintelligence** – talk about deep and visionary thinking! ['More Details'](https://x.com/dotey/status/1942023649248038915)
+    <br/> ![宝玉对AGI的看法](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv4sqzerpbeh82fh2vvw0w.jpg) <br/>
+
+5. Baoyu believes that **AI video production** is approaching its **GPT Moment**! 🎬 This means it's going to transform from a tool exclusively for professionals into a practical tool that **anyone** can easily pick up – that's amazing! 🤩 He personally tested **Nami AI** by simply inputting a prompt and successfully generated a fun *Journey to the West*-themed video. This hints that in the future, **creators** will be able to turn their ideas into reality at astonishing speeds! ['More Details'](https://x.com/dotey/status/1941993291349967168)
+    <video src="https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzjv4wnkejbtscx4ejjamkcj.mp4" controls="controls" width="100%"></video>
+
+6. Elvis retweeted **DAIR.AI**'s curated selection of **AI papers** for the week (June 30 - July 6) 📚 – a real treat for academic hounds! It covers cutting-edge **AI research** topics like **xLSTMAD**, **AI4Research**, **Deep Research Agents**, and a deep dive into **LLM agent evaluation**. These papers are practically an essential overview of the hottest directions in the current **AI field**, 🔬 helping everyone stay on top of the latest research frontiers! ['More Details'](https://x.com/omarsar0/status/1941944565990064129)
 
 ---
 
-## **Listen to the Audio Version of the AI Daily Scoop**
+## **Listen to the Audio Version of AI Daily**
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Laisheng's Little Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [Laisheng Intel Hub](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://s1.imagehub.cc/images/2025/06/24/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://s1.imagehub.cc/images/2025/06/24/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![小酒馆](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://cdn.jsdelivr.net/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
