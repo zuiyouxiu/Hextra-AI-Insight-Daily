@@ -86,7 +86,13 @@ footer .hx-max-w-screen-xl{
   text-decoration: underline; /* 悬停时添加下划线，明确表示这是一个可点击的链接 */
 }
 
-
+.ad-container {
+  text-align: center;
+  max-width: 98%;
+  margin: 2rem auto;
+  overflow: hidden;
+  border-radius: 1rem;
+}
 
 /**
  * Hextra 主题 - Pornhub 黑暗模式风格
@@ -94,7 +100,7 @@ footer .hx-max-w-screen-xl{
  * 版本: 3 (包含代码美化)
  */
 
- .hextra-code-block pre {
+.hextra-code-block pre {
   white-space: pre-wrap;
   overflow-wrap: break-word;
   word-break: break-word; /* 兼容旧浏览器 */
