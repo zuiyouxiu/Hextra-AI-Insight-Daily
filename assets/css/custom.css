@@ -10,7 +10,7 @@ h1:first-of-type {
   border-radius: .375rem;
   max-width: 100%;
   min-width: 100%;
-  height: clamp(250px, 30vh, 500px);
+  height: clamp(250px, 35vh, 500px);
   object-fit: cover;
 }
 
