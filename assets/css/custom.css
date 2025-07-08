@@ -10,6 +10,12 @@ h1:first-of-type {
   border-radius: .375rem;
   max-width: 100%;
   min-width: 100%;
+  height: clamp(250px, 30vh, 500px);
+  object-fit: cover;
+}
+
+.content table tbody tr td :where(img):not(:where([class~=not-prose],[class~=not-prose] *)){
+  height: auto;
 }
 
 video {
