@@ -94,6 +94,14 @@ footer .hx-max-w-screen-xl{
   border-radius: 1rem;
 }
 
+.google-auto-placed {
+  text-align: center;
+  max-width: 98%;
+  margin: 2rem auto;
+  overflow: hidden;
+  border-radius: 1rem;
+}
+
 /**
  * Hextra 主题 - Pornhub 黑暗模式风格
  * 将此文件放置在 /assets/css/custom.css
