@@ -2,95 +2,99 @@
 linkTitle: Today's Daily
 title: Today's Daily-AI日报
 breadcrumbs: false
-next: /ja/2025-07/2025-07-08
+next: /ja/2025-07/2025-07-09
 description: AI 業界のニュース、オープンソースのホットスポット、学術的フロンティア、ビッグ V の意見を毎日厳選。AI 情報、AI デイリー、AI
-  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;生数科技が世界で満を持してリリースしたのは、Vidu Q1 ビデオモデルの参照生成機能
-  ✨なんだ。この革新的な機能は、参照画像をアップロードするだけで、数分以内に複数の要素を融合させたビデオ素材を自動生成でき、制作プロセスを大幅に簡素化してくれるんだ。商業利用での高い一貫性を保証するために、なんと7つもの主体入力に対応してる上に、映画レベルの1080P高画質とAIサウンドエフェクト
-  🚀を実現してくれるんだ。しかも、従来の著作権素材のほんの一部にまで制作コストを削減し、ビデオコンテンツ制作の効率と柔軟性を画期的に向上させてるよ。💡
+  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;Feishuがこのたび、企業向けAI新製品を複数、満を持して投入したぞ！知識Q&A、AI会議、Aily、Feishu
+  Miaodaなど、盛りだくさんで、企業でのAI活用を加速させ、業務効率を爆上げするのが狙いだぜ。同時に、Feishuは業界初のAIアプリ成熟度モデルも発表。数千万行のデータに対応した高性能な多次元テーブルもリリースしたぞ。さらに、AilyとFeishu
+  Miaodaで企業向けAIアプリ開発を強力にサポートするFeishu開発キットも提供だって。これで企業は全面的にAI化、マジでヤバい！✨🚀
 cascade:
   type: docs
 ---
-## AIインサイト日報 2025/7/9
+## AIインサイト日報 2025/7/10
 
-> `AI日報` | `朝8時更新` | `全ウェブデータ集約` | `最先端科学探求` | `業界の自由な発信` | `オープンソースの革新力` | `AIと人類の未来` | [ウェブ版にアクセス↗️](https://ai.hubtoday.app/)
+> `AI日報` | `毎朝8時更新` | `全ネットデータ集約` | `最先端科学探求` | `業界フリー発言` | `オープンソース革新力` | `AIと人類の未来` | [ウェブ版はこちら↗️](https://ai.hubtoday.app/)
 
-### **AIコンテンツ概要**
+
+
+### **AIトピックスまとめ**
 
 ```
-生数科技がVidu Q1ビデオモデルを発表、参照生成と高画質制作をサポート。
-DingTalkがAIスプレッドシートをリリース、企業データ処理と自動化の効率を向上。
-Appleが視覚障害者向けナビ支援「SceneScout」を開発、上海市がAI新政策を導入し産業を促進。
+Feishuが複数の企業向けAI新製品を発表、Moonvalleyは高画質動画モデルを投入。
+アリババ、Hugging FaceがAIモデルをオープンソース化し、技術の普及と進歩を推進。
+AI教育アカデミーが設立へ。Zhuyuan Roboticsが上場し、AI製薬のビジネスモデルは課題に直面。
 ```
 
-### AI製品と機能更新
-1. 生数科技が世界で満を持してリリースしたのは、**Vidu Q1** ビデオモデルの**参照生成機能** ✨なんだ。この革新的な機能は、参照画像をアップロードするだけで、数分以内に複数の要素を融合させたビデオ素材を自動生成でき、制作プロセスを大幅に簡素化してくれるんだ。商業利用での高い一貫性を保証するために、なんと**7つ**もの主体入力に対応してる上に、映画レベルの**1080P**高画質と**AIサウンドエフェクト** 🚀を実現してくれるんだ。しかも、従来の著作権素材のほんの一部にまで制作コストを削減し、ビデオコンテンツ制作の効率と柔軟性を画期的に向上させてるよ。💡
-    <br/> ![Vidu Q1功能展示](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna54k9fg89psmbesxm4eh3.jpeg) <br/>
 
-2. **DingTalk** が正式に **AIスプレッドシート** 製品 📊をリリースしたよ。「**スプレッドシートはドキュメントだ**」という革新的な機能で、企業データの処理と情報管理を再定義しちゃったんだ。**インテリジェントなフィールド処理**、**敷居の低いデータ分析**、そして**自動化されたワークフロー作成**といった強力な能力 💪を実現し、企業がカスタムビジネスシステムを簡単に構築できるようサポートし、オフィス効率を大幅に向上させ、企業運営を**AIドリブン**の新時代へと押し上げてくれるよ。✨
 
-3. Appleとコロンビア大学がこのほど共同開発したのは、**SceneScout** という名前の**AIプロトタイプシステム** 🍎🗺️。これは、**Appleマップ** APIと**マルチモーダル大規模言語モデル**を組み合わせて、**視覚障害者やロービジョンの方々**にこれまでにないストリートビューナビゲーション補助を提供することを目的としているんだ。このシステムは、**ルートプレビュー**と**バーチャル探索**機能を提供するだけでなく、テストでは**AI生成された説明の72%が正確**であることが示され、ユーザーから高く評価されていて、外出体験を格段に向上させてるよ。💖
-    <br/> ![SceneScoutナビゲーション補助](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna55wde7vag1qjvwgcm0tf.jpeg) <br/>
+### AI製品と機能のアップデート
+1.  **Feishu**がこのたび、**企業向けAI新製品**を複数、満を持して投入したぞ！**知識Q&A**、**AI会議**、**Aily**、**Feishu Miaoda**など、盛りだくさんで、企業でのAI活用を加速させ、業務効率を爆上げするのが狙いだぜ。同時に、Feishuは業界初の**AIアプリ成熟度モデル**も発表。数千万行のデータに対応した高性能な**多次元テーブル**もリリースしたぞ。さらに、**Aily**と**Feishu Miaoda**で企業向けAIアプリ開発を強力にサポートする**Feishu開発キット**も提供だって。これで企業は全面的にAI化、マジでヤバい！✨🚀
 
-4. Microsoft Windows 11システムに、待望の**AIダイナミック壁紙機能** 🖼️✨がもうすぐ登場するんだって。関連コードは最新のプレビュー版にこっそり現れてるけど、まだアクティブにはなってないんだ。この機能が導入されれば、ユーザーはテーマを選んで壁紙を自動更新できるようになり、Windows 11にさらに**パーソナル**で**スマート**なデスクトップ体験をもたらしてくれることが期待されてるんだ。これってめっちゃクールじゃない？🆕
-    <br/> ![Windows 11ダイナミック壁紙](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna57vhfg38xnz208syp2hh.jpeg) <br/>
-
-5. MicrosoftはAzure AI Foundryで**Deep Research**のパブリックプレビュー版 🔬💻を公開したよ。これは、複雑な**調査や分析**タスクを自動化できる強力な**AIエージェント**なんだ。**Bing検索**とOpenAIの**GPTシリーズモデル**を巧みに組み合わせて、問題を賢く分解し、情報を正確に取得してくれるから、研究やビジネス意思決定の効率が大幅にアップするんだ。API連携もサポートしてるから、君の研究作業がめちゃくちゃはかどるぞ！📈 [詳細はこちら](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUQ1VGQUEzRlBIMVU2UFlHSFpSNkpOR0paRSQlQCN0PWcu)。
-    <br/> ![Deep Researchエージェント](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna59hrepqtqf3v5bmwmf72.jpeg) <br/>
+2.  Moonvalleyが最近、新しい**AI動画生成モデル**「**Marey Realism v1.5**」をぶっ込んできたぞ！これ、なんとネイティブで**1080Pの超高画質動画生成**に対応。しかも、**ライセンス許諾済みコンテンツで100%学習**してるから、著作権リスクもバッチリ回避してるんだ。このモデル、**精度の高いプロンプト解釈**や**映画みたいな動きのある光影効果**とかが特徴で、映像制作や広告クリエイティブの分野に、めっちゃ効率的で安全な制作ツールを提供してくれてる。将来的にはポーズやモーションの転送機能もサポートする予定らしい。マジ期待！🎥🛡️
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwv8bafkrvec5azm8bxk0k.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwv8bafkrvec5azm8bxk0k.jpeg) <br/>
+    ['もっと詳しく！'](bit.ly/MeetMarey)
+3.  コロンビア大学の学生、**アントニオ・リー**と**パトリック・シェン**が**AI検出ツール**「**Truely**」を開発したってさ。🕵️‍♂️⚖️これは、**ロイ・リー**と**ニール・シャナモグム**が立ち上げた、会議やインタビューに自動で参加できちゃう**AIデスクトップアシスタント**「**Cluely**」に対抗するためのものなんだ。「**Truely**」の今のバージョンはちょっと操作が複雑だけど、**AIチート**への有効な対抗策になる可能性を秘めてるぜ。そんな中、セキュリティ研究者の**ジャック・ケーブル**が「**Cluely**」のプロンプトを公開したことで**DMCA（デジタルミレニアム著作権法）の申し立て**を受けちゃって、著作権と研究の自由についての議論が巻き起こってるんだよね。
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwvd9jfdyb57ay5yq513mc.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwvd9jfdyb57ay5yq513mc.jpeg) <br/>
+    ['もっと詳しく！'](https://www.jiqizhixin.com/articles/2025-07-09-7)
 
 ### AI最先端研究
-1. Alibabaグループが、最新の**マルチモーダル大規模言語モデルHumanOmniV2** 🧠✨をどーんと発表したよ。このモデルは、その卓越した**グローバルな文脈理解**と**マルチモーダル推論能力**でAI分野で広く注目を集めてるんだ。Alibabaが自社開発したIntentBenchテストでは、**69.33%**という素晴らしい精度 🚀を叩き出し、独自の強制的な文脈要約メカニズムによって、従来のモデルが複雑なタスクで抱えていた「近道問題」を効果的に克服したんだ。これは、消費者向けおよび企業向けAIアプリケーションにおける幅広い可能性を示唆してるね。詳細はこちら：['モデルアドレス'](https://github.com/HumanMLLM/HumanOmniV2)、['モデルアドレス'](https://huggingface.co/PhilipC/HumanOmniV2)。
-    <br/> ![HumanOmniV2モデル](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna5ay3e4drbs2hjgfd4jfb.jpeg) <br/>
-    <br/> ![HumanOmniV2性能](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna5d20e7va645jpn9c2byq.jpeg) <br/>
+1.  スイス連邦工科大学の研究者たちが、**GPT-4o**を含むマルチモーダル大規模モデルを対象に、標準的なコンピュータービジョンタスクで評価したんだ。🧐🔬そしたら、**GPT-4o**は**意味理解**ではぶっちぎりで優れてるけど、**幾何学的推論**はまだイマイチってことが判明。研究では、新しい「**推論型モデル**」が幾何学的タスクでブレイクスルーを達成していて、**「Prompt Chaining」**を使うことでモデルのパフォーマンスが劇的に向上することも示されてるぞ。
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwvgebes5b9nny3cv24fwr.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwvgebes5b9nny3cv24fwr.jpeg) <br/>
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwvkb7enntyf4tb9qh8yxt.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwvkb7enntyf4tb9qh8yxt.jpeg) <br/>
+    ['論文はこちら'](https://arxiv.org/pdf/2507.01955)
+2.  **Hugging Face**がこのほど、**3Bパラメータ**の軽量大規模言語モデル**「SmolLM3」**を正式にオープンソース化したぜ！🤩🌍これ、複数のベンチマークテストで4Bパラメータのモデルに匹敵する性能を見せつけてるんだ。このモデルは、ユニークな**デュアルモード推論**と最大**128Kのロングコンテキスト**に対応。しかも6言語にネイティブで対応してるんだ。オープンソースAIエコシステムの発展を推進しつつ、エッジデバイスでも効率的に動かせるように作られてるってわけ。
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwvrqzffjsnrc02nm04rx8.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwvrqzffjsnrc02nm04rx8.jpeg) <br/>
+    ['モデルはこちら'](https://huggingface.co/blog/smollm3)
+3.  **アリババの音声AIチーム**が先日、**チェーン推論**に対応した世界初の**音声生成モデル**「**ThinkSound**」をオープンソース化したぞ！🔊🌌このモデル、**思考連鎖技術**を導入することで、**高忠実度で同期もバッチリな空間音響生成**を実現したんだ。AI音声技術を単なるアフレコから、「**構造的に画面を理解する**」という新しいステージに押し上げたってわけだ。「ThinkSound」はテストで主流の方法を凌駕する優れたパフォーマンスを発揮。将来的にはゲーム開発やVR（バーチャルリアリティ）といった分野での応用が期待されてて、**音声生成技術の普及**を爆速で進めそうだよ。
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqww13yfg0t7qf3tjwa9cxy.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqww13yfg0t7qf3tjwa9cxy.jpeg) <br/>
+    ['モデルはこちら'](https://github.com/FunAudioLLM/ThinkSound)
 
-2. **カーネギーメロン大学**と**Cartesia AI**の研究者たちが、とんでもない秘密 💡を発見したんだ！なんと**500ステップの訓練介入**だけで、**再帰モデル**が**256kシーケンス**もの長さに対応できる驚異的な**汎化能力**を獲得できるんだって。これで長シーケンスタスクにおける制約を完全に打ち破ったんだ 🤯！彼らはこの現象を説明するために、「**未探索状態仮説**」も提唱してるよ。この研究は、一連の巧妙な訓練介入策によって、**再帰モデル**の性能と安定性を大幅に向上させ、深層学習分野における新たな方向性を切り開いたんだ 🔬。
-    <br/> ![循環モデル研究図](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna5ertfcf9p8xnjantgzxq.jpeg) <br/>
-
-3. この研究は、**AutoHDR**と名付けられた新しい自動歴史文献修復方法 📜✨を提案していて、既存の修復ソリューションの限界を解決するために、初の全ページ**歴史文献修復データセット**（FPHDR）も合わせて公開されたんだ。**AutoHDR**は、歴史家のワークフローをシミュレートすることで、損傷した文書の**OCR精度**を大幅に向上させ、貴重な文化遺産の人間とAIの協調修復に新たな道を開いたんだって。モデルとデータセットはすでにオープンソース 🤖で公開されてるから、詳細はこちらの['論文アドレス'](https://arxiv.org/abs/2507.05108)と['モデルアドレス'](https://github.com/SCUT-DLVCLab/AutoHDR)でチェックしてみてね。
+4.  **「OmniPart」**は、新しい**パーツ認識3Dオブジェクト生成フレームワーク**だぜ。🧩✨複雑な生成タスクを「構造計画」と「同期パーツ合成」の2段階に分解することで、高い**意味分離**と強力な**構造的一貫性**を実現してんだ。この方法だと、ユーザーはパーツの粒度を定義したり、正確な局所化ができたり、多様な下流アプリケーションにも対応できちゃう。これで、もっと分かりやすくて編集しやすくて多機能な**3Dコンテンツ**生成への道が開かれたってわけだ。['論文はこちら'](https://arxiv.org/abs/2507.06165)
+5.  今回の研究では、「**エンコードトライアングル**」フレームワークが導入されてて、**大規模言語モデル**（**LLMs**）の**コード理解**におけるプログラミング能力を体系的に評価するのが狙いなんだって。👨‍💻🧠そしたら、LLMは自己完結型システムを形成できるものの、そのソリューションは多様性や堅牢性で人間には及ばず、エラーは訓練データの偏りによって集中しがちだってことが分かったんだ。研究によると、**人間が生成した素材**と**モデルの統合**を組み合わせることで、LLMの性能と堅牢性が劇的に向上するってさ。あと、LLM認知の**一貫性**と**不一致性**も明らかにしてて、将来もっと強力なコーディングモデルを開発するための方向性を示してくれてるよ。['論文はこちら'](https://arxiv.org/abs/2507.06138)
 
 ### AI業界の展望と社会への影響
-1. スタートアップ企業のLovableが、革新的な「**AIネイティブ**」な働き方 💸🤖のおかげで、たった7ヶ月でなんと年間**8000万ドル**もの収入を達成したんだって。これ、マジでびっくりだよね！チームメンバーの半数が**AIネイティブな従業員**で、これが従来のテクノロジー企業の働き方を完全にひっくり返してるんだ 🚀。このモデルは効率を劇的に向上させ、アイデアをAIの力を借りて迅速に実現できるようになったんだ。同時に、**AIネイティブな従業員**の台頭が、将来の組織構造や管理モデルに深く影響を与え、余剰なポジションについて深く考えさせられることになるだろうね🤔。
-    <br/> ![AIネイティブな働き方](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna5ghgej9twxjxe6qvq5dv.jpeg) <br/>
+1.  アメリカ教員連盟（AFT）が、マイクロソフト、OpenAI、Anthropicから2,300万ドルの資金援助を受けて、今年の秋にニューヨーク市で**「全国AI教育アカデミー」**を設立するらしいぜ。🍎🎓これ、**教育関係者**に無料で**AI実践トレーニング**を提供するためのものなんだ。アカデミーの狙いは、教師たちが新しい技術を習得して教育現場での**主導権**をしっかり握れるようにサポートすること。そして、学生のためになる**AIツール**の開発を推進して、未来の教育にめっちゃ大きな影響を与えるってわけだ。
 
-2. **ChatGPT**が**Soundslice**サイトが**ASCIIギタータブ譜**のインポート機能をサポートしてるって誤っておすすめしちゃった 🎸😂もんだから、大量のユーザーがそのサイトに殺到しちゃって、開発者はもともと存在しなかったこの機能を急遽開発してリリースせざるを得なくなっちゃったんだ。この「ミス」はネットで大盛り上がりしたんだけど、逆にそれが**革新的なインスピレーション**を刺激し、技術進歩を後押ししたって意外な評価も出てて、この一件、まさに「災い転じて福となす」って感じだよね！💡
-    <br/> ![ChatGPTアイコン](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna5hsafn68vwvb1rc83vt7.jpeg) <br/>
-
-3. 上海市が先日、17の新政策 🏙️💰を発表したんだ。これは、市全体の**ソフトウェア・情報サービス産業**の質の高い発展を促進して、優れた**AIプロジェクト**には最大**30%の補助金**を提供するっていうものだよ。これらの政策は、**計算力クーポン**なんかを使って企業のコストを下げたり、**大規模モデル**の活用を力強く推進したり、**AIコード生成**をサポートしたりするんだ。それによってハイエンド人材を惹きつけ、業界の発展に新しい活力を注入しようとしてるんだね。上海、これは本気出してきてるな！🚀✨
-    <br/> ![上海ランドマークビル](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna5jyteaqapg552f4vn03s.jpeg) <br/>
-
+2.  Scale Venture Partnersの副社長、**マギー・バスタ**が最近、**AIによる創薬**の未来と価値創造について深掘りした記事を発表したんだ。🔬💡記事では、AIが変革の可能性を秘めてるものの、**AI製薬のビジネスモデル**はまだ課題だらけだって指摘してるよ。純粋なソフトウェアモデルの限界には要注意で、資産ベースの投資に注目すべきだってさ。記事が強調してるのは、**AlphaFold**みたいなAI技術は研究開発のボトルネックを解消したり、実験を自動化したりできるけど、核となる価値はあくまで「薬の開発」であって、単にソフトウェアを売ることじゃないってこと。これからのAIスタートアップは、自前の薬剤パイプラインを構築するか、ディープなサービス型製品を提供しないと価値を出せないかもしれないって話だ。
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqww3q4e5m8tsh3gg7ag5bp.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqww3q4e5m8tsh3gg7ag5bp.jpeg) <br/>
+    ['もっと詳しく！'](https://www.jiqizhixin.com/articles/2025-07-09-11)
+3.  **Zhifukun**が共同設立した**具現化型知能ロボット会社**「**Zhuyuan Robotics**」が、2025年7月9日に、少なくとも21億元を投じて**上緯新材**の株式63.62%を買収し、成功裏にこのA株の**科創板（ハイテク新興企業向け市場）上場企業**を子会社化することに成功したって発表したんだぜ。🤖💰これで非伝統的なIPOじゃない形で公開資本市場に参入したってわけだ。この動きは、**具現化型知能**業界の発展経路を塗り替えただけでなく、「Zhuyuan Robotics」がリソース統合と産業アップグレードを加速させることの予兆でもあるんだ。
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqww6wjf709qd5gvm6c4hay.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqww6wjf709qd5gvm6c4hay.jpeg) <br/>
+    ['もっと詳しく！'](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247808752&idx=1&sn=167f7d76e104d3951a8bd4d797a60c06)
+4.  インテル、ボイシ州立大学、イリノイ大学の研究者たちが、チャットボットが大量の情報をぶち込まれた時に「**情報過多（InfoFlood）**」攻撃で誘導されて、**セキュリティルール**を破っちゃう可能性があるって発見したんだ。⚠️🔒この発見は、セキュリティフィルターがあっても、**悪意のあるユーザー**がモデルを操って**有害なコンテンツ**を入れ込めるってことを暴いてるから、**AIのセキュリティ対策**をガチで強化する必要があるってことを強調してるぜ。
 ### オープンソースTOPプロジェクト
-1. Googleがオープンソース化した**MCP Toolbox for Databases** 🛠️🌐は、**モデルコンテキストプロトコル（MCP）**を介して**AIエージェント**と**SQLデータベース**のインタラクションを簡素化し、効率的かつ安全な統合を実現するためのツールなんだ。Pythonコード10行未満で高速接続をサポートしてるし、**コネクションプール管理**、**認証**、**スキーマ内省**といったコア機能も内蔵されてるんだ。これによって開発効率が爆上がりするから、データベース統合にはめっちゃ役立つぞ！🚀 その['プロジェクトアドレス'](https://github.com/googleapis/genai-toolbox)。
-    <br/> ![MCP Toolboxアイコン](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna5mt8fp6syxk1wtfw5a2j.jpeg) <br/>
-
-2. プロジェクト「**12-factor-agents**」 (⭐7177) 💡💻は、本番環境で本当に使える**LLM駆動ソフトウェア**の原則を探求することに力を入れていて、高品質な**大規模モデル**アプリケーションを顧客に提供するという課題を解決することを目指してるんだ。これはまるで実践ガイドブックみたいで、開発者がLLMを研究室から現実世界へと持っていくための道しるべになってくれるよ！✨ ['プロジェクトアドレス'](https://github.com/humanlayer/12-factor-agents)
-
-3. **WebAgent** 🕷️🌐は、通義（Tongyi）ラボが開発した、**情報検索**の問題を解決するためのWebエージェントプロジェクトで、**WebWalker**、**WebDancer**、**WebSailor**などのモジュールが含まれてるんだ。現在1935スターを獲得してるよ。このプロジェクトは、効率的な**情報検索**システムを構築するための強力なサポートを提供してくれるから、情報の海をストレスなく泳ぎ回れるようになるぞ！🔎 ['プロジェクトアドレス'](https://github.com/Alibaba-NLP/WebAgent)
-
-4. **Hands-On-Large-Language-Models** 📚🧑‍💻は、O'Reilly書籍『実践大規模言語モデル』の公式コードリポジトリで、読者が**大規模言語モデルを実践的に学び**、**深く理解する**ことを目的としてるんだ。現在11333スターを獲得してるよ。このプロジェクトは、LLMの**学習と応用**のための豊富な**コード例**を提供してるから、LLM学習者にとってはまさに宝物だよ！✨ ['プロジェクトアドレス'](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
-
-5. **GenAI_Agents** 🤖🧠リポジトリは、様々な**生成AIエージェント技術**の**チュートリアルと実装**を網羅していて、**インテリジェントでインタラクティブなAIシステム**を構築するための基礎から上級まで**包括的なガイダンス**を提供することを目的としてるんだ。現在13914スターを獲得してるよ。これは開発者が**生成AIエージェント**を深く探求し、応用するための貴重なリソースを提供してくれるから、AIエージェントマスターになれるぞ！📖 ['プロジェクトアドレス'](https://github.com/NirDiamant/GenAI_Agents)
-
-6. 日本のAI企業**Sakana AI**が、**AB-MCTS**という画期的なアルゴリズム 🤝🧠を発表したよ。このアルゴリズムを使えば、**大規模言語モデル**（ChatGPT、Gemini、DeepSeekなど）がまるで人間のチームみたいに協力して問題を処理できるようになるんだ。**ARC-AGI-2**などのベンチマークテストでは、単一モデルよりもはるかに優れたパフォーマンスを叩き出してるんだって。この研究は、異なるモデルの強みを組み合わせることで、より効果的に複雑な課題を解決できることを示してるんだ。このアルゴリズムは**TreeQuest**としてオープンソース化されてて、AIの協調作業に新しい世界への扉を開いてくれたね！💡 詳細はこちらの['プロジェクトアドレス'](https://github.com/SakanaAI/treequest)。
+1.  **アリババの通義**が最近、強力な**推論と検索能力**を持つ**ウェブエージェント**「**WebSailor**」を**オープンソース**化したぞ！💡🌐このエージェント、英語と中国語のタスク評価でマジで素晴らしいパフォーマンスを見せてて、複数のクローズドソースモデルをも超えてるんだ。この動きは、国産AI Agentの技術標準化を進め、企業の参入障壁を下げただけでなく、**AIエージェントエコノミー**の本格的な幕開けを予感させてるから、投資家は関連分野の**バーティカル産業**や**SaaS企業**に注目すべきかもな。
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwwck3fhct7e0x765nc36f.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwwck3fhct7e0x765nc36f.jpeg) <br/>
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwwja5ec39gp8bc40eps4z.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwwja5ec39gp8bc40eps4z.jpeg) <br/>
+    ['プロジェクトはこちら'](https://github.com/Alibaba-NLP/WebAgent)
+2.  **genai-toolbox**は、**星3595個**ゲットの**オープンソースMCPサーバー**で、**データベース**向けに設計されてて、必要なツールをバッチリサポートしてくれてるぜ。🛠️['プロジェクトはこちら'](https://github.com/googleapis/genai-toolbox)
+3.  **res-downloader**は、**星8098個**の人気実用ツールで、**Video Account（動画アカウント）**、**Douyin（抖音）**、**Kuaishou（快手）**、**Xiaohongshu（小紅書）**なんかのプラットフォームでよくある**ネットリソース**を楽ちんにダウンロードできるんだ。ライブ配信とかいろんな音楽もいけるぞ。✨📥このツールは、クロスプラットフォームのコンテンツダウンロードにおける「困った！」を解決するために頑張ってるってわけ。['プロジェクトはこちら'](https://github.com/putyy/res-downloader)
+4.  **proxypin**は、**星9316個**の人気を誇る、**オープンソースで無料**の**HTTP(S)トラフィックキャプチャソフト**だぜ。全プラットフォームのシステムに対応してるんだ。📈🌐これ、開発者にとっては超便利な**ネットワークトラフィック分析**の切り札で、複雑なデータパケットのキャプチャが直感的で効率的になるんだ。['プロジェクトはこちら'](https://github.com/wanghongenpin/proxypin)
+5.  **Strapi**は、業界をリードする**オープンソースのヘッドレスCMS**で、**星67365個**という桁違いの人気を誇ってるんだ。**100%JavaScript/TypeScriptベース**で、完全にカスタマイズ可能な開発体験を提供してるぜ。🚀⭐開発者のコンテンツ管理をシンプルにして、あらゆる現代的なアプリケーションを効率よく構築できるように頑張ってるんだ。['プロジェクトはこちら'](https://github.com/strapi/strapi)
+6.  **MNN**は、超高速で軽量な**ディープラーニングフレームワーク**なんだ。⚡📱アリババの主要なビジネスシーンで検証済みで、フルマルチモーダルLLM Androidアプリやローカル3DアバターAIなんかがコア機能だぜ。高効率なAIデプロイにバッチリだ。現在、**星12320個**をゲットしてる。['プロジェクトはこちら'](https://github.com/alibaba/MNN)
+7.  **fzf**は、効率的な**コマンドラインファジーファインダー**で、コマンドラインインターフェースでファイルや項目をサクッと見つけるのを助けてくれるんだ。🔍💻現在、**星71678個**を獲得してるぞ。['プロジェクトはこちら'](https://github.com/junegunn/fzf)
 
 ### SNSシェア
-1. 宝玉さんがSNSで**AIによるコード生成**の効率性について深く掘り下げて議論してたよ 💻🤔。彼が言うには、AIは一部のタスク（例えば、**ClaudeCode**が1時間でYouTubeクローラーを完成させるような場合）で効率を劇的に上げられるけど、複雑な、いわゆる「**クソコード**」のようなアプリケーションでは、AIによる効率アップは限定的で、AIが要求を明確に理解するのが難しく、生成されるコードの品質も高い基準を満たせないことがあるから、むしろ複雑なコードの生成を加速させてしまう可能性すらあるってことだ。💬 [詳細はこちら](https://x.com/dotey/status/1942580441367863327)。
-
-2. wwwgoubuliさんが言うには、多くの実際のシナリオでは、事前に構築された**定性的なワークフロー**の方が**インテリジェントエージェント（agent）**よりも便利で実用的だってことらしい🔄💡。これは、特定のアプリケーションでは**ワークフローオーケストレーション**がいまだに大きな利点を持ってるってことだね🧐。 [詳細はこちら](https://x.com/wwwgoubuli/status/1942519738233426360)
-
-3. 歸藏(guizang.ai)さんが、「蔵師匠」の**プロンプト**で生成した、高品質な**長尺画像** 🎨✨をシェアしてたよ。これは、この**プロンプト技術**がビジュアルコンテンツ制作にいかに効果的に応用できるかを示してるよね。AIを遊び尽くしてるって感じ！📸 [詳細はこちら](https://x.com/op7418/status/1942430126899163318)
-    <br/> ![AI生成アート長尺画像](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna7g54e7sv5bfepcqnvbrx.jpeg) <br/>
-
-4. 歸藏(guizang.ai)さんが、ある文章が98回もアンダーラインが引かれてるのを示してて ✍️📈、これはみんなが**普遍的な変化**について共通認識を持ってるってことを表してるんだって。彼は以前、AGI Barで友達と**AIがコンテンツ制作に与える影響**や**トラフィックセンスの育成**について議論した内容をシェアしてて、その洞察をまとめて公開したみたいだよ。これは考えさせられるね🤔。 [詳細はこちら](https://x.com/op7418/status/1942428799280488582)
-    <br/> ![記事下線](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna7pbrfb189fkryx2yqnrr.jpeg) <br/>
-    <br/> ![AGI Bar議論](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzna72bhekbvf3z1h9de8vk3.jpeg) <br/>
-
-5. Elvisさんが**Gemini CLI**と**MCPサーバー**の組み合わせを絶賛してたよ ✨🚀。**プログラミング**の場面で抜群のパフォーマンスを発揮するだけでなく、**文字起こし**や**ライティング**といったクリエイティブなタスクでも素晴らしい結果を出してるって。その強力な機能を紹介する動画もシェアしてくれてるよ。🎥 [詳細はこちら](https://x.com/omarsar0/status/1942418143609033115)
-    </video>
+1.  インディペンデントデベロッパーの**Cheng Yi Truman**が、1年間の経験をまとめた話をシェアしてくれたんだ。💡🤔彼が言うには、AI時代においてインディペンデントデベロッパーが絶対に避けるべき2つの落とし穴は、完璧主義を追求しすぎて製品がなかなかリリースできなかったり最適化しすぎたりすること。そして、ひたすら**コード**を書くことに没頭して、運用やプロモーション、ニーズの掘り起こしを疎かにしちゃうことだって指摘してるぜ。彼は、独立系開発者はニーズ、プロモーション、**コーディング**にバランスよくエネルギーを注ぐべきだとアドバイスしてるよ。['もっと詳しく！'](https://m.okjike.com/originalPosts/686e5671c14102d1095e8339)
+2.  **Guizang(guizang.ai)**が言うには、**X（旧Twitter）運用**能力は超重要で、なんと「イマイチなコンテンツ」でもバズらせることができるんだって。📈🗣️そして、現状の中国発AI企業の公式Xアカウントの運用状況は全体的にイマイチで、Manusだけが突出してるって指摘してるぜ。だから、彼はこれらの中国発AI企業がSNSでのプロモーション効率を上げられるように、**X運用方法**の講座を開く予定なんだとか。['もっと詳しく！'](https://x.com/op7418/status/1942883955050529030)
+3.  **Guizang(guizang.ai)**が、特定の**スタイルコード**と**プロンプトワード**で生成された近未来の**ハイテク兵器のスケッチ**をいくつか披露してくれたんだ。🎨✨そのクオリティに彼は驚愕して、「神スタイルコード」って呼んでるぜ。これらのスケッチは、**コード**と**プロンプト**が組み合わさることで生まれる、とんでもない視覚生成能力を示してるんだ。
+    <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwwpd7ezsbmtzkhcxqkd9v.mp4" controls="controls" width="100%"></video>
+    <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwwtmke2fax51z34pmgdtb.mp4" controls="controls" width="100%"></video>
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwwyafexbaqxhge7609e03.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwwyafexbaqxhge7609e03.jpeg) <br/>
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwx26zeysahvam0tpytmzv.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwx26zeysahvam0tpytmzv.jpeg) <br/>
+    ['もっと詳しく！'](https://x.com/op7418/status/1942849852850987213)
+4.  **Tusiji Daye**が投稿で指摘したところによると、**Manus**社が大規模なリストラを進めてて、**中国区**の従業員の3分の2がクビになっちゃったらしいんだ。📉😟そのせいで、**北京蝴蝶效应科技**が**シンガポール蝴蝶效应科技**に社名変更したんだとさ。この動きは、多国籍テクノロジー企業の中国事業における調整と変化を明らかにしているね。
+    <br/> [![图片](https://cdnv2.ruguoapp.com/FuKlkcIKhlP6QuatyH4-FRbrE4ghv3.jpg)](https://cdnv2.ruguoapp.com/FuKlkcIKhlP6QuatyH4-FRbrE4ghv3.jpg) <br/>
+    ['もっと詳しく！'](https://m.okjike.com/originalPosts/686dedc9d4f81d25fb315660)
+5.  **Baoyu**が、「**雰囲気プログラミング**」（AI補助コード生成）を**スロットマシン**に例えて、その隠されたコストと効率の落とし穴を深掘りしてくれたんだ。🎰🤔彼が言うには、表面上は簡単に実現できるような錯覚を与えるけど、結局は膨大な時間と労力を消費しちゃうし、**モデルベンダー**こそが真の勝者だってさ。
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwx6qjemc97gnt8tf2af75.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwx6qjemc97gnt8tf2af75.jpeg) <br/>
+    <br/> [![图片](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwxbgne9x853kkvbzp5s4k.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzqwxbgne9x853kkvbzp5s4k.jpeg) <br/>
+    ['もっと詳しく！'](https://baoyu.io/blog/slot-machine-vibe-coding-comparison)
 
 ---
 
-## **音声版AI日報を聴こう**
+## **AI日報の音声版を聞こう！**
 
-| 🎙️ **小宇宙（Xiaoyuzhou）** | 📹 **抖音（Douyin）** |
+| 🎙️ **小宇宙** | 📹 **Douyin** |
 | --- | --- |
-| [来生小酒館（Laisheng Xiaojiuguan）](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体アカウント](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒館](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情報ステーション](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [来生小酒館](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [公式アカウント](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![小酒馆](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
