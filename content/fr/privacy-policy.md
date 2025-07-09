@@ -4,173 +4,173 @@ type: page
 sidebar:
   exclude: true
 ---
-# Politique de confidentialité
+# Politique de Confidentialité
 
 *Dernière mise à jour : 1er juin 2025*
 
 ---
 
-Cette politique de confidentialité décrit nos démarches et procédures concernant la collecte, l'utilisation et la divulgation de vos infos quand vous utilisez le Service. Elle vous informe aussi de vos droits en matière de confidentialité et comment la loi vous protège.
+La présente Politique de Confidentialité décrit Nos politiques et procédures concernant la collecte, l'utilisation et la divulgation de Vos informations lorsque Vous utilisez le Service, et Vous informe de Vos droits à la vie privée et de la manière dont la loi Vous protège.
 
-On utilise vos données persos pour proposer et améliorer le Service. En l'utilisant, vous acceptez qu'on collecte et utilise des infos conformément à cette politique de confidentialité.
+Nous utilisons Vos Données Personnelles pour fournir et améliorer le Service. En utilisant le Service, Vous acceptez la collecte et l'utilisation d'informations conformément à la présente Politique de Confidentialité.
 
 ## Explications et définitions
 
 ### Explications
-Les mots qui commencent par une majuscule ont une signification définie dans les conditions suivantes. Que ces définitions soient au singulier ou au pluriel, elles gardent le même sens.
+Les mots dont la première lettre est majuscule ont les significations définies dans les conditions suivantes. Les définitions suivantes auront la même signification qu'elles apparaissent au singulier ou au pluriel.
 
 ### Définitions
-Pour les besoins de cette politique de confidentialité :
+Aux fins de la présente Politique de Confidentialité :
 
-- **Compte** désigne un compte unique créé pour vous permettre d'accéder à notre Service ou à certaines de ses parties.
+- La **Société** (dénommée « la Société », « Nous » ou « Nos » dans le présent accord) fait référence à **何夕2077的 AI 日报**.
 
-- **Filiale** désigne une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où le "contrôle" signifie la possession de 50 % ou plus des actions, parts sociales ou autres titres donnant droit de vote pour l'élection des administrateurs ou de toute autre autorité de gestion.
+- Le **Compte** désigne un compte unique créé pour Vous permettre d'accéder à notre Service ou à des parties de notre Service.
 
-- **Société** (désignée dans cet accord comme "la Société", "nous" ou "notre") fait référence à **何夕2077的 AI 日报**.
+- La **Société Affiliée** désigne une entité qui contrôle, est contrôlée par ou est sous le contrôle commun d'une partie, où « contrôle » signifie la possession de 50 % ou plus des actions, des participations ou d'autres titres ayant le droit de vote pour l'élection des administrateurs ou d'autres autorités de gestion.
 
-- **Cookies** sont des petits fichiers placés sur votre ordi, appareil mobile ou tout autre bidule par un site web, contenant des détails de votre historique de navigation sur ce site, entre autres usages.
+- Les **Cookies** sont de petits fichiers placés sur Votre ordinateur, Votre appareil mobile ou tout autre appareil par un site Web, contenant les détails de Votre historique de navigation sur ce site Web parmi ses nombreuses utilisations.
 
-- **Pays** fait référence à : Californie, États-Unis d'Amérique.
+- Le **Pays** fait référence à : Californie, États-Unis.
 
-- **Appareil** désigne tout bidule qui peut accéder au Service, comme un ordi, un smartphone ou une tablette numérique.
+- L'**Appareil** désigne tout appareil pouvant accéder au Service, tel qu'un ordinateur, un téléphone portable ou une tablette numérique.
 
-- **Données personnelles** sont toutes les infos concernant une personne identifiée ou identifiable.
+- Les **Données Personnelles** désignent toute information se rapportant à une personne identifiée ou identifiable.
 
-- **Service** désigne le Site web.
+- Le **Service** fait référence au Site Web.
 
-- **Fournisseur de services** désigne toute personne physique ou morale qui traite les données pour le compte de la Société. Ça fait référence aux entreprises ou individus tiers employés par la Société pour faciliter le Service, pour le fournir au nom de la Société, pour réaliser des services liés au Service ou pour aider la Société à analyser comment le Service est utilisé.
+- Le **Fournisseur de Services** désigne toute personne physique ou morale qui traite les données pour le compte de la Société. Il fait référence aux sociétés tierces ou aux personnes employées par la Société pour faciliter le Service, fournir le Service au nom de la Société, exécuter des services liés au Service ou aider la Société à analyser l'utilisation du Service.
 
-- **Données d'utilisation** désignent les données collectées auto, générées soit par l'utilisation du Service soit par l'infrastructure du Service elle-même (par exemple, la durée d'une visite de page).
+- Les **Données d'Utilisation** désignent les données collectées automatiquement, générées par l'utilisation du Service ou par l'infrastructure du Service elle-même (par exemple, la durée d'une visite de page).
 
-- **Site web** fait référence à **何夕2077的 AI 日报**, accessible via `https://ai.hubtoday.app/`.
+- Le **Site Web** désigne **何夕2077的 AI 日报**, accessible depuis `https://ai.hubtoday.app/`.
 
-- **Vous** désigne l'individu qui accède ou utilise le Service, ou la boîte, ou toute autre entité légale pour le compte de laquelle cet individu accède ou utilise le Service, selon le cas.
+- **Vous** désigne la personne accédant ou utilisant le Service, ou la société, ou toute autre entité juridique au nom de laquelle cette personne accède ou utilise le Service, selon le cas.
 
 ## Collecte et utilisation de vos données personnelles
 
 ### Types de données collectées
 
-#### Données personnelles
-Quand vous utilisez notre Service, on pourrait vous demander de nous filer certaines infos perso qui peuvent nous servir à vous contacter ou à vous identifier. Les infos perso peuvent inclure, sans s'y limiter :
+#### Données Personnelles
+Lors de l'utilisation de Notre Service, Nous pouvons Vous demander de Nous fournir certaines informations personnellement identifiables qui peuvent être utilisées pour Vous contacter ou Vous identifier. Les informations personnellement identifiables peuvent inclure, sans s'y limiter :
 
 - Adresse e-mail
-- Données d'utilisation
+- Données d'Utilisation
 
-#### Données d'utilisation
-Les données d'utilisation sont collectées automatiquement quand on utilise le Service.
+#### Données d'Utilisation
+Les Données d'Utilisation sont collectées automatiquement lors de l'utilisation du Service.
 
-Les données d'utilisation peuvent inclure des infos comme l'adresse IP de votre Appareil, le type et la version du navigateur, les pages de notre Service que vous visitez, la date et l'heure de votre visite, le temps passé sur ces pages, les identifiants uniques d'appareil et d'autres données de diagnostic.
+Les Données d'Utilisation peuvent inclure des informations telles que l'adresse de protocole Internet de Votre Appareil (par exemple, l'adresse IP), le type de navigateur, la version du navigateur, les pages de Notre Service que Vous visitez, l'heure et la date de Votre visite, le temps passé sur ces pages, les identifiants uniques de l'appareil et d'autres données de diagnostic.
 
-Quand vous accédez au Service via un appareil mobile, on peut collecter auto certaines infos, y compris, mais sans s'y limiter, le type d'appareil mobile que vous utilisez, son ID unique, l'adresse IP de votre appareil mobile, votre système d'exploitation mobile, le type de navigateur Internet mobile que vous utilisez, les identifiants uniques d'appareil et d'autres données de diagnostic.
+Lorsque Vous accédez au Service par ou via un appareil mobile, Nous pouvons collecter automatiquement certaines informations, y compris, mais sans s'y limiter, le type d'appareil mobile que Vous utilisez, l'ID unique de Votre appareil mobile, l'adresse IP de Votre appareil mobile, Votre système d'exploitation mobile, le type de navigateur Internet mobile que Vous utilisez, les identifiants uniques de l'appareil et d'autres données de diagnostic.
 
-On peut aussi collecter les infos que votre navigateur envoie quand vous visitez notre Service ou quand vous y accédez via un appareil mobile.
+Nous pouvons également collecter les informations que Votre navigateur envoie chaque fois que Vous visitez Notre Service ou lorsque Vous accédez au Service par ou via un appareil mobile.
 
 ### Technologies de suivi et Cookies
-On utilise des Cookies et des technologies de suivi similaires pour pister l'activité sur notre Service et stocker certaines infos. Les technologies de suivi utilisées sont des balises, des tags et des scripts pour collecter et suivre des infos et pour améliorer et analyser notre Service. Les technologies qu'on utilise peuvent inclure :
+Nous utilisons des Cookies et des technologies de suivi similaires pour suivre l'activité sur Notre Service et stocker certaines informations. Les technologies de suivi utilisées sont des balises, des tags et des scripts pour collecter et suivre les informations et pour améliorer et analyser Notre Service. Les technologies que Nous utilisons peuvent inclure :
 
-- **Cookies ou Cookies du navigateur** : Un cookie est un petit fichier placé sur votre Appareil. Vous pouvez dire à votre navigateur de refuser tous les Cookies ou d'indiquer quand un Cookie est envoyé. Cependant, si vous n'acceptez pas les Cookies, vous pourriez ne pas pouvoir utiliser certaines parties de notre Service. À moins que vous n'ayez configuré votre navigateur pour refuser les Cookies, notre Service pourrait en utiliser.
-- **Balises web** : Certaines sections de notre Service et nos e-mails peuvent contenir de petits fichiers électroniques connus sous le nom de balises web (également appelées gifs transparents, tags pixel et gifs à un pixel) qui permettent à la Société, par exemple, de compter les utilisateurs qui ont visité ces pages ou ouvert un e-mail et pour d'autres statistiques de site web liées (par exemple, enregistrer la popularité d'une certaine section et vérifier l'intégrité du système et du serveur).
+- **Cookies ou Cookies de navigateur** : Un cookie est un petit fichier placé sur Votre Appareil. Vous pouvez demander à Votre navigateur de refuser tous les Cookies ou de Vous avertir lorsqu'un Cookie est envoyé. Cependant, si Vous n'acceptez pas les Cookies, il est possible que Vous ne puissiez pas utiliser certaines parties de notre Service. À moins que Vous n'ayez ajusté les paramètres de Votre navigateur pour refuser les Cookies, notre Service peut utiliser des Cookies.
+- **Balises web** : Certaines sections de notre Service et nos e-mails peuvent contenir de petits fichiers électroniques connus sous le nom de balises web (également appelées GIFs transparents, balises pixel et GIFs à pixel unique) qui permettent à la Société, par exemple, de compter les utilisateurs qui ont visité ces pages ou ouvert un e-mail et pour d'autres statistiques de site Web connexes (par exemple, enregistrer la popularité d'une section et vérifier l'intégrité du système et des serveurs).
 
-Les Cookies peuvent être "Persistants" ou de "Session". Les Cookies Persistants restent sur votre ordi perso ou votre appareil mobile quand vous êtes hors ligne, tandis que les Cookies de Session sont supprimés dès que vous fermez votre navigateur web.
+Les Cookies peuvent être des Cookies « persistants » ou « de session ». Les Cookies persistants restent sur Votre ordinateur personnel ou appareil mobile lorsque Vous êtes hors ligne, tandis que les Cookies de session sont supprimés dès que Vous fermez Votre navigateur web.
 
-On utilise à la fois des Cookies de Session et Persistants pour les objectifs décrits ci-dessous :
+Nous utilisons à la fois des Cookies de session et des Cookies persistants aux fins énoncées ci-dessous :
 
-- **Cookies nécessaires/essentiels**
-  - **Type** : Cookies de Session
+- **Cookies essentiels / nécessaires**
+  - **Type** : Cookies de session
   - **Gérés par** : Nous
-  - **But** : Ces Cookies sont super importants pour vous fournir les services dispo via le Site web et pour vous permettre d'utiliser certaines de ses fonctionnalités. Ils aident à authentifier les utilisateurs et à prévenir l'utilisation frauduleuse des comptes utilisateurs. Sans ces Cookies, les services que vous avez demandés ne peuvent pas être fournis, et on utilise ces Cookies uniquement pour vous filer ces services.
+  - **Objectif** : Ces Cookies sont essentiels pour Vous fournir les services disponibles via le Site Web et pour Vous permettre d'utiliser certaines de ses fonctionnalités. Ils aident à authentifier les utilisateurs et à prévenir l'utilisation frauduleuse des comptes d'utilisateurs. Sans ces Cookies, les services que Vous avez demandés ne peuvent pas être fournis, et Nous n'utilisons ces Cookies que pour Vous fournir ces services.
 
-- **Politique de Cookies / Notification d'acceptation des Cookies**
-  - **Type** : Cookies Persistants
+- **Politique en matière de Cookies / Acceptation des Cookies**
+  - **Type** : Cookies persistants
   - **Gérés par** : Nous
-  - **But** : Ces Cookies servent à savoir si les utilisateurs ont accepté l'utilisation des cookies sur le Site web.
+  - **Objectif** : Ces Cookies identifient si les utilisateurs ont accepté l'utilisation de cookies sur le Site Web.
 
 - **Cookies de fonctionnalité**
-  - **Type** : Cookies Persistants
+  - **Type** : Cookies persistants
   - **Gérés par** : Nous
-  - **But** : Ces Cookies nous permettent de se souvenir des choix que vous faites quand vous utilisez le Site web, comme vos infos de connexion ou votre préférence linguistique. Le but de ces Cookies est de vous offrir une expérience plus perso et d'éviter que vous ayez à retaper vos préférences à chaque fois que vous utilisez le Site web.
+  - **Objectif** : Ces Cookies Nous permettent de mémoriser les choix que Vous faites lorsque Vous utilisez le Site Web, tels que la mémorisation de Vos identifiants de connexion ou de Votre préférence linguistique. L'objectif de ces Cookies est de Vous offrir une expérience plus personnelle et de Vous éviter d'avoir à ressaisir Vos préférences chaque fois que Vous utilisez le Site Web.
 
-Pour plus d'infos sur les cookies qu'on utilise et vos choix concernant les cookies, jetez un œil à notre Politique de Cookies ou à la section Cookies de notre Politique de confidentialité.
+Pour plus d'informations sur les Cookies que Nous utilisons et Vos choix concernant les Cookies, veuillez visiter notre Politique en matière de Cookies ou la section Cookies de notre Politique de Confidentialité.
 
 ### Utilisation de vos données personnelles
-La Société peut utiliser les Données personnelles aux fins suivantes :
+La Société peut utiliser les Données Personnelles aux fins suivantes :
 
-- **Pour fournir et maintenir notre Service**, y compris pour surveiller son utilisation.
-- **Pour gérer votre Compte** : gérer votre inscription en tant qu'utilisateur du Service. Les Données personnelles que vous fournissez peuvent vous donner accès à différentes fonctionnalités du Service disponibles pour vous en tant qu'utilisateur enregistré.
-- **Pour l'exécution d'un contrat** : pour le développement, le respect et l'exécution du contrat d'achat des produits, articles ou services que vous avez achetés ou de tout autre contrat avec nous via le Service.
-- **Pour vous contacter** : pour vous contacter par e-mail, appels téléphoniques, SMS, ou d'autres formes équivalentes de communication électronique, comme les notifications push d'une app mobile, concernant des mises à jour ou des communications informatives liées aux fonctionnalités, produits ou services souscrits, y compris les mises à jour de sécurité, lorsque c'est nécessaire ou raisonnable pour leur mise en œuvre.
-- **Pour vous filer des infos**, des offres spéciales et des infos générales sur d'autres biens, services et événements que nous proposons et qui sont similaires à ceux que vous avez déjà achetés ou pour lesquels vous avez posé des questions, sauf si vous avez choisi de ne pas recevoir de telles infos.
-- **Pour gérer vos demandes** : pour traiter et gérer vos requêtes auprès de nous.
-- **Pour les transferts d'entreprise** : on peut utiliser vos infos pour évaluer ou mener une fusion, une cession, une restructuration, une réorganisation, une dissolution, ou toute autre vente ou transfert de tout ou partie de nos actifs, que ce soit dans le cadre d'une activité continue ou d'une procédure de faillite, de liquidation ou similaire, dans laquelle les Données personnelles que nous détenons sur nos utilisateurs du Service font partie des actifs transférés.
-- **Pour d'autres fins** : on peut utiliser vos infos pour d'autres objectifs, comme l'analyse de données, l'identification des tendances d'utilisation, la détermination de l'efficacité de nos campagnes promotionnelles et pour évaluer et améliorer notre Service, nos produits, notre marketing et votre expérience.
+- **Pour fournir et maintenir Notre Service**, y compris pour surveiller l'utilisation de Notre Service.
+- **Pour gérer Votre compte** : gérer Votre inscription en tant qu'utilisateur du Service. Les Données Personnelles que Vous fournissez peuvent Vous donner accès à différentes fonctionnalités du Service qui sont disponibles pour Vous en tant qu'utilisateur enregistré.
+- **Pour l'exécution d'un contrat** : le développement, la conformité et l'exécution du contrat d'achat des produits, articles ou services que Vous avez achetés ou de tout autre contrat avec Nous via le Service.
+- **Pour Vous contacter** : Vous contacter par e-mail, appels téléphoniques, SMS ou d'autres formes équivalentes de communication électronique, telles que les notifications push d'une application mobile concernant les mises à jour ou les communications informatives liées aux fonctionnalités, produits ou services contractés, y compris les mises à jour de sécurité, lorsque cela est nécessaire ou raisonnable pour leur mise en œuvre.
+- **Pour Vous fournir des actualités**, des offres spéciales et des informations générales sur d'autres biens, services et événements que Nous proposons et qui sont similaires à ceux que Vous avez déjà achetés ou que vous avez consultés, sauf si Vous avez choisi de ne pas recevoir de telles informations.
+- **Pour gérer Vos demandes** : Traiter et gérer Vos demandes auprès de Nous.
+- **Pour les transferts d'entreprise** : Nous pouvons utiliser Vos informations pour évaluer ou effectuer une fusion, une cession, une restructuration, une réorganisation, une dissolution ou toute autre vente ou transfert de tout ou partie de Nos actifs, que ce soit en tant qu'entreprise en exploitation ou dans le cadre d'une faillite, d'une liquidation ou d'une procédure similaire, dans laquelle les Données Personnelles détenues par Nous concernant Nos utilisateurs du Service font partie des actifs transférés.
+- **Pour d'autres objectifs** : Nous pouvons utiliser Vos informations à d'autres fins, telles que l'analyse de données, l'identification des tendances d'utilisation, la détermination de l'efficacité de nos campagnes de promotion et pour évaluer et améliorer notre Service, nos produits, notre marketing et Votre expérience.
 
-On peut partager vos infos perso dans les situations suivantes :
+Nous pouvons partager Vos informations personnelles dans les situations suivantes :
 
-- **Avec les Fournisseurs de services** : on peut partager vos infos perso avec des Fournisseurs de services pour surveiller et analyser l'utilisation de notre Service, et pour vous contacter.
-- **Pour les transferts d'entreprise** : on peut partager ou transférer vos infos perso en lien avec, ou pendant les négociations de, toute fusion, vente d'actifs de la Société, financement, ou acquisition de tout ou partie de notre activité par une autre entreprise.
-- **Avec les Filiales** : on peut partager vos infos avec nos filiales, et dans ce cas, on exigera de ces filiales qu'elles respectent cette politique de confidentialité. Les filiales incluent notre société mère et toute autre filiale, partenaire de coentreprise ou autre entreprise que nous contrôlons ou qui est sous notre contrôle commun.
-- **Avec les partenaires commerciaux** : on peut partager vos infos avec nos partenaires commerciaux pour vous proposer certains produits, services ou promos.
-- **Avec d'autres utilisateurs** : quand vous partagez des infos perso ou interagissez d'une autre manière dans les zones publiques avec d'autres utilisateurs, ces infos peuvent être vues par tous les utilisateurs et peuvent être diffusées publiquement à l'extérieur.
-- **Avec votre consentement** : avec votre consentement, on peut divulguer vos infos perso pour toute autre fin.
+- **Avec les Fournisseurs de Services** : Nous pouvons partager Vos informations personnelles avec les Fournisseurs de Services pour surveiller et analyser l'utilisation de notre Service et pour Vous contacter.
+- **Pour les transferts d'entreprise** : Nous pouvons partager ou transférer Vos informations personnelles dans le cadre de ou pendant les négociations de toute fusion, vente d'actifs de la Société, financement ou acquisition de tout ou partie de notre activité par une autre société.
+- **Avec les Sociétés Affiliées** : Nous pouvons partager Vos informations avec Nos sociétés affiliées, auquel cas Nous exigerons que ces sociétés affiliées respectent la présente Politique de Confidentialité. Les sociétés affiliées comprennent Notre société mère et toute autre filiale, partenaire de coentreprise ou d'autres sociétés que Nous contrôlons ou qui sont sous contrôle commun avec Nous.
+- **Avec les Partenaires commerciaux** : Nous pouvons partager Vos informations avec Nos partenaires commerciaux pour Vous offrir certains produits, services ou promotions.
+- **Avec les autres utilisateurs** : Lorsque Vous partagez des informations personnelles ou interagissez de toute autre manière dans les zones publiques avec d'autres utilisateurs, ces informations peuvent être consultées par tous les utilisateurs et peuvent être publiquement diffusées en dehors.
+- **Avec Votre consentement** : Nous pouvons divulguer Vos informations personnelles à toute autre fin avec Votre consentement.
 
-### Rétention de vos données personnelles
-La Société ne gardera vos Données personnelles que le temps nécessaire aux fins énoncées dans cette Politique de confidentialité. On gardera et utilisera vos Données personnelles dans la mesure nécessaire pour se conformer à nos obligations légales (par exemple, si on est tenus de conserver vos données pour respecter les lois applicables), résoudre les litiges et faire respecter nos accords et politiques juridiques.
+### Conservation de vos données personnelles
+La Société ne conservera Vos Données Personnelles que pendant la durée nécessaire aux fins énoncées dans la présente Politique de Confidentialité. Nous conserverons et utiliserons Vos Données Personnelles dans la mesure nécessaire pour Nous conformer à Nos obligations légales (par exemple, si Nous sommes tenus de conserver Vos données pour nous conformer aux lois applicables), résoudre les litiges et faire respecter Nos accords et politiques juridiques.
 
-La Société conservera aussi les Données d'utilisation pour des raisons d'analyse interne. Les Données d'utilisation sont généralement conservées pour une période plus courte, sauf si ces données sont utilisées pour renforcer la sécurité ou améliorer la fonctionnalité de notre Service, ou si on a une obligation légale de les conserver plus longtemps.
+La Société conservera également les Données d'Utilisation à des fins d'analyse interne. Les Données d'Utilisation sont généralement conservées pendant une période plus courte, sauf lorsque ces données sont utilisées pour renforcer la sécurité ou améliorer la fonctionnalité de Notre Service, ou lorsque Nous sommes légalement obligés de conserver ces données pendant des périodes plus longues.
 
 ### Transfert de vos données personnelles
-Vos infos, y compris les Données personnelles, sont traitées dans les bureaux d'exploitation de la Société et dans tout autre endroit où les parties impliquées dans le traitement sont localisées. Cela signifie que ces infos peuvent être transférées et maintenues sur des ordinateurs situés en dehors de votre état, province, pays ou autre juridiction gouvernementale où les lois sur la protection des données peuvent différer de celles de votre juridiction.
+Vos informations, y compris les Données Personnelles, sont traitées dans les bureaux d'exploitation de la Société et dans tout autre lieu où se trouvent les parties impliquées dans le traitement. Cela signifie que ces informations peuvent être transférées vers et conservées sur des ordinateurs situés en dehors de Votre État, province, pays ou autre juridiction gouvernementale où les lois sur la protection des données peuvent différer de celles de Votre juridiction.
 
-Votre accord avec cette Politique de confidentialité et votre soumission de telles infos représentent votre accord à ce transfert.
+Votre consentement à la présente Politique de Confidentialité suivi de Votre soumission de ces informations représente Votre accord à ce transfert.
 
-La Société prendra toutes les mesures raisonnablement nécessaires pour s'assurer que vos données sont traitées en toute sécurité et conformément à cette Politique de confidentialité, et aucun transfert de vos Données personnelles n'aura lieu vers une organisation ou un pays à moins qu'il n'y ait des contrôles adéquats en place, y compris la sécurité de vos données et d'autres infos personnelles.
+La Société prendra toutes les mesures raisonnablement nécessaires pour s'assurer que Vos données sont traitées en toute sécurité et conformément à la présente Politique de Confidentialité et aucun transfert de Vos Données Personnelles n'aura lieu vers une organisation ou un pays à moins qu'il n'y ait des contrôles adéquats en place, y compris la sécurité de Vos données et autres informations personnelles.
 
 ### Suppression de vos données personnelles
-Vous avez le droit de supprimer ou de demander notre aide pour supprimer les Données personnelles que nous avons collectées à votre sujet.
+Vous avez le droit de supprimer ou de demander que Nous Vous aidions à supprimer les Données Personnelles que Nous avons collectées à Votre sujet.
 
-Notre Service peut vous offrir la possibilité de supprimer certaines infos vous concernant directement depuis le Service.
+Notre Service peut Vous donner la possibilité de supprimer certaines informations Vous concernant depuis le Service.
 
-Vous pouvez mettre à jour, modifier ou supprimer vos infos à tout moment en vous connectant à votre Compte, si vous en avez un, et en visitant la section des paramètres du compte qui vous permet de gérer vos infos personnelles. Vous pouvez aussi nous contacter pour demander l'accès, la correction ou la suppression de toute info personnelle que vous nous avez fournie.
+Vous pouvez mettre à jour, modifier ou supprimer Vos informations à tout moment en Vous connectant à Votre Compte, si Vous en avez un, et en visitant la section des paramètres de compte qui Vous permet de gérer Vos informations personnelles. Vous pouvez également Nous contacter pour demander l'accès, la correction ou la suppression de toute information personnelle que Vous Nous avez fournie.
 
-Mais attention, on pourrait avoir besoin de garder certaines infos quand on a une obligation légale ou une base légale pour le faire.
+Veuillez noter, cependant, que Nous pourrions avoir l'obligation légale ou un motif légitime de conserver certaines informations.
 
 ### Divulgation de vos données personnelles
 
 #### Transactions commerciales
-Si la Société est impliquée dans une fusion, une acquisition ou une vente d'actifs, vos Données personnelles peuvent être transférées. On vous préviendra avant que vos Données personnelles ne soient transférées et soumises à une politique de confidentialité différente.
+Si la Société est impliquée dans une fusion, une acquisition ou une vente d'actifs, Vos Données Personnelles peuvent être transférées. Nous Vous informerons avant que Vos Données Personnelles ne soient transférées et ne soient soumises à une politique de confidentialité différente.
 
 #### Application de la loi
-Dans certaines situations, la Société pourrait être obligée de divulguer vos Données personnelles si la loi l'exige ou en réponse à des demandes valables d'autorités publiques (par exemple, un tribunal ou une agence gouvernementale).
+Dans certaines circonstances, la Société peut être tenue de divulguer Vos Données Personnelles si la loi l'exige ou en réponse à des demandes valides d'autorités publiques (par exemple un tribunal ou une agence gouvernementale).
 
 #### Autres exigences légales
-La Société peut divulguer vos Données personnelles de bonne foi, si elle estime qu'une telle action est nécessaire pour :
+La Société peut divulguer Vos Données Personnelles en toute bonne foi en croyant qu'une telle action est nécessaire pour :
 - Se conformer à une obligation légale
 - Protéger et défendre les droits ou la propriété de la Société
-- Prévenir ou enquêter sur d'éventuels actes répréhensibles liés au Service
-- Protéger la sécurité personnelle des Utilisateurs du Service ou du public
-- Se protéger contre la responsabilité légale
+- Prévenir ou enquêter sur d'éventuels actes répréhensibles en relation avec le Service
+- Protéger la sécurité personnelle des utilisateurs du Service ou du public
+- Se prémunir contre la responsabilité légale
 
 ### Sécurité de vos données personnelles
-La sécurité de vos Données personnelles est importante pour nous, mais rappelez-vous qu'aucune méthode de transmission sur Internet, ou méthode de stockage électronique, n'est 100% sûre. Bien qu'on s'efforce d'utiliser des moyens commercialement acceptables pour protéger vos Données personnelles, on ne peut pas garantir leur sécurité absolue.
+La sécurité de Vos Données Personnelles est importante pour Nous, mais rappelez-vous qu'aucune méthode de transmission sur Internet, ni aucune méthode de stockage électronique n'est sécurisée à 100 %. Bien que Nous Nous efforcions d'utiliser des moyens commercialement acceptables pour protéger Vos Données Personnelles, Nous ne pouvons garantir leur sécurité absolue.
 
 ## Confidentialité des enfants
-Notre Service ne s'adresse à personne de moins de 13 ans. On ne collecte pas sciemment d'infos perso identifiables de quiconque ayant moins de 13 ans. Si vous êtes parent ou tuteur et que vous savez que votre enfant nous a fourni des Données personnelles, veuillez nous contacter. Si on découvre qu'on a collecté des Données personnelles de quiconque ayant moins de 13 ans sans vérification du consentement parental, on prendra des mesures pour supprimer ces infos de nos serveurs.
+Notre Service ne s'adresse pas aux personnes de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnellement identifiables auprès de personnes de moins de 13 ans. Si Vous êtes un parent ou un tuteur et que Vous savez que Votre enfant Nous a fourni des Données Personnelles, veuillez Nous contacter. Si Nous découvrons que Nous avons collecté des Données Personnelles auprès de toute personne de moins de 13 ans sans vérification du consentement parental, Nous prendrons des mesures pour supprimer ces informations de Nos serveurs.
 
-Si on doit s'appuyer sur le consentement comme base légale pour traiter vos infos et que votre pays exige le consentement d'un parent, on pourrait exiger le consentement de votre parent avant de collecter et d'utiliser ces infos.
+Si Nous avons besoin de nous appuyer sur le consentement comme base légale pour le traitement de Vos informations et que Votre pays exige le consentement d'un parent, Nous pourrions exiger le consentement de Votre parent avant de collecter et d'utiliser ces informations.
 
 ## Liens vers d'autres sites web
-Notre Service peut contenir des liens vers d'autres sites web qui ne sont pas gérés par nous. Si vous cliquez sur un lien tiers, vous serez redirigé vers le site de ce tiers. On vous conseille fortement de consulter la politique de confidentialité de chaque site que vous visitez.
+Notre Service peut contenir des liens vers d'autres sites Web qui ne sont pas exploités par Nous. Si Vous cliquez sur un lien tiers, Vous serez dirigé vers le site de ce tiers. Nous Vous conseillons fortement de consulter la Politique de Confidentialité de chaque site que Vous visitez.
 
-On n'a aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques des sites ou services tiers et on n'assume aucune responsabilité à leur égard.
+Nous n'avons aucun contrôle et n'assumons aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques de tout site ou service tiers.
 
-## Modifications de cette politique de confidentialité
-On peut mettre à jour notre Politique de confidentialité de temps en temps. On vous informera de tout changement en publiant la nouvelle Politique de confidentialité sur cette page.
+## Modifications de cette Politique de Confidentialité
+Nous pouvons mettre à jour Notre Politique de Confidentialité de temps à autre. Nous Vous informerons de tout changement en publiant la nouvelle Politique de Confidentialité sur cette page.
 
-On vous fera savoir par e-mail et/ou par un avis bien visible sur notre Service, avant que le changement ne devienne effectif et on mettra à jour la date de "Dernière mise à jour" en haut de cette Politique de confidentialité.
+Nous Vous informerons par e-mail et/ou par un avis important sur Notre Service avant que le changement ne devienne effectif et mettrons à jour la date de « Dernière mise à jour » en haut de cette Politique de Confidentialité.
 
-On vous conseille de consulter cette Politique de confidentialité régulièrement pour prendre connaissance des changements. Les changements apportés à cette Politique de confidentialité sont effectifs dès qu'ils sont publiés sur cette page.
+Il est conseillé de consulter régulièrement la présente Politique de Confidentialité pour prendre connaissance de toute modification. Les modifications apportées à la présente Politique de Confidentialité prennent effet lorsqu'elles sont publiées sur cette page.
 
-## Contactez-nous
-Si vous avez des questions sur cette Politique de confidentialité, vous pouvez nous contacter :
+## Nous contacter
+Si vous avez des questions concernant cette Politique de Confidentialité, vous pouvez nous contacter :
 
 - 📧 **E-mail** : [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
