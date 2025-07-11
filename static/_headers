@@ -5,3 +5,37 @@
 # 阻止搜索引擎索引图片，但允许在搜索结果中显示（如果它们被其他页面引用）
 /images/*
   X-Robots-Tag: noimageindex
+
+# -----------------------------------------------------------------
+# 添加的 noindex 规则 (Added noindex rules)
+# -----------------------------------------------------------------
+
+# 分类页面 (Categories Pages)
+/categories/
+  X-Robots-Tag: noindex
+/en/categories/
+  X-Robots-Tag: noindex
+/fr/categories/
+  X-Robots-Tag: noindex
+/ja/categories/
+  X-Robots-Tag: noindex
+
+# 隐私政策页面 (Privacy Policy Pages)
+/privacy-policy/
+  X-Robots-Tag: noindex
+/en/privacy-policy/
+  X-Robots-Tag: noindex
+/fr/privacy-policy/
+  X-Robots-Tag: noindex
+/ja/privacy-policy/
+  X-Robots-Tag: noindex
+
+# 服务条款页面 (Terms of Service Pages)
+/terms-of-service/
+  X-Robots-Tag: noindex
+/en/terms-of-service/
+  X-Robots-Tag: noindex
+/fr/terms-of-service/
+  X-Robots-Tag: noindex
+/ja/terms-of-service/
+  X-Robots-Tag: noindex
