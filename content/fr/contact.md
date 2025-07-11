@@ -6,22 +6,22 @@ sidebar:
 ---
 # Contacte-moi
 
-Je suis super chaud pour écouter tes idées et tes suggestions. Si t'as des questions, des projets de collab' ou si t'as besoin d'un coup de main, n'hésite pas à me contacter via les moyens ci-dessous.
+Je suis super chaud pour écouter tes avis et suggestions. Si tu as des questions, que tu veux collaborer ou que t'as besoin d'aide, n'hésite pas à me joindre via ces moyens.
 
-Je te garantis que je te répondrai par mail aussi vite que possible.
+Je m'engage à te répondre au plus vite par mail.
 
 ---
 
-## **Comment me joindre**
+## **Comment me choper**
 
-*   **E-mail :**
+*   **E-mail (Courriel) :**
     *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
 
-*   **WeChat perso :**
+*   **WeChat Perso :**
     *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="WeChat perso" subtitle="Viens me parler !" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
+        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="WeChat Perso" subtitle="Hésite pas à m'ajouter pour papoter" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
         {{< /cards >}}
 
-*   **Horaires (pour me choper) :**
-    *   Du lundi au vendredi, de 9h00 à 18h00 (GMT+8)
-    *   (Week-ends et jours fériés : c'est off !)
+*   **Horaires de dispo :**
+    *   Du lundi au vendredi, de 9h à 18h (GMT+8)
+    *   (Repos le week-end et jours fériés)
