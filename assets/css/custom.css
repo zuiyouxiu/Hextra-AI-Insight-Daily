@@ -85,7 +85,7 @@ footer .hx-max-w-screen-xl{
   transition: color 0.3s ease, text-decoration 0.3s ease; /* 为悬停效果添加平滑过渡 */
 }
 
-.footer-copyright a:is(html[class~="dark"] *){
+.footer-copyright a:is(html[class~=dark] *){
   color:#a1a8b4;
 }
 
@@ -150,36 +150,36 @@ html.dark {
 /* 
  * --- 2. 基础布局颜色 ---
  */
-.hextra-footer:is(html[class~="dark"] *),
-.nav-container:is(html[class~="dark"] *),
-body:is(html[class~="dark"] *) {
+.hextra-footer:is(html[class~=dark] *),
+.nav-container:is(html[class~=dark] *),
+body:is(html[class~=dark] *) {
   /* 深炭灰色背景 */
   background-color: #1c1c1c;
 }
 
-.nav-container-blur:is(html[class~="dark"] *) {
+.nav-container-blur:is(html[class~=dark] *) {
     background-color: rgba(28, 28, 28, 0.8) !important;
 }
 
 /* 
  * --- 3. 导航栏样式 ---
  */
-.nav-container a:is(html[class~="dark"] *),
-.nav-container svg:is(html[class~="dark"] *) {
+.nav-container a:is(html[class~=dark] *),
+.nav-container svg:is(html[class~=dark] *) {
   color: #ffffff;
   transition: color 0.2s ease-in-out;
 }
 
-.nav-container a:hover:is(html[class~="dark"] *),
-.nav-container a:hover svg:is(html[class~="dark"] *),
-.nav-container button:hover svg:is(html[class~="dark"] *) {
+.nav-container a:hover:is(html[class~=dark] *),
+.nav-container a:hover svg:is(html[class~=dark] *),
+.nav-container button:hover svg:is(html[class~=dark] *) {
   color: #ff9900 !important;
 }
 
-.hamburger-menu:is(html[class~="dark"] *) {
+.hamburger-menu:is(html[class~=dark] *) {
   color: #ffffff;
 }
-.hamburger-menu:hover:is(html[class~="dark"] *) {
+.hamburger-menu:hover:is(html[class~=dark] *) {
   color: #ff9900 !important;
 }
 
@@ -195,15 +195,15 @@ body:is(html[class~="dark"] *) {
 }
 
 /* 4.2 美化代码块: <pre> 和 <code> */
-.hextra-code-block pre:is(html[class~="dark"] *),
-.hextra-code-block .filename:is(html[class~="dark"] *) {
+.hextra-code-block pre:is(html[class~=dark] *),
+.hextra-code-block .filename:is(html[class~=dark] *) {
   background-color: #111; /* 代码块背景更深，以突出代码 */
   border: 1px solid #444;
 }
 
 /* 确保代码块内的所有文本（包括语法高亮）都移除非必需的斜体 */
-.hextra-code-block pre code span:is(html[class~="dark"] *),
-.hextra-code-block pre code:is(html[class~="dark"] *) {
+.hextra-code-block pre code span:is(html[class~=dark] *),
+.hextra-code-block pre code:is(html[class~=dark] *) {
   font-style: normal !important; /* 强制移除斜体 */
   color: #f0f0f0; /* 默认代码颜色为浅灰色/白色 */
 }
@@ -219,12 +219,12 @@ body:is(html[class~="dark"] *) {
 
 
 /* 高亮行的背景色 */
-.chroma .hl:is(html[class~="dark"] *) {
+.chroma .hl:is(html[class~=dark] *) {
   background-color: rgba(255, 153, 0, 0.15) !important;
 }
 
 /* 代码复制按钮 */
-.hextra-code-copy-btn:hover:is(html[class~="dark"] *) {
+.hextra-code-copy-btn:hover:is(html[class~=dark] *) {
   background-color: #2a2a2a;
   color: #ff9900;
 }
@@ -233,39 +233,39 @@ body:is(html[class~="dark"] *) {
 /* 
  * --- 5. 内容区域样式 ---
  */
-.content :where(a):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~="dark"] *),
-.content :where(blockquote):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~="dark"] *) {
+.content :where(a):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *),
+.content :where(blockquote):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *) {
   color: #ff9900;
   border-left-color: #ff9900; /* 引用块的左边框也设为橙色 */
 }
-.content :where(a):not(:where([class~=not-prose],[class~=not-prose] *)):hover:is(html[class~="dark"] *) {
+.content :where(a):not(:where([class~=not-prose],[class~=not-prose] *)):hover:is(html[class~=dark] *) {
   color: #fff;
   text-decoration: underline;
 }
-.content :where(h2):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~="dark"] *) {
+.content :where(h2):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *) {
   border-color: #444;
 }
 
 /* 
  * --- 6. 组件样式 ---
  */
-.hextra-card:is(html[class~="dark"] *) {
+.hextra-card:is(html[class~=dark] *) {
   background-color: #2a2a2a;
   border: 1px solid #444;
   color: #f0f0f0;
 }
-.hextra-card:hover:is(html[class~="dark"] *) {
+.hextra-card:hover:is(html[class~=dark] *) {
   border-color: #ff9900;
   box-shadow: 0 0 15px rgba(255, 153, 0, 0.2);
 }
 
-.hextra-badge:is(html[class~="dark"] *) {
+.hextra-badge:is(html[class~=dark] *) {
   background-color: #ff9900;
   color: #000;
   font-weight: bold;
 }
 
-.sidebar-active-item:is(html[class~="dark"] *) {
+.sidebar-active-item:is(html[class~=dark] *) {
   color: #ff9900 !important;
   font-weight: bold;
   background-color: rgba(255, 153, 0, 0.1);
@@ -274,32 +274,32 @@ body:is(html[class~="dark"] *) {
 .dark\:hover\:hx-bg-primary-100\/5:hover:is(html[class~=dark] *) {
     background-color: rgba(255, 153, 0, 0.1);
 }
-.sidebar-container a:hover:is(html[class~="dark"] *) {
+.sidebar-container a:hover:is(html[class~=dark] *) {
   color: #ff9900;
 }
-.sidebar-container a:is(html[class~="dark"] *) {
+.sidebar-container a:is(html[class~=dark] *) {
   color: #fff;
 }
 
-.search-wrapper li .active:is(html[class~="dark"] *) {
+.search-wrapper li .active:is(html[class~=dark] *) {
     background-color: rgba(255, 153, 0, 0.15);
 }
-.search-wrapper .match:is(html[class~="dark"] *) {
+.search-wrapper .match:is(html[class~=dark] *) {
     color: #ff9900;
 }
-.search-input:is(html[class~="dark"] *) {
+.search-input:is(html[class~=dark] *) {
   border-color: #444;
 }
-.search-input:focus:is(html[class~="dark"] *) {
+.search-input:focus:is(html[class~=dark] *) {
   border-color: #ff9900;
 }
 
-.hextra-tabs-toggle[data-state=selected]:is(html[class~="dark"] *) {
+.hextra-tabs-toggle[data-state=selected]:is(html[class~=dark] *) {
   border-bottom: 2px solid #ff9900;
   color: #ff9900;
 }
 
-strong:is(html[class~="dark"] *) {
+strong:is(html[class~=dark] *) {
     color: #f90;
     padding: 3px;
 }
