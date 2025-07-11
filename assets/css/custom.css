@@ -188,7 +188,7 @@ body:is(html[class~="dark"] *) {
  */
 
 /* 4.1 美化行内代码: `code` */
-.content :where(code):not(:where(.hextra-code-block code,[class~=not-prose],[class~=not-prose] *)):is(html[class~="dark"] *) {
+.content :where(code):not(:where(.hextra-code-block code,[class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *) {
   background-color: #2a2a2a;      /* 深色背景，比主背景稍亮 */
   color: #ff9900;                /* 标志性橙色文本 */
   border: 1px solid #444;       /* 深灰色边框 */
