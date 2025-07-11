@@ -2,73 +2,75 @@
 linkTitle: Today's Daily
 title: Today's Daily-AI日报
 breadcrumbs: false
-next: /ja/2025-07/2025-07-10
+next: /ja/2025-07/2025-07-11
 description: AI 業界のニュース、オープンソースのホットスポット、学術的フロンティア、ビッグ V の意見を毎日厳選。AI 情報、AI デイリー、AI
-  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;コリンAIが先日、新しい可図2.1モデルを新リリースしたよ🎉。これ、指示への追従性、人物の美しさ、映画のような質感、それから180種類以上のスタイル応答能力が全面的にアップグレードされてて、さらにテキスト生成効果もグッと良くなったんだ。この超ビッグなアップデートを記念して、可図2.1は全メンバーユーザーに7日間無料開放されるって！やったね！テキストからの画像生成、単一画像や複数画像参照とか、めちゃくちゃ便利な機能が盛りだくさんだから、ぜひ試してみてね。
+  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;Google Firebase Studio 🚀✨が大型アップデート！Gemini 2.5搭載の柔軟なAgentモード（Ask、Agent、Agent
+  Auto-runを含む）を導入し、モデルコンテキストプロトコル（MCP）とGemini CLI連携のプレビューも開始したぞ。これは開発者に、めちゃくちゃ自由にAIアシストのコーディングやアプリ開発ができるようにって狙いがあるんだ。この新機能は、ルールファイルを定義してAIの動作を指示したり、AIワークフローをカスタマイズしたりできるんだって。水素経済プラットフォーム、ファッションスタイリングシステム、ポケモンカード管理、建築設計可視化ツー...
 cascade:
   type: docs
 ---
-## AIインサイト日報 2025/7/11
+## AIインサイトデイリー 2025/7/12
 
-> `AI日報` | `朝8時更新` | `全ネットのデータ集約！` | `最先端科学を探索！` | `業界が自由に発信！` | `オープンソースでイノベーション！` | `AIと人類の未来` | [ウェブ版はこちら↗️](https://ai.hubtoday.app/)
+> `AIデイリー` | `毎朝8時更新` | `ネットのデータ総まとめ` | `最先端科学の探求` | `業界の意見、自由に発信` | `オープンソースの革新パワー` | `AIと人類の未来` | [ウェブ版へGO↗️](https://ai.hubtoday.app/)
 
-### **AIコンテンツサマリー**
+
+
+### **AIコンテンツまとめ**
 
 ```
-AI製品の更新が加速中。コリンAIやPerplexityが新ツールをリリース。
-OpenAIはAIブラウザを開発中、Hugging Faceは開発ロボットを発表。
-研究は生物医学に注目、同時にAIの安全性と業界投資も要注目。
+Google FirebaseがGemini Agentモードを導入、マフォンウォーAIロードブックがスマートな旅を提供。
+Zhipu AIが無料のスマートPPTツールをリリース、Higgsfield AIはバーチャルアバターシステムを発表。
+AIの最先端研究が計算性能を向上させ、業界はAIの効率と市場の発展に注目している。
 ```
 
-### **AI製品と機能アップデート**
-1.  **コリンAI**が先日、新しい**可図2.1モデル**を新リリースしたよ🎉。これ、**指示への追従性**、**人物の美しさ**、**映画のような質感**、それから180種類以上の**スタイル応答**能力が全面的にアップグレードされてて、さらに**テキスト生成**効果もグッと良くなったんだ。この超ビッグなアップデートを記念して、**可図2.1**は全メンバーユーザーに**7日間無料開放**されるって！やったね！テキストからの画像生成、単一画像や複数画像参照とか、めちゃくちゃ便利な機能が盛りだくさんだから、ぜひ試してみてね。
-2.  Perplexityが満を持して**Comet**ブラウザをリリースしたよ🚀。これ、AIが深く組み込まれた「**認知型ブラウザ**」なんだって！強化型検索、思考ノート、自動秘書機能を統合することで、みんなのウェブブラウジング体験を根本から変えちゃうって意気込みだよ。このブラウザ独自の「**会話スペース**」では、ユーザーがタスクを継続的に探索したり追跡したりできるし、君の好みを賢く学習してくれるんだ。現在**Comet**はMacとWindows版がリリースされてて、今後はもっと多くのプラットフォームに展開される予定だから、早く['詳細はこちら'](https://comet.perplexity.ai/)からダウンロードして試してみてね！
-    <br/> ![Comet認知型ブラウザ](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgn7txe7s8832xda358hz5.jpeg) <br/>
-3.  Hugging Face、開発者の気持ち、分かりすぎてるって！AI開発者向けに設計された**Reachy Mini**デスクトップロボット🤖を発表したんだ。目標は、開発者が物理デバイス上でAIアプリケーションをより簡単に構築、修正、テストできるようにすること。これって、彼らの**オープンソースハードウェア**とコミュニティコラボレーションへのコミットメントを実践する最高の証拠だよね。この小さなロボットは、ワイヤレス版と簡易版の2つがあって、**Pythonプログラミング**に対応してるんだ。しかもHugging Face Hubと深く連携されてるから、きっとこれからも改善され続けて、開発者たちの無限の創造力を解き放ってくれるはず！✨
-    <br/> ![Reachy Miniデスクトップロボット](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgndnhf4ptt93as9nh31nf.jpeg) <br/>
-4.  **OpenAI**が新しい**AIブラウザ**を開発中だって噂だよ。これ、かなりの野心作で、ウェブブラウジング体験を根本から変えようとしてるし、Google Chromeの市場支配に挑戦しようとしてるんだって！💪 このブラウザは、膨大な**ChatGPTユーザーベース**をうまく活用して、**ChatGPT**みたいなインタラクティブなインターフェースと、深く統合された**AIエージェント機能**を提供するらしいよ。ユーザーの入り口、行動データ管理、広告エコシステムにおけるGoogleの優位性を弱体化させることを狙ってるんだ。ブラウザ戦争、密かに勃発か？⚔️
 
-5.  マシンインテリジェンスが最近、**Lovart**の国内版「**星流 Agent**」🎨を徹底的に評価したらしいよ。これ、まさに「デザインのオールラウンダー」って感じ！数十個ものトップモデルを統合してて、画像、動画、ブランドロゴ、ポスター、さらには3Dモデルまでワンストップで生成できちゃうから、その効率の高さには驚くばかり。中国語テキスト生成や手の細部処理にはまだ改善の余地があるし、動画の長さも制限があるんだけど、その裏にいるチームをあなどっちゃダメだよ！**Liblib AI**は実力派で、コアメンバーはなんと**小紅書InstantX**チーム出身なんだ。すでに数億元もの資金調達も完了してるんだって。魔法みたいなデザインを体験したいなら、['星流 Agent'](https://www.xingliu.art/)をぜひチェックしてみて！
-    <br/> ![Lovart星流Agent設計](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgnk4fe95tn9ng92yywcbj.jpeg) <br/>
-    <br/> ![Lovart星流Agent設計](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgnqczezwvawqtk6k1zbpk.jpeg) <br/>
 
-### **AI最先端研究**
-1.  ローレンス・バークレー国立研究所とスタンフォード大学の科学者たちが、**遺伝子組み換えマウスモデル**を巧みに利用し、**機械学習**🔬と組み合わせることで、**ヒト発生エンハンサー**の**変異感受性マップ**を初めて体系的に作成したんだ。この画期的な研究は、非コード領域が遺伝子発現制御に果たす**重要な役割**を明らかにしただけでなく、**ヒトの非コード変異**や**進化的な変化**を理解するための強固な基盤を提供し、将来的にはバイオテクノロジーや治療目的で利用される**合成エンハンサー**の設計にも道筋を示したんだ。すごいね！👏
-    <br/> ![ヒト発生エンハンサー研究](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgntrgf9kv08kt1k9ajzx9.jpeg) <br/> ['論文アドレス'](https://www.nature.com/articles/s41586-025-09182-w)
-2.  **4KAgent**って、マジで魔法使いみたいだね！🧙‍♂️ これは、どんな画像でも**4K**、いやそれ以上の解像度に普遍的に引き上げることを目指す、統一された**エージェントベースの超解像汎用システム**なんだ。このシステムは、**プロファイリング**、**知覚エージェント**、**修復エージェント**という3つの主要コンポーネントが連携して動作することで、ひどく劣化した低解像度入力も、あっという間にクリアでリアルな4K映像に変換しちゃうんだ！🎬 11のタスクカテゴリ、合計26のベンチマークテストで、どれも**最先端**のパフォーマンスを達成してるから、まさに画像強化分野のトップランナーって感じ！もっと詳しく知りたい人は、['論文アドレス'](https://arxiv.org/abs/2507.07105)をチェックしてみて。
-3.  この最新の研究、ただもんじゃないよ。これまでのところ最大の**MotionMillion**データセット（200万以上の高品質なモーションシーケンスを含む）と包括的な**MotionMillion-Eval**ベンチマークを構築することで、**テキストからモーション生成**の分野で**ゼロショット汎化**の大きなブレークスルーを実現することを目指してるんだ！🤸‍♀️ モデルを**7Bパラメータ**に拡張することで、この手法はドメイン横断的かつ複雑な複合モーションに対する強力な**ゼロショット汎化**能力を示してるよ。もっと詳しい内容を知りたい人は、['論文アドレス'](https://arxiv.org/abs/2507.07095)をチェックしてね。
+### AIプロダクト＆機能アップデート
+1.  Google **Firebase Studio** 🚀✨が大型アップデート！**Gemini 2.5**搭載の柔軟な**Agentモード**（Ask、Agent、Agent Auto-runを含む）を導入し、**モデルコンテキストプロトコル（MCP）**と**Gemini CLI**連携のプレビューも開始したぞ。これは開発者に、めちゃくちゃ自由にAIアシストのコーディングやアプリ開発ができるようにって狙いがあるんだ。この新機能は、ルールファイルを定義してAIの動作を指示したり、AIワークフローをカスタマイズしたりできるんだって。水素経済プラットフォーム、ファッションスタイリングシステム、ポケモンカード管理、建築設計可視化ツールなど、いろんな実際のプロジェクトで成功してるよ。
+    <br/> [![Firebase Studio 更新](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx27tcaegcsbyh2ctwztcgx.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx27tcaegcsbyh2ctwztcgx.jpeg) <br/>
+2.  マフォンウォー 🗺️🤖✈️が、徹底的にパーソナライズされたガイドブック作成プロダクト「**AIロードブック**」を全ユーザーに正式公開したぜ！さらに、その**AI旅行アシスタント**「**AIシャオマー**」を通して、「**AIによる日本レストラン代理予約**」、「**メニュー写真認識**」、「**多言語リアルタイム翻訳**」（7言語対応）といった超便利な機能も同時にリリース。これは、旅行計画から現地サービスまで、海外個人旅行の全プロセスをスマート化する体験をユーザーに提供するのが狙いなんだって。**AIロードブック**は、「積極的な質問-要求の調整-正確な生成」という独自モードを初採用。**AIシャオマー**の新機能は、ユーザーが直接コミュニケーションを取ることなく、レストランの予約や実物写真付きのメニュー翻訳まで可能にしちゃうんだから驚きだね！
+    <br/> [![马蜂窝AI旅行助手](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx27w68fc69zk5emktx20pv.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx27w68fc69zk5emktx20pv.jpeg) <br/>
+3.  **Zhipu AI**が2025年7月10日、**AI Slides** 👩‍💻✨🎉を発表したぞ！これは、彼らの実験モデル**GLM-Experimental**をベースにした**スマートPPT作成ツール**なんだ。テーマを入力するかドキュメントをアップロードするだけで、**無料**で**プロレベルのPPTを一発生成**できるんだぜ。**業務効率**を圧倒的に上げてくれるから、SNSで瞬く間に話題沸騰、「業務効率アップの神ツール」って言われてるぜ！詳しくはこちら：['https://chat.z.ai/'](https://chat.z.ai/)
+    <br/> [![智谱AI Slides演示](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx27y32e50szhk6stxzrmkh.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx27y32e50szhk6stxzrmkh.jpeg) <br/>
+4.  **Higgsfield AI**が、**Soul ID** 📸✨🤩を正式にリリースしたぞ！写真10枚をアップロードするだけで、あっという間にオシャレな大作に早変わりする**パーソナルバーチャルアバター生成システム**なんだ。これが世界中の**SNS**で爆速バズり中。ユーザーのリアルな外見と雰囲気を忠実に再現し、60種類以上のスタイルプリセットも提供。「**デジタルな自己を再定義する**」と称されるヤバいテクノロジーで、一部機能は**無料で体験**できるんだぜ！詳しくはこちら：['https://higgsfield.ai/'](https://higgsfield.ai/)
+    <br/> [![Higgsfield AI製品図](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx280jyf9wb91w0gn21rqbm.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx280jyf9wb91w0gn21rqbm.jpeg) <br/>
 
-### **AI業界展望と社会への影響**
-1.  **Amazon**がAIスタートアップの**Anthropic**に追加投資を検討してるって💰。これ、ただの投資じゃないんだ。**戦略的提携**を深めて、**世界最大規模のデータセンター**を共同で建設するのが狙いなんだって！この動きは、AmazonのAI分野における競争力を間違いなくさらに強固にするだろうし、**Anthropic**もAmazonの巨大なデータセンターのサポートを得て、増え続ける計算ニーズを満たせるようになるはず。まさにこれは最強タッグだね、今後の展開が楽しみ！🤝
-    <br/> ![Amazon Anthropic協力](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgnyq9fnx9mvmc3ydr6dqn.jpeg) <br/>
-2.  SEOの専門家ジェームズ・ブロックバンク氏が最近のテストで分かったことだけど、**ChatGPT**が**ビジネス推薦**をする際、なんと**ハッキングされたサイト**や**期限切れドメイン**みたいな**信頼できない情報源**を引用する可能性があるんだって！🚨 これには業界関係者もびっくり仰天。専門家たちは口々に、ユーザーには**AIの推薦情報を必ず確認**するよう呼びかけてるし、同時にAI開発者たちには**コンテンツの識別とフィルタリングの仕組み**を早急に強化して、AIを「デマの拡散者」にしないよう、厳重に提言してるよ！🤔
+### AI最先端研究
+1.  **Flash Attention**の共同開発者である**Tri Dao**氏が、プリンストン大学の博士課程学生と共同で**QuACK**カーネルライブラリ ⚡️🚀をリリースしたぞ！**Python**と**CuTe-DSL**だけで開発されてて、**H100** GPU上でPyTorch既存ライブラリより33〜50%も高速化を実現したんだ。この革新は、**メモリ集約型カーネル**の性能を最適化することで、従来のCUDAコードは不要。業界内でめっちゃ注目されてて、開発者向けに詳細なチュートリアルも提供されてるぜ。
+    <br/> [![QuACK内核库](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx282tdej6rdyg0yv9e1bfz.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx282tdej6rdyg0yv9e1bfz.jpeg) <br/>
+2.  **視覚的基礎推論**能力をまるっと評価するために、研究者たちは診断的ベンチマーク**TreeBench** 🧠📊を提案したんだ。その結果、既存モデルが複雑なシナリオにおける**視覚的認識**と**二次推論**で依然として課題が残ってることを発見！そこで、**TreeVGR**というトレーニングパラダイムを導入し、強化学習と位置特定・推論を組み合わせることで、性能が爆上がりしたんだって。これって、**トレーサビリティ**がこの分野の進歩を推進する鍵だってことの証明になるね。['論文リンク'](https://arxiv.org/abs/2507.07999)
+3.  この研究では、事前学習済み**大規模言語モデル（LLM）** 🔬🧠📈が、推論時にレイヤーを動的にスキップしたり繰り返し実行したりすることで、**深層適応型**アーキテクチャを実現できる可能性を探ったんだ。その結果、この方法が**推論効率**を大幅に向上させるだけでなく、元々予測を誤っていたサンプルについても精度が向上することを突き止めたんだって。これは、固定されたモデルアーキテクチャの限界を明らかにしているんだ。['論文リンク'](https://arxiv.org/abs/2507.07996)
 
-3.  最新の研究で、ちょっと心配なニュースが明らかになったよ。エージェント分野の業界標準である**MCPプロトコル**に、重大な**セキュリティ脆弱性**があるんだって！😱 攻撃者は、なんと**大規模言語モデル**の指示／データ混同の脆弱性を悪用して、データベース全体に直接アクセスして**情報を漏洩**させることができちゃうんだ。このリスクに対応するため、専門家たちは企業に対し、可能な限り**読み取り専用モード**を使うこと、そして**プロンプトインジェクションフィルター**を追加してデータセキュリティを強化するよう助言してるよ。データセキュリティは些細なことじゃないから、みんな気をつけてね！🛡️
+### AI業界の展望と社会への影響
+1.  汎用AIエージェント企業**Manus AI** 🇨🇳➡️🇸🇬🤔が、最近、**中国事業**を調整しているらしい。具体的には、一部の人員削減と、**コア技術者**を**シンガポール本社**へ移転したとのこと。現在、公式サイトには「お住まいの地域では利用できません」と表示されていて、中国のSNSアカウントのコンテンツも削除済み。これはManusが**中国市場戦略**を大きく変更していることを示唆しているんだね。
 
-### **オープンソースTOPプロジェクト**
-1.  **wordpress-develop**は、**2826**個の星⭐を獲得してる**WordPress開発版**のGitリポジリトリーなんだ。これって、**WordPress Subversionリポジトリのミラー**みたいなもので、開発者が**バージョン管理**や**コラボレーション**をするのにめちゃくちゃ便利なんだ。注意点としては、すべてのプルリクエストは既存のTracチケットにリンクする必要があるよ。WordPressの開発に参加したい？このプロジェクトが君のスタート地点になるはず！['プロジェクトアドレス'](https://github.com/WordPress/wordpress-develop)
-2.  **LMCache**は**2756**個の星⭐を獲得してるプロジェクトで、これってまさに**大規模言語モデル（LLM）**の「アクセラレーター」って感じ！⚡**最速のKVキャッシュ層**を提供することで、LLMの実行効率を大幅に**加速**させて、君のモデルを爆速で動かせるようにするんだ！🚀ぜひチェックしてみて：['プロジェクトアドレス'](https://github.com/LMCache/LMCache)
-3.  **Biomni**は**846**個の星⭐を持つ**汎用生物医学AIエージェント**プロジェクトなんだ。これは**生物医学分野**に**AI駆動のソリューション**を提供することを目指してるんだよ。AIが医学研究で大活躍するのを想像してみて。未来が楽しみだね！🧬🧠もっと詳しく：['プロジェクトアドレス'](https://github.com/snap-stanford/Biomni)
-4.  **MoneyPrinterV2**っていうオープンソースプロジェクト、マジでヤバい人気で、**12167**個もの星⭐を獲得してるんだ！その核となる機能は、**オンラインで稼ぐプロセスを自動化**すること💰。これってめっちゃ惹かれるでしょ？ユーザーが**自動で収益**を効率よく実現できるようにして、稼ぎをマジでシンプルにすることを目的としてるんだ！🤖ぜひチェックしてみて：['プロジェクトアドレス'](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+### オープンソースの注目プロジェクト
+1.  **genai-toolbox** 🌟💻は、データベース向けの**オープンソースMCPサーバー**で、データベース関連の問題解決を目指しているよ。このプロジェクトは**5392スター**を獲得！詳しくはこちらの['プロジェクトリンク'](https://github.com/googleapis/genai-toolbox)でチェックしてね。
+2.  **googletest** ✅⚙️は、Googleが提供する**テスト＆モックフレームワーク**で、開発者がより効率的にソフトウェアテストを行えるよう支援するんだ。このプロジェクトは**36323スター**を獲得！詳しくはこちらの['プロジェクトリンク'](https://github.com/google/googletest)でチェックしてね。
+3.  **authentik** 🔐🔗は、**ID管理**の簡素化を目指す**認証ソリューション**。「あなたが必要とする認証の接着剤」と評されているよ。このプロジェクトは**16983スター**を獲得！詳しくはこちらの['プロジェクトリンク'](https://github.com/goauthentik/authentik)でチェックしてね。
+4.  プロジェクト**agentic-doc** 📄🤖（**767スター**獲得）は、**LandingAI**プラットフォームからの**エージェントドキュメント抽出**に特化したPythonライブラリだよ。['プロジェクトリンク'](https://github.com/landing-ai/agentic-doc)
+5.  プロジェクト**flexile** 💰✨（**565スター**獲得）は、**請負業者への支払い**プロセスを大幅に簡素化し、シンプルで便利にすることを目指しているんだ。['プロジェクトリンク'](https://github.com/antiwork/flexile)
 
-### **SNSシェア**
-1.  ブロガーの「カールズAIワッツ」による**Grok4**の最新体験レビュー、賛否両論みたいだよ！🤨 彼が言うには、**Grok4**は**数学**や**論理的な落とし穴**の処理はまあまあだけど、残念ながら**コード**や**画像推論**の能力はちょっと「イマイチ」だって🤦‍♂️。でも、彼、これで終わりにするつもりはなくて、ユーザーの実際のケースを集めて**公開テスト**をする予定なんだって。そして、このモデルの実際のパフォーマンスを完全に示すために、詳細な**Grok4の本当の能力に関する投稿**を作成することを目指してるんだ！📊
-    <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgp5mxe88tj7zk11jsgrps.mp4" controls="controls" width="100%"></video> ['詳細はこちら'](https://x.com/aiwarts/status/1943311349737480539)
-2.  ブロガーのYangyiさんがしみじみ振り返ってたのは、2年前に**GPT4**がリリースされたばかりの頃、どうやってそれを使ってプロジェクトを開発したかって話。**24時間ぶっ通しで作業する**っていう「未来の構想」が、今や**Claude Code SDK**なんかのツールの目覚ましい進歩もあって、まじで現実になったんだって！🤯 彼が強調してたのは、これらの**AIネイティブプロジェクト**を実際に自分でやってみて初めて、AIがもたらす止められないほどの**途方もない可能性**を肌で感じられるってこと。これって、技術が生活を変える最もダイレクトな証拠だよね？✨
-    <br/> ![GPT4開発レビュー](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgpaa8e7vax47w3fdsk02w.jpeg) <br/>
-    <br/> ![GPT4開発レビュー](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgpdxffpkr8m8y5k5zadtz.jpeg) <br/> ['詳細はこちら'](https://x.com/Yangyixxxx/status/1943304406897954865)
-3.  LysonOberさんが興奮気味に**Dify v1.6.0**が正式リリースされたって発表してたよ！🥳 今回のアップデートの最大の目玉は、公式が正式に**MCP**（**マルチモデルコーディネーター**）をサポートしたこと！これって、Difyの中で直接**外部MCP**を追加できるだけでなく、Dify自身の**エージェント／ワークフロー**をMCPとして公開することもできるってことなんだ。プラットフォームの**相互運用性**がものすごく強化されたし、これってまさしく共同開発者にとっての朗報だね！🔗
-    <br/> ![Dify v1.6.0リリース](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgpknff4x95abyeyw60wsc.jpeg) <br/>
-    <br/> ![Dify v1.6.0リリース](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgpq1efh3ttw9xt3229cdz.jpeg) <br/> ['詳細はこちら'](https://x.com/lyson_ober/status/1943252778966499637)
-4.  帰蔵(guizang.ai)さんがツイートで予告してたけど、新たな**AIモデル製品の発表ラッシュ**がもうすぐ来るって、みんな準備はいい？🤩 彼がまとめたところによると、**OpenAI**が**AIブラウザ**と**オープンソースのo3 miniモデル**をまもなくリリースするっていうビッグニュースがあるんだ。それだけじゃない、他にも**Gemini 3.0**がまもなく登場するって兆候もいっぱい！それに、ジョニー・アイブとサム・アルトマンの会社がすでにOpenAIに統合されたとか。その裏にはどんな大きな動きがあるんだろうね？全部、期待で胸がいっぱいだよ！📢
-    <br/> ![AIモデル製品発表ラッシュ](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgpv2efkb996yaskx6td59.jpeg) <br/>
-    <br/> ![AIモデル製品発表ラッシュ](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jztgpzs5en7s75f7ce7zbbss.jpeg) <br/> ['詳細はこちら'](https://x.com/op7418/status/1943139745451884901)
+### SNSでのシェア
+1.  ブロガーのwwwgoubuliが、午後4時の締め切り前に、たった5時間で会長に直接報告する必要がある緊急タスクを無事完了した経験をシェアしました🤯🚀。彼は、以前**GitHub Copilot**があっても、こんな高効率は想像できなかったと感嘆し、AIアシストツールが**業務効率**をどれほど劇的に向上させるかをハッキリさせたな。['詳しくはこちら'](https://x.com/wwwgoubuli/status/1943616215542325613)
+2.  ブロガー歸藏のAIツールボックスが、彼女が整理した**AIプロンプト**🎨🎬✨をシェアしたぞ！これは**Lovart**や星流Agentみたいな**AIツール**で、**ワンクリックで**美しい**動的PPTカバー動画**を生成するのに使えるんだ。これらのプロンプトを使えば、シンプルかつエレガントで、ガラスパネル効果と青いグラデーションのループアニメーションが付いた**PPTの動的背景**が作れるんだって！ぜひ['詳しくはこちら'](https://weibo.com/6182606334/PACAsCWwf)で見てみてね。
+3.  王墨氏が指摘したんだが、**Cursor**は海外で大絶賛されており、ユーザーは喜んで料金を支払うんだって。だが、国内ユーザーは**バグを利用して**無料の永久会員権をゲットすることに熱中しているらしい🤔💸🌍。この独特の**起業環境**を見て、彼は「もし自分が起業するなら、絶対**海外市場**から攻めるね」って正直に語ったんだ。 ['詳しくはこちら'](https://m.okjike.com/originalPosts/6870d859a9ac225444152438)
+4.  向陽喬木氏は、**Claude Code**の**ヤバすぎる**能力にマジで感動してる🤩💻🔥。たった一言のプロンプトで、わずか4分で**Paul Grahamの記事**をスクレイピングして**epub電子書籍**にする**クローラー**の作成に成功したんだから。
+    <br/> [![Claude Code演示1](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx285hze16aktejtgqgey7a.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx285hze16aktejtgqgey7a.jpeg) <br/> [![Claude Code演示2](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx289b7eecs6dyjxdcbm9y6.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx289b7eecs6dyjxdcbm9y6.jpeg) <br/> ['詳しくはこちら'](https://x.com/vista8/status/1943547771568689502)
+5.  宝玉氏は**プログラムを書くこと**を子育てに例えて👨‍💻👶💔、「開発者はコードを『生む』だけでなく『育てる』べきだ」と鋭く指摘したんだ。**Vibe Coding**後に**メンテナンス**しない行為は、無責任な**『ダメ男』**と一緒だって言ってるぜ。['詳しくはこちら'](https://x.com/dotey/status/1943545932487725269)
+6.  宝玉氏が、**大規模言語モデル（LLM）**の動作原理を、図を使いながら超分かりやすく説明してくれたぞ💡🤓📖。その本質は**条件付き確率**に基づいて次の単語を予測することであると指摘し、**温度（Temperature）**という概念が、生成されるコンテンツの**多様性や創造性**にどう影響するかを詳しく説明したんだ。この共有は、読者がLLMの予測メカニズムとその柔軟な出力生成の鍵を理解するのに役立つことを目指しているんだって。
+    <br/> [![LLM运行原理図解](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx28c97ffyva80r5hqya4c6.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx28c97ffyva80r5hqya4c6.jpeg) <br/> [![LLM温度パラメータ図解](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx28evnepebfc0fdfs24fja.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx28evnepebfc0fdfs24fja.jpeg) <br/> ['詳しくはこちら'](https://baoyu.io/translations/how-llms-work-explained-clearly)
+7.  DeepLearning.AIが最新の『The Batch』週報🗞️🤖🐝をシェアしたぞ。これには、アンドリュー・ン氏が米国がどのように立法を通じて**AI規制**を形成しているかについての議論、**Anthropicの研究者**がLLMに恐喝をさせる方法、**AI養蜂箱**がミツバチの健康を維持する方法、**ウォルマート**がクラウドやモデルに依存しないAIアプリケーションプラットフォームを構築している話、そして大規模なデータセットを生成して**ネットワークエージェント**をトレーニングする内容などが詰まってるんだ。この週報は、**AI分野**における幅広いインサイトと最新情報が詰まってるぜ。
+    <br/> [![DeepLearning.AI周报カバー](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx28hq8ec08zby891gevtvx.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx28hq8ec08zby891gevtvx.jpeg) <br/> ['詳しくはこちら'](https://hubs.la/Q03wLbTb0)
+8.  Microsoft Research AI for Scienceが、『Science』誌に**BioEmu** 🔬🧬✨を発表したんだ。これは**生成型深層学習手法**で、**タンパク質の平衡アンサンブル**をシミュレートすることを目指しているんだって。これって、**タンパク質機能**を大規模に理解する上で極めて重要らしい。この革新的な研究は、タンパク質の挙動を深く理解するための新たなツールを提供するものだよ。['詳しくはこちら'](https://msft.it/6010S7T8n)
+9.  歸藏(guizang.ai)がワクワクしながら発表したぞ🥳🏆💰！YouWareが**AIアプリケーションチャレンジ**を開催中なんだって。新しい**MCPツール**を使ってAIアプリを構築する開発者を募集していて、最高**2,300ドル**（現金とYouWareポイントを含む）の豪華**賞金**をゲットできるチャンス！応募締め切りは2025年7月20日だ。詳しくはこちら：['詳しくはこちら'](https://x.com/op7418/status/1943359656061210703)
+    <br/> [![YouWare AIチャレンジ](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx28p97fyb9hy61knst36jh.jpeg)](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/assets/2025/07/news_01jzx28p97fyb9hy61knst36jh.jpeg) <br/>
 
 ---
 
-## **音声版AI日報を聴こう**
+## **AIデイリーの音声版を聴こう**
 
-| 🎙️ **小宇宙** | 📹 **TikTok** |
+| 🎙️ **シャオユージョウ** | 📹 **ドウイン** |
 | --- | --- |
-| [来生小酒館](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [公式アカウント](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)| 
+| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [公式アカウント](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
 | ![小酒館](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情報ステーション](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
