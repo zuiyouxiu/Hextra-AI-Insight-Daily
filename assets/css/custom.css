@@ -2,6 +2,10 @@ h1:first-of-type {
   display: none;
 }
 
+code, kbd, samp, pre {
+  font-family: ui-sans-serif,system-ui,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
+}
+
 .content :where(img):not(:where([class~=not-prose],[class~=not-prose] *)) {
   margin-left: auto;
   margin-right: auto;
