@@ -123,9 +123,9 @@ params:
       categoryId: DIC_kwDOO_2Ows4Cr2Q0
 
 
-defaultContentLanguage: zh-cn
+defaultContentLanguage: zh
 languages:
-  zh-cn:
+  zh:
     languageCode: zh-CN
     contentDir: content/cn
     languageName: 简体中文
