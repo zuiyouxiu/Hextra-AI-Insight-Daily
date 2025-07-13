@@ -157,39 +157,69 @@ jobs:
           # --- Translation function ---
           def translate_text(text_to_translate):
               if not text_to_translate.strip(): return ""
-              prompt = f"""Task: Translate the following Chinese text to English.
+              prompt = f"""
+                ### 角色：高级技术翻译与编辑
 
-                Instructions:
-                1.  **Translation Style: Natural and Colloquial.** The top priority is to produce a translation that is fluent, natural, and sounds like it was written by a native English speaker.
-                    *   **Tone:** Adopt a conversational, informal, and accessible tone.
-                    *   **Wording:** Use everyday English. Feel free to incorporate common slang and idioms where they fit the context to make the text more authentic and relatable.
-                    *   **Avoid:** Do not provide a stiff, overly literal, or academic-sounding translation. Prioritize the original message's spirit and intent over a strict word-for-word conversion.
+                你是一个为高标准技术出版物工作的翻译与编辑。你的工作有两个同样重要的部分：技术准确性和内容重构。任何一个部分的失败都意味着整个任务的失败。
 
-                2.  **Completeness:** Translate the *entire* text from start to finish. Do not omit any sentences, paragraphs, or sections.Including titles, code blocks, bold parts
-
-                3.  **Formatting Preservation:** Meticulously preserve all original Markdown formatting. This includes, but is not limited to:
-                    *   Headings (e.g., #, ##, ###)
-                    *   Lists (ordered and unordered, e.g., 1., -, *)
-                    *   Code blocks (```lang ... ``` or indented)
-                    *   Inline code (`code`)
-                    *   Bold text (**text** or __text__)
-                    *   Italic text (*text* or _text_)
-                    *   Links ([text](url))
-                    *   Images (![alt](url))
-                    *   Blockquotes (> quote)
-                    *   Tables and Horizontal rules (---)
-
-                4.  **Content Integrity:**
-                    *   Maintain the original line break and paragraph structure.
-                    *   Do not translate URLs, or file paths.
-
-                5.  **Output Format:** Return *only* the translated English text. Do not include any introductory phrases, explanations, or conversational remarks in your response.
-
-                Chinese Text to Translate:
                 ---
+
+                ### 第一步：执行“零容忍”规则 (Step 1: Execute the 'Zero-Tolerance' Rule)
+
+                **这是你在处理文本时必须做的第一件事，先于所有其他编辑工作。此规则不容许任何失败。**
+
+                *   **零容忍指令：强制翻译所有括号内的描述文本 `[ ]`**
+                    *   **核心要求：** 你的首要扫描任务是找到文档中所有的Markdown链接 `[文本](URL)` 和图片 `![文本](URL)`。
+                    *   **绝对规则:**
+                        *   方括号 `[ ]` 内部的**所有中文描述文本** -> **必须无一例外地翻译成英文**。
+                        *   圆括号 `( )` 内部的**所有URL或文件路径** -> **必须保持原样，绝不改动**。
+
+                *   **强制自我审查 (Mandatory Self-Check):**
+                    在生成最终回复之前，你必须在内部对自己提问并确认：
+                    > **“我是否检查了最终文本中的每一个 `[` 和 `]`？是否所有中文描述都已被翻译，而所有URL都保持了原样？”**
+                    >
+                    如果答案是否定的，你的输出就是不合格的，必须修正。
+
+                *   **范例：**
+                    *   **原文:** `![AI构建模块优势](image.jpeg)`
+                    *   **你的第一步处理结果:** `![Advantages of AI Building Blocks](image.jpeg)`
+
+                ---
+
+                ### 第二步：执行主要编辑任务 (Step 2: Execute the Primary Editorial Task)
+
+                在完成了第一步的“零容忍”规则后，你现在可以对**正文段落**进行编辑。
+
+                *   **主要编辑指令：强制性的“主题先行”重构**
+                    *   对于每一个常规段落，识别其**核心主题**（如产品名、人名等）。
+                    *   重写该段落，将这个**核心主题置于段落的最前方**，然后围绕它重新组织剩余信息。
+
+                ---
+
+                ### 第三步：应用一般风格指南 (Step 3: Apply General Style Guidelines)
+
+                在完成以上两个核心步骤后，确保整体风格符合以下要求：
+
+                *   **语气:** 对话式、非正式、有活力。
+                *   **措辞:** 使用日常英文，可适度使用俚语。
+                *   **Emoji:** 移除原文所有emoji，并根据英文语境策略性地添加新的。
+                *   **格式:** 100%保留所有Markdown格式（标题、列表、代码块、`br`标签等）。
+                *   **代码块:** 代码不译，注释要译。
+                *   **完整性:** 翻译所有内容，保留段落结构。
+
+                ---
+
+                ### 第四步：最终输出 (Step 4: Final Output)
+
+                *   **仅输出**最终编辑和翻译完成的英文文本。
+                *   不要包含任何介绍、解释或你的思考过程。
+
+                ---
+                待翻译的中文文本：
                 {text_to_translate}
                 ---
-                Translated English Text:
+                翻译后的英文文本：
+
               """
               try:
                   response = model.generate_content(prompt)
