@@ -6,6 +6,10 @@
 /images/*
   X-Robots-Tag: noimageindex
 
+# Cloudflare 用cdn-cgi网址替换了电子邮件地址
+/cdn-cgi/*
+  X-Robots-Tag: noindex
+
 # -----------------------------------------------------------------
 # 添加的 noindex 规则 (Added noindex rules)
 # -----------------------------------------------------------------
