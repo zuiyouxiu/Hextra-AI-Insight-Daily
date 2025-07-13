@@ -125,7 +125,7 @@ params:
 
 defaultContentLanguage: zh-cn
 languages:
-  zh-cn:
+  zh-CN:
     languageCode: zh-CN
     contentDir: content/cn
     languageName: 简体中文
