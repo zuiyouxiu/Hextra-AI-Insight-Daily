@@ -2,72 +2,90 @@
 linkTitle: Today's Daily
 title: Today's Daily-AI日报
 breadcrumbs: false
-next: /en/2025-07/2025-07-13
-description: 'Daily selection of AI industry news, open source hot spots, academic
-  frontiers and big V opinions. AI information; AI daily; AI knowledge base; AI tutorials;
-  AI information daily; AI tools;xAI has just dropped its powerful Grok 4 large model,
-  celebrating its two-year anniversary! This bad boy is seriously wowing Silicon Valley
-  with its animation generation, game deployment, and 3D black hole simulation capabilities.
-  And get this: thanks to training on 200,000 GPUs, it’s boasting a ...'
+next: /2025-07/2025-07-14
+description: "每日精选AI行业要闻、开源热点、学术前沿及大V观点。AI资讯；AI日报；AI知识库；AI教程；AI资讯日报；AI工具；AI Daily News 。新型文本转语音大模型IndexTTS2发布，支持本地化与零样本克隆。Meta研发实时视频生成，清华优化多模态模型。 蚂蚁集团分享金融深度伪造对抗经验。特斯拉O"
 cascade:
   type: docs
 ---
-## AI Insight Daily 2025/7/14
 
-> `AI Daily` | `8 AM Updates` | `Web-Wide Data Aggregation` | `Cutting-Edge Science Exploration` | `Industry Voices Unfiltered` | `Open-Source Innovation Power` | `AI & Humanity's Future` | [Visit Web Version ↗️](https://ai.hubtoday.app/)
+## AI洞察日报 2025/7/15
 
-### AI Content Summary
+>  `AI 日报` | `早八更新` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/)
+
+
+
+### **AI内容摘要**
 
 ```
-xAI releases Grok 4 with significant capability and computing power boosts, securing massive investment.
-ChatGPT uncovers fraud, revealing AI's legal potential. Programming tool efficiency sparks debate, large model editable tech breakthroughs.
-AI is widely applied in code development and can generate complete projects, intensifying market competition.
+新型文本转语音大模型IndexTTS2发布，支持本地化与零样本克隆。Meta研发实时视频生成，清华优化多模态模型。
+蚂蚁集团分享金融深度伪造对抗经验。特斯拉Optimus机器人将首次上岗。Liquid AI开源边缘AI模型LFM2。
+智源发布具身智能系统。AI就业与安全议题受关注，多方AI代理协作工具问世，中国AI影响力渐增。
 ```
 
-### AI Product & Feature Updates
-1.  **xAI** has just dropped its powerful **Grok 4** large model, celebrating its two-year anniversary! This bad boy is seriously wowing **Silicon Valley** with its **animation generation**, **game deployment**, and **3D black hole simulation** capabilities. And get this: thanks to training on **200,000 GPUs**, it’s boasting a **hundredfold boost in computing power**. On top of that, **Elon Musk's SpaceX** has announced a hefty **$2 billion** investment in xAI, aiming to help it evolve into a "**Cosmic Brain**." They're even predicting the **Grok model** might be sent to **Mars** in the future! 🤯🚀💰
-    <br/> ![Grok 4 Model Launch Event](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0264zgse2w8swhpffenh5fw.avif) <br/>
-    [More Details](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652609087&idx=1&sn=0417e70d99c452b888aa3261787c217d)
-2.  **ChatGPT** just helped a Reddit user successfully uncover a decade-long, **$5 million** inheritance fraud case! 🤯 This user leveraged **AI** to analyze nearly **500 legal documents** and draft motions, which led the court to reopen the hearing. This wild case really highlights the immense potential of **AI** in **legal auditing** and solving real-world problems. But hold up, it also sparks a lot of discussion and reflection on **AI hallucination** issues and its broader applications in areas like **AI healthcare** and **AI education**. Pretty mind-blowing, right? ⚖️
-    <br/> ![AI Application in Law](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k02650vvebk9ytxkfq3v0xxn.avif) <br/>
-    [More Details](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247809745&idx=1&sn=2d6dfbbd344b99dd527ed2896ee39c55)
 
-### Cutting-Edge AI Research
-1.  **METR**, a non-profit **AI research organization**, has just dropped some unexpected results from a randomized controlled experiment. Turns out, **AI programming tools** actually made experienced **developers** *less* efficient by **19%**, totally flipping the script on the widely expected **20% speedup**! 🤯 This discovery instantly blew up on **social media**, sparking tons of debate. The study really hammers home that we need real-world experimental data to gauge **AI**'s impact on productivity, not just self-reported stuff. 📉
-    <br/> ![AI Programming Tool Efficiency Study](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k02652sdfwe9qkxz3qdn94jn.avif) <br/>
-    Paper Link: [METR Research Report](https://www.jiqizhixin.com/articles/2025-07-13-3)
-2.  **Meta** and **NYU** have just unveiled some groundbreaking research, revealing a way to achieve "**selective forgetting**" in **large models** by precisely manipulating **Transformer attention heads**. 🧠💡 This "**AI Amnesia**" technique uses **SAMD** and **SAMI** to fine-tune **AI**'s knowledge storage like a mixing board. It's not just about deleting specific concepts, like "dogs bark," but also boosting math reasoning, adjusting safety modules, and even influencing visual model recognition! This breakthrough ushers in the "**editable era**" for **large models**, sparking fresh thinking about **AI explainability** and **safety boundaries**. ✨
-    [Paper Link](https://www.arxiv.org/pdf/2506.17052)
 
-### Top Open-Source Projects
-1.  **Commerce**, rocking **12,682 stars** ⭐️, is an open-source e-commerce platform built on **Next.js**. It's all about delivering high-performance e-commerce solutions. Want to dig deeper? Check out the [Project Link](https://github.com/vercel/commerce).
-2.  **Goose**, with a cool **16,103 stars** ⭐️, is an extensible open-source **AI agent** 🤖. This clever bot leverages **Large Language Models (LLM)** to automate coding tasks like installation, execution, editing, and testing. For more functionalities, hit up the [Project Link](https://github.com/block/goose).
-3.  **Cutlass**, boasting **7,885 stars** ⭐️, is a set of **CUDA templates** provided by **NVIDIA** ⚡. It's specially designed to supercharge linear algebra subroutines. Wanna know more? Just visit the [Project Link](https://github.com/NVIDIA/cutlass) for all the deets.
-4.  **uBlock** is a super efficient ad blocker for both **Chromium** and **Firefox** 🚫. It's famous for being fast, lightweight, and boasts a whopping **55,554 stars**! ⭐️ Grab it here: [Project Link](https://github.com/gorhill/uBlock).
+### **AI产品与功能更新**
 
-### Social Media Buzz
-1.  A new **AI** "**time-travel**" photo generation trend has been blowing up on social media recently! Users are hopping onto **ChatGPT** or **Douyin** effects to upload their childhood pics and predict what they'll look like grown up. 📸👴👵 While the **AI**'s predictions are super fun, they're not always spot-on, sometimes showing "**AI hallucinations**" or just not meeting expectations. Still, as a cool entertainment app, it's totally crushing it in popularity and getting tons of people involved! 🤣
-    <br/> ![AI Future Photo Generation Example](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k02654g3esa95v0j85r2pqfm.avif) <br/>
-    <br/> ![Fun AI Photo App](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k026568qfpy8x8pa9zk2rp13.avif) <br/>
-    [More Details](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247809745&idx=3&sn=b455da483fad293e9d2d03420bd824ee)
-2.  **Yangyi** has observed something pretty cool: developers are already building **MultiAgent** systems based on **Claudecode**! 👨‍💻🔗 This system smartly manages contextual conversations via **Markdown** files, creating a neat **MVP** solution for parallel multi-agent processing right in **VSCode**. He's super hyped about this approach and guesses that with "24/7 non-stop engineers" on the job, the tech will mature really fast. Though, the nitty-gritty of cross-terminal hooks still needs some exploration. 💡
-    <video src="https://video.twimg.com/amplify_video/1944391220429774848/vid/avc1/720x1278/6kwmHQRYTz9RcIkt.mp4?tag=14" controls="controls" width="100%"></video>
-3.  **Orange.ai** has pointed out that **Claude Code** is compatible with the **Kimi K2 model**! 🤝 This totally proves that **Claude's Agent** architecture is universal and can work with any **large model**, including **Gemini** and **Grok**. It really highlights that users, not the large model companies, get to choose which models they use. More deets here: [https://x.com/oran_ge/status/1944363643841232959](https://x.com/oran_ge/status/1944363643841232959)
-4.  **Guizang** (guizang.ai) is stoked! 🥳🎉 They're using **Kimi K2** to whip up a complete component library and have successfully generated some incredibly smooth, interactive product onboarding components for backend products. This is a massive contrast to the painful experiences of developing such components in the past. Guizang also showed off how **Kimi K2** can generate fantastic frontend components with just simple prompts. 🤩 More details here: [https://x.com/op7418/status/1944357497952678058](https://x.com/op7418/status/1944357497952678058)
-    <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0265apbepq80ske6cw13dke.mp4" controls="controls" width="100%"></video>
-    <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0265ez2fhdaefrr0q637b8c.mp4" controls="controls" width="100%"></video>
-    <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0265pg2fj5vg82myj37zc8j.mp4" controls="controls" width="100%"></video>
-5.  **Sam (OpenAI)** has reportedly delayed the release of an upcoming open-source model 🤫. According to **K2 (Yuchen Jin)**, it wasn't because of **Kimi**. Nope, the real reason is that this powerful model, despite having parameters far less than 1T, hit a snag – a "ridiculous" or "rookie" error was discovered right before launch, causing the postponement. Talk about a facepalm moment! 🤦‍♀️ [More Details](https://x.com/op7418/status/1944254013408784624)
-    <br/> ![OpenAI Model Delay Speculation](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0265teeehgb6gxxt9bsw290.avif) <br/>
-    <br/> ![Internal Source Reveals](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0265xjjfr5rfambxmamwfmp.avif) <br/>
-6.  **Yangyi** just dropped a demo of a **100% code project** entirely generated by **AI (Claude)** in just **6 hours**! 🚀 This really hammers home **AI**'s powerful processing capabilities in non-cutting-edge fields. He points out that once **AI** drastically boosts productivity, the scramble for traffic will intensify. So, human-AI collaborative automated systems need to jump in and seize the market fast, creating assets with serious leverage. 🔥 Check it out: [More Details](https://x.com/Yangyixxxx/status/1944252584950374435)
-    <br/> ![AI Generated Code Project Demo](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k026617xeqz9ez7n4xe18p5a.avif) <br/>
+1.  **IndexTTS2**这款革命性的**"影视级”文本转语音大模型**即将发布，它完美解决了现有 **TTS** 在音色、情感表达和时长控制上的诸多局限。其核心亮点包括：支持**完全本地化部署与模型权重开放**，让开发者拥有更大自由度；**零样本语音克隆**能精准还原任何音色与节奏，简直是声音的魔法师✨；全球首创的**零样本情绪克隆**与**文本情绪控制**功能，让语音表达生动传神；此外，它还能实现**精准时长控制**，这对于影视配音来说简直是神来之笔！通过**先进的自回归架构**与**大语言模型深度融合**，**IndexTTS2** 确保了语音的自然度和稳定性，无疑是 **AI日报** 中值得关注的重磅发布！更多详情请访问：[项目地址](https://index-tts.github.io/index-tts2.github.io/)。
+
+### **AI前沿研究**
+
+1.  **Meta** 与**加州大学伯克利分校**的顶尖研究团队联手，共同开发出 **StreamDiT**——一款颠覆性的 **AI模型**，能够实现**逐帧实时视频流生成**。仅仅依靠**单个高端GPU**，它就能以每秒16帧的速度创作出512p分辨率的流畅视频，而且在处理动态视频方面表现惊人，远超现有技术。**StreamDiT** 之所以能实现这一壮举，得益于其独特的**定制架构**和将计算步骤从128步锐减到**仅8步**的**关键加速技术**。这项突破性进展预示着**实时交互式视频内容创作**将迎来广阔前景，尽管目前在视频记忆能力方面仍存在一些局限，但无疑是 **AI资讯** 中振奋人心的前沿突破。
+2.  清华大学与腾讯混元X团队的最新研究，为我们的**AI新闻**带来了惊喜：他们发现，在**多模态大模型**中，竟然只有不到5%的注意力头（被形象地称为**"视觉头”**）真正肩负着**视觉内容理解**的重任。这一**视觉头稀疏性**的惊人发现，如同给模型优化指明了方向🧭。基于此，研究团队提出了**SparseMM**方法，通过智能地分配缓存资源，不仅在性能上毫不妥协，还实现了推理速度最高**1.87倍**的惊人提升，并让**峰值内存占用**降低了**52%**。这无疑为**多模态大模型**的高效部署打开了新思路，让我们对未来的**AI日报**充满期待！更多详情请参考[论文地址](https://arxiv.org/abs/2506.05344)。
+    <br/>![SparseMM性能提升 - AI资讯](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w6feme48afyj9k23759vr.avif)<br/>
+3.  针对**强化学习**在稀疏奖励和长事件跨度任务中探索效率低下的痛点，加州大学伯克利分校的研究者们提出了一种名为 **Q-chunking** 的创新方法，将**动作分块**技术巧妙地引入了**时序差分学习**。这个方法通过预测连续动作序列，不仅显著提升了探索效率，还实现了更快速且无偏的值传播，简直是为强化学习注入了"加速剂”⚡。**Q-chunking** 在机器人操作任务中表现卓越，尤其在最复杂的场景中更是**超越了现有所有方法**，展现出惊人的样本效率和时间连贯性，为未来的**AI新闻**奠定了坚实的基础。更多详情请参考[论文地址](https://www.alphaxiv.org/overview/2507.07969v1)。
+    <br/>![强化学习新进展 - AI新闻](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w6h4see181wfknsdrzszv.avif)<br/>
+    <br/>![Q-chunking方法演示 - AI日报](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w6kppfgmb5ryyme34wa71.avif)<br/>
+
+### **AI行业展望与社会影响**
+
+1.  在**联合国全球AI for Good 峰会**上，**蚂蚁集团**技术战略与发展部副总经理**彭晋**向世界分享了中国在**金融场景**中对抗**"深度伪造”**的显著技术成果。在**蚂蚁数科**强大的产品支持下，其服务的东南亚银行**"深度伪造”攻击率**已从高峰期的10%大幅降至惊人的4%！与此同时，其**识别准确率**依然保持在99.9%的超高水准💯。这些成果为全球**AI安全治理**提供了可复用的**"中国方案”**，无疑是全球**AI资讯**领域的一大亮点。**蚂蚁数科**旗下的 **ZOLOZ** 作为金融级**身份安全认证服务**的佼佼者，已服务全球超25个国家和地区，但我们深知，未来的**AI日报**中，算法仍需持续更新以对抗新型伪造手法，毕竟"道高一尺，魔高一丈”嘛！
+    <br/>![蚂蚁集团金融安全 - AI新闻](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w6np8eecafq17xjfqvpkj.avif)<br/>
+2.  特斯拉的**Optimus人形机器人**终于迎来了它的首次"就业”机会！它将在洛杉矶**圣莫妮卡大道**上形似飞碟🛸的特斯拉主题餐厅担任服务员，这无疑是**AI新闻**中的一大趣事。这家餐厅不仅设计独特，更配备了**80根V4超级充电桩**，让特斯拉车主在用餐时也能为爱车充电，并享受**机器人送餐服务**。菜单设计也别具匠心，融入了特斯拉车型元素，预计这家全球首家集充电、观影与机器人服务于一体的餐厅将于**7月21日正式开业**，届时必将吸引大量顾客，成为未来**AI日报**的热门话题！
+    <br/>![Optimus机器人服务 - AI日报](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w6qjaf2eb4mx6ghpj530q.avif)<br/>
+
+### **开源TOP项目**
+
+1.  **Liquid AI** 公司正式**开源**了其下一代**边缘AI模型LFM2**，这对于**AI日报**来说无疑是一个重磅消息！该模型旨在为智能手机、汽车等**边缘设备**带来速度、能效和性能上的革命性突破。**LFM2** 采用创新的**结构化自适应算子架构**，其**推理速度**比 Qwen3 快 2 倍，**训练速度**更是提升 3 倍，并在指令跟随和函数调用任务上表现卓越，尤其适合**隐私敏感**的**本地化**应用。此次**开源**通过 Hugging Face 开放模型权重，标志着美国企业在高效小型语言模型领域首次公开超越中国领先模型，这在**AI新闻**中具有里程碑意义。更多详情请见[项目地址](https://huggingface.co/collections/LiquidAI/lfm2-686d721927015b2ad73eaa38)。**Liquid AI** 计划将 **LFM2** 集成到其边缘AI平台及即将推出的 **iOS 原生应用**中，旨在推动**AI**的普及化，并为**边缘AI**领域树立了全新的标杆。
+    <br/>![LFM2模型突破 - AI日报](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w6st3eqs9wgev366wjfp0.avif)<br/>
+2.  **智源研究院**正式**开源**了其**具身智能系统**的最新成果——**RoboBrain 2.0 32B** 版本和**跨本体大小脑协同框架 RoboOS 2.0 单机版**，这在**AI资讯**界引起了不小轰动！**RoboBrain 2.0** 作为**"通用具身大脑”**，巧妙结合了**感知**、**推理**和**规划**能力，显著提升了**机器人在复杂环境中**的**理解与决策能力**，并在多项**权威评测基准**上刷新了纪录，简直是机器人的"智慧大脑”🧠。**RoboOS 2.0** 则是全球首个**具身智能 SaaS 开源框架**，实现轻量化部署，推动机器人从**"单机智能”**向**"群体智能”**发展。更多详情请见[项目地址](https://github.com/FlagOpen/RoboBrain2.0)。这些技术将进一步推动**具身智能**的广泛应用，让我们期待更多**AI新闻**！
+    <br/>![RoboBrain 2.0系统 - AI资讯](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w6wf0fwpsr20m883qcn3v.avif)<br/>
+3.  **mindsdb** 是一个星标量高达 **33998** 的开源宝藏项目，它作为一个**AI查询引擎**和**MCP服务器**，完美解决了在**大规模联合数据**上构建能够回答问题的**AI**的难题。该平台的核心功能是提供一个统一的环境来训练**AI**，并使其能够从分布式的多源数据中获取洞察，这极大地简化了**AI应用**的数据集成与查询过程，是**AI资讯**领域的一大利器。[项目地址](https://github.com/mindsdb/mindsdb)。
+4.  **webvm** 是一个拥有 **14812** 星标的开源项目，其核心功能是提供一个**Web虚拟机**。这意味着用户可以直接在网页浏览器中运行一个完整的虚拟机环境，无需本地安装任何软件，极大地提升了软件的**可访问性**和**便捷性**，让**AI日报**的读者也能轻松体验。[项目地址](https://github.com/leaningtech/webvm)。
+5.  **ART** (代理强化训练器) 是一个拥有 **1658** 星标的开源项目，旨在解决如何通过**强化学习**训练**多步代理**完成实际任务的挑战。它巧妙地利用 **GRPO** 等技术，为代理提供"在职培训”，支持包括 Qwen2.5、Qwen3、Llama 和 Kimi 在内的多种主流**大型语言模型**，能够显著提升**AI代理**在**复杂任务执行**中的表现和效率，这在**AI新闻**中绝对值得关注。[项目地址](https://github.com/OpenPipe/ART)。
+6.  这个名为 "**WirelessAndroidAutoDongle**"的项目拥有**1449**颗星，它巧妙地解决了只有有线**Android Auto**功能的汽车无法使用无线**Android Auto**的痛点。通过充分利用**树莓派**，该项目能让用户轻松地将有线连接转换为无线体验，极大地提升了车载信息娱乐系统的便捷性，为**AI资讯**爱好者带来了实际便利。更多详情请访问[项目地址](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle)。
+
+### **社媒分享**
+
+1.  黄赟开源了一个Coze工作流，旨在帮助用户通过视频轻松制作心理学解说内容。该工作流公布了源代码和制作过程，用户只需复制工作流代码、配置节点，并通过剪映一键生成视频，极大地简化了视频制作流程。这一举措让更多人能利用**AI技术**普及**心理学知识**，展现了其在**内容创作**领域的应用潜力，这无疑是**AI日报**中值得分享的好消息。
+    <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w72xkevetqk84dk60czkj.mp4" controls="controls" width="100%"></video>
+    [更多详情](https://x.com/huangyun_122/status/1944755763098087666)
+2.  歸藏(guizang.ai)兴奋地分享了Grok应用中新增的**3D虚拟角色实时陪聊**功能，认为这是**埃隆·马斯克**的一大亮点。用户可以通过切换美国IP，在最新版Grok设置中体验与**3D角色**进行流畅的**中文对话**。更令人惊喜的是，聊天背景还能根据对话内容实时更换，极大地增强了**互动体验**，这无疑是**AI资讯**里充满趣味的一条！🚀
+    <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w7czxekvbfz3syxhzkz9n.mp4" controls="controls" width="100%"></video>
+    <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w7khgfdcs78jnnympgk7d.mp4" controls="controls" width="100%"></video>
+    [更多详情](https://x.com/op7418/status/1944731741484355737)
+3.  Reddit用户呼吁，鉴于**AI**有**智能感知**的非零可能性，当前亟需开始构建**AI福利**和**AI安全**的框架。**杰夫·塞博**（Jeff Sebo）也支持这一观点，强调为了确保**AI**的未来发展符合道德规范，我们必须未雨绸缪。此举旨在预防潜在的风险，确保**AI技术**的长远健康发展，这在**AI新闻**中引发了深刻的思考🤔。[更多详情](https://www.reddit.com/r/artificial/comments/1lzilaf/ai_welfare_and_moral_status_jeff_sebo_argues_that/)
+4.  Orange.ai 发布推文指出，当前绝大多数 **Agent 产品**对 **Claude** 存在高度依赖，认为它们一旦脱离 Claude 便"什么都不是”，暗示了 Claude 在 **AI Agent** 领域的核心地位及其对其他产品独立性的影响。此观点揭示了 **AI Agent 生态**中可能存在的单一依赖性问题，引人深思，是今日**AI日报**的观点交锋之一。
+    <br/>![Agent产品依赖分析 - AI日报](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w7zs4fsgt5wbe1wtbws9n.avif)<br/>
+    [更多详情](https://x.com/oran_ge/status/1944621274535211120)
+5.  歸藏(guizang.ai) 观察到有趣的现象：国内关于 **Kimi 算法**的深度文章开始被海外广泛翻译和传播。其中，**熊狸**撰写的关于 **Kimi K2** 的技术见解文章尤其受到关注，被多个海外大号转发，这表明中国 **AI技术**的讨论与影响力正日益走向国际舞台。此趋势凸显了中国 **AI创新**在全球范围内的吸引力，为**AI新闻**增添了国际色彩🌏。
+    <br/>![Kimi算法国际传播 - AI新闻](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w83hbe3prskmffe1df220.avif)<br/>
+    [更多详情](https://x.com/op7418/status/1944585254951686229)
+6.  Meng Shao 分享了 **Greg Isenberg** 对 **AI** 影响就业的深刻见解，揭示了"会 **AI** 的人才会取代你”这一说法的局限性。Greg 认为 **AI** 将大规模淘汰数百万白领工作，尤其是那些可被自动化替代的岗位。但同时，这也将催生前所未有的**创业浪潮**，并赋予少数掌握**AI**的顶尖人才十倍的产出能力。尽管转型期充满挑战，这一变革最终将重塑经济格局，甚至创造出比过去五十年更多的百万富翁，形成一个由高效大公司和众多小型企业组成的"蜂巢”式经济体。这番见解，无疑是**AI日报**中对未来就业趋势的深度分析。
+    <br/>![AI与就业趋势 - AI日报](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w87jrf55aeqh032b906hb.avif)<br/>
+    [更多详情](https://x.com/shao__meng/status/1944553973647847511)
+7.  Reddit用户/u/Officiallabrador因厌倦了**AI**单向回答的模式，受"六帽思考系统”启发，创造了一款名为"**AI会议室**”的工具，旨在让多个**AI代理**进行多方协作讨论。这款创新工具允许用户创建具有特定角色和知识的**AI**"**角色**”，并邀请最多六个此类角色进入一个虚拟"**房间**”，由一个主控**AI**负责协调讨论并汇总见解。通过这种方式，**AI代理**不再直接回复用户，而是能**相互讨论**、**挑战假设**并**共同寻求解决方案**，例如让"创意总监”与"数据分析师”就最佳方法进行辩论，这无疑是**AI资讯**领域的一大创新！🎉 作者正积极寻求社区对其工具的**反馈**和**验证**，以判断其是否为一项有价值的创新，或仅仅是过度设计，欢迎大家前来探索。
+    <br/>![AI福利框架探讨 - AI资讯](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k04w8983ff3ba0b61m3kqypz.avif)<br/>
+    [更多详情](https://www.reddit.com/r/artificial/comments/1lz3obz/i_was_tired_of_getting_onesided_ai_answers_so_i/)
 
 ---
 
-## **Tune In to the AI Daily Voice Edition**
+## **收听语音版AI日报**
 
-| 🎙️ **Podcast Platform** | 📹 **Douyin** |
+| 🎙️ **小宇宙** | 📹 **抖音** |
 | --- | --- |
-| [Lai Sheng Little Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Creator Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Little Universe](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Information Hub](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)| 
+| ![小酒馆](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+
+    
+
