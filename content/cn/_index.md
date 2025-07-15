@@ -1,9 +1,9 @@
 ---
-linkTitle: Today's Daily
-title: Today's Daily-AI日报
+linkTitle: AI Daily
+title: AI Daily-AI资讯日报
 breadcrumbs: false
 next: /2025-07/2025-07-14
-description: "每日精选AI行业要闻、开源热点、学术前沿及大V观点。AI资讯；AI日报；AI知识库；AI教程；AI资讯日报；AI工具；AI Daily News 。新型文本转语音大模型IndexTTS2发布，支持本地化与零样本克隆。Meta研发实时视频生成，清华优化多模态模型。 蚂蚁集团分享金融深度伪造对抗经验。特斯拉O"
+description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
 cascade:
   type: docs
 ---
