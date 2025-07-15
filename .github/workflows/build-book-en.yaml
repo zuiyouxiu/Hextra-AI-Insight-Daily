@@ -378,7 +378,7 @@ jobs:
                                         plain_text_for_desc = strip_markdown_html(text_from_list_item)
                                         new_description = plain_text_for_desc[:157] # Truncate for "..."
                                         if len(plain_text_for_desc) > 160:
-                                            new_description += "..."
+                                            new_description += "."
                                         
                                         if new_description: # Only set description if plain_text_for_desc is not empty
                                             parsed_fm['description'] = new_description
