@@ -335,8 +335,8 @@ jobs:
                           if date_file_match:
                               year, month, day = date_file_match.groups() # Capture year, month, and day
                               print(f"  - Applying 'MM-DD-Daily' title rule for date file: {base_fn}")
-                              parsed_fm['title'] = f"{month}-{day}-Daily AI Daily" # Use month and day
-                              parsed_fm['linkTitle'] = f"{month}-{day}-Daily"
+                              parsed_fm['title'] = f"{month}-{day}-日报 AI 资讯日报" # Use month and day
+                              parsed_fm['linkTitle'] = f"{month}-{day}-日报"
                           
                           # NEW: Update 'next' field for _index.md
                           if base_fn == "_index.md":
@@ -366,19 +366,26 @@ jobs:
                               # NEW: Regex to find the first numbered list item "1. " and capture its content
                               numbered_list_match = re.search(r"^\s*1\.\s+(.*)", translated_body, re.MULTILINE)
 
-                              if numbered_list_match:
-                                  text_from_list_item = numbered_list_match.group(1).strip()
-                                  if text_from_list_item: # Ensure the item itself isn't empty after "1. "
-                                      plain_text_for_desc = strip_markdown_html(text_from_list_item)
-                                      new_description = plain_text_for_desc[:297] # Truncate for "..."
-                                      if len(plain_text_for_desc) > 300:
-                                          new_description += "..."
-                                      
-                                      if new_description: # Only set description if plain_text_for_desc is not empty
-                                          parsed_fm['description'] = default_description_ja + new_description
-                                          description_content_found = True
-                                          log_description_preview = new_description[:50].replace('\n', ' ')
-                                          print(f"    - Updated description from '1.' list item to: '{log_description_preview}...'")
+                              if base_fn == "_index.md":
+                                    # 如果是 _index.md 文件，则使用默认的 description
+                                    parsed_fm['description'] = default_description_ja
+                                    description_content_found = True
+                                    log_preview = default_description_ja[:50].replace('\n', ' ')
+                                    print(f"    - Is _index.md, setting description to default: '{log_preview}...'")
+                              else:
+                                if numbered_list_match:
+                                    text_from_list_item = numbered_list_match.group(1).strip()
+                                    if text_from_list_item: # Ensure the item itself isn't empty after "1. "
+                                        plain_text_for_desc = strip_markdown_html(text_from_list_item)
+                                        new_description = plain_text_for_desc[:157] # Truncate for "..."
+                                        if len(plain_text_for_desc) > 160:
+                                            new_description += "."
+                                        
+                                        if new_description: # Only set description if plain_text_for_desc is not empty
+                                            parsed_fm['description'] = new_description
+                                            description_content_found = True
+                                            log_description_preview = new_description[:50].replace('\n', ' ')
+                                            print(f"    - Updated description from '1.' list item to: '{log_description_preview}...'")
                               
                               if not description_content_found:
                                   if 'description' in parsed_fm:
