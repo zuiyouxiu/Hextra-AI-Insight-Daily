@@ -64,7 +64,7 @@ params:
   logo: "images/logo-dark.png"
   
   author:
-    name: "何夕2077 AI信息一网打尽，每天3分钟，洞悉行业新动向"
+    name: "何夕2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
     bio: "去海边整点薯条"
     email: "justlikemaki@qq.com"
     website: "https://ai.hubtoday.app/about/"
@@ -74,7 +74,7 @@ params:
         
   publisher:
     type: "Person" 
-    name: "何夕2077 AI信息一网打尽，每天3分钟，洞悉行业新动向"
+    name: "何夕2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
     url: "https://ai.hubtoday.app/about/"
     sameAs:
       - "https://github.com/justlovemaki"
