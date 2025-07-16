@@ -4,24 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
+#### Hey there! 👋 He Xi 2077 / justlovemaki
 
-#### 👋 何夕2077 / justlovemaki
+> A decade coding, fingers ever swift, 🥶
+> A burning passion, yet to truly lift.
+> But now AI's tempest starts to brew, ⚡️
+> Vowing to conquer skies, something fresh and new.
 
-> 十载代码指尖凉，胸中块垒郁未扬。
-> 忽闻智能风雷动，誓向云天搏一场。
+#### My Code Philosophy 💡
 
-#### 🚀 我的代码哲学
+> Tech for the people, always!
 
-> 技术为人民服务
+#### What I've Been Building! 🛠️
 
-#### ✨ 代表作
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   An AI image generation script built on Cloudflare Workers.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   This is a content aggregation and generation platform powered by Cloudflare Workers. It truly shines by curating daily updates for you from the AI field, covering industry news, hot open-source projects, cutting-edge academic papers, and even insights from tech influencers!
+*   For even more project details, go check out my [GitHub](https://github.com/justlovemaki).
 
-*   **[开源贡献/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   基于Cloudflare Worker的AI图片生成脚本
-*   **[开源贡献/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   基于 Cloudflare Workers 驱动的内容聚合与生成平台。它每日为您精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论
-*   更多项目细节请见我的 [GitHub](https://github.com/justlovemaki)。
+#### What I'm Diving Into Now 🌊
 
-#### 🌱 当前探索
-
-对 LLM应用、网站SEO 抱有浓厚兴趣，并正在积极投入学习与实践。
+I'm super interested in LLM applications and website SEO, and actively diving deep into learning and practice.
