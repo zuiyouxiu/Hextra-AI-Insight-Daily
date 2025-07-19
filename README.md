@@ -51,17 +51,6 @@
 
 ---
 
-#### ▲ 部署到 Vercel
-
-点击下方按钮，一键将项目克隆并部署到 Vercel：
-
-[![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjustlovemaki%2FHextra-AI-Insight-Daily&env=HUGO_VERSION)
-
-> **⚙️ 配置覆盖**：
-> 部署时，您可能需要覆盖默认的构建配置，以确保 Hugo 正常工作。请在 Vercel 的项目设置中，按下图所示进行配置：
->
-> <img src="https://github.com/imfing/hextra-starter-template/assets/5097752/e2e3cecd-c884-47ec-b064-14f896fee08d" width="600" alt="Vercel Configuration Override" />
-
 ### 🤝 欢迎贡献
 
 我们欢迎任何形式的贡献！如果您有好的想法或发现了 Bug，请随时：
