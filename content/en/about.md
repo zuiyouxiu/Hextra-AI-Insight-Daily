@@ -4,22 +4,22 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 👋 Hey there! I'm justlovemaki
+#### Hexi 2077 / justlovemaki
 
-> Been coding for a decade, seen it all – the good, the bad, the 'what were we thinking?' moments. But when I heard the AI revolution roaring, I knew it was time to jump in and shake things up! This is my shot at the big leagues.
+Been coding for a decade, fingers often chilly, and my heart's been packed with unspoken stuff. Then AI just *exploded*, and I was like, "Alright, time to throw down with the heavens!"
 
-#### 💡 My Code Philosophy
+#### My Code Philosophy 💡
 
-> For me, it's simple: Technology should always serve the people. Full stop. 💯
+Tech for the people, always!
 
-#### 🚀 My Stellar Projects
+#### My Top Projects 🚀
 
-*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   CloudFlare-AI-Image: This project is a slick AI image generation script, all powered by Cloudflare Worker. It's pretty sweet! ✨
-*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   CloudFlare-AI-Insight-Daily: This is my content aggregation and generation platform, fully powered by Cloudflare Workers. What's it do? It's your daily dose of AI awesomeness, serving up the freshest industry news, hottest open-source projects, mind-bending academic papers, and even the latest buzz from tech bigwigs on social media. Talk about an AI info dump! 🤯
-*   Wanna dive deeper? My [GitHub](https://github.com/justlovemaki) has all the juicy details. Go check it out! 👇
+*   **[CloudFlare-AI-Image (Open Source Contribution)](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   This project is an AI image generation script, totally built on Cloudflare Workers.
+*   **[CloudFlare-AI-Insight-Daily (Open Source Contribution)](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   This bad boy is a content aggregation and generation platform, fully powered by Cloudflare Workers. Every single day, it hooks you up with the latest AI buzz, like industry news, hot open-source projects, mind-blowing academic papers, and spicy takes from top tech influencers.
+*   More project details? You can totally find 'em on my [GitHub](https://github.com/justlovemaki).
 
-#### 💡 What I'm Diving Into Now
+#### What I'm Digging Into Right Now 🔎
 
-Right now, I'm super hyped about LLM applications and website SEO. I'm deep-diving into learning and getting my hands dirty with both! It's a blast! 🔥
+LLM applications and website SEO? Yeah, I'm super into those! Actively learning and getting hands-on with 'em.
