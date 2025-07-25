@@ -4,22 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hexi 2077 / justlovemaki
+#### Hey there! 何夕2077 / justlovemaki 👋
 
-Been coding for a decade, fingers often chilly, and my heart's been packed with unspoken stuff. Then AI just *exploded*, and I was like, "Alright, time to throw down with the heavens!"
+> A decade of code, fingertips growing cold,
+> Yet a storm brews within, stories untold.
+> Suddenly, AI's thunder roars, a new era begins,
+> I vow to chase the clouds, where a grand battle spins.
 
 #### My Code Philosophy 💡
 
-Tech for the people, always!
+> My philosophy? Technology serves the people.
 
-#### My Top Projects 🚀
+#### My Projects & Contributions ✨
 
-*   **[CloudFlare-AI-Image (Open Source Contribution)](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This project is an AI image generation script, totally built on Cloudflare Workers.
-*   **[CloudFlare-AI-Insight-Daily (Open Source Contribution)](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This bad boy is a content aggregation and generation platform, fully powered by Cloudflare Workers. Every single day, it hooks you up with the latest AI buzz, like industry news, hot open-source projects, mind-blowing academic papers, and spicy takes from top tech influencers.
-*   More project details? You can totally find 'em on my [GitHub](https://github.com/justlovemaki).
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: This is an AI image generation script that I built using Cloudflare Workers.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This platform is all about content aggregation and generation, powered by Cloudflare Workers. What it does? It hooks you up daily with the freshest AI insights, including industry news, trending open-source projects, cutting-edge academic papers, and cool takes from tech influencers.
+*   Wanna dive deeper? You can find loads more project details and my other cool stuff on my [GitHub](https://github.com/justlovemaki).
 
-#### What I'm Digging Into Right Now 🔎
+#### What I'm Diving Into Now 🌱
 
-LLM applications and website SEO? Yeah, I'm super into those! Actively learning and getting hands-on with 'em.
+I'm seriously hyped about LLM applications and website SEO. Right now, I'm deep-diving into learning and practicing them like crazy!
