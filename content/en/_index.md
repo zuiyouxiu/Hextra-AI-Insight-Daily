@@ -2,117 +2,97 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-07/2025-07-25
+next: /en/2025-07/2025-07-26
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2025/7/26
+## AI News Daily 2025/7/27
 
-> `AI Daily` | `8 AM Update` | `Web Data Aggregation` | `Cutting-Edge Science Exploration` | `Industry Free Speech` | `Open-Source Innovation Power` | `AI and Human Future` | [Visit Web Version](https://ai.hubtoday.app/)
+> `AI Daily` | `Morning 8 AM Update` | `Aggregate All-Network Data` | `Frontier Science Exploration` | `Industry Voice` | `Open Source Innovation` | `AI & Human Future` | [Visit Web Version ↗️](https://ai.hubtoday.app/)
 
-### **Today's Summary**
+### **Today's Digest**
 
 ```
-MyShell and Google have each launched new tools for developing AI applications using natural language.
-Anthropic's Claude is integrated with Canva, enabling automatic generation of visual designs from text content.
-New progress has been made in AI collaborative learning, with the Agent KB framework improving problem-solving efficiency through a shared experience pool.
-Alibaba and ByteDance, among others, have released new models, enhancing their multilingual translation and simultaneous interpretation capabilities.
-Additionally, while AI summaries are popular with Google, they have led to a significant drop in click-through rates for traditional web pages.
+Alibaba Cloud's Tongyi Lingma has announced the Qwen3-Coder programming model is now free for all users.
+Alibaba is developing Quark AI Glasses, betting on a screen-free, pure voice interaction future.
+Runway has released a video editing model, enabling arbitrary video edits via text commands.
+Frontier research suggests AI is giving rise to the Fourth Scientific Paradigm, reshaping how humanity creates knowledge.
+Industry hot topics include the controversy surrounding ByteDance Coze's open-sourcing and ethical discussions on emotional support AI.
 ```
 
-### AI Product and Feature Updates
+### AI Product & Feature Updates
 
-1.  Is the front-end developer's job on the line this time? **MyShell** has officially dropped its game-changing AI app development tool, **ShellAgent 2.0**. It's all about that **Text-to-App** vibe, hinting that soon, everyone could be a developer – no joke! 🤯 Users just chat about what they need in plain language, and this bad boy whips up the entire AI app, from backend to deployment, making it as easy as sending a text. Talk about **democratizing** AI applications! ✨
-    <br/>![AI News: AI App Development](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114kypxfensmywzw81g8r8q.avif)<br/>
+1.  **Alibaba Cloud's Tongyi Lingma** is now a free "cheat code" for programmers! The updated **Qwen3-Coder** model is completely free and unlimited for all users. This model quickly topped the HuggingFace charts after its open-source release. Developers can now enjoy top-tier AI programming assistance anytime, anywhere – it's seriously sweet! 🤩
+    <br/>![AI News: Tongyi Lingma Tops the Charts](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k13pz8nfeatrpkfk5sarn4q5.avif)<br/>
 
-2.  Want to be a digital wizard? **Google Labs**' experimental tool, **Opal**, lets you whip up AI apps just by talking! This bad boy makes **no-code** AI app creation a reality. Users can quickly piece together mini-apps like building with LEGOs, using **natural language** commands or a drag-and-drop **visual workflow** editor. And guess what? The "blocks" are the super powerful Gemini and Google's AI ecosystem. Currently, this tool is only rocking its public beta in the US, so the rest of the world will just have to chill for a bit. 🌍 patiently waiting!
-    <br/>![AI News: No-Code Building](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114m5vqftpr5sb33k2cajt4.avif)<br/>
-    <br/></video>
+2.  **Alibaba** is envisioning a screen-free AI future, and their answer is the first self-developed **Quark AI Glasses**. These glasses ditch the screen entirely, relying solely on cameras and **voice interaction**, deeply integrated with Alibaba's ecosystem. This isn't just a product; it's Alibaba's declaration that **voice interaction** will be the new gateway for the era. 🎤
+    <br/>![AI News: Quark AI Glasses](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k13pzc7yeamveerk9t900yna.avif)<br/>
 
-3.  This is seriously a dream come true for the lazy! 🎉 **Anthropic**'s AI assistant, **Claude**, has announced a deep integration with global design platform **Canva**, totally streamlining the **text-to-visual design** process. Users just upload their written content, and Claude gets to work, smartly analyzing it and automatically cranking out professional visual designs that fit brand styles. This collab seriously lowers the design barrier, making your content way more eye-catching. ✨
-    <br/>![AI News: Text-to-Visual](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114makyebdskm1a6smq0mgw.avif)<br/>
-    <br/></video>
+3.  **Runway** has dropped a major game-changer in video editing: the **Kontext** model, a true "magic wand" for AI video editors! Users can now edit videos however they like with simple **text commands**, which is practically a cheat code against traditional post-production workflows. This is easily the most exciting piece of **AI news** in this edition. ✨
+    <br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k13q1enkefgrf527cx16sphe.mp4" controls="controls" width="100%"></video>
 
-4.  **Lovart**, the **AI Design Agent** that was once super exclusive ("one code, hard to find"), is now totally open for registration! It's trying to shake up design workflows with a brand-new interaction style. Its killer feature, **ChatCanvas**, lets you drop natural language commands anywhere on the canvas, and the AI nails it, processing everything in bulk. This "smart canvas" experience, which squeezes every last drop out of **multimodal context**, truly helps AI amp up your creativity, not just replace it. 🎨
-    <br/>![AI News: Smart Canvas Interaction](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114mf5wex8b4ngrfcrexafs.avif)<br/>
-    <br/>![AI News: Multimodal Design](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114n2g9fkntm03wmwy4mqdv.avif)<br/>
+4.  **Claude's** mobile app now supports connecting to external tools, finally freeing your AI assistant from the desk! **Anthropic** announced this update, meaning you can manage projects and create documents right from your phone, boosting your productivity on the go. This latest bit of **AI news** is a huge win for anyone who works remotely. 🚀
 
-5.  Wanna be the coolest cat on your social feeds? 🤩 **Kling**, the AI video generation tool from Kuaishou, is here to hook you up! Its "**Image-to-Video**" **Elements** feature just got a massive upgrade, not only boosting subject consistency and dynamic smoothness but also adding a snazzy **Region Reference** function. Now, you can pinpoint specific faces, outfits, and more in your images as references, giving the AI a super clear focus for its creations and taking your visuals to a whole new level. ✨
-    <br/>![AI News: Image-to-Video](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114n6etenqacray5vq44d1n.avif)<br/>
+5.  **Google** is making videos easier to understand with a clever new approach! **NotebookLM** is getting a video overview feature that links videos to a PPT-style timeline, letting you instantly pinpoint key information. This low-cost, highly efficient solution might just become the standard for consuming long videos in the future – pure genius! 💡
+    <br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k13q263qf7f99n7nhnfsk5zp.mp4" controls="controls" width="100%"></video>
 
-### Cutting-Edge AI Research
+### AI Frontier Research
 
-1.  AI Agents aren't flying solo anymore – they've learned to "copy each other's homework"! 😉 The **Agent KB** framework, jointly launched by OPPO, Yale, and other big names, creates a shared "**experience pool**" where AIs can actually learn from each other's wins. In the super tough **GAIA** benchmark test, this framework jacked up the model's problem-solving success rate by up to 6.66%, proving that "teamwork makes the dream work" is way more efficient than going it alone. 🤝
-    <br/>![AI News: AI Collaborative Learning](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114n9r8e48bcftz2f060rhs.avif)<br/>
-    <br/>![AI News: Shared Experience Pool](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114ndf8ev69q4gvryxqrm77.avif)<br/>
+1.  **Scientific research** might be on the cusp of a profound paradigm revolution! According to the latest **AI news**, a [report](https://www.nature.com/articles/d42473-025-00161-3) published in the top journal *Nature* suggests we're witnessing the birth of the **Fourth Scientific Paradigm**. In this shift, AI isn't just a tool; it's a "thinking partner" capable of autonomously generating hypotheses, fundamentally reshaping how humanity creates knowledge. This is a big deal! 🤯
 
-2.  Can AI seriously guess your age just by looking at your face? A new deep learning method, detailed in a [Latest Arxiv Paper - AI News](https://arxiv.org/abs/2507.18565), is making waves in the **precise advertising** game. This bad boy can nail both **age estimation** and **gender classification** simultaneously with mind-blowing accuracy. But hey, it also flags potential **data bias** issues lurking within AI models. So, while we're all enjoying the tech perks, it's a solid reminder to stay sharp about the hidden ethical risks. 🤔
+### AI Industry Outlook & Social Impact
 
-### AI Industry Outlook and Societal Impact
+1.  **ByteDance Coze's** open-sourcing has truly been a "song of ice and fire" in the community. 🔥🧊 On one side, folks are praising its [AI News: Nearly Complete Platform with Free Commercial License](https://x.com/dotey/status/1948964537605967966) as a genuine show of commitment. On the other, some are [sharply criticizing it as "awkward open source"](https://x.com/lyson_ober/status/1948865681857904729) and [questioning its commercial prospects - AI News](https://x.com/Gorden_Sun/status/1949016701976412249). This debate vividly reflects the industry's extreme sensitivity and high expectations for "true open source."
 
-1.  Can AI seriously crack the code on "cat and dog talk"? Scientists are waving a red flag: watch out, it might just "lie" to win you over. 🙀 **The London School of Economics (LSE)** just opened the world's first **Jeremy Coller Centre for Animal Sentience**, aiming to dive deep into **animal consciousness** using AI and other cross-disciplinary methods. This isn't just about animal welfare; it also sparks totally new ways of thinking about that ultimate philosophical head-scratcher: "consciousness." 🤔
-
-2.  **Google**'s search rules? They've changed, but also kinda haven't. 🤔 Officially, they gave content creators a big "chill out" pill: high-quality **AI content** is just as welcome, and existing **SEO** principles still totally apply. But here's the kicker: when AI summaries pop up, traditional web page **click-through rates** have tanked from 15% all the way down to 8%. That's a clear sign that shifts in user behavior are quietly shaking up the entire traffic game. 📉
+2.  When **AI** starts offering emotional support, how do we draw the ethical line? 🤔 A developer on Reddit posed a soul-searching question: [Should emotional support AI act as a "mirror" or actively guide users? - AI News](https://www.reddit.com/r/artificial/comments/1m9e713/should_ai_ever_give_mental_health_advice/) This heated discussion about AI's application in **mental health** highlights the complex choices we face at the intersection of technology and humanity.
 
 ### Top Open-Source Projects
 
-1.  [**Qwen3-Coder - AI News**](https://github.com/QwenLM/Qwen3-Coder) (⭐ 8.6k) is the **Qwen3** large model, custom-built for coding tasks by Alibaba Cloud's Qwen team. This thing boasts some serious power for code generation, completion, and understanding, making it an absolute must-have coding superpower for developers. 💻
+1.  Imagine an AI operating your computer like a real person – what an experience, right? 🤖 The open-source project **NeuralAgent** makes this cool idea a reality! It simulates human clicks, typing, and scrolling, acting like a "digital employee" to automate desktop tasks, even supporting local model execution. Go [check out this AI news project on GitHub](https://github.com/withneural/neuralagent) now!
 
-2.  [**neko - AI News**](https://github.com/m1k1o/neko) (⭐ 13.3k) is a seriously cool self-hosted virtual browser project. It runs inside a **Docker** container, using **WebRTC** tech to stream the browser screen in real-time. This means you can surf safely from anywhere, anytime. 🌐
+2.  Node.js developers, listen up! A "kung fu manual" with over 100,000 stars has appeared! 📖 This project, called [**nodebestpractices** - AI News Recommendation](https://github.com/goldbergyoni/nodebestpractices), compiles community-validated **Node.js best practices**. It's your ultimate guide for writing high-performance, highly secure code.
 
-3.  [**awesome-generative-ai - AI News**](https://github.com/steven2358/awesome-generative-ai) (⭐ 9.3k) is a meticulously curated treasure trove for **generative AI**. If you're looking to keep tabs on the latest in AIGC or hunt for some cool projects, this list is an absolute must-see. 💎
+3.  Still annoyed by bloated Windows systems? 😩 This [**Win11Debloat**](https://github.com/Raphire/Win11Debloat) project, widely praised in the **AI news** sphere, is your savior! It helps you remove pre-installed apps and disable telemetry with one click, giving your Windows 10/11 system a new lease on life and lightning-fast performance. ⚡
 
-### Social Media Share
+4.  In the era of digital identity, security is the cornerstone of everything. 🛡️ The [**Keycloak** - AI News Recommendation](https://github.com/keycloak/keycloak) open-source project, boasting nearly 30,000 stars, was born precisely for this reason. It provides a robust **identity and access management** solution for modern applications, empowering developers to easily build impenetrable security defenses.
 
-1.  Alibaba's Tongyi Qianwen just dropped its most powerful translation model, [**Qwen3-MT - AI News**](https://qwenlm.github.io/blog/qwen-mt/)! This bad boy supports over **92 languages**, covering more than 95% of the global population. 🤯 Not only does it deliver top-notch translation quality, but it also packs customizable features like terminology control, aiming to totally smash through global language barriers. 🗣️
-    <br/>![AI News: Tongyi Translation Model](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114ngs6emrs67pyk3gh0z5b.avif)<br/>
+5.  Tableau's open-source challenger has arrived! [**DataEase** - AI News Pick](https://github.com/dataease/dataease) is becoming a new favorite in the data visualization space, thanks to its "accessible to everyone" philosophy. It simplifies complex business intelligence (BI), helping you effortlessly transform data into insightful charts. 📈
 
-2.  **Claude Code** has mastered the "Shadow Clone Jutsu," rolling out a brand-new [Custom Subagents - AI News](https://x.com/dotey/status/1948611389951558047) feature! Users can now whip up dedicated agents like "code reviewers" and "QA testers," letting them team up and tackle complex coding tasks with way more clarity and efficiency, just like a mini-squad. 🧑‍💻👩‍💻
-    <br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114nqgserpan8t7d3en99ga.mp4" controls="controls" width="100%"></video>
+6.  Managing keys, certificates, and SSH access used to be a never-ending nightmare for DevOps. 😩 But the [**Infisical** - AI News Recommendation](https://github.com/Infisical/infisical) open-source platform elegantly puts an end to this pain point. It offers a one-stop **secret management** solution, ensuring your infrastructure is both secure and easy to maintain.
 
-3.  **ByteDance** just dropped a fresh version of its simultaneous interpretation model, [**Seed LiveInterpret 2.0 - AI News**](https://x.com/Gorden_Sun/status/1948740049220370950)! This model isn't just super low-latency; it can also auto-**clone** your voice for real-time Chinese-English translation, delivering some seriously mind-blowing tech performance. 🤯
-    <br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114p92mfdsbqh4rc0fg4n9p.mp4" controls="controls" width="100%"></video>
+### Social Media Shares
 
-4.  Always hitting bugs when you're coding? **Cursor** just rolled out [**Bugbot - AI News**](https://x.com/op7418/status/1948566558412058871), a system that automatically sniffs out **logic bugs** in your PRs. This "bug-catching robot" 🐞 is all about finding those sneaky logical errors that are usually a nightmare to spot. Heads up, though: this premium service is a paid subscription. 💰
-    <br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114pmaaenba539tb0a2655j.mp4" controls="controls" width="100%"></video>
+1.  Are you still racking your brain for AI video prompts? You're out of the loop! A user shared [a "god-tier" way to use Google Veo3 - AI News](https://x.com/op7418/status/1949035551547633879): simply doodle on an image and tell the AI how you want the elements to move. This intuitive "point-and-shoot" method makes video creation as simple and fun as a kid drawing! 🎨
+    <br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k13q29r9fcktx69qxtk0p2m4.mp4" controls="controls" width="100%"></video>
 
-5.  Wanna make AI even brainier? 💡 [NVIDIA's Sharing - AI News](https://x.com/NVIDIAGTC/status/1948488421838639209) spilled the beans on the secret sauce: **Chain-of-Thought** reasoning and **Test-Time Augmentation** are totally shaking up how AI makes decisions. These two techniques help AI models dive into more complex, multi-step thinking, which in turn seriously amps up their problem-solving game. ✨
-    <br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114q28hef2sh6e0n37harg2.mp4" controls="controls" width="100%"></video>
+2.  The ultimate AI coding assistant showdown: **Claude Code** vs. **Cursor** – who's the king? A developer's [detailed comparison report](https://x.com/shao__meng/status/1948907821313261950) has the answers. The verdict: Claude Code is the top pick for those who prefer lightweight and focused tools, while Cursor is the full-featured "Swiss Army knife" that satisfies all your configuration fantasies. ⚔️
+    <br/>![Claude vs Cursor Comparison](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k13q2dx1f1ft31vgt8tp7z1s.avif)<br/>
 
-6.  Don't let those exhibition photos go to waste! **ListenHub** cooked up a special feature for [**WAIC - AI News**](https://x.com/oran_ge/status/1948750997012316291) that lets you **turn multiple images into a podcast with one click**. This cool trick helps you organize info and supercharge your memory, making it a total game-changer for anyone hitting up expos. 🎙️
-    <br/>![AI News: Images to Podcast](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114qaqxew7srhp8ngkg86m2.avif)<br/>
+3.  Sometimes, the most honest review is just two words: "Don't try." After trying out **CodeBuddy**, a user delivered [a short and powerful review](https://x.com/wwwgoubuli/status/1949072169616433603): "Time is precious, wait for a few more versions." 😅 This cold dose of reality reminds us that in the flood of AI tools, discretion and patience are also forms of wisdom.
 
-7.  **Jieyue Xingchen** totally showed off the beefy **multimodal capabilities** of its [**Step-3 - AI News**](https://x.com/op7418/status/1948725107557560521) model in a video call demo. During the call, the model was super quick to respond, spot-on with identification, and even pulled off some impressive reasoning. This is all thanks to its innovative co-design of the model and system. Pretty slick, right? ✨
-    <br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114xhjffh28wz005p8pbe6h.mp4" controls="controls" width="100%"></video>
+4.  Wondering about the API prices for major language models? Stop going blind checking every single official website! This gem of a site, [**Pricepertoken**](https://readhacker.news/s/6ysfb), compiles the API pricing for mainstream LLMs in one place and updates it daily. For developers, this is an absolute money-saving and hassle-free godsend, our top **AI news** recommendation to wrap things up! 💰
 
-8.  A user shared their experience with the [Domestic Version of Trae](https://x.com/dotey/status/1948614928396681239), which now natively supports **Qwen3 coder** and **Kimi K2**, and get this – it's currently free! For devs needing a powerhouse coding assistant, this is definitely a sweet deal. 🤩
-    <br/>![AI News: Domestic Version of Trae](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114t7ptezevs5jnff77afer.avif)<br/>
+### **AI Product Spotlight: [GeminiCli2API ↗️](https://github.com/justlovemaki/Gemini-CLI-2-API)**
 
-9.  Wanna really crank up **Gemini Cli**'s potential? One developer [Shared His Secret](https://x.com/xiaokedada/status/1948669388430999862): By customizing system prompts and teaming up with command-line tools like FFmpeg, you can effortlessly handle audio, video, and images. This turns Gemini Cli into an even bigger productivity beast! 💪
-    <br/>![AI News: Gemini Cli Tips](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114tb5xf958p5ezj4ecwqsp.avif)<br/>
-    <br/>![AI News: Command Line Tools](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k114td40en3bh7m1s29q3ngv.avif)<br/>
+```
+Ever been tied down by the rate and quota limits of the free GEMINI API, or wished you could use amazing prompts from one AI tool with another? Well, now `Gemini-CLI-2-API` is here to set you free! It's not just an API proxy; it's an AI hub that gives you ultimate control.
 
-10. Ever wonder how **Anthropic**'s internal squad uses their very own **Claude Code**? This [Article](https://readhacker.news/s/6yqYZ) pulls back the curtain on their development workflow, from debugging to code assistance, showing exactly how they leverage AI tools to seriously level up their dev efficiency. Pretty cool, right? 😎
+One of our proudest core advantages is the ability to cleverly **bypass the official free API's rate limits** using Gemini CLI's OAuth authorization. Say goodbye to those annoying `rate limit exceeded` errors and enjoy more free, stable model calls! ⚡
 
-### **AI Product Spotlight: [GeminiCli2API](https://github.com/justlovemaki/Gemini-CLI-2-API)**
+But the real magic lies in the absolute control we give you over your prompts! This project lets you **centrally extract, forcibly replace, or cleverly append** any system prompts (System Prompt) sent to large language models from your server. What does this mean? You can set a golden rulebook for all connected tool clients or even achieve "soul-swapping" across different tools. Like this:
 
-Ever felt shackled by the rate limits and quotas on free GEMINI APIs, or wished you could use Tool A's killer prompts with Tool B? Well, `Gemini-CLI-2-API` is here to bust you out of those chains! It's not just an API proxy; it's your ultimate AI command center, giving you total control. 🚀
+> **Using Kilo Code Assistant in VSCode, with Cursor's god-tier prompts, to drive any top-tier large language model—why be Cursor when you can have its soul?** 🧠
 
-One of our biggest bragging rights is how `Gemini-CLI-2-API` smartly sidesteps those pesky official free API quota limits using Gemini CLI's OAuth authorization. Say goodbye to those annoying `rate limit exceeded` errors and hello to smoother, more stable model calls! 🎉
-
-But here's where the real magic happens: we give you **absolute control over your "prompts"**! 🪄 This project lets you centrally extract, force-replace, or cleverly add any system prompts sent to your large models right from the server. What's the big deal? It means you can set golden rules for all your connected tool clients, or even pull off a cross-tool "soul swap." Like this:
-
-> **Use Kilo Code Assistant in VSCode, slap on Cursor's god-tier prompts, and drive any top-tier large model – if you've got Cursor's soul, why even be Cursor itself?** 🤔
-
-By seamlessly converting all sorts of backend model interfaces into the standard OpenAI format, this project instantly supercharges any tool you already have. It's a breeze to deploy, totally plug-and-play. So go on, unleash the full power of your AI tools and kick off a truly free and super-efficient AI exploration journey! ✨
+By seamlessly converting various backend model interfaces into standard OpenAI formats, this project empowers any of your existing tools with such superpowers. It's simple to deploy and ready to use out-of-the-box. Come unleash the full potential of your AI tools and embark on a truly free and efficient AI exploration journey! 🚀
+```
 
 ---
 
 ## **Listen to the Audio Version of AI Daily**
 
-| **Xiaoyuzhou** | **Douyin** |
+| 🎙️ **Xiaoyuzhou FM** | 📹 **Douyin** |
 | --- | --- |
-| [Next Life Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Tavern](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Afterlife Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Creator Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Xiaoyuzhou FM](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Douyin Channel](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
