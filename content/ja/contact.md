@@ -4,24 +4,24 @@ type: page
 sidebar:
   exclude: true
 ---
-# 私に連絡してね！📞
+# 私に連絡してね！👋
 
-ご意見、ご提案、ご質問、コラボレーション、サポートが必要な場合は、**私に**お気軽にご連絡ください！大歓迎ですよ。
+何か質問があったり、協力したいことがあったり、手助けが必要だったりしますか？もしそうなら、ぜひ私に連絡してくださいね！あなたの意見や提案を聞かせてもらえると、とっても嬉しいです。
 
-**皆さんからいただいたメールには**、私が迅速に返信することを約束しますね！
+いただいたメールには、私からすぐにお返事させていただきますね。
 
 ---
 
-## **連絡先はこちら！💡**
+## 連絡先はこちら！📞
 
-*   **メールアドレス：**
+*   **メール (Email):**
     *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
 
-*   **個人のWeChat：**
+*   **個人のWeChat (Wechat):**
     *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="個人のWeChat" subtitle="ぜひ、お気軽に追加して話しかけてくださいね！" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
+        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="個人のWeChat" subtitle="気軽に話しかけてね！" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
         {{< /cards >}}
 
-*   **対応時間：**
-    *   月曜日から金曜日、午前9:00〜午後6:00 (GMT+8)
+*   **営業時間 (Office Hours):**
+    *   月曜日〜金曜日、午前 9:00 - 午後 6:00 (GMT+8)
     *   (週末と祝日はお休みです)
