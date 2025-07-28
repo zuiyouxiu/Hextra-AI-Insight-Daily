@@ -225,7 +225,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 {{- if .Site.Params.adsenseId -}}  
-<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{- .Site.Params.adsenseId | safeJS -}}" crossorigin="anonymous"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{- .Site.Params.adsenseId | safeJS -}}" crossorigin="anonymous"></script>
 {{- end -}} 
 
 {{- if .Site.Params.ahrefsKey -}}  
