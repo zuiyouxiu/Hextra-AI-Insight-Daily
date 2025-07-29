@@ -10,53 +10,44 @@ sidebar:
 
 ---
 
-Welcome to our website (which we'll call "the site" or "we" from now on)! Before you dive into using our services, please take a moment to read these Terms of Service. Seriously, by just visiting or using this site, you're essentially giving us a big thumbs up 👍 and agreeing to everything here.
+Welcome to this website (referred to as "**the Site**" or "**we/us**")! Before diving in, please carefully read these Terms of Service. By accessing or using the Site, you're signaling your agreement and acceptance of these terms.
 
-## 1. What We're All About
+## 1. Service Overview
+The Site offers users paid subscription content and member services. These goodies include, but aren't limited to, blog posts, exclusive resources, e-books, and community interactions. Heads up: some content is only accessible to our awesome subscribers!
 
-The Site provides users with paid subscription content and exclusive member services. We're talking about cool stuff like blog articles, unique resources, e-books, and even community interaction, just to name a few. Keep in mind, some of these goodies are only accessible to our awesome subscribers! ✨
+## 2. User Registration & Accounts
+*   Users need to provide a valid email address and set up a password to register for an account.
+*   Users are fully responsible for their account's security and all activities under it. Seriously, **no** transferring or sharing your account – it's a no-go!
+*   The Site reserves the right to **suspend or terminate** a user's account if they violate these terms. Play by the rules, folks!
 
-## 2. Your Account, Your Responsibility
+## 3. Paid Subscription Services
+*   Subscription services are billed on a monthly/annual basis. All fees will be clearly displayed on the checkout page – no surprises here!
+*   All payments are processed through third-party payment platforms (like Stripe, PayPal). Rest assured, the Site doesn't store any of your payment info.
+*   Subscriptions will **automatically renew**, so make sure to cancel before your current billing cycle ends if you want to stop.
+*   Refunds are generally **not issued** after payment, unless legally required or explicitly stated otherwise in a specific promotion. Just a heads up!
 
-*   To create an account, you'll need to provide a valid email address and set up a password. Easy peasy! 📧
-*   You are responsible for the security of your account and all activities that happen on it. And listen up: transferring or sharing your account is a big no-no. Seriously, don't do it! 🙅‍♀️
-*   The Site has the right to suspend or terminate your account if you violate these terms. So, play by the rules! 😉
+## 4. Content Usage & Intellectual Property
+*   All original content is **copyrighted by the Site**. Don't copy, reproduce, or use it for commercial purposes without permission – that's a big no-no!
+*   Users only get a **non-exclusive, non-transferable access right** to the content, strictly for personal learning and reading. It's for you, not for resale!
+*   For any commercial use or extensive quotation, please reach out to the Site to get proper authorization. Let's talk!
 
-## 3. Paid Subscription Perks
+## 5. User Conduct Guidelines
+*   It is **forbidden** to upload, post, or spread any content that's illegal, harassing, false, offensive, or violates others' rights. Keep it clean, people!
+*   It is also **forbidden** to mass download, scrape, or crack member content using technical means. Seriously, don't try to sneak around!
+*   The Site has the right to remove inappropriate content and **ban violating users**. We're not messing around here!
 
-*   Subscription services are billed on a monthly/annual basis. Don't worry, the fees will be clearly shown on the checkout page before you commit. Transparency is key! 💰
-*   All payments are processed through third-party payment platforms like Stripe or PayPal. Super important: we don't store your payment information on our site. Your security is our priority! 🛡️
-*   Subscriptions will automatically renew. So, if you don't want to keep the good times rolling, make sure to cancel before your current billing cycle ends. You're in control! 🔄
-*   Refunds? Generally, once you've paid, there are no refunds, unless legally required or specifically mentioned in a special promotion. Just a heads up! 💸
+## 6. Service Changes & Interruptions
+*   We reserve the right to change, suspend, or terminate part or all of our services at any time, without prior notice. Just so you know!
+*   The Site **will not be liable for compensation** if content is temporarily inaccessible due to force majeure, server failures, or third-party service interruptions. Stuff happens, right?
 
-## 4. Content & IP: What's Yours, What's Ours
+## 7. Disclaimer
+*   The information provided by the Site is for general reference only and **does not constitute** any professional advice (like financial, legal, or medical advice). We're not pros in those fields!
+*   The Site **is not liable** for any direct or indirect losses users incur from using the Site's content or services. Use at your own risk!
 
-*   All original content's copyright belongs to this site. That means you can't copy, reproduce, or use it for commercial purposes without our express permission. Keep it cool! 🚫
-*   Users only get a non-exclusive, non-transferable right to access the content. This is just for your personal learning and reading enjoyment, okay? Happy reading! 🤓
-*   For any commercial use or if you want to quote extensively, please reach out to us for authorization first. We're usually pretty chill about it, just ask! 🙏
+## 8. Governing Law
+*   These Terms of Service are governed by and interpreted in accordance with the laws of the State of California, USA, without regard to its conflict of law principles. Keepin' it legal!
+*   Any disputes arising from or related to these terms should first be resolved by friendly negotiation between the parties. If talks don't work out, you agree to submit to the jurisdiction of the courts located in Santa Clara County, California. Let's try to be friends first, though!
 
-## 5. Play Nice! User Conduct Rules
-
-*   It's a big no-no to upload, post, or spread any content that's illegal, harassing, false, offensive, or infringes on others' rights. Let's keep things positive and respectful! 💖
-*   And seriously, no bulk downloading, crawling, or cracking our member content using technical means. That's just not cool. 🛑
-*   The Site has the right to remove inappropriate content and ban users who break the rules. We're all about good vibes here! ✨
-
-## 6. Service Changes & Interruptions (Life Happens!)
-
-*   We reserve the right to change, suspend, or terminate any part or all of our services at any time, without prior notice. Think of it as evolving! 🚀
-*   The Site won't be held responsible for compensation if content is temporarily unavailable due to force majeure, server failures, or third-party service interruptions. Sometimes things are just out of our hands, ya know? 🤷‍♀️
-
-## 7. Disclaimer: No Kidding, We're Not Pros (Unless We Are 😉)
-
-*   The information provided on this site is purely for your reference. It doesn't constitute any professional advice—like financial, legal, or medical. Always double-check with the pros! 👩‍⚖️👨‍⚕️
-*   The Site is totally not responsible for any direct or indirect losses users might incur from using our content or services. Just keeping it real! 💯
-
-## 8. The Legal Stuff (Where We Stand)
-
-*   These Terms of Service are governed by and interpreted in accordance with the laws of California, USA, without regard to its conflict of law principles. So, California rules! 🌴
-*   Any dispute arising from or related to these terms? First off, let's try to hash it out amicably. If that doesn't work, you agree to submit it to the competent courts located in Santa Clara County, California. Let's keep it civil, folks! ⚖️
-
-## 9. Wanna Chat? Contact Us!
-
-*   Got any questions about these terms? Don't hesitate! Just hit us up using the deets below: 👇
+## 9. Contact Us
+*   If you have any questions about these terms, feel free to reach out to us via the following methods:
 *   📧 **Email**: [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
