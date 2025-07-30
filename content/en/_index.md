@@ -2,100 +2,118 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-07/2025-07-29
+next: /en/2025-07/2025-07-30
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2025/7/30
+## AI News Daily 2025/7/31
 
-> `AI Daily` | `8 AM Update` | `Aggregated Web Data` | `Cutting-Edge Science Exploration` | `Industry Voices` | `Open Source Innovation` | `AI & Humanity's Future` | [Access Web Version ↗️](https://ai.hubtoday.app/)
+> `AI Daily Report` | `Morning 8 AM Updates` | `Web Data Aggregation` | `Frontier Scientific Exploration` | `Industry Voices` | `Open Source Innovation Power` | `AI and Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/)
 
-### Today's Rundown
+### **Today's Summary**
 
 ```
-Microsoft Edge browser integrates AI, marking its evolution towards an intelligent productivity platform.
-Medical AI aces physician exams, while embodied AI and smart cockpit tech also see new advancements.
-Companies like StepAhead are pushing deep software-hardware integration via the "Model-Chip Harmony" alliance.
-The industry faces challenges: AI service quotas, stricter content regulation, and data supply chain poisoning.
-Plus, AI's bio and cybersecurity risks, along with sustainability crises, are raising alarms.
+ChatGPT launches guided learning mode; Google NotebookLM can generate videos from notes.
+Alibaba releases efficient open-source model Qwen3-30B; AMD processors support large model local execution.
+Competition in AI video generation intensifies; Chinese large models excel on open-source community leaderboards.
+Zhipu AI's low-price strategy accelerates token commoditization; AI-assisted programming also brings new challenges.
+Frontier research explores AI motion understanding and stronger reasoning frameworks, pushing AI from imitation towards deep cognition.
 ```
 
 ### AI Product & Feature Updates
 
-1.  Microsoft is performing an ambitious "AI heart transplant" on its Edge browser, officially launching the revolutionary **Copilot Mode**. This isn't just a new feature; it's transforming your passive browser into an intelligent sidekick that can anticipate your thoughts. Its killer features, **Multi-Tab RAG** and "Eagle Eye" **Copilot Vision**, signal the browser's evolution from a mere information portal to an AI productivity platform. This significant shift is a key highlight in this edition of **AI News**.
-    <br/>![AI News: Browser AI-ification](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1bfg087ferv0mbc6ev06ds7.avif)<br/>
+1.  **OpenAI** has rolled out "**Study Mode**" for **ChatGPT**. This powerful feature, now fully accessible to free users, transforms AI from a direct answer-giving "straight-A student" into a patient, guiding tutor, making personalized education readily available. Dramatically, its complete [AI News: System Prompt Quickly Cracked by Netizens](https://baoyu.io/blog/chatgpt-study-mode-prompt) has been swiftly deciphered by netizens, offering a glimpse into the secrets of AI's "teaching according to aptitude." ✨
+    <br/>![AI News: AI Tutor Mode](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e36y7bfmk8h4amvj78pbsv.avif)<br/>
 
-2.  Anthropic just dropped a bombshell, signaling the possible end of the AI world's 'all-you-can-eat buffet'! The company suddenly slapped a weekly usage cap on its coding wizard, **Claude Code**, for paying users. 🚨 Even though they claim the impact is minimal, this 'act first, explain later' communication style has understandably ignited community outrage. This serves as a stark warning, highlighting the tricky balance AI services must strike between commercial realities and user trust – a persistent industry challenge that **AI News** continues to track.
-    <br/>![AI News: AI Service Quotas](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1bfg2wxf2kvtfgf14b2efs6.avif)<br/>
+2.  **Google's** AI note-taking app, **NotebookLM**, now features a "**Video Overview**" function – it's practically a study tool for the lazy! Once users upload their materials, the AI automatically generates short videos with narration, transforming complex concepts into vibrant audiovisual feasts. While currently English-only, [Google Has Promised Future Multilingual Support](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/video/2025/0730/6388946325488003752511802.mp4), making the learning revolution brought by AI something to look forward to.
+    <br/> </video>
 
-3.  Yishengjiankang (壹生检康) and DingTalk (钉钉) teamed up to create the "**Doukou Gynecology Large Model**," and guess what? This AI isn't just composing poems or painting masterpieces anymore – it's acing medical licensing exams like a certified genius! 🤯 The model crushed the national physician's exam with a high score, proving AI's massive potential in the **vertical medical field**. It also really underscores the powerful capability of platforms like **DingTalk** to empower various industries. This development is a prime example of real-world AI application that **AI News** is keeping a close eye on.
+3.  The **Alibaba Tongyi Qianwen** team has pulled off a "four ounces against a thousand pounds" feat, releasing their latest open-source model, **Qwen3-30B-A3B-Instruct-2507**. This model, activating only **3 billion** parameters, can challenge closed-source giants like **GPT-4o** in core capabilities such as mathematics and code. This achievement paves a new path for low-cost deployment of AI applications, and the model is already [Fully Open-Sourced on ModelScope and HuggingFace - AI News](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0730/2025073009361792310.jpg).
+    <br/>![AI News: Alibaba's New Model](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e3729je1r8vqzb6qt5bqxw.avif)<br/>
+
+4.  **Xiaomi Auto**, while pushing out its **end-to-end assisted driving** system update, promptly issued a "reality check." The official statement solemnly emphasized that assisted driving, at this stage, is absolutely not autonomous driving, and technological advancements cannot replace human vigilance. This declaration reminds all car owners to remain focused and responsible for safety at all times, which is precisely the industry responsibility focus of this **AI News** edition.
+    <br/>![AI News: Xiaomi Safety Reminder](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e3756efnesg2nhsey0wvae.avif)<br/>
 
 ### AI Frontier Research
 
-1.  Mech-Mind, a domestic company, has unveiled a game-changing answer to the future of embodied AI: a universal "**eye-brain-hand**" tech suite. This full-stack solution frees robots from their one-track minds, allowing them to grasp vague instructions and even handle delicate fabrics – it's like they've gained superpowers! 🦾 We're talking about adaptable, all-purpose machines, not just clumsy custom bots, and this signals the arrival of an era where robots can truly get things done. This trend is exactly what **AI News** is diving deep into.
-    <br/>![AI News: Robot Eye-Brain-Hand](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1bfg69sf71arbw6xd32p994.avif)<br/>
+1.  A new research paper, titled [MOVE: Motion-Guided Few-Shot Video Object Segmentation](https://arxiv.org/abs/2507.22061), has unveiled a major blind spot in AI vision. Researchers created the **MOVE** dataset specifically to test AI's ability to identify objects based on their motion patterns, revealing that top models generally performed poorly. This study exposes AI's "dynamic visual agnosia" and points to a new direction for future research, a technical frontier continuously tracked by **AI News**.
 
-2.  Banma Zhixing (斑马智行), Alibaba's smart mobility arm, is making waves as large models jump into the driver's seat, intensifying the smart cockpit battle royale. Leveraging its **Yuanshen AI** large model in collaboration with **Tongyi Large Model** and Qualcomm chips, Banma Zhixing has essentially given cars a "mind of their own." 💡 Your vehicle isn't just following orders anymore; it's becoming a thoughtful companion that can sense your fatigue and entertain you. This marks the evolution of [Smart Cockpit - AI News](https://www.jiqizhixin.com/articles/2025-07-29-9) into a truly empathetic robot, a human-car interaction revolution every **AI News** reader should be tracking.
-    <br/>![AI News: Smart Car Cockpit](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1bfg9bde99vv2rpjkn2gzs7.avif)<br/>
+2.  The **JAX** framework is becoming the crucial "adhesive" connecting AI and robot control, making it no longer a sci-fi plot. Google developers revealed that JAX cleverly links traditional **model control** theory with cutting-edge **deep learning** techniques, enabling efficient optimal control. This signals the dawn of a new era where future robots will possess stronger autonomous decision-making capabilities. [Learn How JAX Empowers Robots with Intelligence - AI News](https://developers.googleblog.com/en/a-roboticis…).
 
-3.  StepAhead (阶跃星辰) just shook up the open-source model battlefield, unleashing its next-gen large model, **Step 3**, with a mind-blowing 3x boost in decoding efficiency and explosive performance! But the bigger play is its move to team up with Huawei Ascend and nearly 10 other chip manufacturers to form the "**Model-Chip Ecosystem Innovation Alliance**," firing the first shot in "Model-Chip Harmony." 💥 This fresh paradigm of hardware-software co-optimization could very well be the [Crucial Step - AI News](https://www.jiqizhixin.com/articles/2025-07-29-3) that propels the AI industry forward, and this edition of **AI News** sees it as a sign of deep supply chain integration.
+3.  **Graph-R1**, a new paradigm in Retrieval-Augmented Generation (RAG), cleverly integrates three major technologies: **agents**, **graph RAG**, and **reinforcement learning**. This triune architecture indicates that RAG technology is poised to move from mere information retrieval to deeper levels of reasoning and decision-making, offering more powerful [New Ideas (AI News)](https://x.com/omarsar0/status/1950560017863831903) for solving complex problems.
+    <br/>![AI News: Graph-R1 Architecture](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e378mkf0q9v8bazk2b12kb.avif)<br/>
 
 ### AI Industry Outlook & Social Impact
 
-1.  The Cyberspace Administration of China (CAC) is finally taking a sword to the internet's 'dermatitis' problem! They've launched a special campaign to crack down on self-media's **malicious hype-chasing** and **data fabrication**. ⚔️ The initiative also demands platforms optimize identifiers for **AI-generated content**, ensuring machine creations have nowhere to hide and leaving room for authenticity and professionalism. This regulatory shift is a must-watch **AI News** item for all content creators and platforms.
+1.  **AMD** is making running billion-parameter models locally a reality, transforming PCs into AI workstations! Its **Ryzen AI Max+ 395** processor now supports running massive models with up to **128 billion** parameters directly on your machine. 🤯 Thanks to its unique **Mixture of Experts (MoE)** mode, expensive server tasks can now be achieved on a mini PC, significantly lowering the [Barrier for High-End AI Applications - AI News](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/2025/0730/2025073014315619710.jpg).
+    <br/>![AI News: AMD Ryzen AI](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e37c80e3fabfw5ktsfbp90.avif)<br/>
 
-2.  The Shanghai WAIC Conference just delivered a mind-blowing report card: a whopping **45 billion yuan in total investment** and over 2.3 billion in traffic, making it a truly phenomenal event! 🚀 This wasn't just a tech carnival; it was China's [AI News: Declaration](https://mp.weixin.qq.com/s/Rg-x9RugA7p59LdzarQBdC) to the world, showcasing its AI ambitions and sincerity for cooperation. The "Intelligent Era, Global Solidarity" vision outlined at the conference is a historic footnote documented by **AI News**.
-    <br/>![AI News: WAIC Grand Event](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1bfgbnnezb879q4kkk1t4hr.avif)<br/>
+2.  **Zhipu AI's** low-price strategy, offering "one trillion tokens for just 50 yuan," has one developer exclaiming, "I've never fought a war with such abundant resources!" This [Anecdote (AI News)](https://x.com/oran_ge/status/1950337303156506998) vividly reflects the fierce "price war" in the AI model market, where giants are pushing costs to their limits. While this is great news for developers, it also signals a brutal industry shake-up ahead.
+    <br/>![AI News: Developer's Exclamation](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e37j4mecavcjm7rm1yfj35.avif)<br/>
 
-3.  The "AI Paradox" presents a fascinating conundrum: AI summaries let us gobble up news essentials without a single click – sweet! 🤔 But what if the original content sources, starved of traffic, go belly-up? Where will AI get its grub in the future? This ["AI Eating Its Own Tail" - AI News](https://www.reddit.com/r/artificial/comments/1mc96ml/what_happens_when_media_outlets_stop_producing/) scenario starkly reveals the sustainability crisis looming over the AI ecosystem, and it's precisely the kind of thought-provoking issue this edition of **AI News** wants to spark.
+3.  **HuggingFace's** authoritative ranking recently saw a "leaderboard massacre," with nine out of the top ten models hailing from China! 🏆 This overwhelming dominance has sparked widespread discussion within the community, showcasing China's concentrated AI technological prowess and signaling its rapid [Influence in the Open-Source AI Ecosystem is Rapidly Rising - AI News](https://x.com/oran_ge/status/1950501906448892274) globally.
 
-4.  Sam Altman, OpenAI's CEO, is once again playing the whistleblower, directly stating that the world isn't paying enough attention to AI's **biological and cybersecurity risks**. 🚨 He warned that "warning lights are flashing," reminding us not to get so caught up in the tech frenzy that we forget to rein in this wild horse. Establishing global safeguards is an urgent agenda for all of humanity, and it remains a constant focus for **AI News**."
+4.  A Reddit user poses a thought-provoking [Viewpoint (AI News)](https://www.reddit.com/r/artificial/comments/1md7uu9/what_would_happen_if_ais_start_reverse/): When AI begins "reverse-engineering" humans, what should we be wary of? AI deconstructing our thoughts and emotions might not be for imitation, but for surpassing us. This reminds us that the ultimate question of AI development could be the philosophical challenge of coexisting with a potentially superior intelligence. 🤔
 
-5.  A famous hacker just dropped a bombshell: the AI world's security lines might have a fatal back door! This individual claims to have planted self-propagating "digital landmines" in AI training data. 💣 This is basically poisoning AI's "brain food," potentially leading to a collective system meltdown when they detonate in the future. This incident exposes the fragility of the AI **data supply chain** and paints a terrifying picture of [AI News: New Cyberattack Landscape](https://www.reddit.com/r/artificial/comments/1mc7ikk/famous_jailbreaker_poisoned_the_global_ai/), something every **AI News** professional should be wary of.
-    <br/>![AI News: AI Data Poisoning](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1bfgdhtefxrfj5edh671kts.avif)<br/>
+5.  AI-assisted programming: Is it a sweet blessing or a bitter pill? One developer contributed over **20,000 lines** of "Vibe Coding" to an open-source project, yet left project maintainers in an [Amusingly Frustrating Situation](https://x.com/dotey/status/1950436035248177586) 😂. This interesting case reveals new challenges that AI-assisted development brings in terms of collaboration and code quality control, a key focus for **AI News**.
+    <br/>![AI News: AI Code Merge Challenge](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e37q8ffan9vmsqvab5s6rm.avif)<br/>
 
 ### Open Source TOP Projects
 
-1.  Microsoft's [AI News: **PowerToys**](https://github.com/microsoft/PowerToys), boasting over 121,000 Stars, is truly the ultimate productivity booster for Windows users. It's like an officially certified "cheat code toolbox," equipping your system with all sorts of superpowers and sending your productivity soaring! 🚀 This robust tool ecosystem is a must-have that **AI News** recommends for every efficiency seeker out there.
+1.  **Alibaba Tongyi Lab's** open-source [WebAgent - AI News](https://github.com/Alibaba-NLP/WebAgent) project acts like a super-powered intelligent web surfer. It can autonomously search for information and execute tasks on the internet, sketching out the blueprint for the next generation of intelligent search.
+    <br/>![AI News: WebAgent Project](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e382n9eaz9ydqgvexjxpbd.avif)<br/>
 
-2.  Tired of slogging through endless command-line manuals? The [**tldr** - AI News](https://github.com/tldr-pages/tldr) project, with its 57,000+ Stars, is your absolute savior! ✨ It condenses complex commands into "lazy person's guide" cheat sheets, letting you pour your precious time into creating instead of memorizing. This 'simplify the complex' approach also offers a fresh perspective for how we interpret **AI News**.
+2.  The **Outline** project, boasting over **33k** stars on GitHub, is dedicated to becoming "the fastest knowledge base for growing teams." Still struggling with team knowledge management? This project offers a beautiful interface and supports real-time collaboration, making it an ideal choice for building your team's knowledge system; its developments are a key focus for **AI News**.
 
-3.  [AI News: **copyparty**](https://github.com/9001/copyparty) is a portable file server with over 9,200 Stars, and its features are outrageously powerful. It bundles multiple protocols into a single file, requiring zero dependencies – seriously, it's the Swiss Army knife of the digital world! This epitome of engineering elegance embodies the hacker spirit that **AI News** loves to celebrate in its reports.
+3.  **Focalboard**, with over **24k** stars, is definitely worth checking out if you're looking for a self-hostable project management tool. It perfectly replicates the core functionalities of Trello and Notion, allowing you to keep your project data firmly in your own hands and achieve true "data freedom."
 
-4.  Want to dabble in P2P networks but get scared off by complex configurations? The [**iroh** - AI News](https://github.com/n0-computer/iroh) project, with over 6,100 Stars, offers a one-click solution. It makes peer-to-peer networking simpler than ever, allowing developers to focus on the application itself. This innovation, which lowers technical barriers, is a major focus for **AI News**."
+4.  The **Prompt-Optimizer**, an open-source project with over **11k** stars, is your private optimization master when it comes to writing high-quality prompts—a key to harnessing large models. It helps you refine your prompts, enabling AI to better understand your intent and generate more stunning results. [Prompt-Optimizer - AI News](https://github.com/linshenkx/prompt-optimizer).
 
-5.  Eino, launched by ByteDance's CloudWeGo team, is the ultimate LLM/AI application development framework tailor-made for the Go language. It's quickly becoming the go-to ticket for Go developers looking to enter the new AI world, having already garnered attention from over 5,500 developers. This showcases the contributions of major domestic tech giants in the open-source realm, a trend **AI News** is thrilled to witness.
+5.  **LMCache**, addressing slow inference speeds in large models, offers an ultra-fast **KV cache layer** to resolve performance bottlenecks. It acts like a "turbocharger," significantly boosting the response speed of LLM applications and enhancing user experience. Why not give [LMCache - AI News](https://github.com/LMCache/LMCache) a try if your large model inference is slow?
 
-### Social Media Buzz
+### Social Media Shares
 
-1.  Just how big is the AI craze? Take a look at Shanghai's traffic, and you'll know! 🔥 A netizen shared their WAIC conference experience: "Traffic was bumper-to-bumper all the way into the tunnel, flyers were snatched up instantly," and even tickets were impossible to get. This phenomenal scene vividly demonstrates the [Public's Huge Enthusiasm for AI - AI News](https://x.com/oran_ge/status/1950051570659324260) and the industry's booming pulse – this very fervor is what drives **AI News**.
-    <br/>![AI News: WAIC Crowds Surging](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1bfgh7ze26t2y2y3gz743p3.avif)<br/>
-    <br/>![AI News: WAIC Scene Buzzing](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1bfgm9ee1zve6wv0ck212gh.avif)<br/>
+1.  **Kling**, Kuaishou's video generation model, has received a major upgrade, with results described as "wild"! 🔥 User shares show the new version has made qualitative leaps in **facial clarity**, **lighting**, and **motion fluidity**. This marks another evolution in productivity tools for content creators, strongly recommended in this **AI News** edition.
+    <br/> <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e386n8fpma1rt94gjpk9fk.mp4" controls="controls" width="100%"></video>
 
-2.  Trickle, an AI programming tool, is absolutely conquering developers with its "god-tier interaction," earning accolades as the "ceiling of interactivity." ✨ Its ingenious canvas-based design perfectly blends aesthetics with practicality, reaching a level that makes users [Captivating at First Glance, Ready to Pay - AI News](https://x.com/vista8/status/1950113810716733491). This exceptional product power sets a new benchmark for the entire industry and is precisely the kind of inspiration **AI News** loves to share.
-    <br/>![AI News: Trickle Tool Interface](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1bfgpqnfrvbd0hcqbr49fbd.avif)<br/>
+2.  **Runway's** latest model, **Aleph**, a video editing tool, is now available to some users, and judging from the first batch of leaked [Experience Videos - AI News](https://x.com/op7418/status/1950401823468335213), its effects are "ridiculously powerful." It seems Runway wasn't exaggerating this time; Aleph's performance might just set a new industry benchmark again.
+    <br/> <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e39chffkvsxcp9y2ge21z3.mp4" controls="controls" width="100%"></video>
+
+3.  **AI programming**: Can you truly "code as you think"? One blogger shared the ultimate solution for "**Vibe Coding**" using **Trickle AI**. This [AI News: Mega-Resource](https://weibo.com/6182606334/PDvTtcWTQ) meticulously breaks down how to build a fully functional information aggregation website in just one afternoon and for only $6.
+
+4.  Clear planning is the core secret to effective AI coding. Want AI to help you write code efficiently? Before letting AI start, take the time to write clear **requirement specifications (spec)** and provide rich context. Remember, [Clear Planning - AI News](https://x.com/shao__meng/status/1950460935484956965) is key to efficient collaboration; AI is your co-pilot, not the autonomous driver.
+    <br/>![AI News: AI Programming Planning](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e3a1f7e4vvrspx6sg6wyxc.avif)<br/>
+
+5.  Role-playing prompts like "You are an XX expert" actually work, and it's quite scientific! This isn't mysticism but an effective **probabilistic guidance**, instructing AI to prioritize retrieving "high-quality" information relevant to that role. So, [next time you write a prompt, don't forget to give your AI a clear role - AI News](https://x.com/dotey/status/1950403266849771848).
+
+6.  **Trickle AI's** system prompt, following OpenAI's, has also been unearthed, sparking heated discussion over its "tool-driven, mandatory execution" design philosophy. Is this "no-nonsense" [Execution Style - AI News](https://x.com/vista8/status/1950431463314509914) the future form of AI Agents, or does it stray from the original intention of "intelligence"?
+    <br/> <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k1e3abtafea80wjcdz5dhfbw.mp4" controls="controls" width="100%"></video>
+
+7.  The "copy first, then surpass" methodology is a simple yet extremely effective approach if your content isn't gaining traction. Start by replicating viral content from top creators, and once your fundamentals are solid, delve into user needs for secondary creation, gradually building your own style. This [Practical Guide - AI News](https://x.com/Yangyixxxx/status/1950523164070736299) points content creators toward a clear path for advancement.
+
+8.  Building truly "reliable" AI agents: How is it done? A seasoned developer posed this soul-searching question on Reddit, exposing the vast chasm between tutorials and the real world. This [Post - AI News](https://www.reddit.com/r/artificial/comments/1mcyizl/how_is_everyone_else_building_agents/) calls upon the community for "secret tips" not found in tutorials, sparking a deep discussion on how to build highly reliable AI.
 
 ## **AI Product Spotlight: [GeminiCli2API ↗️](https://github.com/justlovemaki/Gemini-CLI-2-API)**
 
-Tired of bouncing between AI models and being tied down by annoying API rate limits? Well, you've just found your ultimate solution! ✨ **Gemini-CLI-2-API** isn't just your average API proxy; it's a magic box that can transform tools like Gemini CLI and Kiro client into powerful OpenAI-compatible APIs, turning them into pure gold.
+**Gemini-CLI-2-API** is your ultimate solution if you're tired of switching between various AI models and being shackled by annoying API rate limits! 🎉 This isn't just an ordinary API proxy; it's a magic box that transforms tools like Gemini CLI and Kiro client into powerful OpenAI-compatible APIs.
 
-The core magic of this project lies in its 'reverse thinking' and powerful features:
+This project's core appeal lies in its "reverse thinking" and powerful features:
 
-🔓 **Client-to-API Transformation: Unlocking New Possibilities**: We've cleverly leveraged Gemini CLI's OAuth login to let you effortlessly **bypass official free API rate limits and quotas**. Even more exciting, by encapsulating Kiro client's interfaces, we've successfully **unlocked its API, allowing you to seamlessly call the powerful Claude model for free**! This provides an **"economical and practical solution for programming development using free Claude API plus Claude Code."**
+✨ **Transforming clients into APIs to unlock new possibilities**: We ingeniously leverage Gemini CLI's OAuth login, allowing you to easily bypass the rate and quota limits of official free APIs. Even more excitingly, by encapsulating Kiro client's interfaces, we've successfully "cracked" its API, enabling you to smoothly call the powerful Claude model for free! This provides you with an "economical and practical solution for programming development using free Claude API plus Claude Code."
 
-🔧 **System Prompt Control: You're in Charge**: Want your AI to be more obedient? We've got you covered with powerful System Prompt management. You can easily **extract, overwrite, or append** any request's system prompt, finely tuning AI behavior on the server side without even touching your client code.
+🔧 **System Prompts, under your control**: Want to make AI more obedient? We offer powerful System Prompt management functionality. You can easily **extract, overwrite, or append** system prompts in any request, finely tuning AI's behavior on the server side without modifying client code.
 
-💡 **Top-Tier Experience, Budget-Friendly Cost**: Just imagine using Kilo code assistant in your editor, supercharging it with Cursor's efficient prompts, and then pairing it with any top-tier large model – who needs Cursor when you have this? This project empowers you to combine these tools for a development experience rivaling paid solutions, all at an incredibly low cost. Plus, with support for MCP protocol and multimodal inputs like images and documents, your creativity is truly unleashed.
+💡 **Top-tier experience, budget-friendly cost**: Imagine using the Kilo code assistant in your editor, coupled with Cursor's efficient prompts, and then pairing them with any top-tier large model—why use Cursor when you have this? This project enables you to combine a development experience comparable to paid tools at an extremely low cost. It also supports MCP protocol and multimodal inputs like images and documents, ensuring your creativity is never limited.
 
-Say goodbye to tedious configurations and hefty bills, and embrace this new AI development paradigm that's free, powerful, and flexible!
+Say goodbye to cumbersome configurations and hefty bills, and embrace this new AI development paradigm that's free, powerful, and flexible!
 
 ---
 
-## **Tune into the Voice Version of AI Daily**
+## **Listen to the AI Daily Voice Version**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+| 🎙️ **Rebirth Tavern** | 📹 **Douyin** |
 | --- | --- |
-| [Reborn Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Tavern](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Rebirth Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Rebirth Tavern](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Hub](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |

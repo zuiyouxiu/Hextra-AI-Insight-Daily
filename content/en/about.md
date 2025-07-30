@@ -4,25 +4,20 @@ type: about
 sidebar:
   exclude: true
 ---
-#### He Xi 2077 / justlovemaki
+#### Hey there! I'm Hexi 2077 / justlovemaki
 
-> A decade of code, fingers chill,
-> Unspoken struggles, lingering still.
-> Then, the AI storm, a sudden surge,
-> To conquer the clouds, I emerge.
+> My tech journey? It's been a wild ride! After a decade of coding with chilled fingertips and simmering ambitions, I finally heard the thunderous roar of AI. Now, I'm absolutely stoked to skyrocket and conquer new frontiers! 🚀
 
-#### 💡 My Code Philosophy
+#### My Code Vibe 🚀
 
-> Technology serves the people.
+> My code philosophy is super simple: Tech for the people, always! 🤝
 
-#### 🌟 Showcase
+#### My Top Projects ✨
 
-*   **[Open Source Project/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   Whip up AI images with this script, powered by Cloudflare Worker!
-*   **[Open Source Project/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   Cloudflare-AI-Insight-Daily: This platform, powered by Cloudflare Workers, is your daily go-to for all things AI. It aggregates and generates content, curating the latest in industry news, trending open-source projects, cutting-edge academic papers, and insights from top tech influencers.
-*   Want to see more? You can find all the juicy project details on my [GitHub](https://github.com/justlovemaki).
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: This bad boy is an AI image generation script, all built on Cloudflare Workers.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This platform is a content aggregation and generation powerhouse, powered by Cloudflare Workers. Every single day, CloudFlare-AI-Insight-Daily pulls together the freshest AI developments just for you! We're talking industry news, popular open-source projects, cutting-edge academic papers, and even insights from the biggest tech influencers on social media. 🧠
+*   Wanna dive deeper into my projects? My [GitHub](https://github.com/justlovemaki) is packed with all the juicy details!
 
-#### 🌊 My Current Deep Dives
+#### What I'm Cooking Up Now 🌱
 
-LLM applications and website SEO? Yeah, I'm totally hooked on those right now! I'm actively diving deep into learning and getting my hands dirty with practice.
+> What's got me totally hooked right now? LLM applications and website SEO! I'm fully immersed, learning and getting my hands dirty with real-world practice. Let's build some cool stuff! 💡
