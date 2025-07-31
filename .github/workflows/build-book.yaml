@@ -177,7 +177,7 @@ jobs:
                 echo "创建了月度索引: $TARGET_MONTH_DIR/_index.md"
               fi
 
-              weight=$((31 - DAY_NO_ZERO))
+              weight=$((32 - DAY_NO_ZERO))
               
               local_description=""
               if grep -q "AI内容摘要" "$source_file"; then
