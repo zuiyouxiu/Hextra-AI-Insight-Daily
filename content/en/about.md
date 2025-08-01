@@ -6,23 +6,23 @@ sidebar:
 ---
 #### He Xi 2077 / justlovemaki
 
-> A decade of code, fingertips now cold,
-> A heart full of woes, stories untold.
-> But hearing the AI storm, a thunderous call,
-> I vow to conquer the clouds, and give it my all!
+> A decade of code, fingertips growing cold,
+> Unresolved burdens weigh heavy in my soul.
+> But then I heard AI's thunderous roar,
+> Now I'm geared to fight, aiming for something more!
 
 #### My Code Philosophy
 
-> Technology for the people! 🤝
+> Tech for the People
 
-#### My Featured Work
+#### Featured Projects ✨
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This project is an AI image generation script, built on Cloudflare Workers.
-*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   Cloudflare AI Insight Daily is a content aggregation and generation platform, powered by Cloudflare Workers. Every day, it curates the latest happenings in the AI sphere for you, covering industry news, hot open-source projects, bleeding-edge academic papers, and even insights from big-shot tech influencers.
-*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
+    *   This AI image generation script? It's powered by Cloudflare Workers.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   This content aggregation and generation platform? It's powered by Cloudflare Workers! It daily curates the latest AI trends for you, including industry news, hot open-source projects, cutting-edge academic papers, and even social media buzz from top tech influencers.
+*   Wanna dive deeper? You can find even more project details on my [GitHub](https://github.com/justlovemaki).
 
-#### What I'm Exploring Now
+#### What I'm Digging Into 💡
 
-Currently, my exploration is deeply focused on LLM applications and website SEO. I'm diving headfirst into learning and practicing these fascinating areas with intense interest. 🚀💡
+I'm currently super fascinated by LLM applications and website SEO, actively diving deep into learning and hands-on practice.
