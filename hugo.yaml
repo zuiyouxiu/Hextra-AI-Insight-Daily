@@ -45,7 +45,7 @@ menu:
       weight: 1
     - identifier: about      
       name: 关于我 ↗
-      pageRef: /about
+      url: "https://github.com/justlovemaki"
       weight: 2
     - identifier: github   
       name: 同性交友
