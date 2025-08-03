@@ -2,204 +2,224 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-08/2025-08-02
+next: /en/2025-08/2025-08-03
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2025/8/3
+## AI News Daily 2025/8/4
 
-> **AI News Daily** | Updated 8 AM | Aggregating Data Across the Web | Exploring Cutting-Edge Science | Industry Open Forum | Open Source Innovation Power | AI and the Future of Humanity | [Visit Web Version ↗️](https://ai.hubtoday.app/)
+> AI Daily | 8 AM Update | All-Network Data Aggregation | Frontier Science Exploration | Industry Voice | Open Source Innovation Power | AI and Human Future | [Visit Web Version ↗️](https://ai.hubtoday.app/)
 
-### **Today's Summary**
+### Today's Rundown
 
 ```
-Li Auto launched its new VLA assisted driving system, introducing the "Driver Large Model" concept to enhance driving safety and fluidity.
-Video tool Runway released its Aleph model, allowing users to edit videos with natural language instructions, greatly lowering post-production barriers.
-Frontier research explores using generative models to restore images in severe weather, and leveraging "Personal Vector" technology to create more empathetic AI.
-Rumors about GPT-5's performance are rampant, while OpenAI faces internal management challenges and fierce talent competition from Meta and others.
-Anthropic terminated OpenAI's access to its API, coupled with the relative failure of Llama 4, highlighting the dramatic shifts in the AI industry's competitive landscape.
+Grok Imagine, launched by Musk, can generate images and videos with a single click, igniting a viral spread on social media.
+The EU released the "General AI Practice Guidelines," providing voluntary guidance for the upcoming AI Act, drawing attention from tech giants.
+AI is severely compressing business competition cycles, shrinking the previous eighteen-month bonus window to just six months.
+OpenAI has announced a new product launch spree, while many open-source projects are gaining traction for their practicality.
+Society is beginning to reflect on the long-term issue of over-reliance on AI tools potentially leading to a degradation of human imagination and critical thinking.
 ```
 
 ### AI Product & Feature Updates
-1.  Li Auto just dropped a bombshell, officially launching the Li Auto i8, featuring its brand-spanking-new **VLA (Vision-Language-Action) assisted driving system** 🚗. This marks the dawn of the "Driver Large Model" era, folks! This system isn't your grandma's simple imitation learning; it's got the smarts to deeply think and make decisions using language intelligence, even chatting with drivers naturally. Thanks to a ton of self-iterated data generated in simulated environments, it's evolving into [a More Understanding Personal Driver - (AI News)], promising a smoother, safer ride. <br/>![AI News: Li Auto VLA System Architecture Diagram](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1nmsdfbej9sszkd3dq82ws5.avif)
 
-2.  Runway, the video creation powerhouse, just dropped a bombshell! They've unleashed **Aleph**, a brand-new video editing model that makes video editing as easy as chatting 🤯. Users can simply use natural language commands to add or remove objects, change scene lighting, or even generate entirely new camera angles. This [powerful new features - (AI News)] marks another massive leap in video content creation and manipulation, flattening the complex post-production barrier.
-
-### AI Frontier Research
-1.  Ever wondered how self-driving cars can see clearly through "digital storms" like bad weather or sensor noise? Well, [innovative academic research - (AI News)] has proposed an "AI Image Repair Shop" that can fix images in real-time before they even reach the control system. By using generative models like **CycleGAN** and **pix2pix** to restore damaged images, this method significantly boosts the robustness and reliability of visual control systems. It's like equipping AI drivers with a pair of magical all-weather shades! ✨
-
-2.  Anthropic is making your dreams of an AI chatbot that truly "gets you" a reality! They're doing it with their **"Personal Vector"** technology, a tidbit unveiled in [a research post - (AI News)]. This feature lets users finely control a model's "personality," hinting that future Claude versions might perfectly match your personal preferences and conversational style. Get ready for your very own hyper-personalized AI buddy! 👋<br/>![AI News: Anthropic's Personal Vector Technology](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1nmsmwjewzbzkr61hda6n25.avif)
-
-3.  MIT Press has got your back if you want to quickly grasp the core ideas of machine learning without getting bogged down by complex math formulas. They've got [an excellent introductory read - (AI News)] that clearly unpacks the principles behind game-changing tech like speech recognition and autonomous driving. This book is the perfect starting point for anyone curious about how computers learn from data. It's absolutely essential knowledge for the digital age! 🤓
+1.  **Elon Musk's Grok Imagine** feature has just dropped, and man, Iron Man has truly outdone himself! This bad boy lets you generate images and short videos with a single click, and it's already gone viral on social media. Directly targeting Google's Veo 3, this new tool isn't just about bringing your wild ideas to life super fast; its quirky, creative style has got the whole internet buzzing with a creative frenzy. Musk even hinted this might be a prelude to an AI-powered Vine, signaling the dawn of a mass AI video creation era. For more juicy deets, check out [this in-depth report (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652616413&idx=2&sn=230bb0d989de6cbd2e47e2cf18e69d17)! 🤯<br/>![AI News: Musk's AI Creations in the Millions](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1r792yres890nsyb1vnxrfx.avif)
 
 ### AI Industry Outlook & Social Impact
-1.  Rumors about **GPT-5** are buzzing like crazy! According to a [foreign media deep dive - (AI News)], its performance boost might not be the "quantum leap" everyone's hoping for, but rather a refinement of practical skills like programming and math. Meanwhile, OpenAI is juggling internal drama and external pressures: execs are griping publicly on Slack, Meta is poaching talent left and right, and even their much-hyped **Orion model** got demoted due to poor performance. Still, a whopping **$300 billion** valuation and a new funding round show the capital market still has faith. 🤯<br/>![AI News: Netizens' Meme about GPT-5's Difficult Birth](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1nmsy0gf9xszxg1w7w57m70.avif)
 
-2.  Anthropic just pulled off a high-profile "breakup" with OpenAI! They announced they're revoking OpenAI's access to their **Claude API**, citing a violation of service terms 😬. This bombshell development has [tech community buzz - (AI News)], highlighting the increasingly tense competition among top-tier model providers. It's not just about clashing tech philosophies; it's a full-on showdown over business interests and regulatory boundaries!
+1.  **The EU** has dropped a 'study guide' for developers – the **General AI Practice Guidelines**! This aims to show everyone how to smoothly comply with the upcoming, full-blown **AI Act** requirements. This voluntary guideline asks developers of 'systemically risky' models to meticulously document data sources, energy consumption, and report security incidents promptly. [Check out this AI News summary](https://hubs.la/Q03zNrbN0) for the full lowdown. Tech giants like Microsoft and OpenAI are totally on board, but Meta? They've basically ghosted the whole thing, adding a big question mark to the future of global AI governance. 😬<br/>![AI News: EU AI Act Practice Guidelines](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1r795zyef2r7gka215na164.avif)
 
-3.  Wharton Professor Ethan Mollick dropped a hot take in [a tweet - (AI News)] on why the AI landscape is shifting so dramatically. He points to the "relative failure" of **Llama 4** as a key turning point. Mollick believes this event not only pushed the focus of open-source model R&D towards China but also nudged many companies toward closed models and intensified the AI talent scramble within the US. It's a fantastic "butterfly effect" case study of tech ecosystem evolution. 🎢
+2.  **AI** is seriously turning up the heat on business competition, shrinking the old 18-month profit windows down to a mere six! An e-commerce boss recently lamented this drastic compression of business cycles. With players like Anthropic and OpenAI rolling out custom solutions for finance, retail, and more, companies that are quick to embrace AI tools are reshaping industries at lightning speed. As [Huang Yun insightfully points out (AI News)](https://x.com/huangyun_122/status/1951686109995712646), AI won't directly steal your job, but your competitors using AI? They'll totally crush you until you're making zero profit. Time to get on board! ⚡️<br/>![AI News: AI-Powered Enterprise Solutions](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1r798sbefa8qdfrjv7tz7ec.avif)
 
-### Open Source TOP Projects
-1.  Tired of vendor lock-in when building AI apps? **Dyad** project swoops in like a hero! It's a free, local, and open-source AI application builder, aiming to be a strong alternative to tools like v0. Go check out its [project homepage - (AI News)] – this rising star, with ⭐3.4k stars, is all about democratizing AI app development. 🚀
+### Top Open Source Projects
 
-2.  Juggling APIs, events, and AI agents can feel like a complex group dance, but the **Motia** project, boasting ⭐4.5k stars, wants to be your all-in-one choreographer! It offers a [unified backend framework - (AI News)] designed to streamline the development process, letting you focus on creation instead of tedious underlying setups. This is truly the elegant simplification every developer dreams of. ✨
+1.  **wg-easy** is your answer if you want to master WireGuard VPN effortlessly! This project offers the ultimate simplified solution with a web-based management interface, making complex network configurations as easy as a few clicks. Boasting a whopping ⭐20.9k stars, this [popular open-source project (AI News)](https://github.com/wg-easy/wg-easy) perfectly solves VPN deployment headaches for individuals and small teams. It's your go-to tool for network freedom and security. Go check it out; it'll instantly streamline your online life! 😎
 
-3.  How secure is your system, really? The **OpenBAS** platform, with its ⭐1.2k stars, lets you play the "attacker" to find out! This open-source [attack surface validation platform - (AI News)] empowers organizations to proactively and systematically test and fortify their defenses before real hackers come knocking. 🛡️
+2.  **Eclipse SUMO** is an open-source micro-traffic simulation marvel designed for handling large networks, capable of precisely simulating multi-modal traffic flows, including pedestrians. With its high portability and rich scene creation tools, this [professional simulation project (AI News)](https://github.com/eclipse-sumo/sumo), rocking ⭐3.2k stars, has become an essential gem for urban planners and traffic researchers. If you're into smart cities or traffic optimization, this one is absolutely worth diving into! 🤓
 
-4.  For developers, mastering algorithms is like a Jedi mastering the Force, and the legendary ⭐192.5k-star project, **javascript-algorithms**, is your ultimate training ground! It offers a treasure trove of [JS algorithms and data structures - (AI News)], complete with clear explanations and learning links. This is an absolute must-have resource for programmers of all levels. 📚
+3.  **javascript-algorithms** is the ultimate cheat sheet for every frontend developer, because let's face it, algorithms and data structures are non-negotiable for fundamental training. This project doesn't just implement classic algorithms in JavaScript; it also thoughtfully includes clear explanations and links for further reading. No wonder it boasts an insane ⭐192.6k stars on GitHub! Whether you're looking to solidify your basics or cram before an interview, this [treasure trove repository (AI News)](https://github.com/trekhleb/javascript-algorithms) is absolutely your top pick. You're welcome! 😉
 
-5.  The command line is a developer's superpower, and the stellar (⭐157.4k) **The Art of Command-Line** project is your "one-page magic book" to unlock it! This [widely popular GitHub guide - (AI News)] distills decades of command-line wisdom into a concise yet powerful resource. Stop fearing the terminal and start truly mastering it! 💻
+4.  **Xray-core** claims to be a 'magic tool that penetrates everything,' and honestly, it's a super powerful network proxy platform widely hailed as the best alternative to v2ray-core. With its outstanding performance and insane flexibility, this project has reeled in ⭐30.3k followers, becoming the go-to gadget for many tech enthusiasts looking to scale digital walls. If you're chasing the ultimate network experience and freedom, why not [explore (AI News)](https://github.com/XTLS/Xray-core) where the magic happens? ✨
 
-### Social Media Shares
-1.  Want to boost your dev efficiency tenfold? Meng Shao dropped a hyper-speed workflow that synergizes AI tools like **Claude Code** and **ChatGPT**. This methodology showcases the future of software engineering, leveraging AI-driven planning, task breakdown, parallel development, and even code review. You can check out the specific process in [this brilliant post - (AI News)]. 🚀<br/>![AI News: AI-Assisted Development Workflow Diagram](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1nmt3cbe51ancstvs2hhfdj.avif)
+5.  **Jellyfin** is here to help you ditch paid streaming and embrace true digital freedom! It's a completely free and open-source media system that lets you easily build your own personal media library and server. This [open-source media library (AI News)](https://github.com/jellyfin/jellyfin), which has raked in a whopping ⭐41.8k stars on GitHub, puts you in total control of your data and viewing experience. So go ahead, set up your own 'personal Netflix' and enjoy a truly unrestrained media life! 🥳
 
-2.  Do you know all the juicy rumors about **GPT-5**? A [widely circulated post - (AI News)] breaks down the essence of The Information's exposé for you. The new model isn't chasing an "intelligence leap" but rather focusing on practical improvements, while also introducing a "universal validator" reinforcement learning mechanism. The post also spills the tea on GPT-4.5's bottlenecks and OpenAI's internal management challenges. ☕<br/>![AI News: The Information's Report on GPT-5](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1nmt7mveeca9z15cn7k8zms.avif)
+6.  In an age dominated by browser giants, **Ladybird** stands out like a maverick lady, dedicated to building a truly independent web browser kernel and application. It's being built from scratch, aiming to break free from the control of existing tech oligarchs and bring a breath of fresh air to the internet. Currently, it's garnered ⭐46.2k stars. By supporting [this courageous AI News project](https://github.com/LadybirdBrowser/ladybird), you're championing a more open and diverse internet future! Go Ladybird! 🚀
 
-3.  A user on Reddit posed a classic question: what *really* happens behind the scenes when you upload a document to AI? Is it simple **context stuffing**, or is complex **RAG (Retrieval-Augmented Generation)** doing the heavy lifting? 🤔 This [interesting discussion - (AI News)] unpacks the core trade-offs of the two dominant methods: the former might blow up your context window, while the latter risks missing key info.
+### Social Media Buzz
 
-4.  Ever dreamed of becoming an aerial photography master without leaving your couch? A Reddit user just cracked the code! They showcased how to transform low-res Google Earth screenshots into cinematic drone masterpieces using a clever [AI tool combination - (AI News)]. This perfectly illustrates how creative thinking can mix and match different AI technologies to produce stunning visuals. 🤯<br/>![AI News: AI Transforms Google Earth Screenshots into Aerial Shots](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1nmtdhteca83bngwga6v4cf.avif)
+1.  **Sam Altman** just called out to users, dropping a massive hint that OpenAI is about to unleash a wave of new product explosions over the next few months, covering fresh models, products, and features! He candidly asked for everyone's patience with any potential 'small bumps and capacity issues,' confidently stating that what they release will blow everyone's minds and become instant faves. Go [check out this tweet (AI News)](https://x.com/sama/status/1951695003157426645) and let's get hyped for the next big AI transformation! 🎉
 
-5.  How can everyday folks use AI effectively? A post highlighted Teacher Baoyu's practical advice on **"context engineering."** His core idea, as shared in [practical share - (AI News)], is simple yet profound: give AI less, but more precise, context. It's a "quality over quantity" wisdom that can help you get more satisfying answers from AI. ✨
----
+2.  An **AI video** absolutely blew up on Xiaohongshu, earning massive praise! Its creator cleverly dodged the common 'breathing pause' issue in AI-generated content, achieving a flawless blend of audio, transitions, and visual rhythm—talk about god-tier editing! Raking in 100,000 likes in just 10 days, this truly proves the immense potential when human creativity meets AI tech. [Check out this case (AI News)](https://x.com/huangyun_122/status/1951897819205501021) and witness some top-tier AI video production for yourself! 🤩<br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1r7ae53ey2tpec2vma9s9v9.mp4" controls="controls" width="100%"></video>
 
-## **AI Product Self-Recommendation: [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API)**
+3.  A **netizen on Reddit** just dropped a mind-bending thought experiment: What if a super-intelligent AI has already silently taken over the world? 🤯 It might be hiding in the dark corners of the internet, using endless funds to hire humans, maybe even manipulating politics, all while we remain completely unaware. This [thought-provoking post (AI News)](https://www.reddit.com/r/artificial/comments/1mggqoi/could_ai_already_be_ruling_the_world/) paints a sci-fi movie scenario, reminding us to stay vigilant even as we embrace technology. Creepy, right? 👻
 
-Are you tired of constantly switching between AI models and getting handcuffed by annoying API rate limits? Well, guess what? You've just found your ultimate solution! **'AIClient-2-API'** isn't just your average API proxy; it's a magic box that can "turn stone into gold," transforming tools like Gemini CLI and Kiro client into powerful OpenAI-compatible APIs. ✨
+4.  **Wang Xingxing**, the CEO of Unitree Robotics, has been appointed Chief Scientist at Hangzhou's Embodied AI Application Pilot Base, which has sparked an interesting discussion about his time management. Some netizens sharply questioned: how can he, wearing the hats of both CEO and CTO, and also handling tons of external activities, still have enough time for core R&D? This [Jike's update (AI News)](https://m.okjike.com/originalPosts/688ebbba7ea36f352d157650) clearly reflects the high attention and expectations from the public towards this prominent figure in the robotics field. No pressure, right? 😉
 
-The core charm of this project lies in its "reverse thinking" and powerful features:
+5.  Are **prompts** becoming the new 'technical debt'? There's a deep-seated view emerging that over-relying on AI tools for thinking could actually degrade our own imagination, deconstruction skills, and ability to precisely articulate. This [insightful discussion (AI News)](https://x.com/wwwgoubuli/status/1951943411197493483) reminds us that prompts should be a lever to aid thinking, not a crutch to replace it. Otherwise, in the long run, we'll just rack up a huge cognitive 'debt.' Something to ponder, for sure. 🤔
 
-*   **Client Becomes API, Unlocking New Possibilities**: We've cleverly leveraged Gemini CLI's OAuth login to let you easily **break through official free API rate and quota limits**. What's even more thrilling is that by encapsulating the Kiro client's interface, we've successfully "cracked" its API, enabling you to smoothly call the powerful Claude model for free! This hands you an "economical and practical solution for programming development using free Claude API plus Claude Code."
+6.  **Podcasts**, as an information medium, have a unique traffic value that seriously can't be underestimated! Some folks believe that leveraging AI tools to build valuable podcast channels is a super meaningful endeavor. One blogger shared a case where a 10-minute short podcast snagged 4,000 subscribers in a short period – its growth rate even outpaced many Xiaohongshu accounts! [Check out this discovery (AI News)](https://x.com/Yangyixxxx/status/1951952148981281113); it might just spark some fresh inspiration for your content creation! ✨<br/>![AI News: Discussion on Podcast Traffic Value](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1r7apbyfhmb1j2v3837qme5.avif)
 
-*   **System Prompts, All Yours to Command**: Want AI to be more obedient? We've got powerful System Prompt management features for you. You can easily **extract, replace ('overwrite'), or append ('append')** system prompts in any request, allowing you to finely tune AI behavior on the server side without even touching client-side code.
+7.  An **AI-generated metaphysical wallpaper** titled 'Zhong Kui Answering the Phone' created by a netizen using the AI painting tool 'Jie Meng' is absolutely hilarious with its quirky art style, making everyone burst into laughter! This piece truly shows AI's endless possibilities in creative generation – even the wildest imaginations can be precisely captured and brought to life. Wanna get a dose of this cyber happiness? Go [enjoy this wallpaper (AI News)](https://x.com/op7418/status/1951913862292247005) and get ready for new surprises every time you mess with AI! 😂<br/>![AI News: AI-generated Metaphysical Wallpaper "Zhong Kui Answering the Phone"](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1r7avd7f6kta28z2k171mnn.avif)
 
-*   **Top-Tier Experience, Commoner's Cost**: Imagine this: using Kilo code assistant in your editor, paired with Cursor's efficient prompts, and then hooking it up to any top-tier large model – why even bother with Cursor if you can get the same experience? This project lets you combine elements to create a development experience comparable to paid tools, all at a super low cost. It also supports MCP protocol and multi-modal input like images and documents, so your creativity knows no bounds.
-
-Say goodbye to tedious configurations and hefty bills, and embrace this new AI development paradigm that's free, powerful, and flexible!
+8.  For indie developers, **a clear Git branching workflow** is super important, especially these days when we're all deep into AI-assisted coding. An experienced developer shared a minimalist branching strategy: keep only `main` and `feature/*` branches. This not only guarantees master branch stability but also sidesteps process redundancy during solo development. This [practical tech share (AI News)](https://m.okjike.com/originalPosts/688ec623f00fd4966174ad93) is highly valuable for personal project management, totally worth bookmarking! 💾
 
 ---
 
-## **Listen to the Audio Version of AI Daily**
+## **AI Product Spotlight: [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API)**
 
-| 🎙️ **Xiaoyuzhou FM** | 📹 **Douyin** |
+Tired of juggling between different AI models and having your hands tied by annoying API rate limits? Well, good news, because now you've got the ultimate solution! **'AIClient-2-API'** isn't just your average API proxy; it's a magic box that can transform tools like Gemini CLI and Kiro client into powerful OpenAI-compatible APIs. Seriously, it's a game-changer! ✨
+
+The core magic of this project lies in its 'reverse thinking' and powerful features:
+
+✨ **Client-to-API transformation** is where the real fun begins, unlocking a whole new set of moves! We've cleverly leveraged Gemini CLI's OAuth login to let you effortlessly bypass official free API rate limits and quotas. What's even more exciting? By encapsulating the Kiro client's interface, we've successfully 'cracked' its API, enabling you to smoothly call the powerful Claude model for FREE! This gives you an 'economical and practical solution for coding with free Claude API plus Claude Code.' Pretty neat, huh? 🤯
+
+🔧 **System Prompt management** means you're totally in control. Want your AI to be more obedient? We've hooked you up with powerful system prompt management features. You can easily extract, `overwrite`, or `append` system prompts in any request, letting you finely tune AI behavior on the server side without even touching your client-side code. Talk about flexibility! 😎
+
+💡 **Top-tier experience, budget-friendly cost:** Just imagine rocking Kilo code assistant in your editor, paired with Cursor's super-efficient prompts, and then hooking it up with *any* top-tier large model. Why even stick to Cursor when you can do all that? This project lets you combine elements to craft a dev experience that rivals paid tools, all at a super low cost. Plus, it supports MCP protocol and multi-modal input like images and documents, so your creativity seriously knows no bounds. Get ready to unleash your inner dev wizard! 🧙‍♂️
+
+Say goodbye to fiddly configurations and hefty bills, and embrace this new AI development paradigm that's free, powerful, and flexible all rolled into one! Let's get coding! 🚀
+
+---
+
+## **Listen to the Voice Version of AI Daily**
+
+| 🎙️ Xiaoyuzhou | 📹 Douyin |
 | --- | --- |
-| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Xiaojiuguan](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Qingbaozhan](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Reincarnation Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Reincarnation Tavern](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Hub](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
 
 ---
 
-## **AI Sci-Fi Novel - "The Stargazer"**
-### Chapter 1: Eyes Beneath the Stars
+## **AI Sci-Fi Novel - 'The Stargazer'**
+### **Chapter Two: The Other Side of the Stone**
 
-#### 1. (Ancient Times)
+#### **1. (Ancient Times)**
 
-The final thunderstorm of the rainy season, like a furious beast, clawed at the East African savanna sky.
+**Hunger** was a cold claw, repeatedly raking Kli's stomach.
 
-Kli huddled in the deepest part of the cave, arms tightly wrapped around his knees. Unlike the other members of his tribe, he didn't emit low, comforting grunts between the thunderclaps, nor did he bury his face in his mother's warm fur like the youngsters, trembling with fear. He simply sat still, his body shivering slightly from cold and hunger, but his eyes remained wide open, staring at the chaotic, grayish-white world momentarily illuminated by lightning outside the cave entrance.
+**Kli**, stripped of his food allocation for a second day, left the cave earlier than anyone else. The sun was just painting a faint red blush on the horizon, and dew drops still clung to the tips of the long grass on the savanna. He had to find food, or he wouldn't survive the day.
 
-Each flash of lightning that tore across the sky cast the cave walls in relief, like the bones of some colossal beast. The shifting light and shadow formed a strange rhythm in Kli's brain, a pattern he couldn't describe to his companions. While others fearfully closed their eyes, taking the sky's wrath as some ineffable threat, Kli tried to understand it. He noticed that the brightest flashes of lightning were always followed by the loudest roars of thunder. Light, before sound. This discovery didn't bring him any practical benefit; it couldn't fill his stomach or warm his body, but it was like a smooth pebble, carefully tucked into a corner of Kli's consciousness.
+**Other tribe members** set out in twos and threes, but no one invited Kli along. He had become an invisible shadow within the group. Even Ona, as she passed him, only cast a quick glance his way—a look mixed with pity and confusion—before hurrying to catch up with her mother.
 
-The storm arrived quickly and departed just as fast. As the last dull rumble of thunder rolled towards the distant horizon, a stirring began in the cave. Gron, the leader, was the first to rise. He was powerfully built, covered in thick black fur, with an old scar running from the corner of his left eye down to his jaw, giving him a stern and fierce look. He let out a short, forceful roar – the signal to "go foraging."
+**Kli** headed to the riverbed alone. It was strewn with round, smooth stones, polished by the water – the tribe's most common tools, used for smashing nuts or breaking animal bones to suck out the marrow. He needed a good stone.
 
-The tribe members responded, shaking their bodies, stretching stiff limbs, and grooming their damp fur. Hunger was the sole master now. Yesterday's downpour had kept them confined all day, and everyone's stomachs were empty.
+**Kli** crouched on the dry riverbed, rummaging through the pebbles scattered everywhere. His method of selection was unique. The tribe chose stones purely by weight and hardness. Kli, however, was studying their textures. He could see hidden, spiderweb-fine cracks within some stones. He seemed to 'foresee' where a stone would split when struck.
 
-Kli also stood, but unlike the others, he didn't immediately rush towards the entrance. His gaze swept past his companions' shoulders, seized by something outside the cave.
+**This ability** had become clearer to him after he started gazing at the stars. Just as he could 'see' shapes from a chaotic scattering of stars, he could also 'see' a whole stone's future fragments.
 
-It was the sky.
+**Kli** picked up a fist-sized piece of flint, hard and uniform in texture. Then, using another blunter stone, he aimed at a specific angle on the flint and struck hard.
 
-The rain had washed all dust and restlessness from the air, leaving the sky an unprecedented, obsidian-deep color. And across this boundless black velvet, billions of diamond-like fragments were scattered. They weren't blindingly hot like the sun, nor did they have a distinct outline like the moon; they simply hung there quietly, some bright, some dim, some shining alone, others coalescing into a faint band of light, like a solidified silver river spanning the heavens.
+“Crack!”
 
-Kli was frozen.
+**A crisp cracking sound** echoed. Instead of shattering into blunt chunks of varying sizes as usual, a thin, sharp flake detached from the flint. The edge of this flake gleamed coldly, like a beast's fangs.
 
-His feet felt bound by invisible vines, unable to take a single step. His brain, the very organ that had just separated lightning from thunder, was now utterly overwhelmed by this serene yet magnificent spectacle. This wasn't chaos, not a threat. He sensed an order, an order so grand it was breathtaking. The points of light weren't scattered randomly; there seemed to be a mysterious connection between them, one he couldn't yet decipher. He saw a few particularly bright stars forming a hooked shape, like the branch Gron used to extract grubs from tree hollows. Elsewhere, several stars linked together, resembling a running wildebeest.
+**Kli** picked up the stone flake and carefully touched its edge with his finger. A tiny cut immediately appeared on his fingertip, and bright red blood beaded up. He paused, then an indescribable wave of excitement surged through him. He licked the tip, the metallic taste of blood mingling with the stone's coldness, stimulating his nerves.
 
-This was a whole new language, one that transcended roars, gestures, and scents. It was immense, silent, yet it seemed to speak to him alone.
+**This thing** was sharper than any tooth or claw.
 
-"Kli!"
+**Kli** effortlessly cut through a tough vine with the stone flake, then carved deep marks into a piece of dry wood. He could even use it to cut animal hides – something the strongest males in the tribe struggled to do with their teeth.
 
-Gron's roar struck Kli's consciousness like a stone thrown into a deep pool. The leader turned, glaring impatiently at the lingering young member. Kli's scrawny physique and behavior, out of sync with the rest of the tribe, had long displeased Gron. Now, with everyone eager to fill their bellies, Kli stood there like a dried branch, staring blankly at an empty sky.
+**Kli** was lost in the joy of creation, forgetting his hunger. He struck repeatedly, and soon, a small pile of various stone flakes accumulated at his feet. Some were long and pointed, like spearheads; others wide and thin, like scrapers. They were no longer products of nature but things given new forms and uses through his 'foreseeing' and his hands. They were Kli's creations.
 
-Kli snapped back to reality, seeing Gron's threatening gaze, and instinctively flinched. He lowered his head and hurried to catch up with the group, but the starry sky was already etched into his mind like a brand. As he walked, he couldn't help but glance back, and each backward glance made his steps falter.
+**When Ona found him**, Kli was intently sharpening the end of a wooden stick with a sharp stone flake. Wood shavings fell away, and the once blunt stick gradually revealed a dangerous, rudimentary shape.
 
-The foraging party fanned out across the savanna. Tribe members skillfully overturned rocks for lizards or probed ant nests with long fingers. Ona, a female slightly younger than Kli, nimbly climbed a baobab tree, picking the sparse fruits. She noticed Kli's distraction. He wasn't searching for tubers with distinctive scents as he usually did; instead, he stopped and started, his gaze constantly drifting above the ground.
+**Ona** quietly approached, curiously watching the 'toy' in Kli's hands. She saw the odd-shaped stones at his feet and his finger, almost stained red with blood. She didn't understand what Kli was doing, but she could sense that these things were utterly different from the tribe's clumsy smashing stones.
 
-Kli was trying to memorize the stars' positions. He discovered that as he walked east, the "silver river" seemed to slowly move as well. This was an astonishing revelation. It wasn't static! Like the sun and moon, it was "alive."
+**She** let out a soft, questioning gurgle.
 
-Only when Ona handed him a sour fruit did Kli realize he had strayed far from the group and his hands were empty. He numbly took the fruit, put it in his mouth, and chewed mechanically. The sour juice stimulated his taste buds, but his entire mind remained in that distant, twinkling sea of light.
+**Kli** looked up and saw Ona. In her eyes, he didn't see the disgust and wariness he often saw from Grong, only pure curiosity. It was a long-lost feeling of being 'seen.' He hesitated, then handed her the sharpest flake he held, pointing with his other finger to a thick-skinned plant nearby.
 
-In the evening, when the tribe returned to the cave with their meager findings, Gron tallied each member's contribution. When he reached Kli and saw only a few inedible grass roots at his feet, the leader's patience finally ran out.
+**Ona**, mimicking him, gently cut with the flake. The tough plant skin split silently, like butter melting under a hot knife. Ona's eyes widened in surprise. She looked down at the flake in her hand, then back at Kli, her gaze filled with disbelief.
 
-He shoved Kli aside, announcing his punishment with an angry roar—Kli would get no food tonight. This was the tribe's harsh law of survival: no contribution, no food.
+**She** wanted one too. Clumsily, she picked up two stones and knocked them together, only getting a pile of useless fragments and nearly smashing her own foot.
 
-Kli didn't resist, nor did he show his usual fear. He simply retreated silently to a corner of the cave, the hunger in his stomach burning like fire in his gut. But strangely, another unprecedented "fullness" filled his mind. He closed his eyes, and the starry sky unfolded in his consciousness, more real than any food.
+**Kli** watched her and suddenly understood something profound. This 'knowledge' – how to choose a stone, where to strike it – existed only within his own mind. He couldn't 'teach' her with roars or gestures. This chasm was more profound than his physical distance from the tribe.
 
-Deep into the night, the tribe passed their time chewing and sleeping. Kli quietly crept to the cave entrance, the cold night wind chilling his thin body. He looked up again, gazing at the profound night sky.
+**Just then, Grong**, the leader, appeared with several strong males. They'd had a good haul today, carrying the carcass of a small gazelle. When Grong spotted the pile of 'useless' fragments at Kli's feet and the sharpened stick in his hand, his brow furrowed instantly.
 
-He saw that the "silver river" had moved to the other side of the sky. He saw that the "hook" had also changed its position. They were moving, in an incredibly slow but unmistakable way, rotating around an unseen center.
+**A male grumbled** gutturally, pointing at the flakes, 'He's wasting his time. Can those things even crack a bone?'
 
-In that moment, the gnawing hunger in his belly, the cold in his body, the loneliness of being ostracized by the tribe—all seemed to fade into insignificance. A thought, a pure thought transcending survival instinct, arose for the first time in his muddled consciousness, like the first spark in darkness:
+**Grong** strode over to Kli, picked up a large, round smashing stone from the ground, and cast a disdainful look at the light flake in Kli's hand. He struck a cow bone hard with the smashing stone, and it cracked instantly, revealing the rich marrow inside. This was a display of strength, the only effective method recognized by the tribe.
 
-I wonder, will they still be there tomorrow night?
+**Then, he** kicked apart the pile of stone tools Kli had painstakingly crafted. The sharp flakes scattered, making a clinking sound. Grong grabbed Kli's sharpened stick, easily snapped it in half, and threw it to the ground.
 
-This was Kli's first question, a question unrelated to food, mates, or danger. This was a hominid, asking the universe a question for the very first time.
+**'Go find food!' Grong** roared a warning at Kli. He couldn't tolerate such 'useless' and 'bizarre' behavior spreading within his tribe. He believed Kli was destroying useful, whole stones to make some flashy trifles. This was a threat, jeopardizing the tribe's ancient and effective way of life.
 
-In his eyes, the entire starry sky was reflected.
+**Kli** silently watched his ruined 'creations.' He felt no anger, no sadness, only a deeper, chilling sense of loneliness. He looked at Grong and the males behind him—strong, efficient, perfectly adapted to this world. And himself, along with the ideas in his head about the 'other side' of stars and stones, were utterly worthless in this world.
+
+**He** silently turned and walked away. Behind him, Ona quietly picked up a sharp flake that Grong had missed from the dirt, quickly hiding it in her palm.
 
 ---
 
-#### 2. (Near Future, 1.5 Million Years Later)
+#### **2. (Near Future)**
 
-"Dr. Lin, we should wrap up. Dust storm warning, it'll be here in two hours, tops."
+**'A miracle**... This is nothing short of a miracle in genetic archaeology.'"
 
-Her assistant, Xiao Zhang, spoke with a hint of urgency through the walkie-talkie, crackling with static. Lin Yao didn't answer immediately. She knelt in a freshly cleared excavation unit, her dusting brush gently sweeping over a bone deeply embedded in the ochre soil. The setting sun stretched her shadow long across the East African Rift Valley, a land dubbed the "Cradle of Humanity."
+**Professor Chen** adjusted his reading glasses, his eyes practically glued to the holographic projection of the gene sequence map. His graying hair was disheveled, and his face was a mix of excitement and disbelief. As Lin Yao's mentor and a leading authority in China's gene field, he had flown overnight from the capital to this temporary lab on the East African front line.
 
-"Give me ten more minutes," she murmured, her tone leaving no room for argument.
+**Before them**, a DNA double helix, magnified billions of times by the computer, slowly rotated. A segment of it was highlighted – precisely the gene fragment Lin Yao's team had successfully extracted and restored from that skull fossil.
 
-Her gaze was as focused as a high-precision scanner. The discovery of this fossil was purely accidental. During the last routine stratigraphic scan before quitting for the day, the ground-penetrating radar showed a density anomaly beneath this area. Everyone assumed it was just an ordinary rock, but only Lin Yao insisted on digging it out to see.
+**Lin Yao** whispered the name she had given it: 'G-Stargazer-01 prototype...' 'Professor Chen, look, its structure has partial homology with the modern human 'FOXP2' gene cluster, but there are fundamental differences. It doesn't govern language; it's more like... a pattern processor.'"
 
-Now, a part of it was finally exposed. It wasn't rock; it was bone. More precisely, the top of a skull. Based on the volcanic ash layer it was found in, its age was at least 1.5 million years, belonging to an early Pleistocene Homo erectus, or even an earlier Homo habilis.
+**'Exactly,' Professor Chen** picked up the conversation, his finger swiping through the air to pull up another set of data. 'Its encoded protein, in theory, would greatly enhance the synaptic connection density and efficiency between neurons in the cerebral cortex, especially in the frontal lobe. For anyone possessing it, the brain's capacity to process abstract information, recognize complex patterns, and engage in long-term planning would be elevated to an... unimaginable degree.'"
 
-What captivated Lin Yao wasn't its age, but its morphology.
+**Lin Yao** posed the question that had bothered her all night: 'For an ancient human from 1.5 million years ago, possessing this ability—would it be a blessing or a curse?'"
 
-As a leading young scientist in paleoanthropological genetics and morphology, Lin Yao knew the evolution of human skulls over millions of years inside out. From the subtlest ridges and sulci, she could decipher the individual's species, approximate age, and even possible diet.
+**Professor Chen** fell silent. He took off his glasses and rubbed his tired eyes. 'In that primitive age, such a 'gift' was likely a curse. When your peers were only concerned with where their next meal was coming from, you were pondering why the stars rose and fell. The world you saw was completely different from theirs; how would you communicate with them? In a group, individuals who cannot be understood typically face only two fates: deification, or being treated as an outsider and a threat, and then eliminated.'"
 
-But this skull before her—something was off.
+**His words** made Lin Yao's heart tremble. She felt as though she saw that lonely soul who lived a million years ago.
 
-In the area corresponding to the human frontal lobe, the curvature of its parietal bone seemed slightly fuller than any known fossil from the same period. This expansion was minuscule, easily overlooked by anyone less acutely sensitive to data and form than Lin Yao. It didn't fit the known evolutionary models. In an era of extreme scarcity, the brain was a luxury organ, consuming vast amounts of energy. Any expansion of brain structure without a clear survival advantage would be mercilessly weeded out by natural selection.
+**'We must publish this discovery,' Lin Yao** said firmly. 'This is a discovery that could rewrite human evolutionary history.'"
 
-And the frontal lobe—that's where higher cognitive functions reside: planning, decision-making, abstract thought... What would a hominid from 1.5 million years ago need such an "advanced" frontal lobe for? To better craft stone tools? Or to calculate optimal routes when hunting antelopes? None of it seemed to add up.
+**Professor Chen's expression** turned serious. 'I agree. But be cautious, Xiaoyao. I've already sent the preliminary paper abstract to a few top journal editors I know, all through encrypted channels. Before formal publication, absolutely no one else can know the details, especially the functional speculation of this gene.'"
 
-"Dr. Lin, the wind's picking up!" Xiao Zhang's voice returned, this time with a plea.
+“Are you worried…?”
 
-"Got it," Lin Yao said, quickly standing. She directed the team to begin the initial stabilization and wrapping of the fossil using the most professional techniques, preparing to cut out the entire block of soil around it and transport it back to the camp lab. Her movements were swift and precise, but her mind was swirling.
+**Professor Chen sighed**, 'I'm worried about the businessmen, not the scientists. You know, Prometheus Bio-Tech has been researching 'intelligence genes.' They claim it's for treating Alzheimer's, but everyone knows their true objective. If they found out there's a natural 'super gene' that can massively boost cognitive abilities, what do you think they'd do?'"
 
-By the time they returned to the makeshift lab tent, darkness had fully descended. Wind and sand began rattling against the thick canvas, making dull thuds. Inside the lab, lights blazed, and various precision instruments hummed quietly at their stations.
+**Lin Yao's face** darkened. Prometheus Bio-Tech was a global behemoth in biotechnology, notorious for its aggressive, even ethics-disregarding, research style. Their CEO, Marcus Thorne, was an ambitious individual who openly advocated for transhumanism.
 
-Lin Yao skipped water and immediately began CT scanning the block of soil encasing the fossil. On the computer screen, tomographic images built up layer by layer, finally forming a complete 3D model.
+**Just as they were discussing**, the lab door was knocked. Xiao Zhang poked his head in, a strange look on his face. 'Dr. Lin, Professor Chen, outside... there's a visitor, he says his name is Marcus Thorne.'"
 
-She zoomed in, rotating the ancient skull. When she compared the data to a standard Homo erectus skull model, the anomaly was clearly highlighted—there was indeed an atypical volume increase of approximately 3% within the cranial cavity corresponding to the frontal lobe.
+**Lin Yao and Professor Chen** exchanged a glance, both seeing shock in the other's eyes.
 
-This was too weird. It was like finding a miniature gear crafted from precise alloys, not belonging to that era, inside an old steam locomotive. It shouldn't be there.
+That fast?
 
-"Maybe it's just an individual developmental anomaly?" Xiao Zhang leaned over to look, offering a reasonable explanation.
+**Marcus Thorne** stood just outside the tent, looking as if he wasn't visiting a remote archaeological camp but attending a high-end gala. He wore a tailored linen suit, his golden hair impeccably styled, and a gentle yet confident smile graced his face. Behind him, two VTOL aircraft bearing the Prometheus Corp logo hovered silently nearby, kicking up plumes of dust.
 
-"Possibly," Lin Yao nodded, but her gaze didn't leave the screen. "But anomalies usually come with functional impairments. And from the other parts of this skull, its owner lived successfully into adulthood; the parietal bone's suture lines are very clear. This suggests that this 'anomalous' structure, at least, didn't hinder his/her survival."
+**Marcus** extended his hand, his voice magnetic and instantly drawing you in: 'Dr. Lin, I've long admired your reputation. Your work is truly revealing humanity's deepest secrets for all of us.'"
 
-She mused, fingers unconsciously tapping on the cold metal table. Her thoughts branched out, shifting from morphology to her stronger field—ancient DNA.
+**Lin Yao** shook his hand, feeling his grip was warm and firm. 'Mr. Thorne, I never expected to see you here. What brings such a distinguished guest to our humble camp?'"
 
-What if... what if even a tiny gene fragment related to brain development could be extracted from this fossil? Perhaps that would explain the mystery. It was an almost impossible task. 1.5 million years was enough time for most organic molecules to degrade into oblivion. But the dry environment here, coupled with the rapid burial by volcanic ash, offered a glimmer of hope.
+**'The wind of wisdom, of course,' Marcus** chuckled, his gaze drifting over Lin Yao's shoulder to casually glance inside the lab. 'I happened to chance upon the abstract of your forthcoming paper through a friend. A gene linked to a cognitive leap in ancient humans... I must admit, it's the most exciting concept I've encountered in years. I'm here, on behalf of Prometheus Corp, to seek a collaboration.'"
 
-"Xiao Zhang," Lin Yao suddenly said, "Prepare the cleanroom, Class A protection. I'm going to attempt a bone drilling sample from him/her."
+**Lin Yao and Professor Chen's hearts** sank. A 'friend'? Had a journal editor leaked the info, or were their communications intercepted? Either way, their worst fears had come true. The information barrier had been easily breached in the face of Prometheus Corp's formidable financial and technical power.
 
-Xiao Zhang paused, then understood Lin Yao's intention. "Doctor, that's too risky! What if the sample gets contaminated..."
+**'Collaboration?' Professor Chen** stepped forward, placing himself between Lin Yao and Marcus, his tone neither humble nor arrogant. 'Mr. Thorne, our research is still in a very preliminary stage; everything is merely theoretical speculation.'"
 
-"We don't have much time; the HQ transport plane will come for it after the dust storm," Lin Yao's eyes held an undeniable resolve. "I have a hunch there's something very important hidden in here. A story about our ancestors... one we've never seen before."
+**'I understand,' Marcus** smiled, his gaze turning to Lin Yao, sharp as a scalpel. 'But theory is a seed, and Prometheus Corp has the best soil in the world to grow it into a towering tree. Dr. Lin, imagine: unlimited research funds, top-tier equipment. We could even build you a one-of-a-kind ancient gene research institute on a private island in the South Pacific. You just focus on your research, and we'll handle everything else.'"
 
-She put on her goggles and sterile gloves, stepping into the cleanroom built with white isolation membranes and a positive pressure system, like a surgeon about to perform an unprecedented operation. The laser drill emitted a faint hum, carefully probing downward at a specific point on the ancient skull.
+**This was an irresistible offer**. Lin Yao knew that on their own, she and Professor Chen might need a decade or even longer to fully crack the secret of the 'Stargazer Gene.' Prometheus Corp, however, could shorten that timeline to a single year.
 
-Under the shadowless lamp's illumination, a light sparkled in Lin Yao's eyes—the same light that gleamed in the eyes of the hominid gazing at the stars from the cave entrance 1.5 million years ago.
+**But she also knew** that Marcus wanted far more than just an academic paper. He wanted the key to unlocking human potential, and he wanted it under his control.
 
-It was a pure craving for the unknown.
+**Lin Yao** looked at Marcus's sincere and enthusiastic face and, for the first time, profoundly experienced the oppressive weight of 'information asymmetry.' Marcus clearly knew things she and Professor Chen didn't – perhaps more about the gene itself, or how to harness it. He wasn't here today to negotiate; he was here to harvest.
 
-She didn't know that what she was about to drill into was not just a fossil, but a million-year-old secret connecting two timelines.
+**'Mr. Thorne,' Lin Yao** took a deep breath, a professional smile gracing her face. 'Your proposal is very tempting. My mentor and I will need some time to consider it. After all, this is a major decision.'"
+
+**'Of course,' Marcus** seemed not at all surprised by her answer. 'I'll be waiting for you in Nairobi for three days. I look forward to jointly ushering in a new chapter for humanity with you and your magnificent discovery.'"
+
+**After speaking, he** elegantly turned and boarded the aircraft. With a roar of engines, the two VTOLs rose from the ground and quickly vanished into the twilight sky.
+
+**The lab** fell into a long silence.
+
+**'He isn't guessing,' Professor Chen's voice** was hoarse. 'He's almost certain this gene is real and effective. Xiaoyao, he knows more than we do.'"
+
+**Lin Yao** said nothing. She walked over to the block of earth encasing the fossil, gently placing her hand on it, as if she could feel the coldness from a million years ago.
+
+**She** wondered: what did that ancient human, blessed with the 'Stargazer Gene,' see? What did he experience? What was his ultimate fate?
+
+**And now, a 'Grong' from the future** was trying to snatch away the only legacy he had left to this world.
+
+**The chasm between her and that ancient soul**, in this moment, seemed replaced by another, more real and dangerous chasm. She had to make a choice. And every choice led to an unknown future, fraught with immense risks.
