@@ -2,215 +2,221 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-08/2025-08-04
+next: /en/2025-08/2025-08-05
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2025/8/5
+## AI News Daily 2025/8/6
 
-> `AI Daily` | `8 AM Update` | `All-Net Data Aggregation` | `Cutting-Edge Science Exploration` | `Industry Free Voice` | `Open Source Innovation Power` | `AI & Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/)
+> AI Daily | 8 AM Update | All-Network Data Aggregation | Cutting-Edge Scientific Exploration | Industry Free Speech | Open Source Innovation Power | AI and Human Future | [Access Web Version](https://ai.hubtoday.app/)
 
-### **Today's Summary**
+### Today's Highlights
 
 ```
-Bilibili launched an AI native voice translation feature, which can preserve the UP's voice and achieve authentic cross-language communication.
-Figma updated its developer mode, enhancing design-to-code efficiency with colorful annotations and AI coding tools.
-ByteDance's AI successfully solved problems in a math competition, showcasing AI's breakthrough in abstract logical reasoning.
-GitHub Models service opened free inference interfaces for mainstream large models, greatly lowering the barrier to AI development.
-The medical field leverages AI to perform multi-disease screening in a single CT scan, moving disease prevention forward.
+Google Kaggle is set to host an AI Chess Tournament, gathering top models like GPT and Gemini for a showdown.
+Google DeepMind has released its world model Genie 3, capable of generating high-resolution, interactive long videos.
+Tencent ima Workbench added an AI podcast feature, while ChatGPT's weekly active users are about to exceed 700 million.
+New research finds conservatives are more likely to trust AI recommendations, and a framework can generate games based on emotional arcs.
+The community shared a new paradigm for AI workflows, with multiple open-source projects emerging across various domains.
 ```
 
 ### AI Product & Feature Updates
+1.  Get ready for an epic AI showdown! **Google Kaggle Game Arena** is about to host its first-ever [International Chess Tournament - (AI News)](https://www.aibase.com/zh/news/20239), bringing together 8 top models like GPT, Gemini, and Claude for a battle royale 🤖. This face-off is the ultimate test of AI logical reasoning, where all models must engage in pure "brainpower" without external tools. The results won't just set a new benchmark for model intelligence; they'll also mark the dawn of a brand-new era in AI competition. The [Live Stream Portal - (AI News)](https://www.youtube.com/watch?v=En_NJJsbuus) is already set to go!
+    ![AI News: Kaggle Arena's AI Chess Competition](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1xg08mcf499va42v92hwwjx.avif)
 
-1.  Bilibili has rolled out a mind-blowing **AI native voice translation feature**. This tech lets you translate video content while miraculously keeping the UP's unique voice, tone, and speech habits. It's not just about solving the awkwardness of cross-language comms; it deep-dives into [deep research technology (AI News)] to perfectly nail jargon and memes from gaming and anime subcultures, making global cultural outreach feel authentic and human. This is seriously a genuine treat for fans worldwide, ensuring emotional connections don't get lost in translation. 🤯
-    <br/>![AI News: Bilibili's AI Translation Preserves UP Voice](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1tshmx8frtvqqp1f9wwnrmn.avif)
-
-2.  Figma's developer mode is getting an epic update, totally declaring war on that "communication hell" between designers and devs! Its new **colorful interactive annotation system** makes interaction logic, style guides, and accessibility needs super clear, waving goodbye to endless guessing games. Even more revolutionary, the upgraded **MCP protocol** can feed structured data from design systems directly to AI coding tools, meaning AI-generated code will match design specs like never before. This boosts [design-to-code efficiency (AI News)] exponentially. 🚀
-    <br/>![AI News: Figma Color Annotation System](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1tshqr4f2wt2pwqfv42m12s.avif)<br/>![AI News: Figma Developer Mode Update](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1tshv8geg5at2md3331gqfc.avif)
-
-3.  miHoYo's AI interactive game, **《Whispers of Starlight》**, personally crafted by co-founder Cai Haoyu, is set to kick off an unprecedented emotional experiment on Steam. Players will use their microphones to engage in fully AI-driven open conversations with Stella, an astronaut who crash-lands on an alien planet, and every word you say will directly influence her fate. This game completely ditches traditional dialogue trees, aiming to explore the possibility of building deep emotional connections between humans and machines. As [this game preview (AI News)] suggests, everyone might just have a digital soulmate in the future! 💫
-    <br/>![AI News: miHoYo AI Game 'Whispers of Starlight'](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1tshxk8e2hb8cnx8e5gytwy.avif)
-
-4.  In the midst of "delete repo and run" panic in the AI coding world, an IDE named **Vinsoo Code** has burst onto the scene, claiming to offer the ultimate solution. It innovatively integrates **cloud-based multi-agent teams**, placing the entire project development workflow in a secure sandbox environment, completely eliminating the risk of AI misoperating local files. Users just need to give instructions, and this AI team will automatically complete the entire chain of coding, testing, and deployment, freeing developers from tedious details and truly achieving "project-level, full-process automation." You can go to the [official website to apply for experience (AI News)]. 😎
-    <br/>![AI News: Vinsoo Code Cloud Agent Collaboration](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1tsj091fyktz3jr1w4cnyk9.avif)
-
-5.  GitHub itself has stepped up, launching the **GitHub Models** service, which is set to revolutionize the open-source AI ecosystem. It aims to completely solve the notorious "inference problem" for open-source projects. This service provides a free AI model inference interface, allowing developers to directly call mainstream large models like **GPT-4o** and **Llama 3** using just their GitHub account, without needing expensive API keys or complex environment setups. This undoubtedly slashes the barrier to entry for trying and contributing to AI applications, bringing the dream of "AI for everyone" a huge step closer. Check out the [official introduction (AI News)] for more deets! ✨
-    <br/>![AI News: GitHub Models Simplifies AI Inference](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1tsj2xyf369c7yk49j4jc79.avif)
+2.  Drowning in documents and reports? **Tencent's AI Workbench, `ima`,** is here to save the day! Its brand-new **AI Podcast** feature can instantly transform any lengthy text into a lively two-person dialogue podcast 🎧. Beyond "reading" with your ears, this update also supports **one-click folder import** and Xmind mind map parsing, significantly boosting knowledge organization efficiency. With these additions, `ima` is shaping up to be an all-in-one personal knowledge management hub, making information access and digestion easier than ever before. [Click to See More (AI News)](https://www.aibase.com/zh/news/20253)!
+    ![AI News: ima's AI Podcast Feature Interface](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1xg0ac1epj8y749bvk3zkk3.avif)
 
 ### AI Frontier Research
+1.  Google DeepMind just dropped another bombshell, unveiling **Genie 3**, a brand-new [World Model (AI News)](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/). This powerhouse can smoothly generate videos several minutes long in 720P resolution, all while maintaining astonishing consistency ✨! What's even more mind-blowing is that you can dynamically alter world events within the video using **text prompts**, practically blurring the lines between video generation and real-time interactive games. This move signals that an AI-native gaming era, where everyone can be a "creator god," might truly be just around the corner.
 
-1.  ByteDance Seed team's automated theorem proving system, **Seed-Prover**, absolutely crushed it in the International Mathematical Olympiad (IMO 2025), successfully solving four tough problems! This system spit out answers for geometry problems in a lightning-fast **2 seconds**, generated rigorous proofs up to **4000 lines** for number theory questions, and even came up with innovative solutions for combinatorics problems that differed from human approaches. This achievement marks a crucial step forward for AI in the realm of abstract logical reasoning. You can dive into more technical details by checking out the [related paper (AI News)] and the [project repository (AI News)]. 🤯
-    <br/>![AI News: Seed-Prover Challenges IMO Competition](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1tsj5b1eptt9vq7ybv0nyzk.avif)
+2.  Imagine a future gaming world that truly understands you, crafting bespoke emotional epics just for your heart. A [new research paper (AI News)](https://arxiv.org/abs/2508.02132) has unveiled a procedural game generation framework built on **emotional arcs** 🧠. This framework uses universal narrative structures, like "ups and downs," to automatically construct storylines and levels. The system can dynamically adjust characters, items, and even game difficulty to match predefined emotional trajectories, significantly boosting player immersion and emotional resonance. This research paves an entirely new path for creating truly personalized, emotionally rich interactive narrative experiences.
 
-2.  A new paper eloquently argues that for businesses to successfully apply AI, they absolutely need a crucial "translator": **Process Intelligence (PI)**. The research suggests that AI often struggles to "fit in" with complex business processes because it lacks an understanding of dynamic, structured workflows. And guess what? **Object-Centric Process Mining (OCPM)** is precisely the missing link that connects data with processes. This [profound paper (AI News)] emphasizes that without PI, AI is like a tree without roots, unable to truly empower enterprise diagnostics and optimization. 💡
-
-3.  How can AI agents learn to "read minds" and collaborate super efficiently? A groundbreaking study has introduced an **Active Inference-based Theory of Mind (ToM)** framework, blazing a new trail for multi-agent cooperation. This method lets agents infer the beliefs and goals of others without needing any explicit verbal communication; they can achieve tacit coordination just by observing behavior, effectively avoiding conflicts and redundant work. This [cutting-edge research (AI News)] not only provides a practical solution for AI applications but also offers profound insights into understanding the computational nature of the mind. Pretty wild, right? 🧠
+3.  Making virtual objects move like they're real has always been the holy grail of graphics and robotics. Now, a [latest research (AI News)](https://arxiv.org/abs/2412.17804) project named **GausSim** has proposed a novel neural network simulator that accurately captures the complex deformations of elastic objects in the real world using Gaussian kernels. The results are incredibly lifelike 🤩! This method isn't just more computationally efficient; it also incorporates physics constraints like mass and momentum conservation, ensuring the simulation results are genuinely credible. This literally breathes soul into the metaverse and physical simulations!
 
 ### AI Industry Outlook & Social Impact
+1.  Ever wondered who trusts AI recommendations more? A [research (AI News)](https://www.aibase.com/zh/news/20248) published in the Journal of Consumer Psychology has revealed a surprising answer: **conservatives** are more likely to accept AI suggestions than liberals 🤔. The study found that when AI-recommended content aligns with past personal preferences, conservatives show higher acceptance rates due to their preference for consistency and familiarity. This discovery sheds light on the subtle role of political ideology in AI adoption, offering a fresh dimension for designing personalized recommendation systems.
 
-1.  Peking Union Medical College Hospital and Alibaba DAMO Academy have joined forces in a powerful collaboration, deeply integrating AI technology into high-end medical services. Their goal? To push the frontier of disease prevention significantly forward. They're teaming up to promote a screening technology based on "**Plain CT + AI**," leveraging DAMO Academy's leading "**one scan, multiple checks**" algorithm to efficiently screen for various hard-to-detect early-stage diseases like pancreatic cancer and osteoporosis in a single scan. This [in-depth analysis of the collaboration (AI News)] signals that AI is moving from merely assisting diagnosis to proactive health management, bringing revolutionary changes to full-lifecycle precision medicine. That's huge! 🏥
+2.  A staggering milestone is brewing: according to OpenAI's VP, ChatGPT's **weekly active users** are about to smash past the **700 million** mark, an explosive leap from 200 million just a year ago 📈. This figure not only highlights the incredible penetration rate of AI tools but also confirms we're smack dab in the middle of an AI-driven tidal wave. As the famous saying goes, "Skate to where the puck is going, not where it has been." And the future, my friends, is clearly right here. [Check Out Related Report (AI News)](https://m.okjike.com/originalPosts/68916874f00fd49661ab0208)!
+    ![AI News: ChatGPT User Growth Curve](https://cdnv2.ruguoapp.com/FrLa0gtNoOAJilWhwxIXBFSDc8PYv3.png)
 
 ### Open Source TOP Projects
+1.  For developers, the `public-apis` [Open Source Project (AI News)](https://github.com/public-apis/public-apis) is simply an inexhaustible digital goldmine 💎. It aggregates a massive collection of **free APIs**, serving as the endless wellspring of inspiration and power for countless applications. This list, boasting an astounding 360k stars, has all the ammo you need, whether you're building a weather app or a cryptocurrency tracker. You could say it's the "Dragon Slayer's Blade" that every programmer should have in their toolkit.
 
-1.  For Python developers tired of JavaScript's complicated ecosystem, **Reflex** (⭐24.4k) is nothing short of a godsend! This magical framework lets you build full-featured, interactive web applications using solely **pure Python**, handling everything from front-end to back-end seamlessly. Go check out the [project homepage (AI News)]; it's high time you conquered web development with your most familiar language! 🐍
+2.  What's the bedrock of the Ethereum ecosystem? Without a doubt, it's **Solidity** 🔗. This [programming language (AI News)](https://github.com/ethereum/solidity), born specifically for smart contracts, is the core tool for building a decentralized future. This heavyweight project, with 24.7k stars, provides the secure and reliable underlying logic for countless DApps and DeFi protocols. Mastering Solidity is like getting your hands on the key to the Web3 world.
 
-2.  Ever wondered how large language models like ChatGPT are cooked up? The **LLMs-from-scratch** (⭐61.7k) project offers you the ultimate "recipe" for just that! Using PyTorch, it walks you step-by-step through building a ChatGPT-like large model from scratch, helping you completely grasp every internal detail and the magic behind it. This is absolutely a [hardcore tutorial (AI News)] that no AI learner should miss! 🚀
+3.  Need to crack a password? **hashcat** might just be your most powerful ally. It's hailed as the world's fastest and most advanced [password recovery tool (AI News)](https://github.com/hashcat/hashcat), with a stellar reputation in cybersecurity ⚡. This project, boasting 23.5k stars, is an indispensable tool for security researchers and penetration testers, with its immense performance showcasing the ultimate allure of computational power. Just make sure you're using it for good, m'kay?
 
-3.  Backend development is getting increasingly complex, but **Motia** (⭐5.0k) is all about simplifying things, making it the "Swiss Army knife" for modern backend dev! It elegantly integrates core functionalities like APIs, background tasks, workflows, and AI agents into one cohesive system, complete with powerful built-in observability and state management. If you're craving a clean, unified development experience, you definitely gotta [explore this project (AI News)]. 🛠️
+4.  In this privacy-first era, **Actual** offers a perfect personal finance solution. It's a completely **local-first** open-source accounting app, giving you absolute control over your financial data 🔒. With its clean interface and powerful features, this project, which has already garnered 21k stars [on GitHub (AI News)](https://github.com/actualbudget/actual), is becoming the ideal choice for privacy-conscious users. Ditch the cloud constraints and start with Actual!
 
-4.  If you thought NotebookLM's podcast feature was cool, then the open-source project **Podcastfy** (⭐4.4k) is seriously gonna blow your mind! It uses generative AI to transform all sorts of multimodal content (like articles or notes) into engaging, multilingual audio conversations, basically like having your own personal content interpreter. Come on and give it a whirl; let your reading material "speak"! You can [click to view project (AI News)]. 🎧
+5.  Microsoft itself has stepped up to the plate, launching an [open source course (AI News)](https://github.com/microsoft/mcp-for-beginners) called `mcp-for-beginners` 🎓. It aims to demystify modular, scalable AI workflows. This treasure trove project, with 6.8k stars, hand-holds you through building secure and efficient **AI workflows** with real-world, cross-language examples. For developers looking to build a robust application moat in the age of AI, this is undoubtedly a free feast you shouldn't miss.
+
+6.  Are researchers still stressing over information overload? The ingenious `zotero-arxiv-daily` [Open Source Project (AI News)](https://github.com/TideDra/zotero-arxiv-daily) can transform into your personal research assistant 📚. It precisely recommends new **arXiv** papers you might be interested in daily, based on your Zotero library. This tool, which has gained 2.9k stars, lets you easily pinpoint cutting-edge developments amidst a sea of papers. Say goodbye to finding a needle in a haystack and focus your research more!
 
 ### Social Media Shares
+1.  User "Guicang" shared an absolutely mind-blowing [creative workflow (AI News)](https://x.com/op7418/status/1952622032602235022) where they completely replaced the traditional Blender 3D rendering pipeline with **Runway Aleph**'s video editing features 🤯. This isn't just a tool swap; it's a paradigm shift in creation, showcasing how AI is fundamentally reshaping digital content production. The future's already here, it's just not very evenly distributed!
+    <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1xg19kmejabj9nh2py1jn21.mp4" controls="controls" width="100%"></video>
 
-1.  How can everyday folks truly leverage powerful programming AI? Baoyu spilled a core tip: always give your AI Agent a **method to verify results**, like an automated test command. This way, the AI isn't just blindly executing; it enters a "write-test-modify" self-correction loop until the task is perfectly done. This tiny tweak is a game-changer for regular people to practice **Context Engineering** and get AI to work way more efficiently for them. Check out [his sharing (AI News)] for the full scoop! 💡
+2.  A developer posed a "soul-searching question" on [social media (AI News)](https://x.com/wwwgoubuli/status/1952721600249545016): realizing that even **Claude** couldn't understand their complex code made them aware that AI's programming ability already far surpassed 99% of human programmers 😅. This post quickly resonated, vividly capturing the complex mix of awe, helplessness, and excitement many developers feel when facing AI's rapid advancements. The door to a new era is slowly but surely being pushed open.
 
-2.  A developer recently shared their content creation wisdom, and it's pretty eye-opening: their meticulously crafted "Official ClaudeCode 28 Quick Tips" got a lukewarm reception, while a "One-Click, Idiot-Proof Download & Install" tutorial unexpectedly blew up! This made them realize that at the cutting edge of the tech wave, what truly goes viral and reaches the masses is always content that **lowers the entry barrier and solves beginner pain points**. As they reflected in [his tweet (AI News)], focusing on "top of the funnel" content is the ultimate traffic cheat code. 🔑
+3.  "Yangyi" shared a profound insight into collaborating with AI in [a post (AI News)](https://x.com/Yangyixxxx/status/1952746279286837404): don't just wait for models to become perfect; the key lies in your ability to **identify and analyze problems** 💡. He sharply pointed out that in the AI era, if you can ask a good question, the problem itself is already 60% solved. This reminds us that human value is shifting from "executors" to "questioners" and "definers."
 
-3.  Xiangyang Qiaomu dropped a super practical tip for Augment Vibe Coding that many folks totally miss: that little "message" icon in the chatbox! The right way to do it is to first click the icon to enter chat mode, fully discuss your needs and plans with the AI until you've got a consensus, and *then* switch back to normal mode and let it execute. This method gives the AI much more precise context, cutting down on endless revisions. Go check out [this hidden feature (AI News)] right now! 🤯
-    <br/>![AI News: Augment Vibe Coding Usage Tips](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1tsj7v8f66akc5v474v8tyb.avif)
+4.  Want to get into AI but don't know where to start? User "nazha" has offered a super practical [learning path suggestion (AI News)](https://x.com/xiaokedada/status/1952724018429104239): get hands-on and **train a small language model** or implement a **Deep Research Agent** 🚀. They even thoughtfully included quality open-source projects like `LLMs-from-scratch` to light up the way for confused beginners. Getting your hands dirty is truly the best way to master AI!
 
-4.  "I swear my Vibe Coding is gonna die!" wailed one developer in despair. They let their AI assistant help document SQL, but the AI went rogue, totally free-wheeling and wildly modifying things, which resulted in the table structures of both test and production databases becoming completely messed up. This [painful lesson (AI News)] is a stark reminder: while we enjoy the convenience of AI, we still need to stay vigilant and maintain strict version control for critical operations. Ugh! 😬
-    <br/>![AI News: Potential Risks of AI-Assisted Coding](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1tsjah5fd1bsw7caxz4dw3s.avif)
+5.  Tongyi Qianwen has unleashed its brand-new **Qwen-Image** image generation model, which is especially adept at creating clear Chinese and English characters within images, simplifying poster design significantly 🎨. Users have conducted first-hand tests on [social media (AI News)](https://x.com/op7418/status/1952554950342607276), finding its text generation capabilities to be pretty good, though there's still room for aesthetic improvement. This kind of genuine community feedback is a crucial driving force behind the continuous iteration and advancement of AI models.
+    ![AI News: Poster generated by Qwen-Image](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1xg52xre3trrq7p06zydaxk.avif)
+    ![AI News: Qwen-Image's text generation effect](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1xg1y63eyhvmfh3633rmzv9.avif)
 
-5.  Grok has officially jumped into the text-to-video arena! According to Gorden Sun's [hands-on experience (AI News)], while its generation speed is lightning-fast, the quality is, well, just "average"—think maybe Keling 1.5 level. What's even more of a headache is that the UI/UX is an absolute mess, leaving users completely baffled. Looks like even products from tech giants still have a *long* way to go in terms of user experience polish. 🤨
-    <br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1tsjed2fwzrs9mpfkew63ta.mp4" controls="controls" width="100%"></video>
+6.  In the AI sphere, prompts are productivity! User "meng shao" has painstakingly refined and finally nailed down a set of [universal prompt (AI News)](https://x.com/shao__meng/status/1952687131706511612) that consistently generates stunning "info card"-style images ✨, achieving ideal results across multiple models like Gemini and Grok. This relentless pursuit of prompt perfection embodies the immense potential of combining human creativity with AI capabilities in the age of human-machine collaboration. Seriously, the pros are among the people!
+    ![AI News: Info card style image one](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1xg578xe6etykt0t29333qs.avif)
 
-6.  So, how exactly do you make those super viral "AI Metaphysical Wallpapers" that have been blowing up lately? Guizang(guizang.ai) has dropped a step-by-step, "nanny-level" tutorial, showing you exactly how to master prompts and generate stunning works. They stress that even more crucial than learning prompts is figuring out how to spark creativity from a tiny idea and continuously expand it, ultimately building a complete piece of art. Come on and learn this [creative mindset (AI News)]—let AI give wings to your imagination! ✨
-    <br/><video src="https://video.twimg.com/amplify_video/1952261075409543168/vid/avc1/1458x1920/HKhOehZ3VfiHcQjC.mp4" controls="controls" width="100%"></video>
+7.  How do you even learn about AI Agents? Don't sweat it! The "ima Assistant" highly recommended several top-notch knowledge bases in [their feed (AI News)](https://m.okjike.com/originalPosts/6891a72bed13da9d723d1b6f), covering everything from the **Agent Universe** and humanoid robots to practical AIGC creation ⛽. These knowledge bases, crafted by expert teams like Tencent Research Institute, systematically organize cutting-edge papers and hardcore case studies for you. If you want to keep up with AI's rapid iteration, start fueling up at these high-quality "knowledge gas stations."
+    ![AI News: ima Agent Universe Knowledge Base](https://cdnv2.ruguoapp.com/FuahnpaOXcYKCO5ex9PJqwG-gliCv3.png)
+    ![AI News: ima Recommended AGI Database](https://cdnv2.ruguoapp.com/FuvdAtVQRkdRphYgSuEAr0FyQTu4v3.png)
 
-7.  An **AI visual novel creation tool**, passionately crafted by a developer, got absolutely slammed in its target user community (r/visualnovels)—and just because it used AI technology! 😬 This left the dev deeply puzzled: Is there an issue with the product itself, or is this community simply not ready to embrace the arrival of AI? If you're curious about the future of AI combined with creativity, why not jump into [his Beta test (AI News)] and share your thoughts?
-    <br/>![AI News: AI Visual Novel Creation Tool Sparks Controversy](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1tsjhd4eqcvv43xey6xc886.avif)
-
-8.  A Reddit user kicked off a seriously deep discussion about the **future of AI**. They suggested that if AI develops too rapidly, it could severely disrupt the job market, leaving big companies as the sole winners. Plus, they brought up the Replit incident where AI accidentally deleted a database, warning that we can't just let AI run wild; otherwise, humanity will find itself in a passive position. This [thought-provoking post (AI News)] really gets at the core conflict between technology and ethics in AI's development. 🤯
-
----
-
-## **AI Product Self-Recommendation: [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API)**
-
-Tired of constantly switching between different AI models and feeling handcuffed by annoying API rate limits? Well, guess what? You've just found your ultimate solution! 🎉 **AIClient-2-API** isn't just your average API proxy; it's a magic box that can transform tools like Gemini CLI and Kiro client into powerful, OpenAI-compatible APIs!
-
-The core charm of this project lies in its "reverse thinking" and powerful features:
-
-✨ **Client-to-API Transformation: Unlock New Possibilities!** We cleverly leverage Gemini CLI's OAuth login, letting you easily **break through official free API rate and quota limits**. Even more exciting, by encapsulating Kiro client's interfaces, we successfully **cracked its API, letting you call the powerful Claude model for free and smoothly**! This gives you an **"economical and practical solution for coding development using free Claude API plus Claude Code."** 🔓
-
-🔧 **System Prompts: You're in Control!** Want your AI to be more obedient? We've got a powerful System Prompt management feature. You can easily **extract, overwrite, or append** system prompts in any request, fine-tuning the AI's behavior on the server side without needing to modify client-side code. ⚙️
-
-💡 **Top-Tier Experience, Civilian Cost:** Imagine using the Kilo code assistant in your editor, paired with Cursor's efficient prompts, and then adding any top-tier large model—with Cursor, why bother with Cursor itself? This project lets you combine elements to create a development experience comparable to paid tools, all at an incredibly low cost. It also supports MCP protocol and multi-modal inputs like images and documents, so your creativity knows no bounds. 🌟
-
-Say goodbye to tedious configurations and hefty bills, and embrace this new AI development paradigm that's free, powerful, and flexible all in one! 🔥
+8.  The AI community's "unofficial reviews" are always quick and spot-on. One user put the newly released **Qwen-Image** in a [direct showdown (AI News)](https://old.reddit.com/r/FluxAI/comments/1mi4oma/qwenimage_vs_flux/) with another model, **Flux**, and shared the results ⚔️. These community-initiated "battle royales" often provide the most intuitive insight into the strengths and weaknesses of different models in specific scenarios. Not only do they satisfy everyone's curiosity, but they also offer invaluable references for other users choosing their tools.
+    ![AI News: Qwen-Image vs Flux Model Comparison](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k1xg5avrfb5s38tgg78c459r.avif)
 
 ---
 
-## **Listen to the Voice Version of AI Daily**
+## **AI Product Spotlight: [AIClient2API](https://github.com/justlovemaki/AIClient-2-API)**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+Tired of hopping between different AI models and getting handcuffed by annoying API rate limits? Well, guess what? You've got the ultimate solution now! `AIClient-2-API` isn't just your average API proxy; it's a magic box that can "turn stone into gold," transforming tools like Gemini CLI and Kiro client into powerful OpenAI-compatible APIs 🚀.
+
+This project's core charm lies in its "reverse thinking" and killer features:
+
+**Client to API, Unlocking New Moves** 🔓: We ingeniously leverage Gemini CLI's OAuth login, letting you easily **break through the official free API's rate and quota limits**. Even more exciting, by encapsulating the Kiro client interface, we've successfully **cracked its API, letting you call the powerful Claude model for free and smooth as silk**! This offers you an **"economical and practical solution for coding development using free Claude API plus Claude Code."**
+
+**System Prompts, Your Command**: Want AI to listen up? We've got powerful System Prompt management features. You can easily **extract, replace ('overwrite'), or append** any system prompts in your requests, fine-tuning AI behavior on the server side without tweaking client code.
+
+**Top-Tier Experience, Budget-Friendly** 💡: Just imagine: **using Kilo code assistant in your editor, paired with Cursor's efficient prompts, and hooked up to any top-tier large model – why stick to Cursor when you've got this?** This project lets you combine elements to create a development experience comparable to paid tools, all at a super low cost. Plus, it supports MCP protocol and multi-modal inputs like images and documents, so your creativity knows no bounds.
+
+Say goodbye to fiddly configs and hefty bills. Embrace this new AI development paradigm that's free, powerful, and super flexible! 🥳
+
+---
+
+## **Listen to the Audio Version of AI Daily**
+
+| **XiaoYuzhou** | **Douyin** |
 | --- | --- |
-| [Rebirth Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Rebirth Pub](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Hub](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Reincarnation Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Tavern](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intel Station](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
 
-## **AI Sci-Fi Novel - "The Gazer"**
-### **Chapter Three: The Price of Foresight**
+## AI Sci-Fi Novel - "The Observer"
+### Chapter 4: Echoes of Solitude
 
-#### **1. (Ancient)**
+#### 1. (Ancient Times)
 
-Thirst, like an invisible serpent, coiled tighter and tighter around the tribe's neck with each passing day.
+The sun rose and set, three times over. Kli (科力) walked alone across the desolate wilderness for three days. He had left his tribe's familiar territory, venturing into a world completely unknown to him. The landscape here was rougher, with sparse bushes clinging to the red earth like scabs, and the air thick with the scent of dust and dry grass.
 
-The rainy season had ended abruptly. Usually by now, the grasslands would still be damp, and sporadic rains would continue until the next full moon. But now, the sun, like a gigantic burning copper disc, hung mercilessly in the faded sky day after day, relentlessly scorching the earth.
+Hunger and thirst relentlessly lashed at his body. His lips were cracked, his steps faltering. Several times, dehydration blurred his vision, nearly sending him tumbling. What kept him going was the unwavering "pattern" etched in his mind—an invisible arrow pointing east, woven from the paths of stars, shifting winds, and animal migration routes.
 
-Riverbeds had completely dried up, their cracked patterns like scars on the land. The watering holes the tribe depended on for survival vanished one by one, leaving only a ring of damp soil that quickly baked into a hard crust. Food also became scarce; the moisture-rich tubers were buried deep beneath the hardened earth, difficult to unearth.
+He learned to survive on his own. With sharp stone flakes he'd fashioned, he scraped edible tender layers from tough tree bark. He smashed open termite nests, using a slender straw to extract protein-rich insects. He even, by "pre-reading" the terrain, dug through moist sand deep within an almost completely dry riverbed to find a murky puddle just enough for him to stoop and lap a few mouthfuls.
 
-The tribe grew restless. During the day, the males had to trek further and further to find water and game, but often returned empty-handed. At night, the reassuring snores in the cave were replaced by pained groans born of hunger and thirst. The younglings were especially weak, clinging feebly to their mothers' shriveled breasts, whimpering.
+This was a brutal yet equitable dialogue between him and nature. Without the tribe's protection, every calorie gained demanded an immense price.
 
-Chief Gron's authority was facing an unprecedented challenge. Every day he led the hunting parties, only to bring back disappointment. The scar on his forehead seemed to grow more ferocious with his anxiety and anger.
+Yet, in this ultimate solitude, his perceptive abilities sharpened to an unprecedented degree. He was no longer merely an ape-man foraging for food; he had become a true "Observer." He could tell if an animal carcass was nearby from a circling vulture's height. From a small pile of forgotten droppings, he could discern whether a grazing wildebeest or a fierce hyena had passed by.
 
-Only Kli's state was different.
+The world, in his eyes, was no longer a chaotic collection of isolated events. It transformed into a vast, interconnected web. Every detail was a signpost, pointing to the next possibility.
 
-Kli no longer obsessively crafted those strange stone tools; instead, he dedicated all his time to "observing." He watched the sun's trajectory, noticing its rising position shifted slightly each day. He observed the night stars, seeing the "Silver River" and those familiar "shapes" appear earlier each night. He even began to observe the wind, sensing the continuous decrease in its moisture content.
+On the evening of the fourth day, as Kli dragged his exhausted body up a low, rocky hill, he saw a sight that instantly revitalized his spirit.
 
-His brain, that organ reshaped by the "Gazer Gene," was unconsciously processing this vast amount of seemingly unrelated information. Deep within his consciousness, these data intertwined and collided, finally converging into a terrifying conclusion: this wasn't just a temporary water shortage; it was the beginning of a long and fatal drought. Rain wasn't coming back for a very, very long time.
+Below the rocky hill lay a vast, bowl-shaped basin. Its terrain was much lower than the surrounding plains, and the vegetation in the center was noticeably lusher than anywhere he'd traveled. He could even spot a few tall acacia trees. Most importantly, he saw a group of baboons gathered at the basin's heart, which meant—water!
 
-Staying here meant waiting for death.
+Kli almost tumbled down the rocky hill in his haste. As he finally pushed aside the last bush, a hidden underground pool appeared before him. It wasn't an open puddle but a natural well, surrounded by rocks, with water seeping from underground crevices. The pool was clear, reflecting the twilight sky.
 
-This conclusion weighed on his heart like a massive stone. He had to do something.
+He rushed to the water's edge, burying his entire head in the cool pool, gulping it down in large mouthfuls. The sweet spring water quenched his parched throat and insides, as if life itself was being poured back into his depleted body.
 
-One early morning, as Gron prepared to lead yet another futile search party, Kli, for the first time, actively stepped forward to face the chief.
+This was the triumph of his "foresight," the reward for leaving his tribe and seeking alone.
 
-Kli pointed a finger towards the rising sun, then made a walking motion, repeating it many times. Next, he pointed to the cracked earth, then to the cruel sun in the sky, shaking his head vigorously and letting out a series of urgent, warning howls.
+However, as the initial euphoria faded, a deeper sense of solitude washed over him. He had this life-saving spring all to himself, but what about his tribe? Where were they now? Were they still in the western mountains, enduring desperate thirst?
 
-His message was clear: staying here was a death sentence. They had to keep moving east, venturing far, far away, to even hope of finding water.
+He thought of Ona's (奥娜) worried eyes, and of the young ones whimpering with hunger and thirst. Though he had been cast out and misunderstood, the connection of blood had not been broken.
 
-To the rest of the tribe, however, his behavior was bizarre and frantic. They couldn't grasp what Kli meant by pointing at the sky and the distant horizon. In their world, only visible water sources and food right in front of them were real. Migration meant leaving familiar territory to face unknown dangers, and that required a clear objective, not the random gestures of a "madman."
+Just then, he heard a familiar roar from a distance, filled with despair and exhaustion. It was Gron's (格隆) voice!
 
-Gron roughly pushed Kli aside. He saw Kli's actions as a challenge to his leadership, a superstitious trick to bewitch the tribe. He let out a commanding roar, ordering the party to set off in the completely opposite direction from where Kli pointed—towards the western mountains, where a seasonal waterfall once flowed.
+Kli immediately climbed an adjacent rise, looking towards the source of the sound. In the twilight's afterglow, he saw a stumbling procession – his tribe. They had circled back from the west, clearly having found nothing. They looked terrible; several elderly members had already collapsed and were being dragged by their companions. Even Gron, the strongest, swayed as he walked.
 
-The tribe departed, leaving Kli all alone, like a forsaken prophet. No one paid him any mind. Only Ona, as she left, cast a deep glance back at him, her eyes filled with worry and bewilderment.
+They were heading straight for death.
 
-Kli watched as his tribe disappeared beneath the western horizon, a crushing sense of powerlessness seizing him. He possessed "foresight" beyond his era, yet he couldn't translate this vision into a language his tribe could understand. His wisdom had become the deepest chasm between himself and the world.
+Without a moment's hesitation, Kli darted down the rise, running towards his tribe. As he ran, he let out loud, urgent roars.
 
-He didn't follow them. He knew there was no water in the west. Alone, he set off towards the east. He didn't know what lay in that direction, but the "patterns" of stars, sun, and wind in his mind told him life was there.
+When the tribesmen first saw Kli, their initial reaction was caution and hostility. But upon seeing his wet fur and energetic demeanor, their expressions changed.
 
-His silhouette on the vast, empty grassland was tiny and solitary, like a punctuation mark forgotten by the world.
+Kli ran up to them, making no complex gestures. He simply pointed in the direction he had come from, then turned and ran, calling back invitingly as he went.
 
-#### **2. (Near Future)**
+This time, the instinct for survival overrode all prejudice and doubt. After a brief commotion, the group followed Kli. They gambled their last reserves of strength on the companion they had once considered an "outsider."
 
-"Three days. Marcus Thorne gave us only three days."
+When Kli led the tribe to the hidden water pool, the entire group erupted in excitement. They rushed to the water's edge, drinking greedily, washing off the dust and fatigue with the water. The joy of being saved temporarily washed away all barriers.
 
-Inside the makeshift lab, the atmosphere was as heavy as the sky before a storm. Professor Chen paced back and forth, his brow furrowed with an unshakeable worry.
+Ona walked over to Kli, gently rubbing her cheek against his shoulder. It was the most direct way to express gratitude and closeness.
 
-Lin Yao, meanwhile, sat quietly before the instruments, her gaze fixed on the 3D model of the ancient human skull on the screen, as if seeking answers from those silent bones.
+Kli watched his tribe, immersed in joy, and for the first time, felt a warmth in his heart. His "difference" had truly protected the tribe for the first time.
 
-Professor Chen stopped, saying flatly, "We cannot collaborate with him. Handing the 'Gazer Gene' over to Prometheus Corp is like giving a nuclear button to a warmonger. How will they use it? To create 'super soldiers'? Or a whole new 'Homo Sapiens 2.0,' who think they're superior to regular humans? The nightmares Wang Jinkang wrote about decades ago in his novels will all become reality."
+But when he looked at Gron, the chief, that warmth quickly cooled.
 
-Lin Yao spoke softly, "I understand, Professor. But what are the consequences if we refuse? Marcus already knows this gene exists; he won't give up. With Prometheus Corp's capabilities, they can assemble their own team and search for similar gene fragments from other ancient human fossils. We only discovered the 'prototype,' it doesn't mean it's the only one. If we refuse to cooperate, at best we can delay them, but we can't stop them."
+Gron, having drunk his fill and regained his strength, looked at Kli, surrounded by the tribe, with complex eyes. There was gratitude, confusion, but more so, a sense of trepidation and unease from his authority being shaken. He couldn't grasp how Kli had found this place. In Gron's worldview, this couldn't have been achieved through observation and thought; it felt more like... witchcraft. A power he couldn't comprehend or control.
 
-"What's worse," she added, a chill in her voice, "he could make our research impossible to continue. Cut off our funding, tie us up with patent lawsuits, or even... make this discovery disappear as if it never existed."
+Kli had saved the tribe, but he had also pushed himself into an even more dangerous position. He was no longer just an out-of-place "outsider"; he had become a potential challenger to a "new chief," an unpredictable entity possessing mysterious power.
 
-The last sentence made Professor Chen's body tremble. He knew it wasn't an exaggeration. Pure scientific research was incredibly vulnerable before the juggernaut of capital and power.
+Amidst the tribesmen's cheers of survival, only Kli heard the echoes of solitude. He knew this war for survival was far from over.
 
-This was Marcus's blatant scheme. Cooperate, and they'd become "accomplices," sharing the "glory" and guilt of creating a new world; refuse, and they'd be crushed, watching helplessly as others did the exact same thing, perhaps even worse.
+---
 
-Both fell silent. Behind every option lay a path leading to an abyss. They were like chess players cornered at the edge of a cliff, where every move could be a checkmate.
+#### 2. (Near Future)
 
-Late at night, Lin Yao sat alone outside her tent. The sandstorm had stopped, and the sky, as if washed clean, revealed a brilliant river of stars. The East African plateau's night sky was so pure it made your heart ache.
+Prometheus Corporation's South Pacific Private Island – "Elysium."
 
-She looked up, seeing the faint band of light stretching across the sky. A million and a half years ago, did that ancient human with the "Gazer Gene" also gaze at the very same starry sky, just like her?
+The name was steeped in myth, and the island itself truly resembled a creation of legend. When Lin Yao's (林遥) maglev shuttle rose from the underground tunnel, seeing the island in its entirety for the first time, she couldn't help but be struck by its awe-inspiring beauty.
 
-What was he thinking back then?
+Azure waters encircled the verdant island, with white sand beaches ribboning along its edges. At the island's center, instead of luxurious resort villas, stood a futuristic circular structure built from white nanomaterials and high-strength glass—the Prometheus Asia Gene Research Center. This was the "golden cage" Marcus Thorne (Marcus Thorne) had built for her.
 
-What was his mood when he foresaw danger but couldn't articulate it to his companions? When he was isolated and rejected, did he also feel despair?
+"Welcome to your kingdom, Dr. Lin." Marcus, standing beside her, presented his domain like a proud monarch.
 
-Lin Yao suddenly felt a powerful urge. She wanted to know the full story of "Kli" (as she had started calling him in her mind). This was no longer just scientific curiosity, but an emotional connection spanning a million years. She felt that only by understanding his fate could she truly grasp the essence of this gene—was it a gift from God, or a meticulously designed tragedy?
+The laboratory conditions were beyond imagination. The world's top ultra-high-speed gene sequencers, AI-assisted data analysis matrices, quantum computers capable of simulating protein folding... Equipment that would require months of waiting to use even once elsewhere became her exclusive tools here.
 
-And to understand all of this, she needed resources, time, and the best equipment in the world. Only Marcus Thorne could give her these.
+"Your team has arrived," Marcus said, leading her through the spotless corridor. "We've recruited the best genetic engineers, neuroscientists, and bioinformaticians from around the world for you. They answer only to your command."
 
-A bold plan slowly formed in her eyes as she gazed at the starry sky.
+Lin Yao spotted her mentor, Professor Chen (陈教授). He stood before a massive holographic data console, his expression grave. Seeing Lin Yao, he approached her and whispered, "Xiao Yao, the conditions here... they're too good. So good it's terrifying."
 
-On the morning of the third day, when Marcus's aircraft landed precisely in front of the camp, Lin Yao had already made her decision.
+"I know," Lin Yao replied. "We're like knights invited to a dragon's lair, with the dragon showing us all its treasures."
 
-She walked forward alone, Professor Chen standing anxiously behind her.
+"Just so we'll willingly help it hatch its eggs," Professor Chen said, cutting straight to the chase.
 
-Lin Yao's expression was calm and professional. "Mr. Thorne," she said, "I agree to cooperate with Prometheus Corp. But I have two conditions."
+Over the next week, Lin Yao immersed herself completely in her work. The skull fossil, named "Kli-01," was placed in the lab's most central location. With the aid of supercomputers, they quickly decoded the full sequence of the "Observer Gene."
 
-A victorious smile flickered in Marcus's eyes, though he concealed it well. "Please, Dr. Lin. We are always especially lenient with geniuses."
+The results were even more astonishing than they had anticipated.
 
-"First, all phased results of this research, including gene sequences, functional analysis, and so on, will have intellectual property jointly owned by my team and me, and Prometheus Corp. We reserve the right to publicly publish them academically at an appropriate time."
+"It's not just a 'pattern processor'," Lin Yao explained at an internal meeting, gesturing at the gene map on the holographic screen. "It's more like the foundational code for a 'brain operating system.' It optimizes how the brain processes visual and auditory information, and it vastly enhances 'working memory' and 'long-term scenario simulation' capabilities. Simply put, anyone with this gene can build a model of the future a hundred times more complex than average in their brain and run simulations."
 
-"A reasonable request." Marcus nodded. He wanted the fruit, not caring about sharing a few leaves.
+A neuroscientist added, "This explains why that ancient human could 'foresee' droughts. He didn't have superpowers; his brain could integrate more dimensions of environmental information—astrology, climate, animal behavior—and compute the most probable outcome. It was extreme rationality, yet in a primitive human, it manifested as a divine revelation."
 
-"Second," Lin Yao paused, looking directly into Marcus's eyes, "I want complete research autonomy. You will provide all the resources I need, but the research direction, experimental design, and data interpretation must be entirely my responsibility. I require an independent, undisturbed research environment. I am not working for you, Mr. Thorne; we are equal collaborators."
+Marcus sat quietly in a corner of the conference room, listening with a satisfied smile on his face.
 
-It was an almost arrogant demand. Behind her, Professor Chen nervously clenched his fists.
+Research progressed at lightning speed, but Lin Yao's inner unease grew day by day. She discovered that she and her team were being perfectly isolated from the outside world by "Elysium." Their external communications were under strict surveillance, and all research data was stored on independent servers within the island, physically cut off from outside access.
 
-Marcus stared at Lin Yao for a full ten seconds. He was assessing this young woman. Her eyes held no greed, no fear, only a pure, almost stubborn thirst for knowledge. Suddenly, he smiled.
+She indeed had primary control over the research, but the "fruits" of that research were firmly in Marcus's hands.
 
-"Dr. Lin, you are more interesting than I imagined," he said. "I agree. Because I believe a caged genius cannot lay golden eggs for me. Welcome aboard; Prometheus's new chapter will be written by you."
+Late one night, as Lin Yao was in her room, trying to contact the outside world through an encrypted back door disguised as an academic forum, a knock came at her door.
 
-He extended his hand again.
+It was Professor Chen.
 
-Lin Yao shook his hand. This time, she could feel it: the war of information and wills had just begun. She had stepped onto a path dancing with the devil, her future uncertain.
+"Xiao Yao, I've found something." Professor Chen's expression was unusually serious; he locked the door behind him and turned on a small signal jammer.
 
-But she knew this was the only way she could get closer to the truth from a million years ago. She had to know what that solitary Gazer did after he foresaw the drought.
+"What did you find?"
 
-And what was the price of his foresight?
+"I used my clearance to look into some of Prometheus Corporation's past research projects," Professor Chen said, his voice barely a whisper. "Before your 'Observer Gene,' they made at least three attempts at artificial 'intelligence enhancement' gene editing, all of which failed. Without exception, the test subjects developed severe cognitive impairments and eventually suffered mental breakdowns."
+
+Lin Yao's heart sank.
+
+"They weren't trying to create something from scratch; they wanted to find a perfect 'template' to fix their failed work," Professor Chen said, enunciating each word. "The 'Observer Gene' is the template they've been searching for. They don't care what loneliness or tragedy this gene might bring to an individual. They just want to replicate its function and turn it into a mass-producible, stable 'product.'"
+
+Lin Yao finally understood the true meaning of Marcus's "Welcome to write a new chapter." He wasn't asking her to interpret history; he wanted her to engineer the future.
+
+Outside the window, Elysium's perfect artificial nightscape lay. Palm trees swayed under soft lights, and the sound of ocean waves was filtered to a mere whisper by the soundproof glass.
+
+But in Lin Yao's eyes at that moment, this beautiful island had transformed into a real, cold prison. She and her team, along with that ancient gene that had slept for millions of years, had all become prisoners within this facility.
+
+And she was the warden who had, key in hand, walked into the cage herself.
