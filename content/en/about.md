@@ -4,23 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hey there, I'm Hexi2077 / justlovemaki 👋
+#### 👋 何夕2077 / justlovemaki
 
-> Years of coding have chilled my fingertips, but the fire in my heart remains untold.
-> Now, with the AI storm brewing, I vow to seize the skies and give it my all!
+> Ten years of code, fingers chill, unexpressed emotions still.
+> But now, with AI's storm brewing, I vow to strive for a grand breakthrough.
 
-#### My Code Philosophy 💡
+#### My Code Philosophy
 
-> Tech for the people! Always.
+> Technology serves the people.
 
-#### Featured Projects 🚀
+#### 🚀 My Portfolio
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This is a neat AI image generation script, all powered by Cloudflare Workers.
+    *   This project is an AI image generation script, powered by Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This bad boy is a content aggregation and generation platform, powered by Cloudflare Workers. It's designed to bring you daily curated insights from the AI world, covering everything from industry news and trending open-source projects to cutting-edge academic papers and even spicy hot takes from tech KOLs!
-*   Wanna see more? My [GitHub](https://github.com/justlovemaki) is where all the magic happens!
+    *   Cloudflare AI Insight Daily is a content aggregation and generation platform, driven by Cloudflare Workers. It daily curates the latest AI developments for you, including industry news, trending open-source projects, cutting-edge academic papers, and insights from tech influencers' social media.
+*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
 
-#### Current Explorations 🔍
+#### 🌱 What I'm Exploring Right Now
 
-LLM applications and website SEO are my current obsessions! I'm actively diving deep, learning, and getting my hands dirty with both.
+LLM applications and website SEO are areas I'm deeply passionate about, and I'm actively diving into learning and practical application.
