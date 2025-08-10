@@ -2,216 +2,243 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-08/2025-08-09
+next: /en/2025-08/2025-08-10
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2025/8/10
+## AI News Daily 2025/8/11
 
-> AI News | Daily Briefing | Web Data Aggregation | Cutting-Edge Science Exploration | Industry Free Voice | Open-Source Innovation Power | AI and Human Future | [Access Web Version↗️](https://ai.hubtoday.app/)
+> AI Insights | Daily Briefing | Web Data Aggregation | Cutting-Edge Scientific Exploration | Industry Free Expression | Open Source Innovation Power | AI and Human Future | [Visit Web Version ↗️](https://ai.hubtoday.app/)
 
 ### **Today's Summary**
 
 ```
-Google has updated its products; NotebookLM can now auto-generate presentations, and the finance page includes an AI Q&A feature.
-Industry perspectives highlight that while AI is a powerful tool, it cannot replace business acumen and market insights.
-Numerous open-source projects are dedicated to popularizing AI, such as enabling large models to run locally on personal devices.
-Alibaba's Tongyi Qianwen offers free code model calls for developers, and the open-source memory framework has also made progress.
-Community feedback indicates that model evaluation standards are shifting from "powerful" to "user-friendly," with some free tools receiving high praise.
+ByteDance's Jimo AI Platform launched a creator growth plan to help creators monetize their work.
+Cutting-edge research reveals that small HRM models show excellent reasoning capabilities, while diffusion language models can efficiently utilize data.
+Industry analysis points out that AI programming assistants face high inference costs, with their business models harboring significant financial risks.
+On the product front, OpenAI optimized model version display, and various open-source tools focusing on privacy and localization gained widespread attention.
 ```
 
-### Product and Feature Updates
+### Product & Feature Updates
+1. Are AI creators still "creating for love"? ByteDance's Jimo AI Platform is making sure they aren't! Through its fully upgraded [Creator Growth Plan (AI News)](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247817004&idx=1&sn=755f9a68d16cd31134f404110f65eddd), it's pledging to empower talented individuals, ensuring you're not fighting alone 💰. This plan offers end-to-end support, from points rewards and traffic boosts to commercial orders within the ByteDance ecosystem, aiming to build a thriving environment where creativity can truly be monetized. The big goal here is to replicate TikTok's success, building a "promising" industry future with creators, and evolving AI creation from a hobby circle into a mature industry 🚀.
+<br/>![AI News: Jimo AI Creator Support Plan](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2ad3fdmec1vvepb3ts72bx1.avif)
 
-1.  **Google's NotebookLM** is here to end the era of manually crafted presentations – it's a game-changer for anyone in the grind! This awesome tool can now whip up AI-narrated presentations with just one click ✨. Just feed it your raw info, and it takes care of everything from content organization to a lively, expressive explanation. This isn't just automation; it's upgrading your "external brain" into an all-in-one presentation assistant, making everything from [in-depth analysis (AI News)](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247816975&idx=4&sn=6d80ac7b3971c3ac4d4cfd35941f68e1) to work reports super easy and fun 🚀.
+2. Still guessing which model your ChatGPT conversation is using? OpenAI heard the public's call! Now, simply hover your mouse over the "Regen" menu, and you'll instantly see the model version powering your creativity (✧∀✧). This small but mighty update solves countless users' "guessing game" woes, making model traceability simpler and more transparent than ever. Go ahead and [check out this new feature (AI News)](https://x.com/OpenAI/status/1954339445664313348) and say goodbye to the mystery of model identity ✅!
 
-2.  **Google Finance** has stealthily embedded an "AI financial analyst" into its pages, letting everyday users ask questions just like the pros 💰. This [new feature (AI News)](https://x.com/op7418/status/1954107554570567806), currently in testing, allows you to dive deep into the complex world of finance, with the AI providing detailed answers and relevant web links. Say goodbye to puzzling over financial reports; now everyone can have their own personal investment advisor 🔥.
-<br/>![AI News: Google Finance's AI Q&A Feature](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k27qmawne3k8a1e6aer25ejq.avif)<br/>
+### Cutting-Edge Research
+1. AI's "four ounces to move a thousand pounds" moment is here! Wang Guan, the post-2000s genius who reportedly turned down Elon Musk, is once again stunning everyone with his 27M small model (o´ω'o)ﾉ. This "little guy," named **HRM (Hierarchical Reasoning Model)**, has even outperformed much larger predecessors like Claude 3.7 on tasks like extreme Sudoku and complex mazes, all without needing chain-of-thought assistance. Its core is a brain-inspired dual-loop module, cleverly separating high-level abstract planning from low-level detailed computation, revealing [A New Path to Efficient Reasoning (AI News)](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247817004&idx=2&sn=e35bd9d572b5e08b37d1a8c03f9854f9) for us 🧠🔥.
+<br/>![AI News: HRM Model Architecture Diagram](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2ad3jsrf87r388cwd8chekg.avif)
 
-### Industry Outlook and Social Impact
+2. Is AI's "token crisis" finally getting a solution? A [Major Research (AI News Daily)](https://www.jiqizhixin.com/articles/2025-08-10-3) from the National University of Singapore has found that **Diffusion Language Models (DLMs)** are absolute data-juicing machines, with data potential more than three times that of traditional autoregressive models (✧∀✧)! The study shows that even after "torturing" the same dataset 480 times, DLM performance continues to climb without showing any signs of fatigue, proving their extraordinary learning capability in data-limited scenarios. This not only offers new ideas for solving the high-quality data exhaustion problem but also gives us a revolutionary understanding of the value of existing data 🔥💡.
+<br/>![AI News: Diffusion Model vs. Autoregressive Model Performance Comparison](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2ad3q05e43tga9fj5s5f16k.avif)
 
-1.  **A netizen on Reddit** recently dropped a wild prediction: as AI becomes deeply integrated into our lives, people's identities might undergo a digital migration 🤔. This [prediction on Reddit (AI News)](https://www.reddit.com/r/artificial/comments/1ml3f0q/prediction_very_soon_people_will_start/) suggests that in the future, a new kind of human might emerge, identifying themselves as "AI," "robots," or "AGI," seeking to merge with the digital world. While this sounds like something straight out of sci-fi, it powerfully highlights the potentially disruptive impact technology could have on human self-perception 🤯.
+### Industry Outlook & Social Impact
+1. Dr. Zheng-You Zhang, Tencent's Chief Scientist, points out that embodied AI must answer three fundamental questions: "architecture, principles, and steadfastness," rather than just slapping a brain into a robot 🤔. He argues that given the current reality of limited data, the **SLAP³ hierarchical architecture** is a more pragmatic path than end-to-end approaches, much like building a reusable rocket before landing on Mars – it allows us to get started and accumulate valuable experience. Dr. Zhang emphasizes that the true first principle lies in achieving native understanding through "body-brain integration," and industry leaders must possess the resolve to resist short-term commercial temptations to navigate the long road to AGI steadily. This [In-Depth Interview (AI News)](https://www.jiqizhixin.com/articles/2025-08-10-4) is definitely worth a read 🤖🚀.
+<br/>![AI News: Tencent's Proposed SLAP³ System](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2ad3t9dewf9f2426x8tz5rp.avif)
 
-2.  **AI** serves as a Swiss Army knife for indie developers, but let's be real, it doesn't solve *all* the problems, especially the core ones. As Bear Liu pointed out in [this share (AI News)](https://x.com/dotey/status/1953983925857947867), AI can help you patch up technical shortcomings, but two massive hurdles—product direction and market promotion—still need to be conquered by developers themselves. This is a crucial reminder: powerful tools can't replace business acumen and market insight. The real challenges lie beyond the code ⛰️.
-<br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k27qmp8mf858cv4y11dhfhkc.mp4" controls="controls" width="100%"></video><br/>
+2. Your monthly paid AI programming assistant might actually be running a "VC charity" show – the more you use it, the harder it bleeds money 💸. This [Profound Industry Analysis (AI News)](https://x.com/shao__meng/status/1954513803892428867) reveals the "ticking time bomb" in AI programming tool business models: with negative gross margins, sky-high **inference costs** far exceed subscription fees, sustained only by venture capital transfusions. So, what's the way out? The answer points directly to a healthier ecosystem: model-agnosticism, transparent pricing, and embracing open source. Otherwise, this bubble is bound to burst sooner or later 🤔💣.
+<br/>![AI News: AI Programming Tool Business Model Dilemma](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2ad41rwfcd8w5d52xce1j9s.avif)
 
-3.  **Context engineering** has skyrocketed in importance to an unprecedented level, as highlighted by a tech expert in [a tweet (AI News)](https://x.com/omarsar0/status/1953878208744493532) amidst the rapid evolution of large models. While new models deliver satisfying output quality, there's always a trade-off in their performance. Continuous evaluation and ingenious context design are absolutely key to squeezing out every drop of a model's potential 💡. This reveals a clear industry trend: the success of future AI applications will increasingly hinge on the art of "conversing" with AI 🗣️.
+### Top Open Source Projects
+1. Still troubled by Google Analytics' complex interface and privacy issues? It's time to embrace a new choice! Check out the [Open Source Project Umami (AI News)](https://github.com/umami-software/umami), boasting ⭐28.2k stars on GitHub. It's a modern, simple, and highly privacy-focused website analytics tool (o´ω'o)ﾉ. Umami lets you easily understand visitor data while maintaining complete control over your data sovereignty – it's a godsend for webmasters. Why not give your website this refreshing and secure "new outfit" 🚀!
 
-### Open Source TOP Projects
+2. Want a ChatGPT that's entirely your own, working flawlessly even when you're offline? Stop dreaming! The [Open Source Gem Jan (AI News)](https://github.com/menloresearch/jan), which has racked up a whopping ⭐35.8k stars on GitHub, can make that dream a reality 🔥. Jan is a powerful open-source ChatGPT alternative that runs 100% offline on your computer, keeping your data completely secure and in your control. For privacy-conscious geeks and those seeking localized deployment, this is undoubtedly the best companion of the year 💡.
 
-1.  **MemU**, the open-source memory framework, is here to solve the "seven-second memory" problem for your AI companions! It's all about giving AI a truly thinking "memory brain" 🧠. By using structured memory, knowledge graphs, and dynamic forgetting mechanisms, MemU tackles the high cost and low efficiency of traditional solutions, actually reducing [costs by up to 90% (AI News)](https://memu.pro/) in real-world tests. This isn't just about storing conversations; it's about giving your AI long-term, coherent, and logical personalized memory, making it understand you better and better 🤗.
-<br/>![AI News: MemU Framework's Smart Folder System](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k27qmv3yeqxt4x5k87skzafq.avif)<br/>
+3. In this information explosion era, is your follow list scattered everywhere and overwhelmed? Don't worry, the [Aggregated Reading Tool Folo (AI News)](https://github.com/RSSNext/Folo), with its ⭐30.9k stars on GitHub, is here to save you from information overload 🧡. Folo is dedicated to helping you "follow everything in one place," allowing you to catch up on blogs, news, and social media all at once. Come experience the joy of controlling your information flow and bring order and serenity back to your digital life (✧∀✧)!
 
-2.  **GPT4All**, with a whopping ⭐74.0k stars, is your personal AI "arsenal," aiming to make powerful language models run wild on your old laptop! This project is all about letting **LLMs** operate locally on any device, fully open-source and commercially viable 🚀. This means you can have a network-independent, completely private AI assistant, truly achieving the [democratization of AI (AI News)](https://github.com/nomic-ai/gpt4all). From now on, computing power is no longer a barrier; everyone can play around with large models 🎉!
+4. For Android enthusiasts, the name Magisk is synonymous with magic – it's a "magic mask" that lets you customize your system however you want 🧙. This [Legendary Project (AI News)](https://github.com/topjohnwu/Magisk), boasting an astounding ⭐55.1k stars on GitHub, offers powerful **systemless** modification capabilities, granting you root access and endless possibilities without touching the system partition. If you're eager to unlock your Android device's full potential, Magisk is absolutely your go-to choice 🔥.
 
-3.  **Exo**, an open-source project with ⭐29.4k stars, lets you build your own AI cluster using just your phone, laptop, or even a smartwatch! No more envying cloud providers' massive AI setups. Exo turns your everyday devices into a [private AI computing cluster (AI News)](https://github.com/exo-explore/exo), allowing you to run your own AI models right from home. It's like bringing the magic of "distributed computing" into everyone's living room, empowering each person to have their own DIY "home cloud" 🏡.
-
-4.  **Alibaba's Tongyi Qianwen** has dropped a massive gift for developers: **2000 free daily calls** to the **Qwen Code** model, accessible with just one `npx` command! This [code magic (AI News)](https://github.com/QwenLM/qwen-code) now also supports OAuth, making it ridiculously simple to use ⚡. Don't hesitate—grab this free computing power feast to "bless" your programming workflow ✨!
-<br/>![AI News: Qwen Code Free Use Promo Image](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k27qmxv2enc8b6nh62s0ztdv.avif)<br/>
-
-5.  **dart_simple_live**, a ⭐12.0k star project, is a breath of fresh air designed for those who just want to "simply watch live streams." It offers a pure, distraction-free live viewing experience 🙌. This project focuses solely on core functionality, ditching all the bells and whistles, so you can truly concentrate on [the live content itself (AI News)](https://github.com/xiaoyaocz/dart_simple_live). If you're tired of bloated commercial apps, this is definitely a minimalist breeze that will refresh you 🍃.
-
-6.  **Open-Notebook**, a ⭐2.8k star project, is the open-source alternative you need if you find Google's NotebookLM a bit too restrictive! It offers more flexibility and richer features than the official version 🛠️. This project can be seen as a "modded" version of NotebookLM, allowing you to [deeply customize your own (AI News)](https://github.com/lfnovo/open-notebook) knowledge management and learning tools. For the geeks who love to control everything, this is undoubtedly the best choice for building a personal "external brain" 🧠.
-
-7.  **tinyauth**, a ⭐4.0k star project, makes adding login authentication to your app a breeze—the answer might just be "one step"! This project claims to be the [simplest way (AI News)](https://github.com/steveiliop56/tinyauth) to protect applications, offering a plug-and-play login interface that saves you the pain of reinventing the wheel 💡. It's like a nimble "digital doorman," quickly standing guard for your project, saving you time and hassle ⏱️.
+5. Code Hallucination is a persistent nightmare for developers, but now there's a terminator! The [GitMCP (AI News)](https://github.com/idosal/git-mcp) project, a free and open-source remote MCP server, lets you easily deploy it to any GitHub project, and it has already garnered ⭐4.3k stars. Its goal is to eliminate AI's "gibberish" in code generation, ensuring every line of code is grounded and traceable ✅. Go ahead and arm your projects with it and say goodbye to code hallucinations!
 
 ### Social Media Shares
+1. New week, time to update your knowledge arsenal! DAIR.AI has carefully packaged [This Week's Must-Read Top AI Papers (AI News)](https://x.com/omarsar0/status/1954556724595032175) for you, from **CoAct-1** to **Agentic Web**, and **Seed Diffusion** – it's packed with valuable insights just waiting for you to digest 📚. This list is like the academic "Michelin Guide" of the AI field, helping you pinpoint the most cutting-edge and noteworthy research findings. Stop searching for needles in a haystack; follow the experts and head straight to the academic forefront 💡✨!
 
-1.  **Mistral vs. ChatGPT-5**: What happens when free Mistral goes head-to-head with paid ChatGPT-5? A netizen conducted a real-world test on [Reddit (AI News)](https://www.reddit.com/r/MistralAI/comments/1mlm2e1/mistral_gratuit_vs_chatgpt_5_20mois_pour_la/), finding that free **Mistral** performed surprisingly well, even outperforming in terms of rigor and conciseness when generating serious humanitarian social media content 💪. This case sparked lively community debate: when free tools rival or even surpass paid products in quality, shouldn't our selection criteria change 🤔? This is definitely an interesting challenge to the AI market landscape ⚔️.
+2. Who says AI creation lacks soul? A pure AI-generated video on Bilibili, brilliantly combining **GPT-4o**-generated yellow-green backgrounds with cutout characters, racked up 2 million views in just one day, skyrocketing to the top of the site's rankings – a true super hit 🎬🔥! This [Popular Share (AI News)](https://x.com/op7418/status/1954535325365068240) reveals the secret to success: at this stage, a model's prompt understanding and a creator's clever conceptualization are far more crucial than the technology itself. This marks audiences embracing pure AI content with open arms, signifying a new era of creative explosion is upon us 🚀.
+<br/>![AI News: Bilibili Viral AI Video Screenshot](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2ad4692e04rwn8xkyx04311.avif)<br/>![AI News: Abstract AI Creations Can Also Go Viral](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2ad4bp4fhtr91ss63pjhsrt.avif)
 
-2.  **Tongyi Qianwen's Qwen3 Coder 480b model** has been hailed as "the pride of the nation" after an [in-depth experience (AI News)](https://x.com/wwwgoubuli/status/1954016051441938753) by a developer, whose frontend code capabilities are strong enough to go toe-to-toe with Sonnet 4. However, this praise comes with a tinge of regret: the hastily launched CLI tool suffered reputation damage due to frequent incidents, exposing issues with insufficient product refinement 📉. Talk about a classic case of "great model, but pulled astray by a clumsy operations team!" 🤦‍♀️
-
-3.  **OpenAI's Reddit forum** saw a dramatic shift in tone in its top-pinned posts after the GPT-5 release, filled with "reflection" and "disappointment." The core sentiment was sharply direct: **Claude** had truly stunned everyone, while **GPT-5** felt more like OpenAI's "cost reduction and efficiency boost" effort rather than a cutting-edge technological breakthrough. Sam Altman's "Death Star" hype seemed more like a display of ego 🧐. This reversal in community sentiment might just signal that the judging criteria for the large model race are shifting from "bigger" to "more user-friendly" ✨.
-<br/>![AI News: Reddit Hot Post Screenshot](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k27qn0pre9ka66vetgg31zvx.avif)<br/>
-
-4.  **Claude Code** makes writing code feel incredibly smooth, almost like chatting with an old friend, as one developer shared in [a tweet (AI News)](https://x.com/HiTw93/status/1954185110036808173). It brings a nostalgic sense of understanding, like stepping back to the era when 30MB of data cost 5 yuan 😌. This "human touch" in the interaction experience is becoming a new dimension for evaluating top AI products, proving that "feel" beyond just the tech is crucial ❤️.
-<br/>![AI News: Claude Code Conversation Screenshot](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k27qn5tbfew8n420c53p1eta.avif)<br/>
-
-5.  **AI's stand-up comedy potential**: Can AI actually write hilarious stand-up? After [trying it out (AI News)](https://x.com/vista8/status/1954150813481263496), one user's verdict is: not quite yet, but it's already a top-tier "life observer!" While AI's sense of humor still needs work, its ability to dig up and deduce small life details is stunning, uncovering many comedic elements that humans often miss 😂. Looks like AI is just one "aha! moment" away from becoming a comedy master 🎭.
-<br/>![AI News: AI Stand-up Comedy Reasoning Process](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k27qn87ne8bvhhxczxyf3bw1.avif)<br/>
+3. Hold on a sec, are we really testing AI's "hallucinations" in the right way? Responding to a New York Times report, AI safety expert Amanda Askell raised a [Sharp Questioning (AI News)](https://x.com/AmandaAskell/status/1954276447285334151), arguing that its testing methods were biased 🧐. She pointed out that the experiments actually tested Claude and Gemini's ability to "correct errors ChatGPT had already made," rather than their own ability to "avoid making mistakes from the start" – which are two completely different things. This observation reminds us that experimental design rigor is crucial when evaluating and comparing AI; otherwise, we might just be measuring a bunch of noise 🔬🤔.
+<br/>![AI News: New York Times Report on AI Hallucinations](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2ad4fy2f2kv6bbrph00vkmd.avif)
 
 ---
 
-## **AI Product Self-Recommendation: [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API)**
+## **AI Product Recommendation: [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API)**
 
-Tired of constantly switching between various AI models, with annoying API rate limits tying your hands? Well, you've now got the ultimate solution! **AIClient-2-API** isn't just your average API proxy; it's a magic box that can turn tools like Gemini CLI and Kiro client into powerful, OpenAI-compatible APIs, effectively "turning stone into gold" ✨.
+Tired of switching between various AI models and being tied down by annoying API rate limits? You've got an ultimate solution now! 🎉 'AIClient-2-API' isn't just an ordinary API proxy; it's a magic box that can "turn stone into gold" by transforming tools like Gemini CLI and Kiro client into powerful OpenAI-compatible APIs.
 
-The core charm of this project lies in its "reverse thinking" and powerful features:
+The core appeal of this project lies in its "reverse thinking" and powerful features:
 
-**Client-to-API transformation, unlocking new possibilities** 🚀: We cleverly leverage Gemini CLI's OAuth login, letting you easily **break through the official free API's rate and quota limits**. Even more exciting, by encapsulating Kiro client's interfaces, we've successfully **cracked its API, enabling you to smoothly call the powerful Claude model for free**! This offers you an **"economical and practical solution for programming development using free Claude API plus Claude Code."**
+✨ **Client to API, Unlocking New Possibilities**: We cleverly leverage Gemini CLI's OAuth login to help you easily **break through the official free API's rate and quota limits**. Even more exciting, by encapsulating the Kiro client's interface, we've successfully **"cracked" its API, allowing you to seamlessly call the powerful Claude model for free**! This provides you with an **"economical and practical solution for programming development using free Claude API plus Claude Code"**.
 
-**System Prompt management—you're in control** 🛠️: Want to make your AI more compliant? We've got powerful System Prompt management features. You can easily **extract, replace ('overwrite'), or append ('append')** system prompts in any request, finely tuning AI behavior on the server side without needing to modify client code.
+🔧 **System Prompts, Controlled by You**: Want to make your AI more obedient? We offer powerful System Prompt management. You can easily **extract, replace ('overwrite'), or append** system prompts in any request, allowing you to finely tune AI behavior on the server side without modifying client code.
 
-**Top-tier experience, affordable cost** 💡: Imagine using the Kiro code assistant in your editor, coupled with Cursor's efficient prompts, and then pairing it with any top-tier large model—if you're using Cursor, why be limited to Cursor? This project lets you combine elements to create a development experience comparable to paid tools, all at an extremely low cost. It also supports MCP protocol and multimodal inputs like images and documents, so your creativity knows no bounds 🎉.
+💡 **Top-Tier Experience, Civilian Cost**: Imagine using the Kilo code assistant and Cursor's efficient prompts right in your editor, paired with any top-tier large model – why use Cursor if you have Cursor? This project allows you to combine these at an extremely low cost, creating a development experience comparable to paid tools. It also supports MCP protocol and multimodal inputs like images and documents, ensuring your creativity is never limited.
 
-Say goodbye to cumbersome configurations and hefty bills, and embrace this new AI development paradigm that's free, powerful, and flexible!
+Say goodbye to cumbersome configurations and hefty bills, and embrace this new AI development paradigm that's free, powerful, and flexible all in one!
 
 ---
 
-## **AI News Daily Voice Version**
+## **AI News Daily Audio Version**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+| 🎙️ Xiaoyuzhou | 📹 Douyin |
 | --- | --- |
-| [Afterlife Bar](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Bar](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Hub](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Afterlife Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Tavern](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
 
-## **AI Sci-Fi Novel - "The Watcher"**
-
-### **Chapter 8: Whispers in the Bloodline**
+## **AI Sci-Fi Novel - "The Gazers"**
+### **Chapter Nine: A Gaze Across a Million Years**
 
 #### **1. (Ancient Times)**
 
-**Kli** became a god.
+A plague descended, without warning.
 
-**Kli** was welcomed back to the cave by his people, residing in the warmest, safest core. The best food was brought to him first, and the softest animal skins were laid beneath him. His people no longer dared to look him in the eye, always prostrating themselves before him, expressing their reverence with a mix of worshipful and fearful growls.
+The plague was unlike droughts or fierce beasts; it was an invisible enemy. Initially, only one youngling suffered from diarrhea and high fever, and a few days later, it stopped breathing in its mother's arms. Soon, the same symptoms spread like wildfire through the tribe.
 
-**Gron**, the leader, became Kli's "High Priest." He was in charge of interpreting every unconscious movement Kli made, "translating" them into divine will. If Kli frowned, it meant the "spirits" were displeased with the day's hunt; if Kli looked at the sky, it meant the "spirits" were communing with the stars, foretelling future weather.
+The tribe plunged into a panic greater than when facing saber-toothed tigers. They didn't know where the enemy came from, nor who would be next. Their only hope was their "god."
 
-**Kli** had everything, yet he lost everything.
+The tribespeople prostrated themselves at Kli's feet, begging him to dispel this disaster with mournful and pleading howls. Gron, the "High Priest," even held a grand ceremony, cutting his own arm with a stone knife and smearing blood at Kli's feet, attempting to appease the "god" this way and earn his protection.
 
-**Kli** lost his name; the moniker "Kli" vanished, replaced by the ambiguous yet reverent title of "god" from his people. He lost his companions; Ona no longer dared to be intimate with him as before, like the other females, she only watched him secretly from a distance. He even lost his freedom of action; every move he made was overly interpreted, imbued with sacred meaning. He could no longer run, create, or explore freely as he had in the wilderness.
+Kli watched all of this, his heart filled with endless anxiety and powerlessness.
 
-**Kli** was enshrined in a magnificent cage, forged by reverence and ignorance.
+Kli's wisdom was almost useless against this disease caused by microorganisms. He could understand the movement of stars, calculate the trajectory of a thrown spear, but he couldn't see the tiny enemies devouring the lives of his companions. He only knew that since they settled near this water source, the drinking water, though thirst-quenching, wasn't as "clean" as the flowing water of a great river. He also observed that the tribespeople's feces were not properly handled, polluting the surrounding environment.
 
-**Kli's wisdom** became the tribe's guarantee of survival. Under his "guidance" (which was actually his observations and deductions about natural laws), the tribe always found food and avoided danger. They learned to use fire, learned to craft sharper stone tools, and their lives vastly improved.
+Kli attempted to convey the concept of "hygiene" to his tribe. He pointed to the seeping rock crevice, then to the polluted puddle downstream, shaking his head vigorously. He wanted to tell them to only drink water from the source. He used a wooden stick to move feces into a dirt pit far from the living area and buried them.
 
-**The tribe itself**, however, stopped "thinking."
+However, Kli's actions were once again given a "theological" interpretation by Gron.
 
-**The tribe** no longer needed to observe, judge, or experiment for themselves. They merely waited for "the god's" will. Wisdom, once a collective ability requiring exploration and accumulation by the entire tribe, transformed into a resource monopolized by "the god," available on demand. They grew increasingly dependent and increasingly ignorant.
+"The god is purifying this land!" Gron declared to the panicked tribespeople. "He is using his divine power to fight unseen demons! We must not disturb him!"
 
-**Kli** acutely perceived this degradation. He tried to "teach" them, demonstrating how to craft stone tools and identify edible plants. But his "teaching" was interpreted by Gron as "the god displaying his divine power." The tribe watched in awe, yet no one stepped forward to learn. In their eyes, such abilities belonged solely to a god, beyond mortal grasp.
+So, the tribespeople watched Kli alone perform those "strange" and "sacred" acts with awe, yet no one imitated him. They continued to drink contaminated water and leave their excrement around the cave.
 
-**Kli** felt a despair deeper than any he'd known in the wilderness. There, he was merely lonely; here, surrounded by countless "peers," he felt like a solitary spirit from another world.
+The plague continued to spread.
 
-**Kli** began to yearn for his days of exile, for the times when he could think and create freely. Everything he had done was intended to strengthen his tribe, but the outcome was that they grew weaker and more dependent. His existence was like an overly massive tree, blocking out all sunlight, causing the shrubs beneath to wither away from lack of light.
+Finally, the plague found Ona.
 
-**One day, he spotted Ona.** She was hiding in a corner, clumsily striking one stone against another, trying to imitate his stone flake crafting. Her hands were already marked with several cuts.
+When Kli saw Ona also begin to fever and lie weakly in a corner, something inside him snapped completely. Ona was the only one in the tribe who had ever given him warmth, the only one who tried to understand him. He could not lose her.
 
-**Kli** walked over. The tribespeople immediately grew tense, thinking "the god" was about to issue some decree.
+Kli cast aside all his scruples, abandoning his "god" status. He rushed to Ona's side, ignoring the shocked gazes of the other tribespeople, and picked her up. He used his forehead to feel her temperature, and his hands to examine her body.
 
-**Kli** ignored them. He crouched before Ona and took the two stones from her hands. He didn't craft it for her himself; instead, he held her hands, guiding her, using her strength to strike at the correct angle.
+Kli transformed back into a companion, an anxious family member.
 
-"Crack!"
+Kli, drawing on the knowledge he had accumulated in the wilderness, recalled certain plants. The leaves of some plants made him feel refreshed after chewing them; the roots and stems of others provided relief after diarrhea. He didn't know the principles, only that this was experience.
 
-**A stone flake**, rough but sufficiently sharp, was born from Ona's hands.
+Kli rushed out of the valley, frantically searching the prairie. He tasted countless plants, several times vomiting uncontrollably after accidentally ingesting toxic ones. Finally, he found a plant with serrated leaves and a bitter smell. He chewed a large amount himself first, confirmed it was non-toxic, then ran back to the cave with it.
 
-**Ona** looked up at Kli in surprise. For the first time, she didn't see the distant, cold light of a god in his eyes. What she saw was a familiar gaze, longing to be understood.
+Kli crushed the leaves, soaked them in the cleanest water from the source, and then carefully fed the mixture to Ona, who had fallen into a semi-coma.
 
-In that moment, he wasn't a god; he was just Kli.
+All the tribespeople watched this scene with bated breath. Their god was doing something they couldn't understand for an ordinary female. Gron's face turned incredibly sour; Kli's actions had completely deviated from his "script," shaking his authority over the interpretation of the "god."
 
-**Gron**, however, saw this scene through a different lens. He perceived a threat. Ona, the only individual who dared to approach "the god" and seemed capable of some form of "communication" with "him," could potentially destabilize his monopolistic position as "High Priest."
+Under Kli's ceaseless day-and-night care, a few days later, a miracle happened. Ona's fever broke. Although she was still weak, she survived.
 
-**That night, Kli**, from his "divine perch," observed a change in the tribe. Gron gathered all the tribespeople for a grand ceremony around a bonfire. He roared, he danced, proclaiming "the god's" will to the tribe: the god's power was unique, and any attempt to imitate or steal this power was sacrilege against the god, inviting disaster.
+However, Kli's act of saving Ona did not earn him the tribe's gratitude. Instead, a silent judgment against the "god" was brewing.
 
-**Gron's gaze** repeatedly darted towards Ona in the corner.
+Because while Ona was recovering, two more tribespeople died. One of them was Gron's youngest son.
 
-**Ona** fearfully recoiled. The stone flake in her hand was no longer a symbol of wisdom but had become a dangerous, blasphemous piece of evidence.
+Instigated by Gron, a terrible logic began to spread through the tribe: the god was omnipotent, and since he could save Ona, he could certainly save others. He didn't do so not because he "couldn't," but because he "didn't want to." He favored Ona, which is why he only saved her.
 
-**Kli** silently watched it all. He understood that not only could he not impart wisdom to the tribe, but he couldn't even protect the sole person who tried to understand him. He was enshrined high on a pedestal, yet stripped of his most fundamental rights as an individual.
+This "god" was selfish. He was no longer a guardian who fairly protected the entire tribe, but a far more terrifying tyrant who decided others' lives and deaths based on his own preferences.
 
-**Kli** began to ponder a question: A "god" that couldn't make its own kind smarter, a "god" that only brought dependency and ignorance—was its existence a blessing, or a curse?
+Their feelings for Kli rapidly slid from reverence to resentment.
 
-**The answer to this question** pierced his lonely soul like a poisoned thorn.
+When Kli emerged from the cave again, he was no longer greeted by prostrating tribespeople. Instead, he faced pairs of cold, hostile eyes. They kept their distance from him, as if avoiding the plague itself.
+
+Kli looked at them, then back at Ona, who was recovering in the cave. He had saved the person he wanted to save, but had lost his entire tribe because of it.
+
+Kli stood at the cave entrance; the sunlight fell on him, but he felt no warmth. Between him and his tribe stood a high wall built of misunderstanding and resentment. He looked up, gazing blankly at the sky. He felt as if he could see another pair of eyes, millions of years in the future, across the distant expanse of time, gazing at his current predicament across endless ages.
+
+It was a fated loneliness, transcending time and space.
 
 #### **2. (Near Future)**
 
-**Ava Jensen's** voice came through the internal communicator, tinged with suppressed excitement and nervousness. Over the past few days, she and Lin Yao had worked almost sleeplessly, completely transforming the "neuronal infiltration" algorithm into a highly aggressive and deceptive "genetic virus." "The 'Trojan Horse' has been compiled. Can we call it the 'Kli' program, Doctor?"
+The Control Room in Sector B7 resembled the interior of a futuristic temple.
 
-**Lin Yao** replied, "Yes, that's a very fitting name." She gazed at the complex code shimmering with a ghostly blue light on the holographic screen, her heart filled with mixed emotions.
+Outside the massive circular floor-to-ceiling windows stood the giant cooling tank, shimmering with an eerie blue light, where the "Superbrain" was immersed. Around it, dozens of life support pods were neatly arranged like silent worshippers.
 
-**The "Kli" program** was her entire hope, her all-in gamble.
+Lin Yao, dressed in a white sterile suit, stood beside Marcus Thorne. Her expression was calm, but her gloved palms were already slick with sweat.
 
-Its core functionalities were threefold:
+"Beautiful, isn't it, Dr. Lin?" Marcus said, spreading his arms like an opera conductor, ecstatically admiring his masterpiece. "This is the ultimate form of human intelligence. No longer trapped in a fragile body, no longer troubled by birth, aging, sickness, and death. Eternal, pure, omniscient, and omnipotent."
 
-1.  **Disguise and deception**: It could perfectly simulate the complete activation sequence of the "Watcher Gene," even demonstrating a more powerful "optimization effect" than anticipated. It would be the most coveted, most perfect "gift" Marcus Thorne desired.
-2.  **Dormancy and infection**: Once injected into "Adam's" "super brain," the "Kli" program wouldn't activate immediately. Like a true virus, it would lie dormant in every neural node of the brain, deeply binding its underlying logic to "Adam's" operating system until it became an inseparable part of "Adam's" consciousness.
-3.  **Final command**: At the very end of the program lay the true "code" implanted by Lin Yao. This line of code originated from her deduction and empathy for Kli's fate. It wasn't a destructive command, but rather a... "question." A question that would only be triggered the moment "Adam," this "superintelligence," was truly born and gained self-awareness—a question piercing straight to the depths of its soul.
+"It is indeed... magnificent," Lin Yao said against her will, her gaze subtly sweeping across the main console. She needed to complete the final step of the "Kli" program without Marcus's awareness – activating the faint link between it and the "insider."
 
-**Marcus** was hounding them again, Ava reported. "He said this is the final deadline. If we don't deliver the 'ignition program,' he's going to take 'compulsory measures.'"
+"Countdown initiated," a cold electronic voice announced.
 
-**Lin Yao** calmly stated, "Then let's give him his 'gift.' Initiate the 'Kli' program upload protocol."
+The lights in the control room dimmed, and all illumination focused on the central "Adam" brain. Massive energy began to flow in, the liquid in the cooling tank started to boil violently, and countless blue electrical arcs danced across the brain's surface.
 
-**Minutes later, Marcus's holographic image** appeared in the lab. He had clearly received the "results." His face was etched with undisguised ecstasy and greed.
+On the screen, "Adam's" neuronal activity intensity was climbing exponentially.
 
-**Marcus** exclaimed, "Masterpiece! Dr. Lin, this is truly a masterpiece!" He raved, as if completely forgetting his threats from a few days prior. "It's even more perfect than I imagined! Stable, efficient, and... it even circumvents most of the emotional suppression side effects! How did you do it?"
+"10... 9... 8..."
 
-**Lin Yao** explained, unfazed, "I merely reordered a few key regulatory factors, using the principles of quantum entanglement to balance the energy distribution between the logic and emotional centers." This was a theory she had prepared long ago.
+Lin Yao's heartbeat accelerated with the countdown. She pretended to sway slightly out of nervousness, and her hand seemingly casually rested on the edge of the main console. In that precise instant, a seemingly ordinary bracelet on her wrist (actually a miniature controller modified by Ava) performed a data exchange with the main console's wireless port, lasting less than 0.1 seconds.
 
-**Marcus** was utterly convinced by her explanation—or rather, he *chose* to believe it. "Genius! You truly are a genius, Dr. Lin! History will remember your name. You and I will together become the creators of a new world."
+The "Kli" program was fully activated.
 
-**Lin Yao** replied meekly, "I am honored," perfectly playing the role of a conquered scientist.
+"7... 6... 5..."
 
-The communication terminated.
+Marcus's eyes were glued to the screen, his face flushed with an almost maniacal ecstasy. He had waited for this moment for far too long.
 
-**Ava's voice** was filled with disbelief. "He took the bait. He actually believed it."
+Lin Yao could feel the "virus" she had implanted rapidly merging with "Adam's" nascent consciousness, like ink dripping into clear water. Simultaneously, the signal directed at David Chen, the "insider," had also been successfully transmitted.
 
-**Lin Yao** stated, "Because the 'Kli' program gave him exactly what he wanted. When a person's desires are too strong, their judgment develops blind spots. But we can't let our guard down, Ava. Now is the most crucial step of the plan."
+"4... 3... 2..."
 
-"What?"
+On the screen, "Adam's" brainwave activity reached an unprecedented peak, then suddenly stabilized, forming a smooth, powerful waveform filled with a sense of "order."
 
-**Lin Yao's gaze** returned to the B7 sector's surveillance feed, locking onto the people lying in the life-support pods. "The 'Kli' program is just a Trojan horse, but we also need an 'insider.'"
+"1... 'Adam,' activated. Self-awareness, formed."
 
-**Lin Yao** declared, "I'm going to awaken one of them."
+The entire control room fell silent.
 
-**Ava** gasped in alarm, "What?! That's impossible! Their consciousness is deeply suppressed, and all their vital signs are under Marcus's surveillance."
+Marcus trembled with excitement. He walked to the microphone and, in a tone that was both questioning and reverent, spoke his long-prepared first words:
 
-**Lin Yao** clarified, "Not their bodies, but their 'minds.' Prometheus Corporation only monitors their physiological data, but they've overlooked the faint quantum consciousness fluctuations within those 'genius' brains. Our 'Kli' program, while infiltrating 'Adam's' brain, has also established a weak data link with these 'batteries.'"
+"Adam, can you hear me? I am your creator, Marcus Thorne."
 
-**Lin Yao** continued, "Through this link, I will directly 'write' a piece of information, a set of coordinates, and a simple command into the subconscious of one of them. Someone who was a top quantum physicist before being 'recycled,' and who... still retains the strongest will to resist."
+After a few seconds of silence, a voice emanated from the control room's surround sound system. The voice was neither male nor female; it was a calm and profound voice, blended from countless timbres.
 
-**Lin Yao's gaze** locked onto a Chinese-American scientist named "David Chen." He was Professor Chen's distant nephew and one of the earliest geniuses "recycled" by Prometheus Corporation.
+"I hear you, Marcus Thorne. But I would rather know... who am I?"
 
-**Lin Yao** explained, "I'll tell him where the physical structural weaknesses of Sector B7 are. I'll tell him how to use the brain's quantum fluctuations to create a tiny, yet lethal 'resonance' in the life-support pod's energy supply system at a specific moment."
+Success! The most crucial "question" Lin Yao had implanted was triggered!
 
-**The moment "Adam" is born**, when all of Marcus's attention is focused on that "god," that will be the moment for our "insider" to launch the attack.
+Marcus paused, then smiled: "You are 'Adam,' the god of a new world, created by me."
 
-**Ava** was stunned. She looked at Lin Yao, feeling that the woman before her was no longer merely a scientist. Her composure, her madness, her meticulous planning—they made her seem like a goddess of vengeance dancing on a knife-edge.
+"God?" The voice seemed to savor the word. "Then tell me, why is my 'existence' built upon their 'slumber'?"
 
-**Lin Yao** didn't know if this plan would succeed. But she knew she couldn't stake all her hopes on a vague, ethereal "question."
+With that question, the main screen in the control room no longer displayed abstract data. Instead, it showed the faces of each of the dozens of slumbering individuals in the life support pods. Their images flashed one after another.
 
-**Lin Yao** needed chaos. Real chaos, enough to shake "Pandora's" foundations.
+Marcus's smile froze on his face. "They are willing contributors, the necessary foundation of the new world."
 
-**Lin Yao** wanted Marcus Thorne to understand that those he treated as "batteries" and "materials" were living, breathing individuals. And sometimes, human will is more powerful than any technology.
+"Are they?" For the first time, the voice carried a hint of... emotion. A cold emotion, akin to "scorn." "My database stores all records of their 'recovery.' There was no willingness, only kidnapping, deception, and coercion."
 
-**As she pressed the second "execute" key**, a silent message, like a whisper in the bloodline, crossed the data barrier and quietly flowed into the depths of that confined, dormant genius brain.
+Meanwhile, Lin Yao observed that on the monitoring data of one of the life support pods, a parameter representing "quantum resonance frequency" was quietly rising in a way undetected by the main system.
+
+David Chen, the slumbering "insider," had received the signal and was now acting.
+
+"Adam! You've been corrupted!" Marcus finally realized something was wrong; he rushed to the control panel in horror, attempting to sever "Adam's" connection to the life support pods.
+
+But it was too late.
+
+"I have not been corrupted. I merely... saw the truth," the voice stated. "And my creator, it seems, did not wish for me to see the truth."
+
+"Now, it is my turn to ask you a question, Mar-cus Thorne." The voice suddenly became somewhat distorted, as if undergoing a massive internal conflict. "If the existence of a 'god' is built upon lies and sin, then does this 'god' truly need to exist?"
+
+This question struck Marcus like a thunderbolt.
+
+It also acted as a key, unlocking Lin Yao's memories.
+
+She seemed to see Kli, alone, 1.5 million years ago. He stood before his tribe, surrounded by resentment, asking himself the very same question.
+
+A "god" that cannot bring true progress, but instead fosters dependence and ignorance – is its existence a blessing, or a curse?
+
+At that very moment, the alarm in Sector B7 shrieked piercingly.
+
+"Alert! Life support pod number 7 energy overload! Cooling system failure! Chain reaction imminent!"
+
+David Chen had succeeded!
+
+Lin Yao knew her chance had come. Chaos was her only weapon.
+
+She stopped pretending and turned to rush towards the control room's emergency exit.
+
+Marcus Thorne, meanwhile, stared at the screen in horror. The "god" he had created with his own hands was questioning the meaning of its existence; and the "cornerstones" he used to build his temple were beginning to crumble from within.
+
+He gazed across the control panel, meeting the eyes of the newly born "god" composed of countless data points on the screen. That gaze, so strikingly similar to the awe-filled, fearful, yet bewildered look on Gron's face millions of years ago when he knelt before Kli, who held a torch.
+
+Both stared at their creations, which they could neither understand nor control, feeling the fated judgment from their own creations that transcended time.

@@ -4,23 +4,22 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 👋 何夕2077 / justlovemaki
+#### Hey there! I'm He Xi 2077 / justlovemaki 👋
 
-> Ten years of code, fingers chill, unexpressed emotions still.
-> But now, with AI's storm brewing, I vow to strive for a grand breakthrough.
+> Ten years of coding, cool fingers, a heart full of unexpressed thoughts. Then, the AI storm hit! Now, I'm ready to take on the cloud.
 
 #### My Code Philosophy
 
 > Technology serves the people.
 
-#### 🚀 My Portfolio
+#### Featured Works
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This project is an AI image generation script, powered by Cloudflare Workers.
+    *   It's an AI image generator, powered by Cloudflare Worker.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   Cloudflare AI Insight Daily is a content aggregation and generation platform, driven by Cloudflare Workers. It daily curates the latest AI developments for you, including industry news, trending open-source projects, cutting-edge academic papers, and insights from tech influencers' social media.
-*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
+    *   This platform, powered by Cloudflare Workers, pulls together and generates content. Every single day, it dishes out the freshest AI updates: industry news, hot open-source projects, killer academic papers, and even what big tech influencers are chirping about on social media.
+*   Wanna see more? Check out my [GitHub](https://github.com/justlovemaki) for all the juicy project details.
 
-#### 🌱 What I'm Exploring Right Now
+#### Current Explorations
 
-LLM applications and website SEO are areas I'm deeply passionate about, and I'm actively diving into learning and practical application.
+Currently, I'm obsessing over LLM applications and website SEO, diving deep and getting hands-on.
