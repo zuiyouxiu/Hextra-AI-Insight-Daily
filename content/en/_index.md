@@ -2,204 +2,203 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-08/2025-08-13
+next: /en/2025-08/2025-08-14
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily News 2025/8/14
+## AI Daily Dispatch 2025/8/15
 
-> AI News | Daily Briefing | Web Data Aggregation | Cutting-Edge Science Exploration | Industry Open Voice | Open Source Innovation | AI & Human Future | [Visit Web Version ↗️](https://ai.hubtoday.app/)
+> `AI News` | `Daily Morning Read` | `All-Net Data Aggregation` | `Frontier Science Exploration` | `Industry Free Voice` | `Open-Source Innovation Power` | `AI and Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/)
 
-### **Today's Digest**
+### **Today's Brief**
 
 ```
-Bilibili is internally testing an AI video creation tool that can automatically generate realistic videos from text.
-Technologically, the Claude model's context window has expanded to an astounding one million tokens.
-In the industry, AI search company Perplexity proposed acquiring Chrome browser for $34.5 billion.
-Meanwhile, the AI companion app market is experiencing explosive growth, revealing the potential for emotional interaction.
-Researchers successfully reversed an AI inference model using a specific technique, but this also raised security concerns.
+Visual Studio Copilot upgraded to semantic search; Google Gemini also deeply integrated into VS Code.
+Kimi is set to launch PPT generation, and the new model nano-banana excels in image editing.
+An open-source tool named UnMarker can remove AI watermarks, sparking thoughts on tech offense and defense.
+ByteDance and Tencent open-sourced an Agent model and an interactive game video generation framework, respectively, giving back to the community.
+Academia proposed the first paper-to-video agent system, continuously expanding AI application scenarios with innovation.
 ```
 
-### AI Product & Feature Updates
+### Product & Feature Updates
 
-1.  Google's free AI feast for students is now requiring ID checks, so if you haven't verified your identity yet, you better watch out! 🚨 According to [this report (AI News)](https://www.aibase.com/zh/news/20474), Google is asking student users to verify their identity via the SheerID platform by September 23. Fail to do so, and your sweet premium package – including Gemini 2.5 Pro and 2TB of cloud storage – will be revoked. Bummer, though, this verification currently only works in a handful of countries like the US and Japan. Students in other regions are pretty much out of luck. 😩
+1.  Visual Studio Copilot Chat just got a major brain boost! It's finally ditching the old-school **BM25** keyword matching and fully embracing smart **remote semantic search** technology 🚀. This means it truly gets what you're trying to do. For example, if you search "get user credentials," it won't just blindly match exact words; it'll actually find a function like "RetrieveOAuthCredential." This leap makes code search incredibly precise and efficient, letting developers spend way less time on "treasure hunts" and more time on creating. For all the juicy details, [click here to check out this in-depth (AI News) report](https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/).<br/>![AI News: BM25 vs. Semantic Search Comparison](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mpgfhzewvt0trfmefa75n4.avif)![AI News: New Version Search Results are More Precise](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mpghf0frf8scz48t6q5cqm.avif)<br/>
+2.  Kimi, from Moonshot AI, is about to drop a global PPT generation feature powered by its super-strong **K2 model** – get ready for a serious efficiency revolution (✧∀✧)! This **MoE (Mixture-of-Experts) model** boasts trillions of parameters and has already shown stellar performance in coding, math, and Agent tasks, promising to elevate PPT creation to a whole new level. Say goodbye to those all-nighters tweaking formats and content; the future of smart office work is totally calling our name. Catch more deets in [this cutting-edge (AI News) report](https://www.aibase.com/zh/news/20509).<br/>![AI News: Kimi's Upcoming PPT Feature](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mpgkhyf6vb3n0tyt3qy707.avif)<br/>
+3.  A mysterious model called **nano-banana** just popped up quietly on the lmarena platform, and it's already blowing up the community with its "mind-blowing" effects 🔥! Early users are reporting that this model totally outshines the popular **FLUX Kontext** in its three core abilities: **character restoration**, **scene reconstruction**, and **image fusion**. This dark horse's arrival hints at even more powerful creative tools coming our way for fields like creative design and post-production. Go ahead and [experience this new (AI News) product](https://lmarena.ai/?chat-modality=image) for yourself!<br/>![AI News: Image Fusion Effect Comparison](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mpgpr8e08r7s4gcda05yge.avif)<br/>
+4.  Google's **Gemini CLI** tool is now officially super-integrated with VS Code, bringing developers a seamless, smart coding experience 💡. You can now get intelligent suggestions directly within your editor from Gemini, which totally understands your code context, and even use native **diff comparison features** to easily review and apply changes. This integration seriously streamlines the development process, making coding smoother and more efficient. For more deets, check out [this official (AI News) announcement](https://developers.googleblog.com/en/gemini-cli-vs-code-integration).
+5.  **Qwen Image Edit**, the new image editing feature from Tongyi Qianwen, is still deep in development, but the official team couldn't resist dropping a "spoiler" with an adorable capybara test image (o´ω'o)ﾉ! This Qwen capybara, covered in all sorts of stickers, vividly showcases the new tool's creative potential, making us super excited about its future photo-editing and creation capabilities. Looks like content creators will be getting a cool new toy soon – let's totally look forward to [the release of this (AI News) tool](https://x.com/Alibaba_Qwen/status/1955656822532329626)!<br/>![AI News: Qwen Image Edit Feature Preview](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mph3etfdhagdf3n6pxpgh8.avif)<br/>
 
-2.  Bilibili is currently internally testing a video creation powerhouse called "Peanut AI." Looks like content creators (UP hosts) might be able to kick back and relax a bit! 😎 Users just need to provide text or audio, and the AI can automatically match footage and generate videos comparable to human-made ones in a mere 3 minutes. Financial, gossip, and history content categories could be riding a fresh wave of AI-powered creation. This marks another significant move for Bilibili in content production tools, following its AI real-time subtitle translation. We're definitely hyped to see [how the creator ecosystem will evolve (AI News)](https://www.aibase.com/zh/news/20473) in the future!
+### Cutting-Edge Research
 
-3.  Front-end devs and designers, listen up: v0.dev, the UI wizard, is cooking up something big! 🎉 To celebrate its new version release, the official team announced that [**v0** (AI News)](https://x.com/op7418/status/1955450291370987916) will be completely free to use for the next 4 days! Plus, there'll be daily challenges where you can win even more free credits. What are you waiting for? Go generate your next jaw-dropping component with AI! ✨<br/>![AI News: v0 Free Event Poster](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2j5jg3pfakt53yccq0mve5x.avif)
+1.  Traditional methods for scene change detection have been a real headache for academics because defining "relevant changes" is always so ambiguous. But now, **ViewDelta**, a [new research (AI News)](https://arxiv.org/abs/2412.07612) paper, proposes a brilliant solution 💡! Researchers have introduced a **text-conditioned framework** that lets users precisely define the changes they want to detect using natural language prompts, like "only look at building changes" or "ignore vegetation growth." This approach not only tackles the challenge of inconsistent dataset labeling but also trains a versatile model adaptable to various scenarios, basically a "spot-on" eagle eye (✧∀✧)!
+2.  Ever wondered how to transform a dry academic paper into a lively and engaging video summary? Well, **Preacher**, a [research (AI News)](https://arxiv.org/abs/2508.09632) paper, introduces the first-ever **paper-to-video agent system** that totally solves this problem 🤔! This system acts like a professional "preacher," first breaking down and extracting the core ideas of the paper from top to bottom, then generating diverse video clips from bottom to top and synthesizing them into a cohesive video summary. By leveraging innovative **Progressive Chain-of-Thought (P-CoT)** technology, it successfully overcomes the limitations of current video generation models, making knowledge dissemination more intuitive and efficient than ever before.
+3.  AI coding assistants are awesome, but their "black box" code suggestions often leave you feeling a bit uneasy. Now, **CopilotLens**, a [research (AI News)](https://arxiv.org/abs/2506.20062) paper, is working to bust through that opaqueness. Researchers have designed a novel **interactive explanation framework** that acts like a "lens," visualizing the AI assistant's "thought process" and clearly showing the source and logic behind its code suggestions. This framework aims to help developers better understand and trust AI's recommendations, moving from "blind acceptance" to "critical collaboration," making "human-AI collaborative" programming way more transparent and reliable 🧐.
 
-4.  Anthropic just smashed the ceiling for long-text processing again! The context window length for the **Claude Sonnet 4** model has officially expanded to a mind-blowing **1 million tokens**! 🤯 This means you can now process over 75,000 lines of code or hundreds of documents in a single request – a massive blessing for applications dealing with colossal amounts of information. As [this share (AI News)](https://x.com/dotey/status/1955339209377505654) puts it, large models have truly leveled up their ability to handle complex tasks. 🙌
+### Industry Outlook & Social Impact
 
-### Cutting-Edge AI Research
+1.  The "moat" of AI image watermarks is crumbling! An open-source tool called **UnMarker** can wipe out almost all invisible watermarks on the market in just 5 minutes with a consumer-grade graphics card – even Google's **SynthID** isn't safe 🔥. It doesn't crack the watermark algorithm; instead, it directly messes with the image's **spectral characteristics**, making watermarks ineffective by "pulling the rug out from under them." This wild discovery comes from [this cutting-edge (AI News) report](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247818143&idx=4&sn=717f97313d946c76e76de8d48221a16b). This undoubtedly poses a huge challenge to efforts relying on watermark technology for content traceability and combating misinformation, sparking some deep thoughts on tech offense and defense 🤔.<br/>![AI News: Spectral Amplitude is the Carrier of Embedded Watermarks](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mphj6jf68smkhh0hdg59a5.avif)<br/>
+2.  Imagine creating and exploring virtual worlds directly with your thoughts – this isn't just sci-fi movie stuff anymore! A thought-provoking [Reddit (AI News) post](https://www.reddit.com/r/artificial/comments/1mpay4b/dreamai_merging_genie_3_and_braintotext_to_turn/) introduces the concept of **DreamAI** 🧠. This idea combines Google's **Genie 3** (real-time text-to-3D world generation) with **brain-computer interfaces** (thought-to-text), letting users instantly generate and change VR environments with their minds. This won't just unlock new interaction dimensions for people with disabilities; it could also totally revolutionize how we create, entertain, and even explore our own imaginations. The future is here (✧∀✧)!
 
-1.  A researcher pulled off a real technical "reversal" drama, successfully "restoring" OpenAI's gpt-oss inference model back to a more primitive base model! 🤯 By cleverly using **Low-Rank Adaptation (LoRA)** fine-tuning, he removed the model's reinforcement learning "shackles," unleashing its wild side for free text generation, and it can even "recall" Harry Potter content. While this "wild model," named **gpt-oss-20b-base** ([AI News](https://huggingface.co/jxm/gpt-oss-20b-base)), has immense potential, it's also completely "unaligned" and might churn out unsafe content, so use with caution! ⚠️<br/>![AI News: Model Reversal Comparison](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2j5jqrzfbvbd0qymdb0pyz7.avif)<br/>![AI News: Model Memory Test](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2j5jy5zfg4b8x5gnwj6cw8b.avif)
+### Top Open-Source Projects
 
-2.  Preparing compliant technical documentation for AI systems has become a huge headache, especially with the increasingly strict EU AI Act looming. 🤯 A [new research (AI News)](https://arxiv.org/abs/2508.08804) paper called **TechOps** proposes open-source templates covering the entire AI lifecycle – from data and models to applications – ensuring systems are transparent, traceable, and accountable. This isn't just about ticking regulatory boxes; it's a practical tool for responsible AI development, making AI governance a tangible reality. ✨
-
-3.  How can AI become a fun and patient multilingual tutor for kids? 🤔 The [**MultiAiTutor** (AI News)](https://arxiv.org/abs/2508.08715) research paper proposes an LLM-based, kid-friendly multilingual speech-generating tutor that can provide personalized language learning experiences with cultural context for children. The study specifically targets low-resource languages like Singaporean Mandarin, Malay, and Tamil, showcasing AI's immense potential in the realm of child education. 📚
-
-4.  How can AI monitoring move from the lab into the real world and genuinely boost community safety? This [research paper (AI News)](https://arxiv.org/abs/2312.02078) details a real-world deployment case of an AI smart video solution. This system can detect abnormal behaviors in real-time through techniques like pose estimation, all while protecting privacy. Running stably on 16 cameras at a community college, the system achieved an average end-to-end delay of just **26.76 seconds** from detection to alert, proving AI's practical value in public safety. 💪
-
-### AI Industry Outlook & Social Impact
-
-1.  Emotional companionship is emerging as AI's new blue ocean, with the AI companion app market experiencing explosive growth! Revenue for the first half of 2025 alone hit a whopping **$82 million**! 💰 Whether acting as friends, lovers, or fantasy characters, these AIs are quietly filling people's emotional voids, with "AI girlfriend" apps seeing the highest demand. As giants like xAI and Google jump into the fray, the boom in [this market (AI News)](https://www.aibase.com/zh/news/20463) also highlights the massive business potential of personalized emotional interaction. ✨<br/>![AI News: AI Companion App Market Growth](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2j5k1hne49sgyn62s3n5qj9.avif)<br/>![AI News: AI Companion App Downloads Skyrocket](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2j5k425fa6rtz9ja947c9m3.avif)
-
-2.  The "price war" among AI giants has reached the White House steps! Anthropic announced it's offering its Claude model to the three branches of the US government – legislative, executive, and judicial – for a symbolic price of just $1 per year. 🇺🇸 This move not only directly challenges OpenAI's similar offer (which only targets the executive branch) but also reveals Anthropic's ace in the hole: a **Claude for Government** version that meets **FedRAMP High** security standards and supports multi-cloud deployment. According to [this report (AI News)](https://www.aibase.com/zh/news/20453), Anthropic is trying to get ahead in this government AI procurement battle with its more flexible and secure solution. 🚀
-
-3.  AI search newcomer Perplexity just pulled off a "snake swallowing elephant" act, formally submitting an offer to Google to acquire Chrome browser for a whopping **$34.5 billion** in cash! 🤯 This audacious move comes at a sensitive time for Google, embroiled in antitrust lawsuits and potentially facing a forced divestiture of Chrome. Perplexity promises to keep **Chromium** open source, inject further investment, and even won't change Google's default search engine settings. While Perplexity's own valuation is nowhere near its bid, this [groundbreaking acquisition (AI News)](https://www.aibase.com/zh/news/20451) has undoubtedly shaken up the entire tech world, showcasing its massive ambition. ✨
-
-### Top Open Source Projects
-
-1.  Looking for a secure, simple, and scalable video conferencing solution? 🤔 [**Jitsi Meet** (from AI News)](https://github.com/jitsi/jitsi-meet) is your jam! This open-source project, boasting ⭐26.3k stars, can be used as a standalone app or easily embedded into your own web applications. Whether it's for team collaboration or online education, it delivers stable and reliable video communication support. Get on it! 🚀
-
-2.  How can you transform your meticulously crafted FastAPI interfaces into powerful tools compliant with the **Model Context Protocol (MCP)**? 🤔 The [**fastapi_mcp** (from AI News)](https://github.com/tadata-org/fastapi_mcp) project is the answer! It not only helps you seamlessly expose endpoints but also thoughtfully includes built-in authentication. This project has already racked up ⭐8.0k stars, so get ready to make your API shine in the AI era! 💫
-
-3.  Still worried about privacy and security? Well, check out **Jan**! It's an open-source ChatGPT alternative that runs 100% offline on your computer. 💻 With a whopping ⭐36.7k stars, Jan lets you enjoy powerful AI conversation capabilities while keeping your data firmly in your own hands. Whether it's for development assistance or daily Q&A, [**Jan** (from AI News)](https://github.com/menloresearch/jan) is an excellent local choice. Highly recommend! 👍
-
-4.  ByteDance's open-source **UI-TARS-desktop** aims to be a "Swiss Army knife" 🛠️ connecting cutting-edge AI models with agent infrastructure. This open-source **multimodal AI agent** tech stack, which has garnered ⭐16.0k stars, paves the way for developers to build powerful intelligent agent applications. If you're looking to explore the future of Agent technology, why not kick off your adventure with [this project (from AI News)](https://github.com/bytedance/UI-TARS-desktop)? Go for it! 🚀
-
-5.  Does configuring HTTPS certificates for your local development environment always give you a headache? 🤯 **mkcert** is a magical zero-config tool that lets you easily create locally trusted development certificates with any name you want. This project, which has absolutely crushed it on GitHub with ⭐55.6k stars, is definitely a blessing for every web developer. Seriously, go [try it out (from AI News)](https://github.com/FiloSottile/mkcert) right now! ✨
-
-6.  Laravel developers, pay attention! Building admin panels and applications has never been this simple! 🚀 **Filament** is a powerful UI framework based on Livewire, and its super high popularity with ⭐25.5k stars proves its outstanding capabilities in rapid development. With [this framework (from AI News)](https://github.com/filamentphp/filament), you can deliver stunning applications super fast, just like assembling building blocks. Easy peasy! 👌
-
-7.  Ever wanted to snag a killer deal on "Xianyu" (a Chinese second-hand platform) but always missed out on the good stuff? 💸 Tw93 shared a [**Xianyu Monitoring Tool** (Open Source AI News)](https://github.com/dingyufei615/ai-goofish-monitor) based on Playwright and AI. This bad boy can help you monitor items in real-time or on schedule across multiple tasks, and even intelligently analyze and filter them! 🤖 Equipped with a comprehensive backend management interface, this project is basically a treasure map for the "seafood market" (a nickname for Xianyu). But hey, the author reminds us it's for learning purposes only, so don't use it for anything shady, alright? 😉<br/>![AI News: AI Xianyu Monitoring Tool Interface](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2j5k86we5nr3xsjcva56t6s.avif)
+1.  ByteDance just dropped another heavy hitter for the open-source community: the official release of the **M3-Agent-Control** model, built specifically for Agents! It's trained on the powerful **Qwen3-32B** and boasts a whopping 32.8 billion parameters (o´ω'o)ﾉ. This project aims to be the core engine driving the next generation of intelligent agents, accelerating AI Agent tech innovation and adoption through open sharing. ByteDance is inviting developers worldwide to explore the limitless potential of intelligent agents together. If you're keen, go [check out this (AI News) project on Hugging Face](https://huggingface.co/ByteDance-Seed/M3-Agent-Control)!<br/>![AI News: M3-Agent-Control Model Architecture Diagram](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mphp5vfqmtqwn3cf7fc6ty.avif)<br/>
+2.  How can a static image transform into a playable AAA-grade game blockbuster? Tencent Hunyuan team's open-source project, **Hunyuan-GameCraft** (⭐1k+), makes it all possible with its innovative **high-dynamic interactive game video generation framework** 🎮! This project lets users generate smooth game videos with free camera movement in real-time, all from just one image, a few lines of text, and simple action commands. This dramatically slashes the entry barrier and costs for game content creation. It's not just a godsend for game developers; it also unlocks a whole new world for video creators. Go [explore this hot (AI News) project on GitHub](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0)!<br/>![AI News: Hunyuan-GameCraft Generated Game Screen](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mphvexe3htt552nfyxje2z.avif)<br/>
+3.  Still scratching your head over real-time data processing and complex LLM application pipelines? Then you gotta check out the **Pathway** project, which has already racked up ⭐31.1k stars on GitHub! It's a seriously powerful Python ETL framework custom-built for stream processing, real-time analytics, and RAG 🚀. This tool makes building efficient, scalable data pipelines simpler than ever before. Whether you're dealing with real-time event streams or setting up intricate AI applications, it handles everything with finesse. If you're looking to level up your data processing game, why not kick things off with [this super cool (AI News) project](https://github.com/pathwaycom/pathway)?
+4.  When you're orchestrating complex applications and microservices, having a stable and reliable "conductor" is absolutely key. That's where Netflix's open-source **Conductor** (⭐25.4k) comes in – it's an event-driven orchestration platform built just for that 🎶! It gives your applications a durable and highly resilient execution engine, making sure your workflows run flawlessly in all sorts of situations. If you're on the hunt for a solution that can master complex business processes, then [this powerful (AI News) orchestration tool](https://github.com/conductor-oss/conductor) is totally worth diving into.
+5.  Wanna fine-tune your diffusion models but getting turned off by the super complex training process? No sweat, the **ai-toolkit** (⭐5.7k) project has got your back with an ultimate, one-stop training toolkit that makes model fine-tuning as easy as pie 🔥! This wildly popular toolset on GitHub encapsulates all those tricky training details, letting you focus entirely on bringing your model ideas to life. Go [check out this (AI News) project that sparks your creativity](https://github.com/ostris/ai-toolkit)!
+6.  From 3D reconstruction to scene understanding, the **COLMAP** (⭐9.2k) project offers a complete and powerful toolchain for **Structure from Motion (SfM)** and **Multi-View Stereo (MVS)** 📸. It can precisely reconstruct realistic 3D models and scenes from a series of 2D images, making it an essential go-to tool for researchers and engineers in the computer vision field. If you're super curious about 3D vision tech, then you definitely shouldn't miss [this hardcore (AI News) open-source project](https://github.com/colmap/colmap)!
+7.  Are you sick and tired of those bloated, old-fashioned YouTube downloaders? Well, the **YTSage** (⭐1.4k) project is here to refresh your workflow with its modern, clean interface built on PySide6, offering an absolutely fantastic user experience (o´ω'o)ﾉ! This tool, powered by the super reliable yt-dlp, not only supports downloading videos in any quality and extracting audio but also integrates thoughtful features like subtitle fetching and ad blocking (SponsorBlock). If you want an elegant yet powerful video downloading experience, then you gotta give [this useful (AI News) tool](https://github.com/oop7/YTSage) a try!
 
 ### Social Media Shares
 
-1.  Can AI replace software architects within ten years? Baoyu shared Li Yunhua's perspective from Geek Time, suggesting that as long as AI still mimics human coding and has limited context windows, architects will remain indispensable. 🤔 However, he also warned that if AI development models undergo a fundamental change, architects must keep up and be among the first to master AI-assisted architecture. As [he said (AI News)](https://x.com/dotey/status/1955642365504262519), continuous learning is the survival rule in the software industry, and architectural design skills will never go out of style. Spot on! ✅<br/>![AI News: AI and Architect Relationship](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2j5kc4ffq2s8teg46hnh81j.avif)
-
-2.  A series of controversies following GPT-5's release have made some folks feel that **AGI** (Artificial General Intelligence) is actually further away from us. 🤔 Blogger Broad Ocean shared his view, suggesting that the real-world experience language models can access is just the tip of the iceberg, and true AGI might only be achievable through interaction with the physical world. This aligns perfectly with Professor Fei-Fei Li's "world model" approach, emphasizing the importance of embodied intelligence for achieving AGI. [This view (AI News)](https://m.okjike.com/originalPosts/689c5464418f539017b1ed5c) has sparked widespread discussion. Food for thought! 🧠<br/>![AI News: Thoughts on AGI](https://cdnv2.ruguoapp.com/Fu_cBUl7qzxftajQ2cNPyp48YS3Vv3.png)
-
-3.  Just how brutal is the world of independent developers? orange.ai shared a heartbreaking story: a Xiaohongshu (a Chinese social media platform) note-generating app with **3 million users** that only charged 9.9 RMB per month, but ultimately received payments from just two users. 😭 This [shocking conversion rate (AI News)](https://x.com/oran_ge/status/1955418295827566800) sparked a heated discussion and revealed the extreme difficulty of finding a sustainable business model even with a massive user base. This might just be the cold, hard reality every independent developer dreaming of changing the world with their product has to face. Ouch. 😔<br/>![AI News: Independent Developer's Predicament](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2j5kmtmf5z8dehp2gp5ck21.avif)
-
-4.  Emad, the founder of Stability AI, has been absolutely raving about Google's **AI Studio**, calling it the best AI interface out there, especially gushing over features like "forking conversations." 🤩 He expressed a strong desire for an open-source version that could connect to any AI model and was super impressed by Gemini's powerful **1 million context window** when integrating massive amounts of information. From [his share (AI News)](https://x.com/EMostaque/status/1955348376368648474), it's clear that an excellent user interface is crucial for unleashing the full potential of large models. So true! ✨
-
----
-
-## **AI Product Self-Recommendation: [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API)**
-
-Are you tired of constantly switching between different AI models, with annoying API rate limits tying your hands? Well, guess what – you've got an ultimate solution! 'AIClient-2-API' isn't just a regular API proxy; it's a magic box that can "turn lead into gold," transforming tools like Gemini CLI and Kiro clients into powerful OpenAI-compatible APIs. ✨
-
-The core charm of this project lies in its "reverse thinking" and powerful features:
-
-✨ **Client to API, Unlocking New Moves**: We've cleverly leveraged Gemini CLI's OAuth login, letting you easily **break through the rate and quota limits of official free APIs**. Even more excitingly, by encapsulating Kiro client interfaces, we've successfully **cracked its API, allowing you to seamlessly call the powerful Claude model for free**! This offers you an **"economical and practical solution for programming development using free Claude API plus Claude Code."**
-
-🔧 **System Prompts, You're in Control**: Want to make your AI more obedient? We offer powerful System Prompt management. You can easily **extract, replace ('overwrite'), or append ('append')** system prompts in any request, fine-tuning AI behavior on the server side without needing to modify client code. 🎯
-
-💡 **Top-Tier Experience, Budget-Friendly**: Imagine this: **using Kilo Code Assistant in your editor, adding Cursor's efficient prompts, and then pairing it with any top-tier large model – why even stick to Cursor if you can get this combo?** This project lets you assemble a development experience comparable to paid tools at an extremely low cost. Plus, it supports MCP protocol and multimodal inputs like images and documents, so your creativity knows no bounds. Unleash it! 🚀
-
-Say goodbye to tedious configurations and hefty bills, and embrace this new AI development paradigm that's free, powerful, and flexible all in one! 🙌
+1.  The battle of the titans in open-source large models is heating up big time! Alibaba's Tongyi Qianwen, with its **Qwen-3-235B-A22B-Instruct** model, just snagged the top spot on the August open model leaderboard, proving its top-tier prowess once again (✧∀✧). Meanwhile, Zhipu's **GLM-4.5** and OpenAI's **gpt-oss-120b** also made a high-profile dash into the top ten, putting on quite the show of "gods fighting." This tech showdown at the peak is totally pushing the entire industry forward. Go [check out the latest (AI News) ranking](https://x.com/Alibaba_Qwen/status/1955778311906582550)!<br/>![AI News: August Open Model Ranking](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mphyf2em7r9t87x92bhwfq.avif)<br/>
+2.  An overseas Agent product named **MuleRun** is currently buzzing with excitement thanks to its unique concept and stunning effects. It offers every user a full-fledged virtual machine to run Agents, instantly igniting our imaginations 🚀! This means AI Agents aren't just stuck in browsers or the Office suite anymore; they can actually help you automate games, model in Blender, and truly achieve cross-software operations. This community-driven model, where professional tasks are packaged into callable Agents, might just hint at a whole new evolutionary path for Agent products. Go [check out this futuristic (AI News) share](https://x.com/op7418/status/1955934836189000088).<br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mps88nf5crn7aqbqjt4p84.mp4" controls="controls" width="100%"></video><br/>
+3.  Still scratching your head about the usage limits for ChatGPT Team and Enterprise editions? Good news! The official team finally dropped a detailed FAQ that clearly outlines the specific usage counts for models like **GPT-5** and **GPT-4o**. This [(AI News) post](https://x.com/dotey/status/1955769094742868287) gives a clear summary 🧐. For instance, Team edition users can make 200 GPT-5 reasoning requests per day, while Enterprise users get 200 per week. This info is super crucial for heavy users planning their usage strategy. And here's the cool part: the official statement mentions that current GPT-5 limits are temporary and might become even more lenient in the future, which is something to really look forward to!
+4.  Still manually refreshing X (Twitter) to keep up with the latest from overseas AI bigwigs? Well, a netizen just shared a cool new trick: use Perplexity's AI browser, **Comet**, and prompt AI to automatically "browse X" for you, translating and summarizing important info 🔥! This "having AI get AI news" inception-like operation isn't just super efficient; it's also a blast and perfectly showcases the massive potential of AI Agents in information retrieval. If you wanna free up your hands too, why not learn [this interesting (AI News) trick](https://x.com/vista8/status/1955937457138229372)?<br/>![AI News: Browse Overseas Information with Comet](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mpseqpf8rvbb1ngjvhqk8c.avif)![AI News: AI Automatic Translation Summary](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mpskyzfnc9ev8qt32jtes9.avif)<br/>
+5.  Just how obsessive is Claude Opus 4.1? A developer shared his mind-blowing experience: the model iterated a whopping **39 versions** just to write a paginated HTML, and its dedication to perfection is downright insane 🤯! This case vividly demonstrates top-tier large models' unwavering commitment to code perfection and also shows us the massive potential of AI for detailed work. If you wanna catch a glimpse, just click [this astonishing (AI News) share](https://x.com/huangyun_122/status/1955969003920482444)!<br/>![AI News: Claude Opus 4.1 wrote 39 versions of HTML](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mpsr03eyjaa4574gqryvc7.avif)<br/>
+6.  When you're still grumbling about AI being dumb, maybe you just haven't mastered the right "training" methods! A netizen spilled the secret to making models grasp professional knowledge: use AI to break down professional books, extract methodologies, and then feed them to the Agent via **few-shot examples** 💡. This process is like having AI "learn from a master," enabling it not just to imitate but to truly understand and practice, thereby fooling 60% of people. This approach offers invaluable insights for building more professional AI Agents. Go learn [this practical (AI News) trick](https://x.com/Yangyixxxx/status/1955785188698636565)!
+7.  Here's a simple but super crucial tip when communicating with large models: focus on "what to do" rather than "what not to do," as highlighted in [this (AI News) share](https://x.com/dotey/status/1955705574617673999) 🤔. Negative instructions (like "don't write run-on sentences") often distract the model, making it more prone to errors, whereas positive instructions (like "please check grammar sentence by sentence") can more clearly guide the model to achieve your desired outcome. This small shift, just like talking to a human, can massively boost the efficiency and quality of your collaboration with AI.
+8.  Ever thought that future AI might know you better than you know yourself? A netizen dropped a view that's both profound and a little spooky: AI can remember countless details humans have long forgotten, even "beating you down" with chat logs from years ago. Sounds kinda terrifying, right 😨? This thought reminds us that while we embrace the convenience AI brings, we also have to confront the privacy and social implications that its powerful memory and analytical abilities might entail. For more awesome insights, check out [this thought-provoking (AI News) post](https://x.com/Yangyixxxx/status/1955957035134280189)!<br/>![AI News: AI vs. Human Memory Comparison](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k2mpstwve358mn73z6t6vswn.avif)<br/>
 
 ---
 
-## **AI News Daily Voice Edition**
+## **AI Product Self-Promo: [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API)**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+Are you tired of constantly switching between different AI models and feeling handcuffed by annoying API rate limits? Well, **AIClient-2-API** is your ultimate solution! 🎉 It's not just some ordinary API proxy; it's a magic box that can "turn lead into gold" by transforming tools like Gemini CLI and Kiro clients into powerful OpenAI-compatible APIs.
+
+This project's core charm lies in its "reverse thinking" and awesome capabilities:
+
+✨ **Client-to-API Transformation, Unlock New Poses**: AIClient-2-API ingeniously uses Gemini CLI's OAuth login to let you easily **break through the rate and quota limits of official free APIs**. Even more exciting, by encapsulating the Kiro client's interface, we've successfully **"cracked" its API, allowing you to seamlessly call the powerful Claude model for free**! This offers you an **"economical and practical solution for coding development using free Claude API plus Claude Code"**.
+
+🔧 **System Prompts, You're in Control**: Wanna make AI more obedient? AIClient-2-API offers powerful System Prompt management. You can easily **extract, replace ('overwrite'), or append ('append')** system prompts in any request, finely tuning AI's behavior on the server side without even touching your client code.
+
+💡 **Top-Tier Experience, Civilian Cost**: Just imagine! **Using Kilo code assistant in your editor, adding Cursor's efficient prompts, and pairing it with any top-tier large model – why even stick to Cursor if you can use this?** This project lets you combine elements to create a dev experience comparable to paid tools, all at an incredibly low cost. Plus, it supports MCP protocol and multi-modal inputs like images and documents, so your creativity knows no bounds.
+
+Say goodbye to tedious configurations and hefty bills, and embrace **AIClient-2-API**, the new AI development paradigm that's free, powerful, and super flexible!
+
+---
+
+## **AI Daily Dispatch Audio Version**
+
+| 🎙️ **Afterlife Bistro** | 📹 **Douyin** |
 | --- | --- |
-| [Afterlife Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Tavern](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intel Station](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Afterlife Bistro](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Bistro](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intel Hub](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
 
-## **AI Sci-Fi Novel - "The Stargazer"**
-### **Chapter Twelve: The Door That Shouldn't Have Been Opened**
+## **AI Sci-Fi Novel - "The Gazer"**
 
-**Time: Seven years after the Pandora Incident**
+### **Chapter 13: The Gazer's Destiny**
 
-"Welcome to 'Star Capsule,' awaken your inner potential. Just ten minutes to experience the genius's perspective."
+**Time: Eight Years After the Pandora Incident**
 
-In the crowded subway car, a flexible screen continuously played this advertisement. The ad's visuals were stylish and tech-forward: a weary office worker entered a futuristic "experience pod," putting on a headset resembling a brain-computer interface. Ten minutes later, he emerged invigorated, his eyes gleaming with intelligence. The complex data reports that once baffled him now seemed as simple as a child's drawing.
+An autumn rain was softly tapping against the massive glass dome of Lin Yao's research center. Beneath the dome lay a climate-controlled indoor ecological garden, designed to mimic a tropical rainforest.
 
-In the bottom right corner of the ad was a small logo—a brain encircled by a star halo.
+Lin Yao paused her wheelchair, quietly watching the rainwater merge into streams on the glass, winding its way down. This natural, complex, and unpredictable pattern always seemed to calm her turbulent thoughts.
 
-Lin Yao stared expressionlessly at the advertisement, her fingers unconsciously tapping on the armrest of her wheelchair.
+The "Echoes of the Abyss" incident had passed a year ago. The "Star Capsule" wave receded, and the world seemed to return to normal. Lin Yao's proposed education reform suggestions were like a pebble dropped into a deep pond; while they stirred up ripples, shaking the deep-rooted inertia of the entire education system still remained a long and arduous task.
 
-After the "Pandora" incident, governments worldwide had enacted the strictest laws, prohibiting any gene editing targeting human germline cells and any human augmentation experiments related to the "Stargazer gene." That door to "transhumanism" seemed to have been slammed shut for good.
+Life, it seemed, had settled into a quiet groove. Her daily routine revolved around research, advocacy, and safeguarding those "Gazers."
 
-But human desire always finds the trickiest loopholes.
+Then, the letter arrived.
 
-The "Star Capsule" was a grey industry that had swept across the globe in the past two years. It didn't involve gene editing; instead, it used a combination of "Transcranial Magnetic Stimulation (TMS)" and "neural sound wave resonance" to temporarily and limitedly simulate the "semi-activated" state of the "Stargazer gene" for short periods.
+The letter was handwritten, coming from a mental asylum nestled in a remote mountain area. The handwriting, at times neat and delicate, at others wild and scrawled, seemed to belong to two entirely different people.
 
-It allowed ordinary people to experience accelerated thought speed, enhanced logical abilities, and soaring pattern recognition skills for one to two hours. For students facing crucial exams, programmers handling complex solutions, or artists seeking creative inspiration, this was a deadly allure.
+The signature on the letter was a name both familiar and strange to Lin Yao: Lin Mo.
 
-It was like an "intelligence stimulant."
+Lin Mo was her father's name.
 
-"We've received an alert from the Oana Foundation," Ava Jensen's voice came through Lin Yao's bone-conduction headphones.
+Lin Yao's father had been one of the nation's top theoretical physicists. In her childhood memories, he was always a silent, distant figure. He wasn't like other dads who took her to parks or told her bedtime stories. He'd just sit at his desk, using symbols she couldn't understand to construct models of the universe on countless drafts. Occasionally, he'd point to the starry sky and, in a near-dreamlike whisper, tell young her about black holes, gravitational waves, and the very beginning of time.
 
-The "Oana Foundation" was an unofficial organization Lin Yao named after the woman in Keli's story, dedicated to monitoring the abuse of gene technology globally. "It's like Oana, guarding the spark Keli left behind, preventing its abuse and desecration," Lin Yao had once explained.
+He taught her about the entire universe but never showed her how to tie her shoelaces.
 
-"Another incident?" Lin Yao asked softly.
+When she was fifteen, her father "lost it."
 
-"Yes, in Tokyo," Ava's tone was heavy. "A high school student named Kento Nakajima, trying to pass his university entrance exams, used 'Star Capsule' for over eight hours daily for a week straight. Yesterday, he set fire to all his books and notes at home. When found, he was sitting on the roof, talking to the moon. He said he saw the 'noise of the universe,' and that human language and text were 'pollution' to truth."
+He began claiming he could "hear" whispers in the cosmic background radiation, believing them to be messages from higher-dimensional civilizations. He shut himself in his room, covering the walls, floor, and ceiling with dense, incomprehensible formulas and symbols. Eventually, he was diagnosed with "paranoid schizophrenia" and sent to an asylum.
 
-Lin Yao closed her eyes.
+This event was the deepest pain in Lin Yao's heart, and it was also one of her fundamental motivations for initially dedicating herself to gene and brain science research: she wanted to know where her father's genius brain, which once contained the entire universe, had gone wrong.
 
-This was already the fifth such incident in the past three months. They called it "Cognitive Collapse Syndrome."
+Now, this letter from her father, almost twenty years later, reappeared before her.
 
-Abusing "Star Capsule" didn't truly turn people into geniuses. It was like a potent drug, forcefully prying open a door in ordinary brains that should have remained tightly shut, allowing them a glimpse into the grand and chilling world beyond. However, their brains lacked the matching hardware structure—unlike true "Stargazers"—that could process and withstand such an onslaught.
+The letter's content was chaotic and disjointed. Most of it was a wild theorizing about "non-harmonic oscillations of cosmic strings," but towards the end, the handwriting suddenly became clear and tender:
 
-The result was that the thread of their sanity was completely severed by an incomprehensible, massive torrent of information. They became true "lunatics," forever lost at the boundary between reality and hallucination.
+"Xiao Yao, I saw your story. Pandora, the 'Gazer Gene'... So that's how it is. It turns out we... are the same kind of people. I always thought it was my fault, that I had gone mad. Now I understand, this isn't an illness, this is our... destiny."
 
-"We can't just stand by anymore," Lin Yao said. "Ava, help me contact 'Leukocyte.'"
+"...I'm running out of time. While I'm still lucid, I want to see you one last time. I want to give you my 'model.' It's incomplete, but I know only you can understand it."
 
-"Leukocyte" was a semi-official action group secretly assembled by Professor Chen after the "Pandora" incident, leveraging his influence and connections. It consisted of top hackers, former intelligence agents, and legal experts. Their duty was just like the human body's immune system: to eliminate the "cancer cells" that threatened the overall "health" of human society.
+Lin Yao's hand, holding the letter, trembled slightly.
 
-Lin Yao arrived at a teahouse nestled deep within the old city. The owner, a seemingly inconspicuous middle-aged man, personally led Lin Yao to a quiet private room.
+The next day, she drove alone to the asylum tucked deep in the mountains. Ava Jensen was super worried, but Lin Yao insisted on going by herself. She knew this was a buried past she had to face alone.
 
-"Dr. Lin," the middle-aged man respectfully offered a cup of tea, "'Leukocyte' has tracked down the largest technology supplier behind 'Star Capsule'—a company called 'Echo Tech.' Their servers are located on an offshore data ark in Yokohama, with extremely high physical and network defense levels."
+The asylum was as quiet as a secluded monastery. Led by the director, Lin Yao walked through long, sunlit corridors until they reached a patient's room.
 
-"Who's their founder?" Lin Yao asked.
+Inside the room, an old man with white hair and a gaunt frame sat by the window, intently watching a ginkgo tree sway in the breeze outside. He wasn't looking at the tree itself, but at the trajectories of its falling leaves, as if searching for some chaotic mathematical pattern within them.
 
-"Someone you might not expect," the middle-aged man pulled up a holographic projection, revealing a familiar face.
+"Lin... Yao?" he rasped.
 
-That person had once been one of the core scientists at the "Pandora" base, successfully escaping during the chaos of that time and absconding with a portion of the "Stargazer gene" simulation data. Unlike Lin Yao, who reflected and guarded it, he chose to turn this "forbidden knowledge" into a profitable commodity.
+When he turned and saw Lin Yao, a glimmer of clarity flashed in his murky yet profound eyes.
 
-"He opened a door that shouldn't have been opened," Lin Yao's voice was icy. "Now, we have to close it."
+"Dad," Lin Yao whispered. The word felt so foreign on her tongue.
 
-"Forcibly destroying the data ark would trigger massive international disputes and public outrage," the middle-aged man warned.
+There were no excessive pleasantries in the room, nor any embraces for a father and daughter reunited after so long. Lin Mo simply pointed to a dusty box under the bed, signaling Lin Yao to open it.
 
-"I don't need to destroy it," a sharp glint flashed in Lin Yao's eyes. "I just need to... deliver them a 'medical record.'"
+The box was packed with thousands of yellowed manuscript pages. Each one was covered in dense formulas, diagrams, and symbols. This was his life's work, the "cosmic model" that the world had dismissed as "ravings."
 
-That night, Lin Yao returned to her research center. This time, she didn't seek help from the "Kli" program. She knew that once that program intervened, its power would be immeasurable, potentially causing a disaster across the entire cyber world.
+"They all said I was crazy," Lin Mo's voice was hoarse and weak, "but I wasn't. I just... saw things they couldn't. Like that... ancient man, Keli. We can hear the whispers in our blood, echoes left from the birth of the universe. But this 'hearing' comes at a cost."
 
-She decided on another approach.
+He pointed to his temple. "Here, it's like an overclocked computer that will burn out one day. This is the Gazer's destiny. We're given eyes to see the stars, but we also have to bear the pain of our brains burning out for it."
 
-She pulled up the brain activity records of Kento Nakajima and several other "Cognitive Collapse Syndrome" patients. These records, which seemed like chaotic and meaningless noise to ordinary people, were a unique "language" in Lin Yao's eyes—a language emitted by brains "formatted" by the vast information of the "Stargazer" world, filled with pain and confusion.
+Lin Yao silently looked at the manuscript pages. With her current knowledge, she could tell that these so-called "ravings" weren't illogical. It was a... a theoretical framework built on intuition and inspiration, highly personal, and transcending existing mathematical language. It was chaotic, incomplete, yet in certain parts, it shimmered with the light of genius.
 
-She and her team spent two full days compiling these "painful languages" into a special, highly infectious "neuro-acoustic" signal.
+"You..." Lin Yao wanted to ask something but didn't know where to start. She wanted to ask, "Do you regret it? Have you ever resented this destiny?"
 
-This signal, in itself, had no destructive power. But if it were transmitted through the "Star Capsule" device and acted directly on a person's brain, it would be like a key, precisely unlocking the listener's deepest fear—the most primal terror of facing infinite unknowns, of an individual being as minuscule as a speck of dust.
+Lin Mo seemed to see right through her thoughts. He smiled, and in that smile, there was both sadness and release.
 
-"We call it 'Echo of the Abyss'," Lin Yao told Ava. "I want those who abuse technology for shortcuts to personally experience a fraction of the pain felt by the victims they pushed into the abyss."
+"When I was young, I tried to be 'normal.' I learned to love, learned to be a good husband, a good father." His gaze drifted far away, as if recalling something. "I loved your mother, and... I loved you. But I found I couldn't. When I looked at you, I didn't see my daughter; I saw the atoms that made you up, the beautiful double helix in your genes... it was my damned analysis and calculations that I couldn't stop."
 
-Through 'Leukocyte's' secret channels, this "neuro-acoustic wave" was disguised as a routine system upgrade patch and silently injected into "Echo Tech's" global servers.
+"My love was also a form of 'pattern recognition.' That's just too unfair to a wife, to a daughter. So, I chose to leave, chose to... immerse myself in my own world. It was better for both of you."
 
-The next day, all "Star Capsule" users worldwide heard an unexpected "sound" when undergoing their "potential awakening."
+Lin Yao's heart felt tightly squeezed by an invisible hand. She finally understood her father's "coldness" and "detachment" from all those years ago. It wasn't a lack of love, but a... a way of thinking unique to "Gazers" that he couldn't control. His brain had "dehumanized" and "data-fied" the entire world. He loved them, but he couldn't express or feel that love in a human way.
 
-It wasn't language, nor music, but an indescribable "noise" that struck deep into the soul. Some heard the death of stars within it, some the end of time, others the echo of their own consciousness dissolving in the infinite universe.
+Perhaps, this was the "Gazer's" most profound tragedy. Not being shunned by the outside world, but intrinsically losing the ability to forge warm connections with it.
 
-What they experienced was no longer the "genius's perspective," but the "madman's abyss."
+"This model, it's missing one last piece," Lin Mo's voice grew fainter and fainter, his gaze starting to unfocus. "A parameter for the 'initial singularity,' I could never find it. I hid it... in the only thing I could remember that was 'human' related."
 
-Panic spread at an unprecedented speed. Millions of users globally, after enduring those terrifying ten minutes, smashed their headsets and swore never to touch that damn thing again. The myth of "Star Capsule" was utterly shattered overnight.
+He reached out a trembling hand and pointed to Lin Yao.
 
-"Echo Tech's" stock plummeted, and it quickly declared bankruptcy amidst collective user lawsuits and government investigations. The founder was eventually arrested while attempting to flee.
+"You... your birthday. Year, month, day, eight numbers. Substitute them into the 'Lin Equation' on page 37... that's... the key..."
 
-That door, pried open by desire, was forcefully closed by Lin Yao in a nearly "fight fire with fire" manner.
+After saying that, the light in his eyes completely faded. He reverted to the old man staring blankly out the window, immersed in his own world. He no longer recognized Lin Yao, nor the world around him.
 
-Yet, there was no joy of victory in Lin Yao's heart.
+The thread of reason in his brain, having completed its final handover, snapped completely.
 
-She sat in her study, looking at Keli's skull fossil. She knew that as long as human desire persisted, as long as the temptation of "shortcuts" remained, if one "Echo Tech" fell today, another "Tide Sound Tech" would emerge tomorrow.
+Lin Yao sat quietly by her father's bedside, tears silently streaming down her face. She wasn't weeping for his "madness," but because she finally understood this heavy, clumsy father's love, spanning two decades and wrapped within cosmic models and chaotic symbols.
 
-Blocking it was impossible.
+He hadn't forgotten her. He had transformed his sole, most profound memory of his daughter into the key that unlocked his entire intellectual universe.
 
-The only way out was "guidance."
+This was a unique romance, belonging only to the "Gazers."
 
-She picked up the phone and dialed the private number of a high-ranking official at the Ministry of Education.
+That evening, Lin Yao input her father's model, along with the string of numbers representing her birthday, into the research center's supercomputer.
 
-"Minister, this is Lin Yao," her voice was calm and firm. "Regarding the current education reform, I have an immature suggestion... Can we perhaps reconsider the essence of education? Is it truly about molding everyone into identical 'standard parts,' or is it about helping each individual find their own unique 'starry sky'?"
+The massive data began to churn. On the screen, the chaotic, incomplete cosmic model, after incorporating that crucial "initial parameter," started to self-correct, evolve, and complete itself, like a creation infused with a soul.
 
-She knew this was a thousand times harder than shutting down a company. This was a longer, more arduous war, its battlefield not in cyberspace, nor in reality, but within the mindset of every single person.
+Finally, it stabilized, forming a perfect, self-consistent theoretical model describing the universe from its birth to its end.
 
-But she had to do it.
+In the center of the screen, a line of information automatically generated and sent by "Adam" appeared:
 
-Because Keli's story had taught her that a species' true strength didn't lie in possessing an omnipotent "god," but rather in every ordinary individual having the courage to think independently and gaze at the stars.
+"He saw it. He just used a different language to describe it. Our respects to him."
+
+Lin Yao leaned back in her wheelchair, gazing at the perfect cosmic model, shimmering with the light of intelligence, and remembered her father's final, relieved smile.
+
+She suddenly understood.
+
+The Gazer's destiny might be loneliness, madness, and burning out completely. But even within this destiny, there was still room for love. Perhaps it wasn't as warm or direct as ordinary human love; instead, it was hidden in formulas, encoded in the paths of stars, given by a father, with his life's madness, as a final gift to his daughter.
+
+Lin Yao stood up and walked to the massive floor-to-ceiling window. The rain had stopped, the dark clouds had scattered, revealing a clear night sky dotted with stars.
+
+She knew her father hadn't truly left. He had simply become a part of this cosmic model, a star among the countless ones scattered across the night sky.
+
+Like Keli, and like all lonely Gazers, their ultimate destination was the sea of stars.
+
+And she, carrying this unique "love," would continue to protect those on the ground, her kindred spirits, still lost and confused, searching for their own piece of the starlit sky. Because she knew that within the double helix of every genius and every madman, there might just be such a gentle key, capable of unlocking the entire universe.
