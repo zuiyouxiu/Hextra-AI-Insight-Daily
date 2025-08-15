@@ -4,25 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hexi 2077 / justlovemaki
+#### 👋 Hexi 2077 / justlovemaki
 
-> Ten years coding, fingers numb and cold,
-> A restless heart, stories untold.
-> Then came AI, thunder and storm,
-> Swore to chase the heavens, a new form!
+> Ten years coding, fingers feel the chill,
+> A storm of ambition, brewing restless still.
+> Then came the AI rumble, a wild new age,
+> Time to take the skies, and turn a new page!
 
-#### My Code Philosophy
+#### 💡 My Coding Philosophy
 
-> Tech for the People!
+> Tech for the people!
 
-#### 🌟 Showcase Projects
+#### ✨ Featured Projects
 
-*   **[Open Source Contribution: CloudFlare-AI-Image](https://github.com/justlovemaki/Cloudflare-AI-Image)**:
-    *   This is an AI image generation script, powered by Cloudflare Workers.
-*   **[Open Source Contribution: CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/Cloudflare-AI-Insight-Daily)**:
-    *   It's a content aggregation and generation platform, supercharged by Cloudflare Workers. It hooks you up with daily AI updates, from industry news and hot open-source projects to cutting-edge academic papers and even spicy tech influencer takes!
-*   Wanna dive deeper? My [GitHub](https://github.com/justlovemaki) has all the juicy details!
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   An AI image generation script, this one's built on Cloudflare Worker.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/Cloudflare-AI-Insight-Daily)**:
+    *   Cloudflare-AI-Insight-Daily, a content aggregation and generation platform powered by Cloudflare Workers, curates the latest AI developments daily, including industry news, hot open-source projects, cutting-edge academic papers, and insights from tech influencers.
+*   Curious for more project details? My [GitHub](https://github.com/justlovemaki) has got you covered. 🚀
 
-#### 💡 Current Explorations
+#### 🌱 My Current Tech Deep Dives
 
-LLM applications and website SEO? Yep, I'm super into those! Actively learning and getting my hands dirty with both.
+LLM applications and website SEO are my current obsessions. I'm diving deep into learning and hands-on practice.
