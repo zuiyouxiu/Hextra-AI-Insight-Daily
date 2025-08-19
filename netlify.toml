@@ -17,9 +17,3 @@ HUGO_VERSION = "0.147.7"
   to = "https://ai.hubtoday.app/:splat"
   status = 301
   force = true
-
-[[redirects]]
-  from = "https://6882b87a03e9d50009a8a3bb--comfy-figolla-535556.netlify.app/*"
-  to = "https://ai.hubtoday.app/:splat"
-  status = 301
-  force = true
