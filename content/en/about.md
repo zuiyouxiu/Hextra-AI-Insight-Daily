@@ -4,21 +4,22 @@ type: about
 sidebar:
   exclude: true
 ---
-#### He Xi 2077 / justlovemaki
+#### 何夕2077 / justlovemaki
 
-> A decade of code, fingertips chilled, my chest still holds unspoken blues.
-> Suddenly, AI's thunder roars, I'm ready to fight in the clouds.
+> A decade of code, fingertips chilled, my spirit's fire, yet unfulfilled. Then thunder roared, AI's grand call, I'm ready to take on the storm and give it my all!
 
-#### My Code Philosophy
+#### My Code Philosophy 💡
 
-> Technology serves the people.
+> Technology, at its core, serves the people. That's my code philosophy, plain and simple.
 
-#### My Masterpieces ✨
+#### My Stellar Projects ✨
 
-*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: This is a sweet AI image generation script running on Cloudflare Worker.
-*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This neat platform is a content aggregation and generation platform powered by Cloudflare Workers. It hooks you up with daily AI updates, from industry news and hot open-source projects to groundbreaking academic papers and juicy tech influencer takes.
-*   My [GitHub](https://github.com/justlovemaki) has even more project details. Go check it out!
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   **This AI image generation script** is built using Cloudflare Workers. Pretty neat, huh?
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   **Cloudflare-AI-Insight-Daily**, powered by Cloudflare Workers, is a dynamic content aggregation and generation platform. It hooks you up daily with the freshest AI developments, including industry news, hot open-source projects, mind-blowing academic papers, and cool social media takes from big-shot tech influencers.
+*   **My [GitHub](https://github.com/justlovemaki)** holds even more project deets, so go check it out!
 
-#### Current Explorations 🌱
+#### What I'm Cooking Up Now 🚀
 
-I'm seriously into LLM apps and website SEO right now, totally diving deep into learning and getting hands-on.
+> **My current passion** lies in LLM applications and website SEO. I'm deep-diving into learning and hands-on practice, soaking up all the knowledge!
