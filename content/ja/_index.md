@@ -25,11 +25,11 @@ AppleがXcodeにClaude AIをネイティブ統合することを正式に確認�
 
 1.  **NetEase Youdao**は、「子曰」教育大規模モデルを発表しました。まるで従来の教育にAIのスーパーブレインを搭載したかのようです。一気に**AI質疑応答ペンSpace X**や音声動画翻訳プラットフォームなどの目玉新製品をリリースしましたね！✨ また、Youdaoは独自に**教育AI応用能力L1-L5等級基準**を提案し、個性を重視した教育の夢を現実のものとし、すべての生徒が専属のスマートチューターを持てるようにすることを目指しています。教育AIの新たな進化を目撃しに、ぜひ[Youdaoの発表会詳細（AIニュース）](https://www.jiqizhixin.com/articles/2025-08-20-11)をご覧ください！
 
-<br/>![AIニュース：NetEase Youdao「子曰」大規模モデル駆動のAIハードウェア](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k341a17feaaa551n3p9pc1sw.avif)
+<br/>![AIニュース：NetEase Youdao「子曰」大規模モデル駆動のAIハードウェア](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341a17feaaa551n3p9pc1sw.avif)
 
 2.  **WeChat Work 5.0バージョン**は、待望の大型アップデートを迎え、正式にAIを全面採用することを発表しました。🚀 これにより、1400万を超える企業組織に**スマート検索、スマート要約、スマートロボット**という3つの核となるAI能力がもたらされました。新バージョンのWeChat Workは、単なる情報伝達に留まらず、AIをオフィス業務プロセスにおいて手に届く「秘めたる武器」とすることで、内外連携におけるスマートな飛躍を実現しようとしています。より詳しい[企業向けAIオフィス新体験（AIニュース）](https://www.aibase.com/zh/news/20655)について知りたい方は、それがどのように企業の「内功」修行を助けるのか見てみましょう。
 
-<br/>![AIニュース：WeChat Work 5.0のスマートテーブル機能](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k341a549egaahse9ff45531e.avif)
+<br/>![AIニュース：WeChat Work 5.0のスマートテーブル機能](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341a549egaahse9ff45531e.avif)
 
 3.  **Appleの開発者コミュニティ**はお祭りムードに包まれています。公式が、主要開発ツール**Xcode**に**Anthropic社のClaude AI**をネイティブ統合すると正式に確認したからです。これまでの「Swift Assist」の大きな約束よりも、よっぽど魅力的な話ですね！🙌 この動きは、開発者が煩雑な設定なしに、最も慣れた環境でトップレベルのAIプログラミングアシスタントのスムーズな体験を享受できることを意味し、複数のツール間を行き来する煩わしさから完全に解放されます。この[詳細なレポート（AIニュース）](https://www.aibase.com/zh/news/20648)を見ると、AppleのAIエコシステム統合は壮大な戦略を描いているようです。
 
@@ -37,11 +37,11 @@ AppleがXcodeにClaude AIをネイティブ統合することを正式に確認�
 
 1.  **LongVieフレームワーク**が、Soraが動画の長さに悩む中、その解決策を携えて登場しました。長尺動画生成におけるあらゆる課題を「一刀両断」します！🤔 **制御信号のグローバル正規化**と**統一ノイズ初期化**という二つの神業を通じて、LongVieは長尺動画における時間的な不連続性や画質劣化といった厄介な問題を効果的に解決し、超長尺で制御可能な動画においてSOTA（State-of-the-Art）な効果を達成しました。ぜひ[プロジェクトホームページ（AIニュース）](https://vchitect.github.io/LongVie-project/)でその驚きを体験するか、直接[技術論文（AIニュース）](https://arxiv.org/abs/2508.03694)を読んでその詳細を探ってみてください。
 
-<br/>![AIニュース：LongVieフレームワークの概念図](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k341ba1gf919qg0c8pa7hyp1.avif)
+<br/>![AIニュース：LongVieフレームワークの概念図](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341ba1gf919qg0c8pa7hyp1.avif)
 
 2.  **Avengers-Pro**は、上海AI Labがオープンソース化したマルチモデルスケジューリングルーティングソリューションで、トップクラスの大規模モデルは素晴らしいけれど高価すぎて「手が出せない！」という現状を打破するために登場しました🤯。これはまるで賢い「現場監督」のように、**わずか19%のコストでGemini-2.5-Proと同等の性能**を達成し、性能とコストのパレート最適を実現することで、中小企業でもトップクラスのAI能力を利用できるようにします。この究極の費用対効果ソリューションに興味がありますか？ぜひ[GitHub（AIニュース）](https://github.com/ZhangYiqun018/AvengersPro)をチェックするか、[関連論文（AIニュース）](https://arxiv.org/abs/2508.12631)を読んで学んでみてください。
 
-<br/>![AIニュース：Avengers-Proの性能とコストのパレートフロンティア図](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k341bf6mensrbr38wy3rxj5v.avif)
+<br/>![AIニュース：Avengers-Proの性能とコストのパレートフロンティア図](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341bf6mensrbr38wy3rxj5v.avif)
 
 3.  **HumanPCR**と名付けられた[最新研究論文（AIニュース）]が、AIは本当に人間のように世界を理解できるのかという問いに対し、少々気まずい答えを出しました🤔。研究者たちは、マルチモーダル大規模モデルの人間生活における**知覚、理解、推論**能力を「尋問」するために、全く新しい評価システムを設計しました。結果として、最先端のモデルでさえ、複雑な空間知覚、時間理解、心の状態の推論といったタスクに直面すると、依然として力不足であることが示され、AIの「人間的感覚」への道のりはまだ長いようです。
 
@@ -63,11 +63,11 @@ AppleがXcodeにClaude AIをネイティブ統合することを正式に確認�
 
 1.  **ZhipuのAutoGLM 2.0**の非公開テストで、とんでもないサプライズが飛び出しました！🎉 その**スマートフォン向け汎用エージェント**の使いやすさは、参加者全員を驚かせ、世界初の真に実用的なスマホ向け汎用AIエージェントだと評価されています。すべての操作はクラウド上のスマートフォンとPCで実行され、クロスプラットフォームでのシームレスな体験を実現し、アプリケーションを跨ぐ複雑なタスクを自動で完了できます。ぜひ[デモ動画を見る（AIニュース）](https://x.com/op7418/status/1958122959333363774)をクリックして、AIがあなたのスマートフォンを「乗っ取る」未来を体験してみてください。
 
-<br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k341c3m6ew3tp3qkrcyhcb2r.mp4" controls="controls" width="100%"></video>
+<br/><video src="https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341c3m6ew3tp3qkrcyhcb2r.mp4" controls="controls" width="100%"></video>
 
 2.  AIアプリケーションのコンテキストエンジニアリングにまだ悩んでいますか？それなら、**Firecrawl v2**をぜひチェックしてみてください！💡 早期ユーザーによると、これは現在最も先進的な検索APIの一つで、深層研究エージェントの構築が驚くほど簡単になるとのこと。ウェブページ、ニュース、画像検索を一か所に統合し、AIエージェントに強力な「情報収集レーダー」を提供します。どのようにコンテキストエンジニアリングを簡素化するか、[詳細を見る（AIニュース）](https://x.com/omarsar0/status/1957837839405920282)をクリックして確認してみてくださいね。
 
-<br/><video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k341rxsaer8vrsfxbya3bxzw.mp4" controls="controls" width="100%"></video>
+<br/><video src="https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341rxsaer8vrsfxbya3bxzw.mp4" controls="controls" width="100%"></video>
 
 3.  プログラミングツール「**Cursor**」に、謎の新モデルが登場しました🤫。驚くほどの速さで、その出元は匿名に保たれています。コミュニティでは、**Grokモデル**が関与しているのではないかと噂されており、開発者の間で熱い議論が巻き起こっています。この小道情報は、Cursorのバックエンド能力に対する人々の好奇心を高め、Grokの潜在的な応用シナリオにも新たな想像力を与えました。みんなの推測を知りたいなら、ぜひ[Jikeコミュニティ（AIニュース）](https://m.okjike.com/originalPosts/68a58031a010f886870b1d21)を覗いてみてくださいね。
 
@@ -77,7 +77,7 @@ AppleがXcodeにClaude AIをネイティブ統合することを正式に確認�
 
 5.  ある**ブロガー**がズバリ指摘しました🎯。多くの企業が口では「AI戦略！」と叫びながら、実際には従業員を「使い捨ての資源」のように扱っており、結果的にAIは活用されず、人材も流出してしまうと。本当の勝利の秘訣は実はとてもシンプルです。常に「近道」ばかりを探すのではなく、**AIを増幅器としてうまく活用し**、周りの同僚を大切にすること。より多くの[企業マネジメントに関する鋭い意見（AIニュース）](https://x.com/frxiaobei/status/1957845395968753978)を読みたい方は、管理上の「大きな落とし穴」を避けるのに役立つかもしれません。
 
-<br/>![AIニュース：企業のAI戦略に関する考察](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/08/news_01k341sbkvfvqa5amgtg1vw3yw.avif)
+<br/>![AIニュース：企業のAI戦略に関する考察](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341sbkvfvqa5amgtg1vw3yw.avif)
 
 ---
 
@@ -102,4 +102,4 @@ AppleがXcodeにClaude AIをネイティブ統合することを正式に確認�
 | 🎙️ **来世の小さな居酒屋** | 📹 **抖音（TikTok）** |
 | --- | --- |
 | [来世の小さな居酒屋](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [SNSアカウント](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![小さな居酒屋](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情報ステーション](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| ![小さな居酒屋](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情報ステーション](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
