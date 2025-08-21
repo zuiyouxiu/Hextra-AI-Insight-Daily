@@ -2,99 +2,99 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-08/2025-08-20
+next: /en/2025-08/2025-08-21
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily: August 21, 2025 Edition
+## AI Daily Briefing 2025/8/22
 
-> `AI News` | `Daily Insights` | `Web Data Aggregation` | `Frontier Science` | `Industry Voices` | `Open Source Power` | `AI & Our Future` | [Visit Web Version ↗️](https://ai.hubtoday.app/)
+> AI News | Daily Morning Read | Aggregated Web Data | Cutting-Edge Science Exploration | Industry Free Speech | Open Source Innovation | AI & Humanity's Future | [Visit Web Version](https://ai.hubtoday.app/)
 
-### **Today's Quick Bites**
+### Today's Roundup
 
 ```
-NetEase Youdao just dropped its Ziyue education large model and some slick new AI hardware, while WeChat Work fully embraced AI with integrated capabilities.
-Apple officially confirmed native Claude AI integration in Xcode, aiming to supercharge the developer coding experience.
-In frontier research, the LongVie framework has innovatively tackled temporal challenges in long video generation.
-Meanwhile, a study revealed that even top multimodal models still fall short in understanding complex human scenarios.
-And get this: GPT-6 is teased to feature personalized memory, plus Microsoft launched BitNet, a lightweight inference framework.
+AI advancements are heating up! Tongyi App just rolled out a new knowledge base, while Google Hardware is going all-in on AI. ElevenLabs also dropped a more expressive voice model that whips up emotional audio. On the research front, GPT-5 Pro is now proving math theorems on its own, which is wild! Meanwhile, the industry is grappling with how to handle AI models becoming "black boxes." These developments signal that AI is transforming from a mere tool into a genuinely intelligent, independent research partner.
 ```
 
 ### Product & Feature Updates
 
-1.  NetEase Youdao just dropped its "Ziyue" education large model and a bunch of slick AI hardware, basically giving traditional education an AI super brain! They rolled out major new products like the **AI Q&A Pen Space X** and an audio-video translation platform. Plus, Youdao uniquely proposed the **L1-L5 grading standards for educational AI application capabilities**, aiming to make personalized teaching a reality and give every student their own smart assistant. Wanna see education AI evolve again? Check out the [Youdao Press Conference Details (AI News)](https://www.jiqizhixin.com/articles/2025-08-20-11)! 🚀
-    <br/>![AI News: NetEase Youdao Ziyue Large Model-Driven AI Hardware](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341a17feaaa551n3p9pc1sw.avif)
+1.  **Tongyi App** just dropped a massive "second brain" upgrade, officially launching its brand-new knowledge base feature! 🧠 It cleverly blends official authoritative knowledge with your personal library, effortlessly handling everything from legal queries to your study notes. The real magic? It can federate information across libraries for joint queries, giving you comprehensive and reliable answers like a seasoned expert. Go [experience this new feature (AI News)](https://www.jiqizhixin.com/articles/2025-08-21-7) yourself!
+    ![Tongyi App Multi-Library Federated Query Feature](https://source.hubtoday.app/images/2025/08/news_01k36n279kfmjbkcm05nf6ygkj.avif)
 
-2.  WeChat Work 5.0 just dropped a massive upgrade, officially announcing it's fully embracing AI! This move brings three core AI superpowers—**smart search, smart summaries, and smart bots**—to over **14 million** enterprise organizations. The new WeChat Work isn't just about simple info exchange anymore; it's making AI an accessible "secret weapon" in daily workflows, pushing for a smart leap in internal and external collaboration. Curious to know more about [Enterprise Office AI New Experience (AI News)](https://www.aibase.com/zh/news/20655)? Check out how it's helping businesses level up their internal game. ✨
-    <br/>![AI News: WeChat Work 5.0 Smart Table Feature](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341a549egaahse9ff45531e.avif)
+2.  **ElevenLabs** just unveiled its v3 Alpha API, claiming it's "the most expressive text-to-speech model on Earth," ready to inject real soul into digital voices 🎤. Not only does it support over 70 languages, but it also introduces a brand-new **conversational mode**, letting you easily orchestrate lively dialogues with endless virtual characters. The true enchantment lies in its advanced **audio tags**: just pop `[whispering]` or `[happy]` into your text, and watch simple words transform into an emotionally rich [audio drama (AI News)](https://www.aibase.com/zh/news/20693). ✨
+    </video>
 
-3.  Apple's developer community is buzzing with excitement! The company officially confirmed that **Anthropic's Claude AI** will be natively integrated into its core development tool, **Xcode**. This is way sweeter than the "Swift Assist" pie they hinted at before. This means developers won't need tedious configurations to enjoy a super smooth experience with a top-tier AI coding assistant right in their familiar environment, finally ditching the hassle of jumping between multiple tools. From [This In-Depth Report (AI News)](https://www.aibase.com/zh/news/20648), it looks like Apple is playing a long game with its AI ecosystem integration! 🍎
+3.  **Google Pixel Buds** are revolutionizing how we interact with our headphones, embedding powerful **Gemini AI** into the new models, and even adding some sci-fi-level gesture controls! 🚀 The budget-friendly **Pixel Buds 2a** now boast flagship-grade active noise cancellation, while the **Pixel Buds Pro 2** let you answer calls with a simple nod – instant secret agent vibes. This update isn't just about sound quality; it's all about building a seamless AI ecosystem, making your headphones a truly smart, [proactive assistant (AI News)](https://www.aibase.com/zh/news/20685).
+    ![AI News: Google Pixel Buds Pro 2 Gesture Control](https://source.hubtoday.app/images/2025/08/news_01k36n29kkfpqvg65dcx1zqnkq.avif)
+
+4.  **Alibaba Tongyi Qianwen's Deep Research feature** is now free and open to all, making paper-reading headaches a thing of the past – it's basically an academic superpower! 📚 One user reported tossing a complex list of robotics papers at it, and in just 10 minutes, it spit out a comprehensive, insightful analysis report. Stress? Gone in a flash. Go [experience this (AI News) feature for free](https://chat.qwen.ai/?inputFeature=deep_research) and let AI tackle your tedious deep research!
+    ![AI News: User Using Qwen Chat to Analyze Papers](https://source.hubtoday.app/images/2025/08/news_01k36n2fwgf1xskrbk02pk182j.avif)
 
 ### Frontier Research
 
-1.  While Sora is still sweating over video duration, the **LongVie framework** has already burst onto the scene with a solution, ready to cure all the "disobediences" of long video generation! This bad boy effectively tackles stubborn issues like temporal inconsistency and quality degradation in long videos through two divine techniques: **global normalization of control signals** and **unified noise initialization**. It's successfully achieved SOTA results for ultra-long controllable videos. Feel free to check out the [Project Homepage (AI News)](https://vchitect.github.io/LongVie-project/) or dive straight into the [Technical Paper (AI News)](https://arxiv.org/abs/2508.03694) to see what's what. ✨
-    <br/>![AI News: LongVie Framework Diagram](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341ba1gf919qg0c8pa7hyp1.avif)
+1.  **GPT-5 Pro** is now moonlighting as a mathematician, independently reading academic papers and conjuring up new mathematical proofs – mind blown! 🤯 In a recent test, it tackled a complex **convex optimization** problem, deriving more precise mathematical bounds than the original paper. OpenAI's president excitedly called this achievement "a sign of life." While researchers later found an even better solution, GPT-5 Pro's unique proof approach signals that AI is evolving from a mere tool into a genuine [research partner (AI News)](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247820070&idx=2&sn=207a1c24fdbf3ef6f35556ff9e3a2695).
+    ![AI News: GPT-5 Pro's Mathematical Research Results](https://source.hubtoday.app/images/2025/08/news_01k36n2jv8esk91d53tzt9ma5h.avif)
+    ![OpenAI President Calls It "Signs of Life"](https://source.hubtoday.app/images/2025/08/news_01k36n2p0qes0b5nqydfmgcbz1.avif)
 
-2.  Top-tier large models are awesome, but their sky-high costs often make them feel out of reach, right? Well, Shanghai AI Lab's open-source **Avengers-Pro** multi-model scheduling and routing solution is here to smash that deadlock! 💥 It acts like a savvy "foreman," achieving **the same performance as Gemini-2.5-Pro at just 19% of the cost**. This means Pareto optimality in performance and cost, making top-tier AI capabilities accessible even for small and medium-sized businesses. Intrigued by this ultimate cost-performance solution? Go check out their [GitHub (AI News)](https://github.com/ZhangYiqun018/AvengersPro) or read the [Related Paper (AI News)](https://arxiv.org/abs/2508.12631) to learn more!
-    <br/>![AI News: Avengers-Pro Performance and Cost Pareto Frontier Chart](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341bf6mensrbr38wy3rxj5v.avif)
+2.  **Tinker Diffusion** technology has arrived, like a magic wand for 3D content creators: now, a single image can "conjure" a complete multi-view 3D scene from thin air! ✨ The secret sauce lies in seamlessly merging **monocular depth estimation** with **video diffusion models**, drastically boosting generation efficiency while maintaining geometric consistency. Its emergence means the barrier to 3D content creation has plummeted, bringing revolutionary [new developments (AI News)](https://huggingface.co/papers/2508.14811) to VR, AR, and game development.
+    </video>
 
-3.  Can AI really understand the world like humans do? A new research paper called **HumanPCR** (check out the [Latest Research Paper (AI News)](https://arxiv.org/abs/2508.13692)) just gave us a somewhat awkward answer. 😬 Researchers designed a brand-new evaluation system specifically to "interrogate" large multimodal models on their abilities in **perception, understanding, and reasoning** within human life scenarios. The results? Even the most cutting-edge models still fall short when facing complex tasks like spatial perception, temporal understanding, and theory of mind. Looks like AI still has a long, long way to go on its "social graces" journey. 🤔
+3.  **UnZipLoRA** technology asks: What if you could "unzip" an image like a file, completely separating its subject matter from its artistic style? 🎨 This tech achieves exactly that miracle, training two independent **LoRA** models from a single image—one representing "what it is" and the other "what it looks like." As this [fascinating image decomposition paper (AI News)](https://arxiv.org/abs/2412.04465) demonstrates, this capability grants creators unprecedented freedom, like painting your pet cat with Van Gogh's brushstrokes. Wild! 🤯
 
-4.  In today's flood of AI-generated content, how do you develop a keen eye to spot the fakes? A new research project called **MIRAGE** (see the [Research (AI News)](https://arxiv.org/abs/2508.13223)) is working hard on just that! It not only built an **AI-generated image detection benchmark** that simulates real web environments but also proposed a new detection model called **Mirage-R1**. 🔍 This fresh model uses a unique reflective reasoning mechanism, outperforming existing detectors by 10% in public benchmark tests. Its goal? To be the ultimate "demon-revealing mirror" in our ocean of information.
+4.  **Parking prediction research** on ArXiv suggests that finding a parking spot on a university campus, often a nightmare, might soon be a breeze! 🚗 A new paper proposes a clever sensor-free solution: researchers precisely predict parking spot availability by fusing **geospatial data**, movement data, and even weather data, then analyzing it with machine learning models. The study, published on [ArXiv (AI News)](https://arxiv.org/abs/2508.14125), shows that a **Random Forest** model can achieve remarkably high accuracy, potentially making the daily "parking spot battle" a thing of the past.
 
 ### Industry Outlook & Social Impact
 
-1.  OpenAI's Sam Altman is back with another tantalizing tease! He revealed that the next-gen **GPT-6** won't just be faster to develop; it'll also rock **personalized memory capabilities**, remembering your preferences and habits. 🤯 This means future AI won't be a cold, hard Q&A machine but rather a "soulmate" that understands and adapts to you. They're even working with psychologists to study user emotions and well-being! For more on the [Future Outlook for GPT-6 (AI News)](https://www.aibase.com/zh/news/20670), get ready to start dreaming of a more human-friendly AI era. ✨
+1.  **The classic "Bus Factor"** in project management is getting a rather unsettling new meaning in the AI era. 🤔 We're no longer just worried about core developers leaving; now, we fear AI itself might "forget" its own code logic, turning entire projects into inscrutable black boxes. As this [thought-provoking discussion (AI News)](https://x.com/frxiaobei/status/1958426621477843373) points out, managing an AI that doesn't "take the blame" is becoming a brand-new challenge for tech leaders.
+    ![AI News: Bus Factor Concept Map](https://source.hubtoday.app/images/2025/08/news_01k36n2zwje688507xm7vdf0df.avif)
+    ![Bus Factor Risks in the AI Era](https://source.hubtoday.app/images/2025/08/news_01k36n32avewesqx988a9qe26j.avif)
 
-### Open Source TOP Projects
+2.  **Anthropic's Think Tool** marks the latest leap in AI system evolution, showing how AI is moving from messy prompts to structured systems, mirroring the formalization of programming languages 🧠. A brilliant analysis article, viewed through the lens of **compiler theory**, argues that making AI's thought processes explicit and verifiable is crucial for building trustworthy systems. By externalizing reasoning steps, **Think Tool** surpasses traditional chain-of-thought paradigms, creating an auditable, debuggable AI—essential for [latest developments (AI News)](https://bestblogs.dev/article/1643f1) in high-stakes applications.
+    ![AI News: Evolution from Prompt to Think Tool](https://source.hubtoday.app/images/2025/08/news_01k36n351me8prjxycare5n3r6.avif)
 
-1.  Who said large models have to be "power-hungry beasts"? Microsoft's official **BitNet** project is here to shut that down! It's an official inference framework custom-built for **1-bit large language models**, making LLMs run lighter and more efficiently than ever before. 💨 This project, which has already snagged an impressive [⭐20.8k stars on GitHub (AI News)](https://github.com/microsoft/BitNet), is leading a revolution in model lightweighting, bringing a more accessible AI future closer to reality.
+3.  **Google's latest hardware launch** sends a clear signal: **Gemini AI** is the soul of its entire ecosystem! 🔥 The key trend? AI is no longer a passive feature button; it's an active, integrated smart assistant in every app, from an **AI health coach** to a photo editor guiding your shots—it's everywhere. As this [press conference trend analysis (AI News)](https://x.com/op7418/status/1958391973511139334) summarizes, this marks a full industry pivot toward ubiquitous, edge-model-powered, integrated smart experiences. 🚀
+    <video src="https://source.hubtoday.app/images/2025/08/news_01k36n3djkfbes79djxsdgdthx.mp4" controls="controls" width="100%"></video><br/>
+    ![AI News: Google Hardware Fully Embraces AI](https://source.hubtoday.app/images/2025/08/news_01k36n3hh6ets8dxjn3q2fc555.avif)
 
-2.  Is backend development too complicated? The **motia framework** says "nope"! It's like a master organizer, elegantly unifying core functionalities such as **APIs, background tasks, workflows, and AI agents** into a single primitive. This modern backend framework, which has already snagged [⭐6.8k stars on GitHub (AI News)](https://github.com/MotiaDev/motia), also comes with built-in observability and state management, aiming to free developers from the tedious glue work of component integration so they can focus on creating. ✨
+### Top Open Source Projects
 
-3.  Dream of having your very own Grok companion? Then you gotta check out **airi**, an [open-source project (AI News)](https://github.com/moeru-ai/airi)! It's a self-hostable AI companion dedicated to bringing cyber life into the real world. 🤖 This project, which has already bagged **⭐3.3k** stars on GitHub, not only supports real-time voice chat but can also play Minecraft and Factorio with you. Seriously, it's a dream come true for many.
+1.  **Puter** is an ambitious open-source project attempting to answer: What if the entire internet could be your personal computer? 🌐 It’s a completely free, self-hostable "internet operating system" designed to deliver a full-fledged desktop environment—file system, apps, and all—right in your browser, giving you true control over your digital world. With an astonishing ⭐35.4k Stars on the [Puter project homepage (AI News)](https://github.com/HeyPuter/puter), it's clearly igniting developers' imaginations for a decentralized future.
+    
+2.  **Budibase** is an open-source Swiss Army knife that lets you build powerful business applications in minutes, making tedious internal tool development a distant memory! 🛠️ As a versatile low-code platform, it seamlessly integrates with various data sources like **PostgreSQL** and **MongoDB** and supports easy deployment on **Docker** or **K8s**. Boasting ⭐25.5k Stars on its [GitHub open-source project (AI News)](https://github.com/Budibase/budibase), it's become a hot pick for companies looking to automate workflows.
+
+3.  **drawnix** is an open-source online whiteboard tool designed to unleash team creativity, bundling mind mapping, flowcharts, and free drawing onto one infinite canvas! 🎨 Say goodbye to the hassle of switching between multiple apps; now, team collaboration is smoother and more efficient than ever. With ⭐4.6k Stars on this [collaboration tool (AI News)](https://github.com/plait-board/drawnix), it's fast becoming the perfect alternative for many teams tired of pricey SaaS products.
 
 ### Social Media Buzz
 
-1.  Zhipu's **AutoGLM 2.0** private beta just dropped a bombshell! Its **mobile general agent** blew away attendees with its usability, earning it the title of the world's first truly usable mobile-level general-purpose intelligent agent. 🤯 All operations run on cloud phones and cloud computers, delivering a seamless cross-platform experience that can automatically complete complex tasks across different apps. Hit that link to [Watch Demo Video (AI News)](https://x.com/op7418/status/1958122959333363774) and get a taste of AI taking over your phone's future!
-    <br/>![AI News: Zhipu AutoGLM 2.0 Mobile General Agent Demo]
-    <br/><video src="https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341c3m6ew3tp3qkrcyhcb2r.mp4" controls="controls" width="100%"></video>
+1.  **The `agents.md` standard** is rising as the universal rulebook trying to "unify the world" in the wild west of AI Agents, where a quiet battle over configuration file standards is unfolding 📜. A must-read deep dive dissects the core differences between `agents.md`, `CLAUDE.md`, and `GEMINI.md`: the former defines "how to do things" (like testing, checking), while the latter two handle "personality and memory." This [must-read deep analysis (AI News)](https://x.com/frxiaobei/status/1958388912344416609) offers developers best practices for using them together, stressing that Agent instructions must be scrutinized like code. 🤓
 
-2.  Still tearing your hair out over context engineering for AI apps? You HAVE to check out **Firecrawl v2**! Early users are calling it potentially one of the most advanced search APIs out there, making building deep research agents ridiculously easy. 🔥 It mashes up web, news, and image search all in one place, giving AI agents a powerful "information gathering radar." Click to [See More Introduction (AI News)](https://x.com/omarsar0/status/1957837839405920282) and see how it simplifies context engineering.
-    <br/>![AI News: Firecrawl v2 Context Engineering Diagram]
-    <br/><video src="https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341rxsaer8vrsfxbya3bxzw.mp4" controls="controls" width="100%"></video>
+2.  **AI Agents' use of "cloud phones" or "cloud PCs"** might seem puzzling – why do they need them? A recent post offers an "aha!" explanation: it's not for computing power, but to give Agents reliable "digital hands and feet"! 🤖 The author points out that these standardized cloud environments provide a clean, uniformly permissioned execution sandbox, freeing Agents from the constraints of complex local user environments to complete tasks autonomously. This seemingly roundabout approach is considered [a key stepping stone (AI News)](https://x.com/frxiaobei/status/1958455052898816175) toward more powerful, autonomous Agents—a pragmatic and necessary evolutionary path. 💡
 
-3.  The coding tool Cursor just rolled out a mysterious new model—it's lightning fast and its source is totally anonymous! The community is buzzing with rumors that it might be from the **Grok model**, sparking a heated debate among developers. 🤫 This juicy tidbit has people super curious about Cursor's backend capabilities and is igniting fresh ideas for Grok's potential applications. Hurry over to the [Jike Community (AI News)](https://m.okjike.com/originalPosts/68a58031a010f886870b1d21) to see everyone's guesses!
-    <br/>![AI News: Cursor Anonymous New Model Sparks Community Speculation](https://cdnv2.ruguoapp.com/FrH6hr2flPm80UzmiM0mZ28CigPv3.png)
-
-4.  Let's share a truly motivational story about a programmer who wasn't even from a computer science background! Over six years, they transformed from a big tech employee to a teacher, then jumped into **AI overseas entrepreneurship**, eventually breaking free from the rat race and finding their own kind of freedom. 🚀 This tale is a genuine record of an ordinary person chasing freedom, and even though it's a bit long, it's absolutely worth reading for every programmer out there exploring amidst confusion. Click to [Read Original Text (AI News)](https://x.com/huangyun_122/status/1958027399016378665) – it just might spark some fresh inspiration!
-
-5.  A blogger just hit the nail on the head, pointing out that many companies talk a big game about "AI strategy" but treat their employees like "consumables" in practice. The result? AI doesn't get properly utilized, and people bail. 😬 The real secret to winning is actually super simple: Stop trying to take shortcuts and just leverage **AI as an amplifier** while treating your colleagues well. Wanna read more [Sharp Criticisms on Enterprise Management (AI News)](https://x.com/frxiaobei/status/1957845395968753978)? It might just help you dodge some major management "potholes."
-    <br/>![AI News: Reflections on Enterprise AI Strategy](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/images/2025/08/news_01k341sbkvfvqa5amgtg1vw3yw.avif)
+3.  **A "gray industry"** has emerged on the X platform as more Chinese users flock to it 🤔. Netizens have observed people packaging Twitter installation files with built-in proxies, selling them as "ladder-free versions" on platforms like Xiaohongshu for a one-time fee and permanent use. This phenomenon, highlighted in the [original tweet (AI News)](https://x.com/Yangyixxxx/status/1958526670555787602), vividly showcases the fascinating interplay between technical barriers, user demand, and grassroots ingenuity. 😂
 
 ---
 
-## **AI Product Self-Recommendation: [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API)**
+## AI Product Spotlight: [AIClient2API](https://github.com/justlovemaki/AIClient-2-API)
 
-Tired of constantly switching between different AI models and getting handcuffed by annoying API rate limits? Well, now you've got the ultimate solution! ✨ 'AIClient-2-API' isn't just your average API proxy; it's a magic box that can "turn stone into gold," transforming tools like Gemini CLI and Kiro client into powerful OpenAI-compatible APIs.
+Tired of juggling various AI models and getting handcuffed by annoying API rate limits? You've got an ultimate solution right here! 🎉 **'AIClient-2-API'** isn't just another API proxy; it's a magic box that transforms tools like Gemini CLI and Kiro client into powerful OpenAI-compatible APIs.
 
-This project's core charm lies in its "reverse thinking" and robust features:
+The core charm of this project lies in its "reverse thinking" and awesome features:
 
-✨ **Client to API: Unlock New Moves**: We've cleverly leveraged Gemini CLI's OAuth login to let you easily **break through official free API rate and quota limits**. Even more exciting? By wrapping the Kiro client's interfaces, we've successfully **cracked its API, letting you call the powerful Claude model for free and super smoothly**! This hands you an **"economical and practical solution for coding development using free Claude API plus Claude Code."**
+✨ **Client to API: Unlocking New Possibilities**: We've cleverly leveraged Gemini CLI's OAuth login, letting you easily **bypass official free API rate and quota limits**. Even more exciting, by wrapping Kiro client's interfaces, we've successfully **cracked its API, allowing you to seamlessly call the powerful Claude model for free**! This provides you with an **"economical and practical solution for programming development using a free Claude API plus Claude Code."**
 
-🔧 **System Prompts: You're in Charge**: Wanna make AI more obedient? We've got powerful System Prompt management features for you. You can easily **extract, replace ('overwrite'), or append** any system prompt in a request, finely tuning AI behavior on the server side without touching client code.
+🔧 **System Prompts, Fully Yours**: Want your AI to listen better? We offer powerful System Prompt management. You can easily **extract, replace ('overwrite'), or append ('append')** any System Prompt in a request, fine-tuning AI behavior on the server side without even touching client-side code.
 
-💡 **Top-Tier Experience, Budget-Friendly Cost**: Just imagine using Kilo code assistant in your editor, adding Cursor's efficient prompts, and pairing it with any top-tier large model—why even stick to Cursor if you can get that elsewhere? This project lets you combine elements to get a development experience comparable to paid tools, all at a super low cost. Plus, it supports MCP protocol and multimodal inputs like images and documents, so your creativity won't be held back.
+💡 **Premium Experience, Friendly Cost**: Imagine: **using the Kilo code assistant in your editor, paired with Cursor's efficient prompts, and any top-tier large model—who needs Cursor when you have Cursor?** This project lets you combine elements to create a development experience comparable to paid tools, all at a fraction of the cost. Plus, it supports MCP protocol and multimodal inputs like images and documents, so your creativity knows no bounds.
 
-Say goodbye to tedious configurations and hefty bills, and say hello to this new AI development paradigm that's free, powerful, and flexible all rolled into one! 🎉
+Say goodbye to tedious configurations and hefty bills, and embrace this new AI development paradigm that's free, powerful, and flexible!
 
 ---
 
-## **AI News Daily: Voice Edition**
+## AI Daily Briefing Audio Version
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+| 🎙️ **Xiaoyuzhou FM** | 📹 **Douyin** |
 | --- | --- |
-| [Reborn Bar](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Creator Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Small Bar](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://raw.githubusercontent.com/justlovemaki/imagehub/refs/heads/main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Reincarnation Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Tavern](https://source.hubtoday.app/images/2025/08/news_01k36n3nsmeejb89bpmza596kt.avif) | ![Intelligence Station](https://source.hubtoday.app/images/2025/08/news_01k36n3qrre8vb0kvbhm3ss7ge.avif) |

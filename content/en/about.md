@@ -4,22 +4,22 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 何夕2077 / justlovemaki
+#### Hey there! 何夕2077 / justlovemaki
 
-> A decade of code, fingertips chilled, my spirit's fire, yet unfulfilled. Then thunder roared, AI's grand call, I'm ready to take on the storm and give it my all!
+> A decade of code has flown by, fingers cool on the keys, but a storm's been brewing inside. Now, with the rumble of AI's revolution, I'm all in to take on the world!
 
-#### My Code Philosophy 💡
+#### My Code Philosophy
 
-> Technology, at its core, serves the people. That's my code philosophy, plain and simple.
+> Technology is here to serve the people.
 
-#### My Stellar Projects ✨
+#### Awesome Projects I've Cooked Up 🚀
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   **This AI image generation script** is built using Cloudflare Workers. Pretty neat, huh?
+    *   This is an AI image generation script, powered by Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   **Cloudflare-AI-Insight-Daily**, powered by Cloudflare Workers, is a dynamic content aggregation and generation platform. It hooks you up daily with the freshest AI developments, including industry news, hot open-source projects, mind-blowing academic papers, and cool social media takes from big-shot tech influencers.
-*   **My [GitHub](https://github.com/justlovemaki)** holds even more project deets, so go check it out!
+    *   This is a content aggregation and generation platform, driven by Cloudflare Workers. It's designed to bring you daily curated updates from the AI world, covering industry news, hot open-source projects, cutting-edge academic papers, and insights from tech influencers' social media.
+*   For more project details, dive into my [GitHub](https://github.com/justlovemaki)!
 
-#### What I'm Cooking Up Now 🚀
+#### What I'm Geeking Out On Now 🌱
 
-> **My current passion** lies in LLM applications and website SEO. I'm deep-diving into learning and hands-on practice, soaking up all the knowledge!
+I'm super keen on LLM applications and website SEO, actively diving deep into learning and hands-on practice.
