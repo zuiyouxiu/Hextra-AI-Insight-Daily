@@ -70,7 +70,7 @@ jobs:
             --baseURL "${{ env.APP_BASE_URL }}/"
           echo "url1: ${{ vars.APP_BASE_URL }}"
           echo "url2: ${{ env.APP_BASE_URL }}"
-          echo "url3: ${{ steps.deployment.outputs.page_ur }}"
+          echo "url3: ${{ steps.pages.outputs.base_url }}"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
