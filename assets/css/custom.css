@@ -3,7 +3,7 @@ h1:first-of-type {
 }
 
 code, kbd, samp, pre {
-  font-family: ui-sans-serif,system-ui,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
+  font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace;
 }
 
 .content :where(img):not(:where([class~=not-prose],[class~=not-prose] *)) {
