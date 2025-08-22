@@ -67,7 +67,7 @@ jobs:
         run: |
           hugo \
             --gc --minify \
-            --baseURL "${{ env.APP_BASE_URL }}/"
+            --baseURL "${{ vars.APP_BASE_URL }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
