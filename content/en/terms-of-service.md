@@ -10,42 +10,44 @@ sidebar:
 
 ---
 
-Hey there! Welcome to our website (which we'll call 'the Site' or 'we' from here on out). Before you jump in and use any of our awesome services, you really need to give these Terms of Service a good read. By simply accessing or using the Site, you're totally agreeing to and accepting these terms. Got it? 👍
+Hey there! Welcome to our website (we'll just call it 'the Site' or 'us' from now on). Before you dive in and use any of our cool services, please, pretty please, take a moment to read through these Terms of Service. By clicking around or using the Site, you're totally agreeing to and accepting these terms. Got it?
 
-## 1. About Our Services <br> Our services are all about hooking you up with paid subscription content and exclusive member services! 🌟 We're talking everything from cool blog posts and members-only resources to e-books and engaging community interactions. Just a heads up, some of the really good stuff is exclusively for our subscribed members.
+## 1. What We're All About
+The Site offers a bunch of awesome paid subscription content and membership services. Think blog posts, exclusive resources, ebooks, community interactions, and more! Just a heads-up: some of this good stuff is only available for our subscribed members.
 
-## 2. Your Account <br> So, let's talk about your account!
--   To register, you'll need to provide a valid email address and set a password. Easy peasy!
--   **You're** totally responsible for your account's security and all the activity that goes down with it. Seriously, **do NOT** transfer or share your account – that's a major no-no!
--   If you happen to violate these terms, **we** totally have the right to **suspend or even terminate** your account. Fair warning! 😉
+## 2. Your Account & Registration
+- To register for an account, you'll need to provide a valid email address and set a password. Easy peasy!
+- You're totally responsible for keeping your account secure and for all the happenings under your login. **Seriously, don't** transfer or share your account with anyone else. That's a big no-no!
+- If you ever break these terms, we reserve the right to **hit pause** or even **terminate** your account. Just sayin'.
 
-## 3. Your Subscription <br> Ready to subscribe? Here's the lowdown:
--   Our subscription services are billed either monthly or annually, and you'll see all the exact costs clearly displayed on the checkout page. No surprises there!
--   All payments are handled securely through third-party payment platforms (think Stripe, PayPal, etc.). Don't worry, **we** don't store any of your sensitive payment info. Phew! 😌
--   Just so you know, your subscription will **automatically renew**! So, if you want to stop, make sure to cancel before your current billing cycle ends.
--   Generally, payments are **non-refundable** after they've been made, unless the law specifically says otherwise or we mention a special promo. So, choose wisely! 💰
+## 3. Paid Subscription Deets
+- Our subscription services are billed monthly or annually, and you'll see all the pricing super clearly on the checkout page.
+- All payments go through third-party payment platforms (like Stripe or PayPal), so don't sweat it – we never store your payment info.
+- Your subscription will **automatically renew** unless you cancel it before your current billing cycle ends. Mark your calendars!
+- Once you've paid, **no refunds** will be issued, unless the law absolutely demands it or we've specifically said otherwise during a special promo.
 
-## 4. Our Content & Your Usage <br> Let's talk about our awesome content!
--   All the original content you find here is **copyrighted by us**! That means you can't copy, repost, or use it for commercial purposes without getting our permission first. Nope, can't do it! 🚫
--   You, as a user, get a **non-exclusive, non-transferable right to access** this content strictly for your own personal learning and reading. It's for you, not for mass distribution!
--   If you're thinking about using our stuff for commercial purposes or quoting a bunch of it, please, please, please get in touch with us to request authorization. We're usually pretty cool about it, but just ask! 🙏
+## 4. Content Use & Who Owns What (IP)
+- All original content on this Site is **ours, copyrighted and all!** You can't just copy, repost, or use it for commercial stuff without our express permission. Nuh-uh!
+- You're getting a **non-exclusive, non-transferable access pass** just for your personal learning and reading pleasure. Keep it to yourself!
+- If you need our content for commercial use or want to quote us extensively, please hit us up to get authorization. Don't be shy!
 
-## 5. Your Behavior on the Site <br> We've got some ground rules for your behavior here, okay?
--   **Absolutely DO NOT** upload, post, or spread any content that's illegal, harassing, false, offensive, or infringes on anyone else's rights. Let's keep it respectful and legal!
--   Also, **don't even think about** using technical tricks to bulk download, scrape, or crack our member content. That's just plain stealing!
--   If you break these rules, **we** totally have the right to remove any inappropriate content and **ban rule-breaking users**. So, play by the rules! 😉
+## 5. User Conduct: Play Nice, Folks!
+- You **must not** upload, post, or spread any content that's illegal, harassing, false, offensive, or infringes on anyone else's rights. Seriously, keep it chill.
+- It's strictly forbidden to bulk download, scrape, or hack into our member content using any tech trickery. Just don't even think about it.
+- We've got the right to yank any inappropriate content and even **ban users** who break these rules. You've been warned!
 
-## 6. When Our Services Change or Go Down <br>
--   **We** reserve the right to change, pause, or totally stop any part or all of our services whenever we want, without giving you a heads-up beforehand. Yep, that's how it works! 🤷‍♀️
--   If, by some crazy chance (like an act of nature, server meltdown, or a third-party service hiccup), our content temporarily becomes unavailable, **we** won't be liable for any compensation. That's just how the cookie crumbles sometimes! 🍪
+## 6. Service Changes & Oopsie Moments
+- We totally reserve the right to change, pause, or even terminate any part or all of our services at any time, without giving you a heads-up beforehand. Just how it rolls sometimes!
+- If content becomes temporarily unavailable due to things like 'acts of God,' server hiccups, or third-party service outages, we **won't be on the hook for any compensation**. Bummer, we know, but it's out of our hands.
 
-## 7. Our Responsibility (The Legal Bits!) <br>
--   Heads up: The info **we** provide on the Site is strictly for reference only. It's **NOT** meant to be professional advice – seriously, don't take it as financial, legal, or medical counsel, okay? 🤔
--   And for any direct or indirect losses **you** might experience from using our content or services, **we** simply **cannot be held responsible**. Just sayin'!
+## 7. Our "No Blame" Clause (Disclaimer)
+- The info we dish out on this Site is purely for your reference and **doesn't count** as any kind of professional advice (like financial, legal, or medical stuff). So, don't base your life decisions on it, okay?
+- We **are absolutely not responsible** for any direct or indirect losses you might face from using our content or services. Use at your own risk, buddy!
 
-## 8. The Law That Applies <br>
--   When it comes to these Terms of Service, they're governed by and interpreted under the laws of the State of California, USA – no matter what those pesky conflict-of-law principles say. California rules here! ⚖️
--   Now, if any disputes pop up because of or related to these terms, we both agree to try and work things out amicably first. But if we can't settle it with a friendly chat, then **you** agree to submit to the jurisdiction of the courts located in Santa Clara County, California. So, you know where to find us! 😉
+## 8. The Law of the Land
+- These Terms of Service are governed by, and interpreted according to, the laws of the State of California, USA, without fussing over any conflict of law principles.
+- If any disputes pop up that are caused by or related to these terms, we both agree to try and sort them out amicably first. If that doesn't work out, then you agree to take things to the courts with jurisdiction in Santa Clara County, California. Let's hope it doesn't come to that!
 
-## 9. Need to Chat? <br> Got questions about these terms? No worries! Just hit us up using the info below:
--   📧 **Email us**: [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
+## 9. Get in Touch!
+- Got questions about these terms? Feel free to hit us up using the info below:
+- 📧 **Email**: [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
