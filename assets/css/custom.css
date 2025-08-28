@@ -50,6 +50,7 @@ footer .hx-max-w-screen-xl{
   align-items: center;     /* 垂直居中（如果需要固定高度的话）*/
   padding: 1.5rem 0.5rem;  /* 上下和左右的内边距，提供呼吸空间 */
   width: 100%;             /* 确保它占据全部可用宽度 */
+  flex-direction: column;
 }
 
 /* 2. 内容容器 (footer-container) */
