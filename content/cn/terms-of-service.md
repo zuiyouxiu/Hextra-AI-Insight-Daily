@@ -51,4 +51,4 @@ sidebar:
 
 ## 9. 联系方式
 - 如对本条款有任何疑问，请通过以下方式联系我们：
-- 📧 **邮箱**： [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
+- 📧 **邮箱**： [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com)
