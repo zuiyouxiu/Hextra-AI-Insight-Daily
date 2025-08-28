@@ -4,22 +4,22 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hexi2077 / justlovemaki
+#### Hexi 2077 / justlovemaki
 
-Ten years of code, and my fingers might be a bit chilly, but the fire in my belly? Still burning bright! 🔥 Now that I hear the thunder of AI shaking things up, I'm ready to jump in and conquer the digital skies!
+> A decade of code, fingertips chilling, but the fire in my heart was unyielding. Then AI's thunder rolled, and I vowed to conquer new heights, bold!
 
-#### My Coding Philosophy
+#### My Code Philosophy
 
-Tech for the People! 💡
+> Tech for the people!
 
-#### Cool Projects I've Built
+#### Key Projects 🚀
 
-*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This **AI image generation script** is built right on Cloudflare Workers. Super handy for whipping up images!
-*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This **Cloudflare Workers-powered content platform** is your daily dose of AI awesomeness! It curates the latest buzz – industry news, hot open-source projects, cutting-edge research papers, and even what big tech influencers are chirping about on social media. 🚀
-*   For **even more project details**, feel free to peek at my [GitHub](https://github.com/justlovemaki)!
+*   **[Open Source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   It's an AI image generation script, powered by Cloudflare Workers.
+*   **[Open Source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   This platform, driven by Cloudflare Workers, aggregates and generates content. It serves up daily AI insights, covering industry news, popular open-source projects, cutting-edge research papers, and social media buzz from tech influencers.
+*   For more project deets, check out my [GitHub](https://github.com/justlovemaki).
 
-#### What I'm Digging Into Now
+#### What I'm Diving Into Now 💡
 
-I'm currently *super* interested in **LLM applications and website SEO**. Seriously, I'm diving deep into learning and getting my hands dirty with some practical stuff! 🧠🔍
+I'm super interested in LLM applications and website SEO, and actively diving deep into learning and hands-on practice.
