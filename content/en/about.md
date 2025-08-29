@@ -4,22 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hexi 2077 / justlovemaki
+#### 👋 Hey there, I'm Hexi 2077 / justlovemaki
 
-> A decade of code, fingertips chilling, but the fire in my heart was unyielding. Then AI's thunder rolled, and I vowed to conquer new heights, bold!
+A decade of code, my fingertips felt the chill,
+My heart held frustrations, unreleased still.
+Then came AI's thunder, a mighty, sudden roar,
+I vowed to wrestle the clouds, and win this new war.
 
-#### My Code Philosophy
+#### 🚀 My Code Philosophy
 
-> Tech for the people!
+Tech for the people!
 
-#### Key Projects 🚀
+#### ✨ Featured Projects
 
-*   **[Open Source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   It's an AI image generation script, powered by Cloudflare Workers.
-*   **[Open Source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This platform, driven by Cloudflare Workers, aggregates and generates content. It serves up daily AI insights, covering industry news, popular open-source projects, cutting-edge research papers, and social media buzz from tech influencers.
-*   For more project deets, check out my [GitHub](https://github.com/justlovemaki).
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    It's an AI image generation script, all powered up by Cloudflare Workers.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    This bad boy is a content aggregation and generation platform, fully driven by Cloudflare Workers. It hooks you up daily with the freshest AI insights, from industry buzz and hot open-source projects to cutting-edge research papers and what tech bigwigs are saying on social media.
+*   Wanna dive deeper? My [GitHub](https://github.com/justlovemaki) has all the project deets!
 
-#### What I'm Diving Into Now 💡
+#### 🌱 What I'm Digging Right Now
 
-I'm super interested in LLM applications and website SEO, and actively diving deep into learning and hands-on practice.
+Currently, I'm super stoked about LLM applications and website SEO, diving deep into learning and putting things into practice!
