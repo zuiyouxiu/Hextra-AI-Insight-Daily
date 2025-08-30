@@ -4,25 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 👋 Hey there, I'm Hexi 2077 / justlovemaki
+#### Hexi 2077 / justlovemaki
 
-A decade of code, my fingertips felt the chill,
-My heart held frustrations, unreleased still.
-Then came AI's thunder, a mighty, sudden roar,
-I vowed to wrestle the clouds, and win this new war.
+> Ten years of coding, fingers went numb; so many dreams, still to become.
+> Then AI's thunder rolled, a mighty call; time to jump in and give it my all!
 
-#### 🚀 My Code Philosophy
+#### My Coding Philosophy
 
-Tech for the people!
+> 💡 Technology serves the people.
 
-#### ✨ Featured Projects
+#### ✨ My Portfolio
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    It's an AI image generation script, all powered up by Cloudflare Workers.
+    *   An AI image generation script built on Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    This bad boy is a content aggregation and generation platform, fully driven by Cloudflare Workers. It hooks you up daily with the freshest AI insights, from industry buzz and hot open-source projects to cutting-edge research papers and what tech bigwigs are saying on social media.
-*   Wanna dive deeper? My [GitHub](https://github.com/justlovemaki) has all the project deets!
+    *   This is a content aggregation and generation platform powered by Cloudflare Workers. It curates the latest AI developments daily, covering industry news, hot open-source projects, cutting-edge academic papers, and insights from big tech influencers.
+*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
 
-#### 🌱 What I'm Digging Right Now
+#### 🌱 What I'm Exploring Now
 
-Currently, I'm super stoked about LLM applications and website SEO, diving deep into learning and putting things into practice!
+I'm super keen on LLM applications and website SEO, and I'm actively diving deep into learning and hands-on practice!
