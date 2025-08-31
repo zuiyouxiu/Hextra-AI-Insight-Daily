@@ -4,23 +4,22 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hexi 2077 / justlovemaki
+#### 何夕2077 / justlovemaki
 
-> Ten years of coding, fingers went numb; so many dreams, still to become.
-> Then AI's thunder rolled, a mighty call; time to jump in and give it my all!
+Coded for a decade, fingers cool, with some big ideas still brewing inside. Then, out of nowhere, the AI revolution roared to life, and I'm ready to jump in and make some waves! 🚀
 
-#### My Coding Philosophy
+#### My Code Philosophy
 
-> 💡 Technology serves the people.
+Tech for the people, every single time!
 
-#### ✨ My Portfolio
+#### My Stellar Projects
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   An AI image generation script built on Cloudflare Workers.
+    *   This is an AI image generation script running on Cloudflare Worker.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This is a content aggregation and generation platform powered by Cloudflare Workers. It curates the latest AI developments daily, covering industry news, hot open-source projects, cutting-edge academic papers, and insights from big tech influencers.
-*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
+    *   This bad boy is a content aggregation and generation platform powered by Cloudflare Workers. It hooks you up daily with the latest AI buzz: industry news, hot open-source projects, cutting-edge academic papers, and even what tech bigwigs are yammering about on social media.
+*   Wanna dive deeper? Check out more project details on my [GitHub](https://github.com/justlovemaki).
 
-#### 🌱 What I'm Exploring Now
+#### What I'm Digging Into Right Now
 
-I'm super keen on LLM applications and website SEO, and I'm actively diving deep into learning and hands-on practice!
+I've got a massive crush on LLM applications and website SEO, and I'm totally deep-diving into learning and hands-on practice.
