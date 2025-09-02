@@ -4,25 +4,21 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 何夕2077 / justlovemaki
+#### Hey, I'm Hexi2077 / justlovemaki 👋
 
-> A decade coding, my fingers cooled down,
-> A fire inside, no crown yet found.
-> Then AI's boom, a thunderous sound,
-> I'll battle the clouds, on new frontiers unbound!
+> Ten years coding, fingers chill, a restless spirit within me still.
+> Then AI's thunder roars to life, I'm ready for the future's strife.
 
-#### My Code Philosophy 💡
+#### My Coding Philosophy 💡
 
-> Tech for the People!
+> Tech for the people!
 
-#### Spotlight Projects 🌟
+#### My Go-To Projects ✨
 
-*   **[Open Source Project/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This baby is an AI image generation script, running on Cloudflare Workers!
-*   **[Open Source Project/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This bad boy is a content aggregation and generation platform, all thanks to Cloudflare Workers. Every single day, it dishes out the freshest AI insights, from industry news and hot open-source projects to groundbreaking academic papers and juicy tech influencer takes!
-*   Wanna dive deeper? My [GitHub](https://github.com/justlovemaki) has all the juicy details on these projects and more!
+*   **[Open Source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: This little gem is an AI image generation script that leverages Cloudflare Workers.
+*   **[Open Source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This bad boy is a content aggregation and generation platform powered by Cloudflare Workers. It brings you daily updates from the AI world, covering everything from industry news and trending open-source projects to cutting-edge research papers and even insights from top tech influencers on social media.
+*   Wanna dive deeper? Find even more project details over on my [GitHub](https://github.com/justlovemaki).
 
-#### My Current Tech Adventures 🤓
+#### My Current Explorations 🌱
 
-LLM applications and website SEO? Yep, those are totally my jam right now! I'm actively diving deep, learning, and getting my hands dirty with both.
+Right now, LLM applications and website SEO are totally grabbing all my attention! I'm diving super deep into learning and hands-on practice in these areas.
