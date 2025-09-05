@@ -4,20 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
-#### He Xi 2077 / justlovemaki
+#### Hexi 2077 / justlovemaki
 
-> A decade of code cool at my fingertips, yet aspirations remained unexpressed. Suddenly, the AI storm broke, and I vowed to wrestle with the clouds and make my mark!
+> A decade of code, fingertips quiet now,
+> But a deep fire's been burning, just waiting for its moment.
+> Suddenly, the AI storm's brewing, thunder rolling in,
+> Time to throw down the gauntlet, battle the heavens head-on! 🚀
 
-#### My Code Philosophy ✨
+#### My Code Philosophy
 
-> Tech for the people, always!
+> Technology for the people! 💪
 
-#### Featured Works 🚀
+#### Key Projects
 
-*   **[Open-Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: This script, powered by Cloudflare Workers, generates AI images.
-*   **[Open-Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This content aggregation and generation platform, driven by Cloudflare Workers, is your daily go-to for the latest in AI. It curates everything from industry news and trending open-source projects to cutting-edge academic papers and insights from top tech influencers.
-*   For even more project details, swing by my [GitHub](https://github.com/justlovemaki)!
+*   **[Open-Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   This is an AI image generation script powered by Cloudflare Workers. ✨
+*   **[Open-Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   This platform, supercharged by Cloudflare Workers, handles content aggregation and generation. It's your daily go-to for the latest AI buzz, serving up industry news, hot open-source projects, cutting-edge papers, and even the freshest takes from tech big shots on social media! 📰
+*   Wanna dive deeper? My [GitHub](https://github.com/justlovemaki) has all the juicy project details!
 
-#### What I'm Digging Into Now 🌱
+#### What's Got Me Hooked Now
 
-LLM applications and website SEO are totally capturing my attention these days. I'm actively diving deep, learning the ropes, and getting hands-on with practice in both these exciting fields.
+I'm totally hooked on LLM applications and website SEO right now, diving deep into learning and hands-on practice! 🧠🌐
