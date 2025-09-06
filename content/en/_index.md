@@ -2,98 +2,87 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-09/2025-09-05
+next: /en/2025-09/2025-09-06
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2025/9/6
+## AI Daily News 2025/9/7
 
-> `AI News` | `Daily Briefing` | `Aggregated Web Data` | `Cutting-Edge Science Exploration` | `Industry Voice` | `Open Source Innovation Power` | `AI and Human Future` | [Invitation to Participate in New Product Survey](https://wj.qq.com/s2/23698769/6fa6/) | [Visit Web Version](https://ai.hubtoday.app/)
+> `AI News` | `Daily Brief` | `Aggregated Data from Across the Web` | `Cutting-Edge Scientific Exploration` | `Industry Voices` | `Open Source Innovation` | `AI and the Future of Humanity` | [Readers are invited to participate in the new product survey](https://wj.qq.com/s2/23698769/6fa6/) | [Visit the web version↗️](https://ai.hubtoday.app/)
 
-### **Today's Summary**
+### **Today's Digest**
 
 ```
-Moonshot AI launched its new Kimi K2 model, capable of autonomously completing complex tasks thanks to its expert mixture architecture.
-Peking University's BumbleBee system tackles traditional control challenges, enabling robots to achieve elegant and seamless action transitions.
-The healthcare sector introduced the CEHR-GPT general model, aiming to transform electronic health records and clinical decision support systems.
-In the industry, OpenAI plans to launch an AI recruiting platform, directly competing with Microsoft's LinkedIn.
-Andrew Ng pointed out that experienced developers proficient in AI tools are the most sought-after talent.
+Alibaba's Tongyi Qianwen launched a new model, significantly boosting its capabilities in math, coding, and logical reasoning.
+OpenAI research revealed that model hallucinations stem from the training and evaluation mechanisms, proposing reforms to reduce errors.
+Tesla is accused of adjusting its Full Self-Driving definition, prompting market scrutiny of its technological promises.
+New research introduced a fusion reordering method that requires no retraining, significantly boosting AI's person identification accuracy.
+CLIP-SVD research enables large models to adapt to specific domains with minimal parameters.
 ```
 
 ### Product & Feature Updates
+1.  Alibaba's Tongyi Qianwen family welcomes a new powerhouse! Its strongest model, **Qwen3-Max-Preview**, has officially landed on the OpenRouter model arena, ready to make a big splash 🤩. This new version outperforms in math, code, and logical reasoning, while also optimizing **RAG** and **tool-calling** capabilities, truly a more obedient and less "hallucinatory" overachiever 🚀. Developers can now easily call this powerful new model [via this latest (AI News) article](https://x.com/Alibaba_Qwen/status/1964004112149754091) and experience a performance leap 🔥.
+    <br/>![AI News: Qwen3-Max Model Introduction](https://source.hubtoday.app/images/2025/09/news_01k4ftf2wxf0xs6nnpa118r5m7.avif)
 
-1.  **Moonshot AI** just dropped a bombshell! Their brand-new **Kimi K2** model isn't just some trillion-parameter "knowledge base"; it's more like a "digital employee" that can actually get things done. Thanks to its innovative **Mixture of Experts (MoE) architecture** and **embodied action intelligence**, Kimi K2 can autonomously use tools to complete complex tasks, totally redefining the boundaries for open-source models. In hardcore fields like programming and math, Kimi K2 is already hitting open-source SOTA levels, even nipping at the heels of [top-tier closed-source models like GPT-4.1 (AI News)](https://moonshotai.github.io/Kimi-K2/) in some areas. Developers eager to check out its power can [Download the Model Now (AI News)](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905) and experience it firsthand! This thing is seriously impressive. <br/>![AI News: Kimi K2 Model Architecture Diagram](https://source.hubtoday.app/images/2025/09/news_01k4dad15se9xa6zhbek3f72mc.avif)<br/>![Kimi K2 Performance Benchmark Data](https://source.hubtoday.app/images/2025/09/news_01k4dad3cnfxs9vzyw6m1r3pd5.avif)
+### Cutting-Edge Research
+1.  OpenAI's research has finally pinpointed the culprit behind AI's most infamous bug, "hallucinations"—it turns out the training and evaluation mechanisms are "forcing models into bad behavior" 🤔. Their [latest (AI News) paper](https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf) argues that the current assessment system encourages models to make bold guesses rather than admit ignorance, leading to confidently spouting nonsense. OpenAI suggests reforming evaluation methods, penalizing "bluffing" and rewarding "honesty," which could fundamentally purify AI's linguistic environment. [For more insights, check out this (AI News) article](https://www.jiqizhixin.com/articles/2025-09-06-3).
+    <br/>![AI News: Mechanism of Model Hallucinations](https://source.hubtoday.app/images/2025/09/news_01k4ftf708egd8cm0txczzb7n5.avif)
+    <br/>![AI News: Comparison of Answers from Different Models](https://source.hubtoday.app/images/2025/09/news_01k4ftfed2e1zbex9ywp7m0ppz.avif)
 
-2.  **Paiwo AI**, the video creation platform, just made a huge announcement: they've integrated Google's latest **Nano Banana** image model. Talk about a power duo! To celebrate this upgrade, the platform is throwing a six-day free party, letting users try out its powerful **Agent Creation Assistant** at no cost. You just upload an image, and the AI handles the rest, automatically generating creative short videos. This [tech perk (AI News)](https://www.aibase.com/zh/news/21091) makes it super easy for over 100 million users worldwide to become video directors.
+2.  New research addresses the significant challenge of accurate person identification for AI, especially when camera angles are tricky, making AI "face-blind" 🤔. A [newly published (AI News) paper](https://arxiv.org/abs/2509.04050) introduces a clever "K-nearest neighbor weighted fusion" reordering method. It "crowdsources" features from neighboring images to create a more "3D portrait" of the target person, effectively overcoming viewpoint deviation. This method dramatically boosts identification accuracy without retraining the model, giving AI super-sharp eyes! ✨
 
-### Frontier Research
-
-1.  Are humanoid robots still fumbling through movements? **Peking University**, specifically its BeingBeyond team's **BumbleBee** system, says "not on our watch!" They've enabled the Unitree G1 robot to seamlessly switch between dancing the Charleston and doing cartwheels, looking incredibly graceful – almost too good to be true. Researchers cleverly tackled the "expert dilemma" and "reality gap" in traditional robot control using an innovative "**divide-refine-merge**" three-level architecture. This [breakthrough research (AI News)](https://arxiv.org/abs/2506.12779v2) leverages joint motion and semantic-driven control, allowing robots not just to move, but to "understand" movements, marking a significant milestone for the future of general embodied intelligence. For more juicy details, check out the [project homepage (AI News)](https://beingbeyond.github.io/BumbleBee/)! <br/>![BumbleBee System Architecture Diagram](https://source.hubtoday.app/images/2025/09/news_01k4dad5e6fenbeqst5bwr2bhc.avif)
-
-2.  Ever wanted AI to generate an animation of something "walking like a monkey"? Well, new research with **SMooGPT** has made this wild idea a reality using large language models. This system pulls off the trick by breaking down movements and styles into text descriptions for each body part, then performing a "reason-combine-generate" sequence. This approach not only makes AI-generated movements more controllable and explainable but also neatly solves content-style conflicts, showcasing [LLM's Potential in Creative Generation (AI News)](https://arxiv.org/abs/2509.04058)!
-
-3.  Is spatial understanding truly "rocket science" for AI? A [new benchmark test (AI News)](https://arxiv.org/abs/2509.02175) named **RocketScience** delivered a harsh truth: current mainstream Vision-Language Models (VLMs) are surprisingly terrible at grasping the relative positions of objects. Interestingly, the study found that **reasoning models equipped with Chain-of-Thought capabilities** are incredibly strong in this area. This strongly suggests that spatial reasoning, rather than mere object localization, is the real bottleneck for current VLMs.
-
-4.  The medical AI field just welcomed an "all-rounder" – **CEHR-GPT**, a universal foundational model specifically designed for Electronic Health Records (EHR), poised to completely revolutionize clinical decision support systems. This model ingeniously integrates three core capabilities: **feature representation, zero-shot prediction, and synthetic data generation**. Plus, it can understand dynamic patient progress through its unique temporal encoding technology. This [significant research (AI News)](https://arxiv.org/abs/2509.03643) means that developing future medical AI applications will be faster and more versatile, eliminating the need to train a separate model for each task!
+3.  CLIP-SVD research offers a surgical solution to quickly adapt large models like **CLIP** to new domains without a major overhaul. This [cutting-edge (AI News) research](https://arxiv.org/abs/2509.03740) proposes adjusting the "singular values" of the parameter matrix, achieving domain adaptation with only **0.04%** of the parameters 🛠️. This method preserves the rich knowledge of pre-trained models and achieves top-tier few-shot learning results across 11 natural image and 10 biomedical datasets – truly a masterstroke of efficiency 🚀.
 
 ### Industry Outlook & Social Impact
+1.  Tesla's "**Full Self-Driving**" (FSD) seems to be quietly undergoing a "downgrade." The company is accused of adjusting its definition, effectively abandoning its initial promises of full autonomy 🚗. [This (AI News) report shows](https://readhacker.news/s/6B5GW) that this subtle change in terminology might indicate a longer road to true self-driving than anticipated, also reminding consumers to scrutinize tech giants' marketing claims 🤔. This move makes people rethink where the line truly lies between technological achievement and market hype.
 
-1.  Is **OpenAI** about to "backstab" its biggest backer, Microsoft? They're reportedly planning to launch the **OpenAI Jobs Platform** in 2026, an AI-powered online recruitment platform that will directly compete with Microsoft's LinkedIn. OpenAI states this move aims to build an efficient bridge between AI-skilled talent and companies hungry for them, especially helping SMEs and local governments find top-tier AI professionals. This ["internal family" competition (AI News)](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247823285&idx=3&sn=f13e1e8b1226838ad4c00a80c1ac58eb) will undoubtedly introduce new variables into the recruitment market and make relationships between tech giants even more delicate.
+### Top Open Source Projects
+1.  The **ottomator-agents** project, boasting ⭐3.8k stars on GitHub, is your go-to hub if you want to train your own army of AI agents! This open-source AI agent "gathering place" hosts all the open-source agents from the **oTTomator Live Agent Studio** platform, making it easy for you to explore and build various automated AI workflows 💡. For developers looking to create customized intelligent agent applications, [this treasure trove (AI News) project](https://github.com/coleam00/ottomator-agents) is a goldmine ⛏️.
 
-### Open Source TOP Projects
+2.  The **Quarkus** framework is here to rescue Java developers still suffering from slow startup times and high memory consumption! It promises a "supersonic, subatomic" Java experience, making your applications lightning fast 🚀. This [popular (AI News) project](https://github.com/quarkusio/quarkus), which has garnered ⭐14.9k stars on GitHub, is specifically designed for cloud-native and serverless environments, significantly boosting development efficiency and runtime performance 🤩. With Quarkus, even heavy Java applications can become light and agile – a "slimming revolution" for the Java world 🔥.
 
-1.  Still stressing about LLM computing costs? **Microsoft's officially released BitNet** (⭐21.4k) framework might just be your answer! As the official inference framework for **1-bit LLMs**, it's spearheading a new wave of model lightweighting. This tech aims to achieve powerful performance with incredibly low resources, truly a "resource-saving pioneer" in the large model world. [Click to View Project (AI News)](https://github.com/microsoft/BitNet) to learn more!
+3.  The **Daft** project, with ⭐3.5k stars, is here to make handling massive, multimodal data feel less like driving a truck through mud! It's a distributed query engine designed for data of any modality and scale, making data processing simple and reliable 💡. Whether you're working with images, text, or other complex data, Daft offers a unified and efficient solution, waving goodbye to those tedious data pipeline nightmares. Want to tame your data beast? Check out [this (AI News) introduction](https://github.com/Eventual-Inc/Daft) 🐘.
 
-2.  For digital explorers needing to traverse the online world, **v2ray-agent** (⭐16.9k) is practically a Swiss Army knife! It bundles eight mainstream tools like **Xray, Tuic, and hysteria2** into one package. This "eight-in-one" one-click script massively simplifies network environment configuration, freeing you up to focus on more important stuff. If you're interested in this efficiency powerhouse, you can [Access GitHub Here (AI News)](https://github.com/mack-a/v2ray-agent)!
-
-3.  Tired of constantly hopping between different music platforms? **Nuclear** (⭐14.2k), this streaming player, is your music savior! It's dedicated to scouring the entire web for free music resources. Its core philosophy is "music freedom," letting you enjoy a vast library of songs without any subscriptions. Go [Check it Out (AI News)](https://github.com/nukeop/nuclear) and discover this open-source gem!
-
-4.  Want your computer to follow your commands and automatically handle annoying tasks? The open-source project **Bytebot** (⭐5.1k) is your personal desktop agent! It can operate your computer in a secure, containerized environment using natural language commands. This self-hosted AI desktop agent makes automating workflows incredibly simple. Go check out [Its GitHub Homepage (AI News)](https://github.com/bytebot-ai/bytebot)!
+4.  The **Stirling-PDF** project, raking in ⭐65.1k stars, lets you bring a complete PDF toolbox right into your home, and it's completely open-source and free! 🤩 [Via this (AI News) guide](https://github.com/Stirling-Tools/Stirling-PDF), you can deploy this web application locally, effortlessly performing various PDF operations like merging, splitting, and converting. Say goodbye to privacy leaks and subscription fees forever 🛡️. It's like your personal PDF Swiss Army knife – ready when you need it, with features so powerful they'll make you go "wow!" 🚀
 
 ### Social Media Shares
+1.  A graduating university student shared their self-built open-source, end-to-end speech translation tool on Reddit. This amazing tool can translate English videos into other languages in real-time, preserving the original speaker's voice and syncing lip movements, with stunning results 🤯! They cleverly combined models like **Whisper**, **NLLB**, and **RVC** to overcome challenges in voice cloning for less common languages like Hindi, achieving an experience comparable to the original audio 🔥. [The author also shared the detailed (AI News) journey](https://www.reddit.com/r/artificial/comments/1n9wabd/i_built_an_opensource_endtoend_speechtospeech/), making it a learning benchmark for tech enthusiasts 🤩.
+    <br/>![AI News: Speech Translation Flowchart](https://source.hubtoday.app/images/2025/09/news_01k4ftfhrtfdk92pz4gzreyxqn.avif)
 
-1.  **Andrew Ng** has spilled the beans on the AI era's job market secret: the most in-demand talent isn't fresh AI graduates, but rather **experienced developers with solid computer science fundamentals who can also skillfully use AI tools**. He emphasized that while AI might make rote memorization of syntax less crucial, understanding software architecture and having a knack for technical decision-making are the true moats. This [in-depth analysis (AI News)](https://m.okjike.com/originalPosts/68ba311ef9f816f9a4f35206) tells us that building a strong foundation before embracing AI is key to winning the future.
+2.  Still swamped replying to WeChat messages? A netizen showcased a "god-tier move" using the **Claude for Chrome** browser plugin for automatic WeChat replies! This turns AI into your high-EQ social stand-in, boosting efficiency instantly 🚀. From [this (AI News) video shared by the blogger](https://x.com/dotey/status/1964185124083302482), the AI's responses are smooth and natural – a true blessing for private domain operators and WeChat vendors 🤩! This move hints that the AI browser plugin war might be heading to the finals sooner than expected 🤔.
+    <br/><video src="https://source.hubtoday.app/images/2025/09/news_01k4ftgz4jfyhthhf6ps9a1te4.mp4" controls="controls" width="100%"></video>
 
-2.  What does a programmer's ideal "wife" look like? One netizen vividly illustrated the perfect "helpmate" in a programmer's heart with two images: an AI companion that can help debug and discuss technical architecture together. This [interesting share (AI News)](https://m.okjike.com/originalPosts/68bae05f2f60ebc734751689) precisely hit the mark for techies' romantic fantasies, sparking widespread resonance. <br/>![AI News: Programmer's AI Companion](https://cdnv2.ruguoapp.com/FhLr0EDr9L-4GFmp489s_lsG-CkNv3.png)<br/>![AI-Assisted Programming](https://cdnv2.ruguoapp.com/Fm6Y2n7T0oHyfQOj8uAnoR_Xi8NGv3.png)
-
-3.  Can a tiny "Last used" login hint really earn such high praise from developers? **JimmyLv** shared that this detail is an absolute lifesaver for apps supporting multi-platform logins, effectively preventing users from forgetting their login method and ending up in "crazy account hopping" awkwardness. It seems exceptional [User Experience (AI News)](https://x.com/Jimmy_JingLv/status/1963944365480698081) often hides in these subtle, devilish details. <br/>![Login Interface Optimization Details](https://source.hubtoday.app/images/2025/09/news_01k4dad933ep2v3wgmqx33sk78.avif)
-
-4.  Is AI "resurrecting" cultural relics just for fun memes? **Fanren Xiaobei** thinks this might signal the birth of a brand-new narrative style, one that reshapes our connection with history through perspective reversal and character empathy. For instance, imagine the palace maid from the Changxin Palace Lamp becoming a "digital worker" reporting KPIs – this sense of time travel and immersion makes history feel intimate and amusing, no longer a distant gaze, but a "colleague" right next to you. Check out [This Interesting Perspective (AI News)](https://x.com/frxiaobei/status/1963914138532626504) to see how AI makes history feel tangible. <br/><video src="https://source.hubtoday.app/images/2025/09/news_01k4dadd34fhbbf4m9y24hxn9e.mp4" controls="controls" width="100%"></video>
-
-5.  After Claude shut down services for some users, finding an alternative model became a top priority. Industry insiders are pointing out that **Moonshot AI's latest Kimi 2 0905 model** might be the best substitute for **Agent**-type products. This [frontline observation (AI News)](https://x.com/vista8/status/1963864907486794018) provides a clear direction for developers. It seems Kimi is really standing out in the fierce model competition thanks to its powerful Agent capabilities.
-
-6.  In the AI era, should teams lay off younger or older members? **Baoyu** believes both ideas are too extreme; a healthy team needs diversity. Letting experienced veterans handle architectural oversight and vibrant youngsters lead the charge will spark more creativity. He emphasized that if a team [focuses on short-term efficiency while neglecting talent development (AI News)](https://x.com/dotey/status/1963860155746996536), it will face a crisis of generational gaps in the future.
-
-7.  How can you use AI for programming as elegantly as a pro? **Baoyu** shared several valuable tips, such as combining Git for version control, skillfully using "Plan" mode for complex tasks, and providing precise error logs for efficient debugging. This [practical "AI Programming Mindset" (AI News)](https://x.com/dotey/status/1963834196234801442) is undoubtedly a priceless guide for developers looking to turn AI into a powerful coding assistant.
-
-8.  The impact of AI on the workplace is truly a rotating door, as one netizen brilliantly summarized in a three-act play: in '23, people worried about the 35-year-old mid-career crisis; in '24, everyone started using AI for cost reduction and efficiency; but by '25, we found we still needed the 35-year-old veterans to manage AI. This [slightly ironic observation (AI News)](https://x.com/Yangyixxxx/status/1963811271268262100) reveals a profound truth: experience and architectural prowess might become even more invaluable in the AI era.
-
-9.  A **Reddit user** has dropped a bombshell, alleging that **GPT-5** appears to be under "political censorship," with its responses to sensitive political questions shifting from GPT-4's "evidence-based neutrality" to a forced "symmetrical neutrality." The user believes this approach – handling controversial topics through sugarcoating language and false equivalency – is a more insidious form of censorship. This [hotly debated post (AI News)](https://www.reddit.com/r/artificial/comments/1n8r79z/gpt5_has_been_politically_censored_for_the_trump/) has prompted deeper thought about large models' value alignment and information presentation methods.
+3.  How do you get AI to write insightful and eloquent recommendations, not just simple content summaries? Teacher Baoyu shared a "nanny-level" **Prompt** golden formula, guiding you on how to train AI into a wise column editor. This [detailed (AI News) prompt](https://x.com/dotey/status/1964162024100749395) emphasizes standalone pieces, putting the viewpoint first, and seamless citations, aiming to generate recommendation prefaces that deeply resonate with readers 🔥. Master this trick, and you can effortlessly have AI churn out blockbuster copy brimming with intellectual sparks 💡!
+    <br/>![AI News: Article Recommendation Prompt Part 1](https://source.hubtoday.app/images/2025/09/news_01k4fth5yqe0w9qry8fjheqrhb.avif)
+    <br/>![AI News: Article Recommendation Prompt Part 2](https://source.hubtoday.app/images/2025/09/news_01k4fth8t2etfvc6j8px36fcg5.avif)
 
 ---
 
-## **AI Product Spotlight: [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API)**
+## **AI Product Spotlight: [AIClient-2-API ↗️](https://github.com/justlovemaki/AIClient-2-API)**
 
-### AIClient-2-API: Not Just a Proxy, It's Your AI Capability Hub! ✨
+### 🌟 AIClient-2-API: More Than Just a Proxy, It's Your AI Powerhouse!
 
-Have you ever dreamt of a scenario where you can effortlessly call the best large models with any AI tool, without worrying about incompatible interfaces or annoying rate limits? **AIClient-2-API** turns that dream into reality. It's a powerful converter that cleverly transforms authorizations from various AI clients (like Gemini CLI, Kiro) into a stable, unified local OpenAI API service.
+AIClient-2-API turns this fantasy into reality: Have you ever dreamed of a scenario where you could effortlessly call the most cutting-edge large models from any AI tool, without worrying about incompatible interfaces or annoying rate limits? This powerful converter ingeniously transforms authorizations from various AI clients (like Gemini CLI, Kiro) into a stable, unified local OpenAI API service.
 
-We're rolling out some ace features that are seriously going to change your workflow:
+AIClient-2-API brings several ace features that will revolutionize your workflow:
 
-*   **New Account Pooling Feature**: Still scratching your head over single account request limits? Our brand-new account pooling lets you configure multiple model accounts, enabling automatic round-robin scheduling and failover. Say goodbye to single points of failure and hello to enterprise-grade high availability for your AI services!
-*   **Prompt Alchemy**: This might just be the most powerful proxy feature you've ever seen. You can easily **extract, override, or even append** all system prompts flowing through it. This means you can inject a unified soul and set of rules into all connected tools, achieving unprecedented granular control.
-*   **Break Free and Run Wild**: We help you elegantly bypass Gemini's free API rate limits and unlock Kiro's potential, letting you **use the expensive Claude model for free**! This is precisely what we advocate: **using a free Claude API with Claude code for an economical and practical programming solution**.
-*   **Client as a Service, Infinite Imagination**: The core idea behind "AIClient-2-API" is to unleash the power of closed client capabilities into open APIs. With it, you can freely combine the strengths of various tools. As one expert put it: "**Using kilo code assistant with cursor's prompts and any top-tier large model in tare, why use cursor when you have this?**"
+🔄 **New Account Pool Feature**: Still getting headaches over single account request limits? Our newly developed account pool feature lets you configure multiple model accounts, enabling automatic round-robin and failover. From now on, say goodbye to single points of failure and give your AI services enterprise-grade high availability!
 
-Forget all that cumbersome configuration and switching! **AIClient-2-API** helps you integrate resources and focus on creation itself. Join now and kickstart your AI superpower journey!
+🧠 **Prompt Alchemy**: This might just be the most powerful proxy feature you've ever seen! You can easily **extract, override, or even append** all system prompts flowing through it. This means you can inject a unified soul and set of rules into all connected tools, achieving unprecedented granular control.
+
+🔓 **Break Free, Ride Unbound**: AIClient-2-API gracefully helps you bypass the rate limits of Gemini's free API and even unlocks Kiro's potential, allowing you to **use the expensive Claude model for free**! This is precisely what we advocate: **using free Claude API plus Claude code for an economical and practical programming development solution**.
+
+💡 **Client as a Service, Limitless Imagination**: The core idea behind "AIClient-2-API" is to unleash the capabilities of closed clients as open APIs. With it, you can freely combine the powers of various tools. As an expert once said, "**Using Kilo Code Assistant with Cursor's prompts and any top-tier large model in Tare – if you're using Cursor, why bother with Cursor?**"
+
+Forget those tedious configurations and switches! "AIClient-2-API" helps you integrate resources and focus on creation itself. Join now and kickstart your AI superpower journey! 🚀
 
 ---
 
-## **AI News Daily Audio Version**
+## **AI News Daily Voice Edition**
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Afterlife Bistro](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Bistro](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Next Life Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
