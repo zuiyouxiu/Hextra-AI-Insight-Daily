@@ -4,22 +4,22 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hey there, I'm Hexi2077 / justlovemaki
+#### Hexi 2077 / justlovemaki
 
-Ten years of code, fingers have flown, and some frustrations, I've surely known. But now AI's storm, it's making its play, I'm ready to dive in, come what may!
+Ten years of coding, fingers flying, with ambitions brewing, ready to erupt! Then, BAM! Heard the AI storm roaring, and knew I had to jump in and make my mark!
 
-#### My Code Philosophy
+#### ✨ My Code Philosophy
 
-> Technology: Serving the People, always.
+Tech for the people!
 
-#### My Featured Projects
+#### ⭐ My Featured Work
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This AI image generation script? It's powered by Cloudflare Workers.
+    *   An AI image generation script, powered by Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This platform, `CloudFlare-AI-Insight-Daily`, is a content aggregation and generation hub, totally driven by Cloudflare Workers. What does it do? It hooks you up daily with the freshest AI vibes: industry news, hot open-source projects, cutting-edge academic papers, and all the cool takes from tech influencers.
-*   Wanna check out more? My [GitHub](https://github.com/justlovemaki) has all the project details.
+    *   A content aggregation and generation platform, driven by Cloudflare Workers. It curates daily AI updates for you, including industry news, trending open-source projects, cutting-edge academic papers, and insights from tech influencers' social media.
+*   For even more cool projects, check out my [GitHub](https://github.com/justlovemaki)!
 
-#### What I'm Exploring Right Now
+#### 💡 What I'm Diving Into Now
 
-LLM applications and website SEO? Yeah, I'm super into those! Actively diving deep into learning and getting my hands dirty with practical stuff.
+LLM applications and website SEO are my jam right now! I'm super into them and actively diving deep into learning and hands-on practice.
