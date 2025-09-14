@@ -4,23 +4,21 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hey there! 何夕2077 / justlovemaki
+#### 👋 Hexi 2077 / justlovemaki
 
-> Ten years coding, fingers cool,
-> Bottled-up thoughts, playing by no rule.
-> But then I heard AI's thunderous call,
-> Now I'm ready to rock, giving my all!
+> Ten years of code, fingers might be cool, but a burning ambition? Still rules!
+> Then AI's thunder roared, loud and clear; time to jump in, no holding back, no fear!
 
 #### My Code Philosophy ✨
 
-> Technology, at its core, serves the people. That's my jam!
+> My motto? Technology for the people!
 
-#### My Portfolio / What I've Built 🛠️
+#### My Greatest Hits 🚀
 
-*   **[Open Source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: This is a slick AI image generation script, all powered by Cloudflare Workers.
-*   **[Open Source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This platform is a content aggregation and generation powerhouse, running on Cloudflare Workers. Every single day, it curates the freshest AI buzz for you, including industry news, trending open-source projects, cutting-edge academic papers, and hot takes from tech influencers.
-*   For even more project goodies, hop over to my [GitHub](https://github.com/justlovemaki)!
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: This AI image generation script? It's all powered by Cloudflare Worker.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: Cloudflare Workers totally power this content aggregation and generation platform. It's a daily dose of AI goodness, serving up industry news, hot open-source projects, cutting-edge academic papers, and even the latest buzz from tech influencers on social media.
+*   Wanna see more? My [GitHub](https://github.com/justlovemaki) has all the juicy details!
 
-#### What I'm Diving Into Now 🌊
+#### What I'm Digging Into Now 🔍
 
-I'm super passionate about LLM applications and website SEO right now, and guess what? I'm actively diving deep into learning and getting hands-on with both!
+LLM applications and website SEO? Yep, I'm super into them, diving deep into learning and getting hands-on with some cool stuff!
