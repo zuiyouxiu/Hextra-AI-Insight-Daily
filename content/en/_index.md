@@ -2,105 +2,98 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-09/2025-09-19
+next: /en/2025-09/2025-09-20
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily Briefing 2025/9/20
+## AI News Daily 2025/9/21
 
-> `AI News` | `Daily Morning Read` | `Aggregated Web Data` | `Cutting-Edge Science` | `Industry Voice` | `Open-Source Innovation` | `AI & Human Future` | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Community 👋](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png)
+> `AI News` | `Daily Brief` | `Web Data Aggregation` | `Cutting-Edge Science` | `Industry Voices` | `Open-Source Innovation` | `AI & Human Future` | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png)
 
-### **Today's Rundown**
+### **Today's Highlights**
 
 ```
-Alibaba Cloud has open-sourced a new action generation model that brings static photos to life.
-Luma AI has released Ray 3, the world's first inferential video model, supporting professional-grade 4K output.
-Google Chrome has also announced deep integration of Gemini, completely reshaping the user browsing experience.
-In the industry, Microsoft has opened an Asian Research Academy branch in Singapore to cultivate local AI talent.
-Meanwhile, scientists have used AI to create new viruses capable of killing bacteria, raising concerns about ethical risks.
+OpenAI's Codex CLI gets an update with new automated code review.
+Cutting-edge research shows AI can simulate expert consultations and train models with synthetic data alone.
+Industrially, OpenAI is recruiting Apple hardware talent to build a new hardware ecosystem.
+Meanwhile, developer culture faces a crisis as user loyalty declines amidst tech waves.
+This also highlights the challenge of balancing reliability, speed, and cost in AI development.
 ```
 
 ### Product & Feature Updates
+1. OpenAI's Codex CLI is getting a massive update with a new **/review** command, which means it can now automatically review your code! 🎉 According to [OpenAI Co-founder Greg's Announcement (AI News)](https://x.com/gdb/status/1969088321272877235), GPT-5-Codex will transform into a tireless team member, helping you pinpoint critical errors in your code. As one netizen put it, "few words, big deal"—a simple command marks another giant leap for AI-assisted programming. 🚀<br/>![AI News: Codex CLI Automatic Code Review Feature](https://source.hubtoday.app/images/2025/09/news_01k5kwsfnafxcv2844q9hjq3dp.avif)
 
-1.  Alibaba Cloud's Tongyi Wanxiang team just dropped a bomb, officially open-sourcing their brand-new action generation model, **Wan2.2-Animate**! This bad boy can instantly turn your static photos into lively "drama queens" (or kings!). The model boasts massive leaps in character consistency and generation quality, making it a breeze to mimic dance moves or swap out video characters – the results are simply stunning. You can grab it for free on platforms like [GitHub (AI News)](https://github.com/Wan-Video/Wan2.2) now. Go on, unleash the magic and bring those pics to life! ✨<br/>![AI News: Tongyi Wanxiang Wan2.2-Animate Effect Demo](https://source.hubtoday.app/images/2025/09/news_01k5hb5m8mfqtr344zg81q3vv7.avif)
-
-2.  Get ready for a game-changer in AI video generation, as Luma AI has unleashed **Ray 3**, the world's first 'inferential video model.' This ain't your grandma's random generator; Ray 3 thinks like a creative director, conceptualizing before it creates! 🧠 It natively supports professional-grade **4K HDR** video output, and its new draft mode supercharges generation speed by a whopping 20 times, making creative iteration lightning-fast. As Adobe Firefly's first third-party partner, [Ray 3's Capabilities (AI News)](https://lumalabs.ai/ray) signals a shift in AI video creation from hit-or-miss to a new era of precision and intelligence. Buckle up! 🚀
-
-3.  Your Chrome browser is about to get a major glow-up, transforming into a super-smart assistant! Google just announced its biggest upgrade ever, with a full-on, deep integration of **Gemini** AI. 🤯 This update pretty much redefines the entire browsing experience, from summarizing and comparing info across tabs to helping you book haircuts, buy groceries, and even using **Gemini Nano** to spot phishing websites. As [Google's Official Introduction (AI News)](https://www.xiaohu.ai/c/xiaohu-ai/google-chrome-gemini) puts it, your future browser won't just be a tool; it'll be a smart buddy who totally gets you. 😎
+2. Google's "Deep Researcher" agent is here, and its report-writing method is absolutely mind-blowing—it's like the "AI painting" of the writing world! According to [Gorden Sun's Share (AI News)](https://x.com/Gorden_Sun/status/1969388411015610498), this **AI Agent** models the research report writing process as a diffusion process, starting from a rough draft and gradually refining it into a high-quality final version. This novel approach could revolutionize content creation. 🤯<br/>![AI News: Google Deep Researcher Agent](https://source.hubtoday.app/images/2025/09/news_01k5kwsmt2f38tbnx6j2e7fbvk.avif)
 
 ### Cutting-Edge Research
+1. The KAMAC framework, introduced in a [newly published paper (AI News)](https://arxiv.org/abs/2509.14998), is letting AI simulate "expert consultations" in medical diagnosis—something that feels straight out of a sci-fi movie! This framework allows **LLM** agents to dynamically assemble and expand expert teams based on a patient's condition, just like human doctors. It ditches rigid, pre-set roles, using knowledge-driven discussions to fill diagnostic blind spots and performing exceptionally well in complex scenarios like cancer prognosis. This is a huge step forward for **AI** in simulating complex collaborative decision-making, bringing machine "intelligence" closer to real-world teamwork. 🩺💡
 
-1.  Move over, human doctors, because **KAMAC**, a [New Research (AI News)](https://arxiv.org/abs/2509.14998) paper, is ushering in 'expert consultations' for AI physicians! This knowledge-driven LLM multi-agent collaboration framework works just like a human medical team, dynamically 'inviting' AI experts from various fields to join discussions based on patient conditions. This helps fill knowledge gaps and leads to more precise decisions in complex clinical scenarios. This work makes AI applications in healthcare smarter and more flexible, bringing us a step closer to a true 'AI doctor team.' How cool is that? 🏥✨
+2. Fascinating research, detailed in an [interesting study (AI News)](https://arxiv.org/abs/2509.15045), proves you don't always need tons of real-world data to train AI! This study showcases how **YOLOv11** was successfully trained to accurately identify real-world objects using *only* synthetic data and domain randomization strategies. By meticulously tweaking data augmentation and boosting the diversity of synthetic data, the model achieved an impressive 0.910 mAP@50 score in a soup can recognition challenge. This "something from nothing" training method has massive potential, paving the way for new computer vision approaches in data-scarce scenarios. 🤯✨
 
-2.  Ever wondered how AI can pinpoint exactly what you want on a bustling supermarket shelf? The **PRISM** method, introduced in [A New Paper (AI News)](https://arxiv.org/abs/2509.14985), has the answer! It cleverly combines the global understanding power of the **SigLIP** model with the pixel-level precise matching capability of **LightGlue**. This 'broad-to-fine' hybrid strategy not only crushes it at identifying highly similar products but also keeps real-time processing super efficient. Basically, AI's 'eagle eyes' are set to do big things in the retail scene! 🛒🔥
+### Industry Outlook & Social Impact
+1. OpenAI is currently on a "talent raid" against Apple, with over 20 hardware elites "defecting" due to dissatisfaction with Apple's conservative and bureaucratic culture. Led by former Apple design chief **Tang Tan**, this new team aims to build an entirely new hardware ecosystem, including smart speakers and glasses, and has already started leveraging Apple's supply chain in China. This "poaching" spree not only accelerates **OpenAI**'s hardware ambitions but also complicates the already delicate partnership between Apple and OpenAI. For a detailed analysis, [read this in-depth report (AI News)](https://www.jiqizhixin.com/articles/2025-09-20-2). 🍎➡️🤖<br/>![AI News: OpenAI and Apple's Talent War](https://source.hubtoday.app/images/2025/09/news_01k5kwsqnce7brr871346xfqst.avif)
 
-### Industry Outlook & Societal Impact
-
-1.  Microsoft just made a huge move in Southeast Asia, officially announcing the opening of a new branch of its Asia Research Academy in Singapore! 🇸🇬 This isn't just a big step for Microsoft in advancing cutting-edge AI research; it's a strategic play to build industry partnerships and nurture top-tier AI talent in the region. You can bet your bottom dollar that [Southeast Asia's AI Ecosystem (AI News)](https://x.com/MSFTResearch/status/1968993600248680621) is about to get a massive boost and ride a fresh wave of development! 🌊🚀
-
-2.  Scientists are pushing the boundaries of AI once again, but this time with a cautionary twist: they're using AI to create entirely new viruses capable of killing bacteria! 🦠 While this could be a game-changer in the fight against superbugs, genomics pioneers are sounding the alarm, warning of 'extreme caution.' As discussed in [This Share (AI News)](https://www.reddit.com/r/artificial/comments/1nl0j5y/ai_creates_bacteriakilling_viruses_extreme/), when AI starts messing with the core of life design, we've gotta find that delicate balance between tech progress and ethical risks. It's a real head-scratcher! 🤯<br/>![AI News: AI Creates Bacteriophages](https://source.hubtoday.app/images/2025/09/news_01k5hb5vd7ex4vma0trv0my1t2.avif)
+2. Developer culture is going through a "soul-searching crisis," where the once curious "tinkerer" spirit is being replaced by "efficiency machines" obsessed with metrics. This shift from exploration to execution is quietly stifling innovation and creativity in the software industry, sparking widespread community discussion. You can [check out this popular article (AI News)](https://readhacker.news/s/6BYbH) and ponder whether we're losing that precious spark that drives technological progress. 📉🤔
 
 ### Top Open-Source Projects
+1. Odoo is an incredibly powerful open-source business application suite, designed to offer a one-stop growth solution for businesses of all sizes! It covers all core business processes from CRM, e-commerce to accounting, and inventory, available as a [GitHub project with ⭐45.9k Stars (AI News)](https://github.com/odoo/odoo). For companies looking to drive business growth through technology, Odoo is undoubtedly a treasure trove worth exploring. 🚀💰
 
-1.  Calling all Arch Linux and Hyprland pros! There's a highly customized, 'graduation-level' config just waiting for you to copy. 😉 The open-source project **omarchy** has bagged an impressive ⭐8.7k Stars on GitHub, thanks to its stunning design and powerful features. If you're itching to build a desktop environment that's both cool and super efficient, [This Project (AI News)](https://github.com/basecamp/omarchy) is absolutely your go-to! 🚀
+2. CopilotKit aims to solve the "last mile" problem of **AI** agent integration, providing developers with an elegant React UI and infrastructure. Through this [GitHub project that has reached ⭐23.4k Stars (AI News)](https://github.com/CopilotKit/CopilotKit), you can easily build powerful **AI** coding assistants and chatbots right into your own applications. It makes crafting native in-app **AI** experiences as simple and fun as playing with LEGO! ✨🤖
 
-2.  Tired of Airtable's hefty price tag? Time to embrace open-source, baby! 🔥 **NocoDB** is a powerhouse open-source alternative to Airtable, letting you effortlessly transform any database—like MySQL or Postgres—into a smart spreadsheet. This project has already racked up a whopping ⭐57.3k Stars on GitHub. So go on, [Experience It (AI News)](https://github.com/nocodb/nocodb) and get that sweet DIY satisfaction! 🛠️
+3. Opcode is like giving **Claude Code** a visual cockpit, making it super easy for developers to create custom agents and manage interactive sessions. This project, which boasts ⭐16.7k Stars, is available as a [GitHub project gaining serious attention (AI News)](https://github.com/winfunc/opcode), providing a powerful graphical interface and toolkit for mastering code generation. It even supports running secure background agents, making AI collaboration more intuitive and efficient than ever before! 🧑‍💻✨
 
-3.  Wanna recreate the deliciousness of 'Laoxiangji' (a famous Chinese restaurant) at home? The **CookLikeHOC** project, compiled by an enthusiastic netizen, has blown up! 🤩 Based on the 'Laoxiangji Dish Traceability Report,' it categorizes various recipes. This 'digital cookbook,' which has scooped up ⭐6.9k Stars, will instantly turn you into a master chef, letting you whip up a table full of homemade deliciousness with ease! 👨‍🍳😋
-
-4.  Heads up, AI newbies! Microsoft just dropped a comprehensive, 'nanny-level' tutorial specifically for you! 🎓 This open-source project, aptly named [**AI-For-Beginners** (AI News)](https://github.com/microsoft/AI-For-Beginners), features 12 weeks and 24 meticulously designed lessons to give you a systematic introduction to artificial intelligence. With ⭐40.5k Stars under its belt, this project is the perfect jumping-off point for anyone—student or developer—looking to kickstart their AI journey! 🚀
+4. Deep-chat is your go-to if you want to quickly integrate an AI chatbot into your website! It provides a fully customizable chat component, letting you build conversational interfaces with ease, just like stacking LEGO bricks. This [GitHub project with ⭐2.8k Stars (AI News)](https://github.com/OvidijusParsiunas/deep-chat) empowers frontend developers to seamlessly embed powerful **AI** conversational capabilities into any webpage. Go check it out and let your website "chat" with users! 🤖💬
 
 ### Social Media Buzz
+1. A developer [complained on social media (AI News)](https://x.com/wwwgoubuli/status/1969393837178307036) that relying on **AI** to write code fully automatically is as inefficient as "teaching a cat to knit"—the cost-effectiveness is abysmal. In contrast, working side-by-side with a tool like **Copilot** for a day can solve most problems. The author believes that instead of spending tons of time crafting perfect prompts and waiting for miracles, it's better to treat **AI** as a powerful co-pilot that needs human guidance. 👩‍✈️💡
 
-1.  The new open-source **Wan-Animate** model from the Tongyi Wanxiang team? Absolutely mind-blowing and a total blessing for the open-source community! 🤩 As [This Blogger Shared (AI News)](https://x.com/op7418/status/1969033427325165726), it tackles two major challenges—character animation generation and video character replacement—with just one model, flawlessly replicating lighting and tone. With this bad boy, everyone can become an animation master. The customization is off the charts, and your creative power will be dialed up to eleven! 🔥<br/><video src="https://source.hubtoday.app/images/2025/09/news_01k5hbamzkegwb5d769mkzk4e9.mp4" controls="controls" width="100%"></video>
+2. User loyalty is pretty much zero in this era of exploding **AI** tools—today's early adopter might be chasing the next new darling tomorrow. As [one user summarized (AI News)](https://x.com/oran_ge/status/1969371695262941201), from **ChatGPT** to **Claude Code**, then to **Google**'s counterattack, tech waves keep coming, and users are like "digital nomads," always chasing the coolest, strongest tools. This is a stark reminder to all **AI** developers: continuous innovation is the *only* moat! 🌊✨
 
-2.  Do we *really* need more powerful AI models? A Reddit user recently dropped a thought-provoking question, suggesting that current AI is 'good enough,' and the real bottleneck lies in how we actually use it. 🤔 He argues that instead of endlessly chasing stronger models, we should focus on redesigning workflows, optimizing UI/UX, and truly embedding AI into actual business operations. This [Thought-Provoking Post (AI News)](https://www.reddit.com/r/artificial/comments/1nkzxdj/does_ai_actually_need_to_get_any_better_maybe_not/) is a solid reminder: a tool's value ultimately comes down to human ingenuity, not just how many parameters a model has. Food for thought! 🧠✨
+3. Tailwind CSS is quietly becoming the "de facto standard" for **AI**-written frontend code, thanks to its high compatibility with **AI** coding models. According to [blogger Guizang's share (AI News)](https://x.com/op7418/status/1969306278590890108), the new UI design tool **Paper** has announced a partnership with **Tailwind**, enabling seamless conversion between code and design mockups. This means future frontend development workflows will be even more automated and fluid, with **AI** directly "understanding" and producing the interfaces designers envision. ✨🎨<br/>![AI News: New Standard for AI Frontend Development](https://source.hubtoday.app/images/2025/09/news_01k5kwt6ekesybkbe5xza660x4.avif)
 
-3.  What's the deal with 'vibe coding'—is it masters philosophizing or newbies just messing around? Li Jigang thinks there's a fundamental difference: for pros, it's a natural expression of confidence and near-mastery, while newbies rely on 'verbal programming' to quickly churn out demos. 🗣️ As [He Said (AI News)](https://x.com/lijigang_com/status/1968863053258310139), the latter's value is in rapidly validating ideas, but it shouldn't go straight into production. This gives us a much clearer perspective on the whole 'vibe coding' discussion. 🤔💡<br/>![AI News: Discussion on Vibe Coding](https://source.hubtoday.app/images/2025/09/news_01k5hbb0v3fdwaak4qwsva3fh3.avif)
+4. Tech globalization and localization are putting on a "two-way street" show: Chinese products are going global, while overseas giants like **YouTube** are actively embracing Chinese users. As [blogger Yangyi observed (AI News)](https://x.com/Yangyixxxx/status/1969271956408009136), **YouTube**'s rollout of **AI** lip-sync technology, which makes video dubbing seamless, is just one small step in global platform localization. This fusion of culture and technology signals the formation of a more interconnected global internet landscape. 🌍💬
 
-4.  A user who tried out the **Codex** model recently noted that while the model itself is super capable, with a low error rate and totally meeting expectations, its CLI tool's product experience kinda fell short. 😕 He griped that the tool's operation felt like a 'black box,' lacking transparency, and that it would rather add an animation than show the actual process, making it feel way too 'vibe-y.' This [User Feedback (AI News)](https://x.com/wwwgoubuli/status/1968839471341965649) highlights a big issue: even powerful models need awesome product design to deliver, otherwise, the user experience takes a major hit. Something to chew on! 😬
-
-5.  Turns out, way back in 1984, Steve Jobs already nailed today's AI Agents! 🤯 Baoyu shared an interview with Jobs where he talked about the next phase of computers being 'intelligent agents' that would proactively anticipate your needs, like a little buddy living inside your machine. This [Four Decades Ago's Vision (AI News)](https://x.com/dotey/status/1968820233168093234) makes you gotta hand it to Jobs for his incredible foresight. While his prediction of them 'maturing in the late '80s, early '90s' totally jumped the gun, it's finally becoming a reality today! ✨<br/>![AI News: Steve Jobs' 1984 Interview on AI Agents](https://source.hubtoday.app/images/2025/09/news_01k5hbb58degqbpfbpcekjez9d.avif)
+5. Building an **AI Agent**? You're facing an "impossible triangle" challenge: reliability, speed, and cost—you can't have all three! As [Santiago's view (AI News)](https://x.com/shao__meng/status/1969202568388886848) points out, chasing ultimate reliability sacrifices speed and cost, striving for lightning-fast speed compromises reliability, and blindly pursuing low cost inevitably leads to a drop in quality. Excellent engineering design lies in making the smartest trade-offs and finding balance within this triangle, based on business needs. ⚖️✨<br/>![AI News: The Impossible Triangle of Building AI Agents](https://source.hubtoday.app/images/2025/09/news_01k5kwtd76f5fv0ykfeync0dar.avif)
 
 ---
 
 ## **An AI Coding Invitation**
 
-### 3 Projects in 6 Months, 90% AI-Generated Code, Zero Cost — I'm Kicking Off a Community and Live-Streaming My Next Product Development
+### 3 Projects in 6 Months, 90% AI-Coded, Zero Cost – I'm Building a "Knowledge Planet" to Live Stream My Next Product Development
 
 Hey everyone,
 
-For the past six months, I've been a total lone wolf, head-down, cranking out three major open-source projects. One of 'em, [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API), has already hit over 1000 Stars! But here's the kicker: looking back, a mind-blowing 90% of the code was actually spat out by AI.
+Over the past six months, I've been a lone wolf, heads down, completing 3 major open-source projects, one of which already boasts over 1000 Stars: [AIClient2API](https://github.com/justlovemaki/AIClient-2-API). The craziest part? Looking back, **over 90% of the code was generated by AI!** 🤯
 
-The coolest part? I didn't fork over a single penny for API fees; it was all powered by awesome free LLMs like Gemini and Qwen. And servers? Nope, didn't rent 'em. Platforms like Cloudflare and Vercel handled everything for me. This whole wild ride showed me something huge: AI is seriously amplifying the creative power of us regular folks in ways we've never seen before. It's a game-changer! 🚀
+I didn't pay a single cent in API fees for any of it, relying entirely on free large models like Gemini and Qwen. And I didn't spend money on server rentals either; platforms like Cloudflare and Vercel handled everything for me. This whole experience made me deeply realize: **AI is amplifying the creativity of ordinary people in unprecedented ways.** ✨
 
-While this solo adventure has been super rewarding, it's definitely had its lonely moments. Those 'oops, I screwed up' revelations and late-night 'aha!' flashes? I've always wished I had fellow travelers to share and brainstorm with.
+While the journey of going solo was incredibly fulfilling, it could also get a bit lonely. Those moments of stumbling into pitfalls, the nights when inspiration struck—I always wished I had fellow travelers to share and brainstorm with. 🚶‍♂️💭
 
-So, a big idea popped into my head: let's kick off a 'Knowledge Planet' – a community to gather all you restless, creative spirits out there!
+So, I've sparked an idea: **to create a knowledge-sharing community, bringing together all the fellow enthusiasts who love to tinker and create.** 💡
 
-This isn't some boring old course; it's a real-deal co-creation community. The entry fee? A super affordable 50 RMB. Think of it as our 'Crazy Thursday' fried chicken fund – a way to make friends and seal a pact for mutual growth. Deal? 🤝
+This isn't a traditional course; it's a real co-creation community. The price barrier is low—just **50 RMB**, which is like us grabbing some "Crazy Thursday" fried chicken together, making friends, and setting a pact for mutual growth. 🐔🤝
 
-**Join Us: What's In It For You?**
+**Join Us, What Will You Get?**
 
-I'm about to dive into building a personal prompt management tool from scratch. Once we hit 7 members on the 'Planet,' we'll officially kick things off. Inside the community, I'll be:
+I'm currently gearing up to develop a **personal prompt management tool** from scratch. Once the community hits 7 members, we'll officially kick things off. Inside, I'll be:
 
-*   **Daily Live-Streamed Updates**: I'll be tracking my dev progress, thought process, and tech choices the whole way.
-*   **Real-Talk on Roadblocks**: I'll openly share all the issues I hit and how I squash bugs, helping you dodge those nasty detours.
-*   **Transparent Thinking**: From product design to tech architecture, I'll lay bare all the reasoning behind my decisions, sharing it all with you.
+*   **Daily Live Updates:** Documenting my development progress, thought processes, and tech stack choices every step of the way.
+*   **Sharing Real Pitfalls:** Honestly sharing every problem encountered and how I debugged them, helping you avoid unnecessary detours. 🚧
+*   **Transparent Thought Process:** Sharing the reasoning behind both product design and technical architecture with you.
 
-You'll get to witness a product come to life, ask questions, jump into discussions, and even influence its direction. Together, we'll see an idea go from zero to one and eventually become a tangible reality you can hold in your hands. How cool is that? 🤩
+Here, you can **witness a product being born, ask questions anytime, participate in discussions, and even influence its direction.** Together, we'll watch an idea go from 0 to 1, ultimately becoming a tangible reality in our hands. ✨🚀
 
-If you're hyped about AI development and wanna see how one person can 'gear up' using free tools, then what are you waiting for? Come join the party! 🎉
+If you're also passionate about AI development, and you want to see how one person can "arm" themselves with free tools, then you're more than welcome to join! 🤗
 
 ![Knowledge Planet QR Code](https://source.hubtoday.app/logo/zsxq.jpg)
 
 ---
 
-## **AI Daily Briefing - Audio Version**
+## **AI News Daily: Audio Version**
 
-| 🎙️ **Xiaoyuzhou FM** | 📹 **Douyin** |
+| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Reincarnation Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intel Hub](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Laisheng Speakeasy](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Speakeasy](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
