@@ -312,3 +312,41 @@ strong:is(html[class~=dark] *) {
 .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *) {
     color: #f90;
 }
+
+/* --- [FIX] Light Theme Accessibility & Contrast --- */
+/* 以下规则用于修复浅色主题下的颜色对比度问题，确保可读性。*/
+
+/* 1. 修正正文文本颜色 */
+/* 将默认的灰色文本加深，确保在白色背景上有足够的对比度。*/
+html:not(.dark) body {
+  color: #212529; /* 一个非常深的灰色，接近于黑色，对比度 > 15:1 */
+}
+
+/* 2. 修正链接颜色 */
+/* 使用更深、更鲜明的蓝色作为链接颜色。*/
+html:not(.dark) .content :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
+  color: #0056b3;
+}
+
+/* 3. 修正组件颜色（例如按钮和标签） */
+/* 这是导致对比度错误的主要原因之一。*/
+
+/* 修正 Hextra 卡片组件的边框和文字颜色 */
+html:not(.dark) .hextra-card {
+  border: 1px solid #ddd;
+  color: #212529;
+}
+
+/* 修正 Hextra 标签(badge)的颜色 */
+/* 确保在浅色背景上的深色文字 */
+html:not(.dark) .hextra-badge {
+  background-color: #e9ecef; /* 浅灰色背景 */
+  color: #212529;            /* 深色文字 */
+}
+
+/* 4. 修正代码块颜色 */
+/* 确保行内代码块有足够对比度 */
+html:not(.dark) .content :where(code):not(:where(.hextra-code-block code,[class~=not-prose],[class~=not-prose] *)) {
+  background-color: #f1f1f1; /* 浅灰色背景 */
+  color: #2a2a2a;             /* 深灰色文字 */
+}
