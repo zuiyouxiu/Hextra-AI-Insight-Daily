@@ -310,3 +310,27 @@ strong:is(html[class~=dark] *) {
 .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *) {
     color: #f90;
 }
+
+/* =================================================================== */
+/*          [FIX v3] Light Theme Footer Contrast Fix               */
+/* =================================================================== */
+
+/*
+ * 目标：专门解决浅色主题下，页脚文本和链接颜色对比度不足的问题。
+ * 原因：页脚的链接颜色被设置为 `inherit`，它继承了 Hextra 主题
+ *      默认的浅灰色 body 文本颜色，导致在白色背景上难以阅读。
+*/
+
+/* 1. 为浅色模式下的整个页脚设置一个高对比度的基础文字颜色 */
+html:not(.dark) .footer-wrapper {
+  /* 使用深石板灰色，它在白色背景上具有非常高的对比度 (11.75:1) */
+  color: #2D3748;
+}
+
+/* 2. 为页脚链接在浅色模式下设置一个清晰的悬停 (hover) 效果 */
+/*    之前的 hover 颜色是为暗色模式设计的，在浅色模式下会看不见 */
+html:not(.dark) .footer-links a:hover,
+html:not(.dark) .footer-copyright a:hover {
+  /* 悬停时变为纯黑色，并保持下划线，提供清晰的视觉反馈 */
+  color: #000000;
+}
