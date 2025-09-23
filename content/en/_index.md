@@ -2,127 +2,119 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-09/2025-09-22
+next: /en/2025-09/2025-09-23
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily News 2025/9/23
+## AI News Daily 2025/9/24
 
-> `AI News` | `Daily Briefing` | `Web Data Aggregation` | `Frontier Science Exploration` | `Industry Voice` | `Open Source Innovation` | `AI & Human Future` | [Access Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png)
+> `AI Insights` | `Daily Briefing` | `Aggregated Web Data` | `Cutting-Edge Science` | `Industry Voices` | `Open Source Innovation` | `AI & Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png)
 
 ### **Today's Rundown**
 
 ```
-Microsoft plans to introduce an AI companion for Windows desktop, while ByteDance launches its Doubao translation large model to challenge the market.
-China's first interventional brain-computer interface trial succeeds, offering hope by helping paralyzed patients regain some motor functions.
-In frontier research, Alibaba released new Qwen3 models to boost inference speed and overall performance.
-AI applications trigger societal reflections, such as exacerbating the developer gap and questions of responsibility when AI makes mistakes.
-New AI interaction methods emerge, like significantly altering AI's behavior simply by setting its MBTI personality type.
+DingTalk rolls out its AI Table Assistant to empower business users, while Meitu Xiuxiu is launching a conversational AI assistant.
+Kimi explores an Agent membership business model, and OpenAI teams up with NVIDIA in a massive investment partnership.
+Cutting-edge research reveals that sophisticated small models can outperform large models in specific multimodal tasks.
+Meanwhile, the public's considerations for AI fairness are more complex than experts', demanding higher ethical standards for AI.
+Issues like AI-generated "workslop" reducing efficiency and user data being used for training are also sparking widespread debate.
 ```
 
 ### Product & Feature Updates
 
-1.  **Microsoft** is gearing up to introduce a new AI sidekick, "**Taskbar Companion**," to the Windows 11 taskbar, ready to take your desktop experience to new heights! This mysterious feature might help you find apps in a blink or even predict your next move before you do, like a mind-reading guru. While its exact capabilities are still under wraps, [according to this latest AI news report](https://www.aibase.com/zh/news/21470), it hints at a smarter, more intuitive desktop era just around the corner. ✨
+1.  **DingTalk** just dropped its **AI Table Assistant**, aiming to transform ordinary spreadsheets into enterprise-grade AI application creation platforms ✨. Now, you can simply describe your needs in a sentence, and AI will automatically generate tables, configure workflows, and even data dashboards. This means business users, even those without coding skills, can effortlessly build AI applications. This move signals DingTalk's shift from a mere collaboration tool to an [AI application building platform for everyone (AI News)](https://www.aibase.com/zh/news/21496), ready to supercharge productivity! 🔥
 
-2.  **ByteDance's Volcano Engine** has unleashed its **Doubao Translation Large Model**, directly challenging the performance of big players like GPT-4o and Gemini-2.5-Pro. This model boasts seamless translation for up to **28 languages**, and its pricing is an absolute game-changer, costing just 1.20 yuan per million characters. Talk about a "price killer" in the translation world! Want to see how ByteDance is shaking things up with such killer value? You can [check out this official AI news document](https://www.volcengine.com/docs/82379/1820188) and get the full scoop. 🚀
-    <br/>
-    ![AI News: Doubao Translation Model Performance Comparison Chart](https://source.hubtoday.app/images/2025/09/news_01k5s0c778fghscngnjade6m5h.avif)
+2.  **Meitu Xiuxiu** announced that its new **AI Smart Assistant** is hitting the market in late September. This bad boy is set to totally revolutionize traditional tool-based photo editing, transforming it into a conversational Agent service 🤖. Meitu's financial report shows its product **AI penetration has already hit a whopping 90%**, proving they're way past being a simple one-click beauty app. They're aiming to be your go-to AI image creative director, right in your pocket. This move is seen as a key step for Meitu in using [AI technology to reshape industry interaction methods (AI News)](https://www.aibase.com/zh/news/21494), making photo editing a spoken command rather than a manual chore 🤔.
+
+3.  **Kimi** quietly launched its **Agent Membership Service**, giving different member tiers names inspired by music tempo terms – pretty artsy, right? 🎶 Free users (Adagio) get all core conversational features, no strings attached. But paid members (Andante, Moderato) unlock more access to **in-depth Agent research** usage quotas, specifically tailored for users who need serious data digging. This [exploratory commercialization model (AI News)](https://x.com/op7418/status/1970364824078197142) not only offers existing users cool rewards like tipping offsets but also showcases how domestic large models are cleverly balancing free and value-added services. Smart! (✧∀✧)
+<br/>![AI News: Kimi's Agent Membership Service](https://source.hubtoday.app/images/2025/09/news_01k5vt43b8fbfafb5skkcx246v.avif)<br/>![Kimi Membership Tier Introduction](https://source.hubtoday.app/images/2025/09/news_01k5vt49f9fzet022bv7shyjsj.avif)<br/>
+
+4.  From YC, the **Klavis AI team** just rolled out **Strata**, an open-source project featuring a clever **MCP (Multi-Capability Provider) server**. This bad boy is designed to tackle the "choice overload" AI agents face when dealing with thousands of tools (¬_¬). Instead of traditional methods that throw all APIs at once, Strata uses progressive guidance, allowing AI to incrementally discover the tools it needs based on context. This significantly boosts AI agents' accuracy and efficiency in complex tasks. This [interaction method simulating human thought (AI News)](https://news.ycombinator.com/item?id=45347914) promises to let AI truly master complex applications like GitHub and Jira, which are packed with tons of features 🚀.
+<br/><video src="https://source.hubtoday.app/images/2025/09/news_01k5vt4v6wefet5ne9vv3fm0fj.mp4" controls="controls" width="100%"></video><br/>
 
 ### Frontier Research
 
-1.  **Alibaba's Qwen team** is back with a bang, dropping the **Qwen3-Next-80B** series of new models that fully embrace **FP8** precision, making inference speeds ridiculously fast! These new models are now totally compatible with mainstream frameworks like Transformers, vLLM, and SGLang, so developers can jump right in and experience peak performance. If you're keen, you can instantly hit up Hugging Face to [download these latest AI models](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d) and try them out for yourself. 💨
+1.  The technical report for the 8B parameter **MiniCPM-V 4.5** model just dropped, and it's a real underdog story: a "little guy" going head-to-head with the "big shots" 🥊. Thanks to innovative **3D-Resampler architecture** and a unified OCR and knowledge learning paradigm, it actually outperforms GPT-4o and the 72B Qwen2.5-VL on several multimodal tasks, all while keeping inference costs super low. This [detailed technical report (AI News)](https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/MiniCPM_V_4_5_Technical_Report.pdf) proves that bigger isn't always better; smart architectural design is the key to high-performance AI 💡. You can check out [this codebase for more info (AI News)](https://github.com/OpenBMB/MiniCPM-o).
+<br/>![AI News: MiniCPM-V 4.5 Multimodal Model Architecture](https://source.hubtoday.app/images/2025/09/news_01k5vt5a2xf2nad697dmdmzjxk.avif)<br/>
 
-2.  **China's first interventional brain-computer interface trial** has hit a major success, bringing science fiction to life! A paralyzed patient miraculously regained some motor functions, even able to independently pick up a cup and drink water. This minimally invasive tech uses electrodes implanted via blood vessels to collect brain signals, offering new hope for patients with strokes, paraplegia, and more. The related [technical details are thrilling](https://www.aibase.com/zh/news/21457)! With the release of the first national standard and supportive industrial policies, China's brain-computer interface tech is charging towards the global forefront. The future looks bright! ✨
+2.  **AI's "fairness"**: Who actually gets to define it? A [latest research paper (AI News)](https://arxiv.org/abs/2509.17956) spills the tea, revealing that regular folks, who aren't AI experts, consider **AI fairness** way more complex and rigorous than the pros 🤔. The study found that when placed in decision-maker roles, ordinary people look at a broader range of characteristics, push for stricter fairness thresholds, and even tend to design custom fairness solutions instead of just slapping on standard formulas. This research strongly suggests that AI governance shouldn't just be a closed-door meeting for tech gurus; incorporating the "common sense wisdom" of stakeholders is absolutely crucial (o･ω･o).
 
-3.  **A new, thought-provoking paper** [available here](https://arxiv.org/abs/2506.12556) points out that algorithmic fairness is far from a simple technical issue; it's a complex socio-technical beast! Researchers criticize the limitations of current fairness metrics, arguing they appear naive and superficial when faced with the intricacies of the real world. This paper urges us to move beyond purely technical constraints and integrate social realities into model design to tackle the challenges of real-world AI deployment. It's time to get real! 🌍
+3.  Can small language models actually mend broken hearts? Some [research findings show (AI News)](https://arxiv.org/abs/2505.15065) that small models, with parameters between 0.5B and 5B, can generate empathetic conversations almost on par with humans, especially when carefully fine-tuned for **Post-Traumatic Stress Disorder (PTSD)** (´｡• ω •｡`). The researchers even created a dedicated dataset called **TIDE** to back this up. This proves it's totally possible to build resource-friendly, emotionally intelligent mental health support systems, paving a new path for AI in the mental wellness arena.
 
-4.  **A revolutionary solution** has arrived for those tired of snail-paced inference in generative speech enhancement models! [A paper discussing MeanFlowSE](https://arxiv.org/abs/2509.14858) introduces high-quality **one-step generation**. This model learns average velocities within finite time intervals, completely ditching the need for iterative ODE solvers and drastically cutting down computational costs. This breakthrough not only provides an efficient framework for real-time speech enhancement but also opens up exciting new avenues for generative model applications. Talk about a game-changer! 🚀
+### Industry Outlook & Social Impact
 
-### Industry Outlook & Societal Impact
+1.  **OpenAI and NVIDIA** just announced a strategic partnership that's basically the "wedding of the century" in the AI world 🤝. OpenAI is set to snap up millions of GPUs and score a colossal **$100 billion** investment from NVIDIA. This deal's computing power is almost equivalent to NVIDIA's entire 2025 annual output, signaling that OpenAI is on a wild "stockpiling" spree for an unprecedented AI infrastructure. [This bombshell news (AI News)](https://openai.com/index/openai-nvidia-systems-partnership/) doesn't just solidify the alliance between these two giants; it also kicks the industry's compute arms race into overdrive 🔥.
 
-1.  **AI's impact on developers** has sparked a hot debate in the community. We all thought AI would empower junior developers, but it seems to be making senior developers even stronger! This has led to [a community discussion on this phenomenon](https://readhacker.news/s/6C5eY), prompting reflections on whether the widespread adoption of AI tools is subtly widening the gap between new and experienced programmers, exposing certain shortcomings in software development culture. The big question now is: How can AI truly become wings for newcomers instead of just another brick in the wall for veterans? It's a real head-scratcher. 🤔
+2.  **Sam Altman** is at it again, painting another grand picture of the future: as AI gets more powerful, **access to AI will become a fundamental human right** 🏛️. To make this "right" a reality, he's talking about expanding computing infrastructure at a mind-boggling pace, even envisioning "compute factories" capable of pumping out thousands of megawatts of AI compute weekly. [This vision (AI News)](https://www.reddit.com/r/artificial/comments/1noir9v/sam_altmans_vision_for_a_future_where_ai/) stems from his deep concern about solving the severe compute shortage, believing we shouldn't have to choose between "curing cancer" and "democratizing education," but rather have enough compute to achieve both simultaneously.
 
-2.  **When AI messes up, who takes the fall?** A groundbreaking [paper on AI responsibility](https://arxiv.org/abs/2504.01029) dives deep into 202 real-world AI privacy and ethical incidents to construct a brand-new classification system for accountability. The research spills the tea: poor organizational decisions and a lack of legal compliance are the usual culprits, yet developers and users rarely proactively report issues. This study offers invaluable data support for policymakers, urging us to build stronger AI governance frameworks to protect user rights. It's time to get serious about who's responsible! ⚖️
+3.  Heads up! Your LinkedIn profile might soon become "AI fodder"! **LinkedIn** just announced it'll be using European user data to train its AI models starting November 3, 2025, citing "legitimate interests" as its legal basis (눈_눈). While they've offered an opt-out option, this move once again throws tech giants' data hunger and users' privacy rights into the spotlight, sparking [widespread discussion about data boundaries (AI News)](https://readhacker.news/s/6C94j).
 
-3.  "Vibe Coding" is fun in the moment, but code refactoring can be a nightmare! That's why a new business called "**Vibe Coding Cleanup Service**" is quietly booming. Many founders quickly validated their products based on gut feeling and enthusiasm, but once the business got serious, they realized their "whatever goes" code had become a massive tech debt, forcing them to call in the pros to clean up the mess. This trend reminds us that while passion-driven agile development is crucial, [as seen in this original post](https://x.com/wwwgoubuli/status/1969810633341456393), bringing in professional standards early on is key to making a project go the distance. Don't let your good vibes turn into bad code! 🧹
+4.  Using AI tools like crazy, but your company's ROI is stuck in neutral? Watch out, you might be mass-producing "**Workslop**" 🗑️. This new term refers to those AI-generated outputs that look polished but are utterly devoid of real substance. They cleverly punt the thinking work that creators should be doing onto reviewing colleagues. This [Reddit's hot topic view (AI News)](https://www.reddit.com/r/artificial/comments/1noe5h3/aigenerated_workslop_is_destroying_productivity/) hits the nail on the head, pointing out that AI shouldn't be an excuse for sophisticated laziness, or else team collaboration efficiency will only plummet instead of soar.
 
-### Top Open-Source Projects
+### Open Source TOP Projects
 
-1.  Struggling with game streaming? You gotta try the **Sunshine** project (⭐29.0k)! It lets you effortlessly set up your own game streaming host that rivals professional services. With Sunshine, you can play PC blockbusters on any device, transforming your high-performance home PC into your personal cloud gaming platform. Go ahead and [check out this project on GitHub](https://github.com/LizardByte/Sunshine) to kickstart your high-definition, low-latency gaming adventure! 🎮
+1.  **Qwen-Image-Edit**, Tongyi Qianwen's open-source image editing model, just got a massive update – it's basically a magic brush for creators and designers! 🖌️ The new version now supports **multi-image editing**, cleverly blending characters with scenes, and maintaining consistency for portraits and products during edits, plus its text handling capabilities are way better. What's even cooler is that it comes with three **ControlNet** models built-in, making pixel-level precision possible. Say goodbye to creative limits! 🔥
+<br/>![Qwen-Image-Edit Multi-image Editing Example](https://source.hubtoday.app/images/2025/09/news_01k5vt5qqdfxnt2e28e2k0cgmy.avif)<br/>![Qwen-Image-Edit Portrait Consistency Display](https://source.hubtoday.app/images/2025/09/news_01k5vt5zh0exqrharkcxpntb0e.avif)<br/>
 
-2.  What happens when Minecraft meets large language models? The **mindcraft** project (⭐3.9k) gives us the answer! It combines LLMs with Mineflayer to create an AI player that can autonomously explore and act. This project not only showcases AI's decision-making prowess in complex game environments but also provides an excellent experimental platform for embodied intelligence research. Hurry over to [explore this project on GitHub](https://github.com/mindcraft-bots/mindcraft) and see how AI "thinks" in the blocky world! ⛏️
+2.  When it comes to downloading videos from YouTube and other sites, there's one name you absolutely know: the legendary command-line program, **youtube-dl**. This [project (click to view)](https://github.com/ytdl-org/youtube-dl), boasting a whopping ⭐137.9k stars on GitHub, is the Swiss Army knife for countless developers and data enthusiasts, supporting virtually every video site you can think of. Its power and stability have cemented its place as an indelible cultural icon in the open-source world (￣▽￣)~*.
 
-3.  Still dealing with "whiteboard coding" in interviews? This GitHub list, aptly named **hiring-without-whiteboards** (⭐49.5k), compiles a directory of companies that use more human-centric, skill-focused hiring processes. It offers job seekers a precious "avoidance guide" and pushes the tech industry to rethink the flaws of traditional interview methods. If you're also sick of whiteboard coding, why not [find new opportunities here](https://github.com/poteto/hiring-without-whiteboards) and discover the perfect fit? Goodbye, whiteboards! 👋
+3.  Ever dreamed of having a truly smart companion in Minecraft, instead of just those clumsy zombies? Well, the **mindcraft** project might just make that dream come true 🧱. This [interesting project (click to view)](https://github.com/mindcraft-bots/mindcraft), which has racked up ⭐4.1k stars, is injecting real "soul" into the pixelated world using Large Language Models (LLMs) and Mineflayer. Imagine a future where your companion doesn't just help you mine, but can also engage in philosophical conversations with you. How cool is that? (✧∀✧)
 
-4.  Want to automatically strike gold in the crypto market? **Freqtrade** (⭐42.4k), a free and open-source trading bot, might just be your ultimate sidekick! It supports strategy development, backtesting, and live trading, integrating machine learning features to make your trading decisions more data-driven. Whether you're a quant newbie or a seasoned pro, you can find your own brand of alchemy [in this open-source project](https://github.com/freqtrade/freqtrade). Get ready to make some serious gains! 🤑
+4.  Still stressing out about prepping for tech interviews? This **tech-interview-handbook**, which has scooped up a massive ⭐130.2k stars on GitHub, is your "lifeline" to landing a gig at a big tech company 🚀. It meticulously organizes all the core interview knowledge points for busy software engineers, covering everything from algorithms to system design. It's basically the "encyclopedia of interviewing." With this [handbook (click to view)](https://github.com/yangshun/tech-interview-handbook) in hand, even with tight deadlines, you'll stride into that interview room brimming with confidence.
 
-### Social Media Buzz
+5.  In an era flooded with AI drawing tools, **Fooocus** takes a different path, bringing the spotlight back to two core elements: prompts and generation quality. This [tool (click to view)](https://github.com/lllyasviel/Fooocus), with its minimalist design yet powerful features, has already attracted ⭐46.6k stars. It lets you skip the hassle of learning complex parameters and simply focus on the creative act itself. For users who just want to purely enjoy the joy of creation, Fooocus is undoubtedly one of the most elegant solutions out there 💡.
 
-1.  How do you get AI to write high-quality code on the first try and ditch the "80% good enough" struggle? [An excellent blog post](https://bestblogs.dev/article/b0a5f1) suggests the key lies in building "**Private Domain Knowledge Engineering**," essentially treating AI like a new employee who needs "onboarding." By feeding AI private domain knowledge such as project architecture, business rules, and coding standards, it transforms from a "know-a-little-about-everything" generalist into an expert "mastering your project." This method not only significantly boosts code quality and development efficiency but also automatically accumulates and updates project knowledge, forming a virtuous cycle. Smart! 🧠
-    <br/>
-    ![AI News: Private Domain Knowledge Engineering Architecture Diagram](https://source.hubtoday.app/images/2025/09/news_01k5s0ck5cf6pt59ay76s6rdkf.avif)
+### Social Media Shares
 
-2.  **Deepseek** has been secretly leveling up during the holidays, upgrading its model from V3.1 to **V3.1-Terminus**, sending users into a frenzy! This sci-fi-sounding new name, "Terminus" (the end station), has sparked intense speculation in the community: Does this mean V4 is just around the corner? Everyone's [following the subsequent developments of this update](https://x.com/op7418/status/1970095841366204711), eagerly anticipating Deepseek's next spectacular reveal. Get hyped! ✨
-    <br/>
-    ![AI News: Deepseek Model Update Notification](https://source.hubtoday.app/images/2025/09/news_01k5s0cs74fkystp90nps1sb7y.avif)
+1.  How do you tell if an AI startup is just a "fly-by-night operation" or a "potential powerhouse"? A [deep dive by an entrepreneur (AI News)](https://x.com/Yangyixxxx/status/1970516868235698354) gives us the answer: real AI companies champion an "AI First" culture from day one, build evaluation systems, and deeply ponder Agent frameworks 🧐. They pick professional users who provide high-quality feedback and tackle complex scenarios where "base models struggle, but Agents shine," thereby building up true core assets. In contrast, teams just chasing trends and lacking long-term vision might end up being a flash in the pan.
 
-3.  A developer shared [a Reddit post](https://www.reddit.com/r/artificial/comments/1nnk4kx/using_ai_for_coding_daily_but_im_feeling_less/), saying that while using AI tools like Claude daily has massively boosted his productivity, he feels his brain is getting "less sharp." He describes this state as passively reviewing and guiding AI rather than actively problem-solving, leading to a drop in mental engagement. This post struck a chord with many, sparking a discussion on how to enjoy the convenience of AI while keeping our minds sharp and work passion alive. Food for thought, for sure! 🧠
+2.  **GitHub** itself just dropped a list of **39 commonly used MCP (Multi-Capability Provider) projects**, which is basically a godsend for Agent developers (o´ω'o)ﾉ. This curated list features everything from the web scraping tool Firecrawl to the data processing powerhouse Elasticsearch, and many other practical projects, so you won't get lost building your AI Agent anymore. Go ahead and [collect this official recommendation (AI News)](https://m.okjike.com/originalPosts/68d1fe25282c7bf8e7656689) to make your AI application development a breeze!
+<br/>![AI News: GitHub Official Curated MCP Projects](https://cdnv2.ruguoapp.com/Fl7GYyHsEhYtF0010wCNK45Pfi8yv3.png)<br/>
 
-4.  Just one conversation, two rounds of questions, and then bam – hit the limit! Is **Claude** getting stingier lately? A user [shared their experience on Jike](https://m.okjike.com/originalPosts/68d0fb8d0fa80d9ece2de163), complaining that its free quota seems to have gotten incredibly tight, making usage a nerve-wracking affair. It looks like, with the surge in user numbers, major AI vendors are quietly tightening their free strategies. The good old days of "freeloading" might be numbered. Use it while you still can, folks! 💸
-    <br/>
-    ![AI News: Claude Usage Limit Screenshot](https://cdnv2.ruguoapp.com/Frezju9vYMG1FQczPZqBeF64YDO-v3.png)
+3.  Ever feel like AI-written content is always too short and lacks depth or examples? A [netizen shared a trick (AI News)](https://x.com/vista8/status/1970295603839353179) to make Gemini "gush with words": repeatedly use the "change length" feature to have the AI continuously iterate and expand 🪄. What's magical is that Gemini doesn't just "pad the word count"; it actively thinks, adds examples, and adjusts the structure, as if it has Sun Wukong's magical staff, getting longer and stronger. Google's tech here really blew many people's expectations out of the water, showcasing its powerful iterative writing capabilities!
+<br/>![AI News: Using Gemini to Expand Article Content](https://source.hubtoday.app/images/2025/09/news_01k5vt674se2ssdwa1t2gbefa3.avif)<br/>
 
-5.  **Gemini's "Nano banana" feature** is being played with in all sorts of new ways, from generating "Polaroid selfies with your childhood self" to "quad-panel couple selfies" – the creativity is just endless! Its powerful UGC (User-Generated Content) ecosystem keeps Gemini topping the App Store charts, showcasing the astonishing energy of community creativity. Want to know the prompts for these cool effects? You can [check out the original post shared here](https://m.okjike.com/originalPosts/68d0d9beba0e5fbe24ea8d4d) and join the creative frenzy! 🍌
-    <br/>
-    ![AI News: Nano Banana Childhood Photo Play](https://cdnv2.ruguoapp.com/FrnTt2rxdu4MZjSlwopkUl6TTRClv3.jpg)
-    <br/>
-    ![AI News: Nano Banana Couple Selfie Play](https://cdnv2.ruguoapp.com/FgtI9_olZ3iooVEgZwAxFf6769Tev3.jpg)
-
-6.  A witty netizen humorously remarked that they now have three AI "teachers" all named "Gao" (a common Chinese surname): **GPT** (Gao Pengtao), **Gemini** (Gao Maini), and **Grok** (Gao Luoke) – literally an erudite dream team! These three "teachers" are not only knowledgeable and always ready to answer any question but also perpetually friendly and never annoyed, providing unprecedented learning convenience. As [this tweet mentions](https://x.com/gefei55/status/1969928184130146384), with such an accessible treasure trove of knowledge, what excuse do we have not to embrace learning and explore new horizons? Let's get learning! 🎓
-
-7.  **A mind-blowing tweet** [shared here](https://x.com/dotey/status/1969870282635796551) revealed a stunning discovery: simply assigning an **MBTI personality** to an AI agent can dramatically alter its behavior, no expensive fine-tuning required! For instance, an AI set as a "Thinker" type showed a 90% betrayal rate in games, while "Feeler" types were more inclined to cooperate—all achieved with a single prompt! Future prompt engineering won't be about "what to ask AI," but "who to make AI," opening new doors for building diverse AI teams. This is huge! 🤯
-    <br/>
-    ![AI News: Impact of MBTI Personality on AI Behavior](https://source.hubtoday.app/images/2025/09/news_01k5s0d4b8emdrxz970y5acbhe.avif)
+4.  "When you talk to someone offline, you're essentially prompting them." This [analogy (Source: AI News)](https://x.com/lijigang_com/status/1970368960299442301) is absolutely brilliant! It cleverly compares the complex process of human interaction to interacting with a "small model," instantly making "communication breakdown" sound super techy 🤔. Next time you encounter someone you can't quite click with, you can elegantly tell yourself: either their model is subpar, or my prompting skills still need some serious leveling up ( T_T)＼(^-^ ) ✨.
 
 ---
 
-## An AI Coding Invitation
+## **An AI Coding Invitation**
 
-### 3 Projects in 6 Months, 90% AI-Generated Code, Zero Cost — I'm Launching a Community to Livestream My Next Product Development
+### 3 Projects in Half a Year, 90% Code by AI, Zero Cost — I'm launching a knowledge planet and will livestream my next product development.
 
 Hey everyone,
 
-Over the past six months, I've been a lone wolf, diving deep and completing three major open-source projects, one of which, [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API), already boasts over 1000 Stars. The craziest part? Looking back, **over 90% of the code was AI-generated!** 🤯
+For the past six months, I've been a lone wolf, heads-down, completing 3 major open-source projects. One of them, [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API), already boasts 1000+ Stars. The craziest part? Looking back, **over 90% of the code was AI-generated**.
 
-I didn't pay a single dime for API fees, relying entirely on free large models like Gemini and Qwen. Nor did I spend cash on server rentals; platforms like Cloudflare and Vercel handled everything for me. This whole experience made me realize something profound: **AI is amplifying the creativity of everyday folks like us in unprecedented ways.** ✨
+I didn't shell out a single penny for API fees, relying entirely on free large models like Gemini and Qwen. Nor did I pay for server rentals; platforms like Cloudflare and Vercel handled everything for me. This journey has given me a profound appreciation for how **AI is amplifying the creativity of ordinary people in unprecedented ways.**
 
-While this solo journey has been incredibly fulfilling, it's also been a bit lonely, for real. Those moments of hitting roadblocks, those nights of sudden inspiration – I've always wished I had fellow travelers to share and brainstorm with.
+While the solo journey has been incredibly rewarding, it definitely gets a bit lonely. Those moments of hitting roadblocks, or flashes of inspiration late at night—I always wished there were fellow travelers to share and brainstorm with.
 
-So, I got an idea bubbling up: **to create a knowledge community, bringing together all you restless, creative spirits out there.** 🤝
+So, I cooked up an idea: **to create a knowledge planet, gathering all like-minded tinkerers and creators.**
 
-This isn't your typical course; it's a genuine co-creation community. The price point is super low – just **50 yuan**. Think of it as a "Crazy Thursday" deal where we grab some fried chicken together, make friends, and seal a pact for mutual growth. 🐔
+This isn't a traditional course; it's a genuine co-creation community. The price point is low, just **50 RMB**, which is like us grabbing some fried chicken together on a "Crazy Thursday," making new friends, and forging a pact for mutual growth.
 
-**What You'll Get by Joining Us:**
+**What will you get by joining us?**
 
-I'm gearing up to develop a **personal prompt management tool** from scratch. Once we hit 7 members, the community officially kicks off, and I'll be inside:
+I'm gearing up to develop a **personal prompt management tool** from scratch. Once we hit 7 members, the group officially kicks off, and within the planet, I will:
 
-*   **Daily Livestream-style Updates**: I'll fully document my development progress, thought processes, and tech stack choices.
-*   **Real-time Bug-fixing Diaries**: I'll openly share the problems I run into and my approaches to solving bugs, helping you avoid common pitfalls.
-*   **Transparent Thought Process**: Whether it's product design or technical architecture, I'll share my reasoning with you every step of the way.
+*   **Provide daily livestream updates**: Documenting my development progress, thought processes, and tech choices every step of the way.
+*   **Share real-time debugging stories**: Holding nothing back as I share issues encountered and bug-fixing strategies, helping you avoid common pitfalls.
+*   **Offer transparent thought processes**: From product design to technical architecture, I'll share the thinking behind every decision.
 
-Here, you can **watch a product come to life, ask questions anytime, jump into discussions, and even influence its direction.** Together, we'll witness an idea go from zero to one, ultimately becoming a tangible reality in your hands. 🛠️
+Here, you can **witness a product being born, ask questions anytime, participate in discussions, and even influence its direction**. Together, we'll watch an idea grow from 0 to 1, ultimately becoming a tangible reality.
 
-If you're also passionate about AI development, and if you're curious to see how one person "arms" themselves with free tools, then your presence is more than welcome. Come on in! 👋
+If you're also passionate about AI development, and if you're curious to see how one person leverages free tools to "arm" themselves, you're welcome to join.
 
 ![Knowledge Planet QR Code](https://source.hubtoday.app/logo/zsxq.jpg)
 
 ---
 
-## AI Daily News Audio Version
+## **AI News Daily Audio Version**
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Reincarnation Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Little Universe Bar](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Xiaojiuguan](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
